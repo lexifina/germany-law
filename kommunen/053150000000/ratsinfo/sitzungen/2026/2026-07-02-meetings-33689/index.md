@@ -1,0 +1,154 @@
+# 9. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-07-02T14:08:00+02:00
+- Ende: 2026-07-02T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33689
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33689
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt und FDP/KSG betreffend "Extreme Hitze in Köln – Hitzeschutzmaßnahmen, Klimaschutz und Klimafolgenanpassung konsequent fortsetzen und weiter vorantreiben" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme der Schenkung der Sammlung von 30 europäischen Mörsern des 15. bis 19. Jahrhunderts von Dieter und Christel Schürzeberg an das Museum für Angewandte Kunst - ungeändert beschlossen
+- TOP 2.2: Annahme der Schenkung des C. Bechstein Flügel, Concert C-234 vom Kuratorium der Oper Köln an die Bühnen der Stadt Köln/Oper Köln - ungeändert beschlossen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Antrag der Fraktionen SPD und Volt betreffend "Museumsstadt Köln 2040 – Entwicklung einer integrierten Strategie für die Kölner Museumslandschaft" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und FDP/KSG - Sache ist erledigt
+- TOP 3.2: Antrag der Fraktion Bündnis 90/Die Grünen betreffend "Stellungnahme der Stadt Köln zum Antrag des Flughafens Köln/Bonn auf unbefristete Verlängerung der Nachtflugregelung" - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und FDP/KSG - ungeändert beschlossen
+- TOP -: Änderungsantrag des Ratsmitglieds Peter Jüde - endgültig abgelehnt
+- TOP 3.3: Antrag der Fraktion Die Linke betreffend "Appell an die Kämmerin und die Stadtverwaltung bei der Aufstellung des Haushaltsplanentwurfs für die Jahre 2027/2028" - endgültig abgelehnt
+- TOP 3.4: Antrag der AfD-Fraktion betreffend "Kinder- und Jugendschutz konsequent umsetzen – Drogenkonsum im öffentlichen Raum verbieten! - Antrag auf Änderung der Kölner Stadtordnung" - endgültig abgelehnt
+- TOP 3.5: Antrag der FDP/KSG-Fraktion betreffend "Einrichtung einer Task Force Kölner Rheinbrücken" - endgültig abgelehnt
+- TOP 3.6: Antrag der Gruppe BSW betreffend "Embargo für Waffentransporte nach Israel über Flughafen Köln/Bonn" - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP 3.7: Antrag der SPD-Fraktion betreffend "1. FC Köln – Satellitenplatz-Modell" - Sache ist erledigt
+- TOP -: Änderungsantrag CDU, SPD und FDP/KSG - ungeändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Bündnis 90/Die Grünen - endgültig abgelehnt
+- TOP -: Änderungsantrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP -: Änderungsantrag der FDP/KSG-Fraktion - endgültig zurückgezogen
+- TOP 3.8: Antrag der Fraktion Die Linke betreffend "Dauerhafte Nachtflugerlaubnis ablehnen" - endgültig abgelehnt
+- TOP 3.9: Dringlichkeitsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Volt und FDP/KSG betreffend "Öffnung der Schulhöfe zu den Sommerferien" - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der Gruppe BSW betreffend "Auswirkungen von Wohnungsnot auf Frauenhäuser: Anfrage zur Belegsituation" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 01.07.2026 - Kenntnis genommen
+- TOP 4.2: Anfrage der AfD-Fraktion betreffend "Eingliederungshilfe in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 12.05.2026 - Kenntnis genommen
+- TOP 4.3: Anfrage der FDP/KSG-Fraktion betreffend "KI-gestütztes Brückenmonitoring zur frühzeitigen Schadenserkennung" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 01.07.2026 - Kenntnis genommen
+- TOP 4.4: Anfrage der FDP/KSG-Fraktion betreffend "Möglichkeit von Nachtarbeit bei den Bauarbeiten an der Deutzer Brücke und der Mindener Straße" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 02.07.2026 - Kenntnis genommen
+- TOP 4.5: Anfrage der Fraktion Die Linke betreffend "Kosten städtischer Eigenanteil Nord-Süd-Stadtbahn" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 02.07.2026 - Kenntnis genommen
+- TOP 4.6: Anfrage der CDU-Fraktion betreffend "Welches Recht gilt in Köln für die Mindestbreite von Fahrbahnen?" - vertagt
+- TOP 4.7: Anfrage der AfD-Fraktion betreffend "Rückläufige Gewerbesteuereinnahmen – Branchenbezogene Entwicklung und Ursachenanalyse" - endgültig zurückgezogen
+- TOP 4.8: Anfrage der Gruppe Die PARTEI betreffend "Kosten der kommunalen Gefahrenabwehr und Krisenbewältigung infolge der Hitzewelle im Juni 2026" - vertagt
+- TOP 5: Anregungen
+- TOP 5.1: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.5: Anregungen und Stellungnahmen des Ausschusses für Chancengerechtigkeit und Integration gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Aufstellungsbeschluss zur 15. Änderung des Landschaftsplans Köln - ungeändert beschlossen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern im Gebiet der Stadt Köln - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtungen des Rates gemäß § 83 Abs. 1 und § 85 Abs. 1 GO NRW sowie § 25 KomHVO
+- TOP 7.1: Mehrkosten für den Bau einer ebenerdigen barrierefreien Querungsmöglichkeit über die Luxemburger Straße zur Stadtbahnhaltestelle Weißhausstraße als Ersatz für die nicht barreierefreie Brücke - Kenntnis genommen
+- TOP 7.2: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 7.3: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2025/2026 - Kenntnis genommen
+- TOP 7.4: Überplanmäßiger Mehrbedarf im Bereich der Hilfen zur Erziehung in der Produktgruppe 0606, Hilfen für junge Menschen und ihre Familien, im Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 7.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Str. 219a, 51063 Köln-Mülheim, hier: Haushaltsrechtliche Unterrichtung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 12 der Haushaltssatzung 2025/2026 - Kenntnis genommen
+- TOP 7.6: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7.7: Unterrichtung des Rates über wesentliche Verschlechterungen des prognostizierten Jahresergebnisses 2026 (Berichte nach § 25 Abs. 1 Nr. 1 KomHVO) - Kenntnis genommen
+- TOP 8: Über- und außerplanmäßige Aufwendungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2025 - ungeändert beschlossen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Wirtschaftsplan des Gürzenich-Orchester Köln | Wirtschaftsjahr 2026/27 - ungeändert beschlossen
+- TOP 9.2: Jahresabschluss Wirtschaftsjahr 2024/2025 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 9.3: Feststellung des Jahresabschlusses der Gebäudewirtschaft der Stadt Köln zum 31.12.2024 - ungeändert beschlossen
+- TOP 9.4: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Jahresabschluss 2025 - ungeändert beschlossen
+- TOP 9.5: Feststellung des Wirtschaftsplans der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2026 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Weiterplanungsbeschluss auf Basis des Vorentwurfs GRÜNGÜRTEL Parkstadt Süd - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 10.2: "Köln baut bezahlbar | Wohnen für alle" - vertagt
+- TOP -: Änderungsantrag der AfD-Fraktion - vertagt
+- TOP 10.3: Stadtwerke Köln Konzern: Sicherstellung der finanziellen Handlungsfähigkeit - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP 10.4: LuKIFG / NRW-Infrastrukturgesetz 2025-2036, Festlegung der Fördermaßnahmen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU und SPD - ungeändert beschlossen
+- TOP 10.5: Stilllegung der städtischen Altdeponie Linder Mauspfad in Porz-Lind - ungeändert beschlossen
+- TOP 10.6: Köln-Katalog Bestand: Entwicklung von Bestandsquartieren - Von der Verwaltung abgesetzt
+- TOP 10.7: Änderung der Katholischen Hauptschule Großer Griechenmarkt 76, 50676 Köln, Schulnummer 140909 von 3 auf 2 Züge ab dem Schuljahr 2027/28 - ungeändert beschlossen
+- TOP 10.8: Umwandlung von zwei Katholischen Grundschulen in Gemeinschaftsgrundschulen - ungeändert beschlossen
+- TOP 10.9: Eingangsklassen am Musikzweig des Humboldt-Gymnasium Kartäuserwall 40, 50676 Köln-Altstadt/Süd, Schulnummer 166649 - ungeändert beschlossen
+- TOP 10.10: Schulrechtliche Änderung Förderschule Geistige Entwicklung, Kolkrabenweg 8-10, 50829 Köln (Schulnummer: 154260) durch Auflösung und Fortführung von Teilstandorten - ungeändert beschlossen
+- TOP 10.11: Baubeschluss für die Instandsetzung der Trogwände Stadtbahnrampe Barbarossaplatz - ungeändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 10.12: Baubeschluss für den Neubau des Anschlusses der Militärringstraße/Stolberger Straße, des Kreisverkehrsplatzes Stolberger Straße/Wendelinstraße/Vitalisstraße, für die Umgestaltung der Anschlüsse d. Militärringstraße/Aachener Straße und Militärringstr. - geändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 10.13: Verlängerung der Durchführung des EhAP Plus Projektes INKA – In Köln Ankommen – Ein Projekt zur Integration von neuzugewanderten EU-Bürger*innen und deren Kinder unter 18 Jahren - ungeändert beschlossen
+- TOP 10.14: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): StEB Köln als Gesellschafter in der Klärschlammkooperation Poolgesellschaft mbH - ungeändert beschlossen
+- TOP 10.15: Umsetzung des Bund-Länder-Startchancen-Programms für bessere Bildungschancen und mehr Bildungsgerechtigkeit an Kölner Schulen mit hohem Sozialindex - ungeändert beschlossen
+- TOP 10.16: Abberufung der Geschäftsführenden Technischen Betriebsleitung der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 10.17: Maßnahme der Kulturentwicklungsplanung: Umsetzung des Leitbilds „In Vielfalt durch Vielfalt: Kulturelle Teilhabe an den Kulturinstitutionen der Stadt Köln“ – Implementierung des Kriteriums Vielfalt in den städtischen Kulturinstitutionen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD und Die Linke - ungeändert beschlossen
+- TOP 10.18: Bestellung eines Mitgliedes der Betriebsleitung der Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.19: Bestellung eines Mitgliedes der Betriebsleitung der Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 10.20: Zuschuss zur Erhaltung des Kölner Domes - ungeändert beschlossen
+- TOP 10.21: Mitgliedschaft des Rechnungsprüfungsamtes der Stadt Köln beim Institut der Rechnungsprüfer - IDR e. V., Im Zollhafen 18, Kranhaus 1, 50678 Köln - ungeändert beschlossen
+- TOP 10.22: Bedarfsfeststellungsbeschluss Ebertplatz - Weiterführung eines Platzmanagements und -programms 2026-2030 - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD und des Ratsmitglieds Peter Jüde - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktion Die Linke - endgültig abgelehnt
+- TOP 10.23: Restitution der Johann Rottenhammer zugeschriebenen Federzeichnung „Venus und Amor“ aus dem Bestand des Wallraf-Richartz-Museum & Fondation Corboud (WRM Graph. Inv. 1968/019) - ungeändert beschlossen
+- TOP 10.24: Änderung der §§ 3 und 4 der Geschäftsordnung des Fachbeirates für Mädchenarbeit - ungeändert beschlossen
+- TOP 10.25: Anforderungsprofil für die Besetzung der Stelle Beigeordnete*r des neustrukturierten Dezernates I - ungeändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 10.26: Anforderungsprofil für die Besetzung der Stelle Beigeordnete*r des neustrukturierten Dezernates IX - ungeändert beschlossen
+- TOP -: Änderungsantrag der AfD-Fraktion - endgültig abgelehnt
+- TOP 10.27: Denkmalpflegerische Sanierung des Trauerhallenensembles auf dem Melaten-Friedhof, Piusstraße durch ein Totalunternehmen - Bedarfsfeststellungs- und Planungsbeschluss - ungeändert beschlossen
+- TOP 10.28: RheinEnergie hier: RheinEnergie Solar GmbH und RheinEnergie Windkraft GmbH - Konsolidierung des Beteiligungsportfolios im Bereich der Erneuerbaren Energien und Änderung der Gesellschaftsverträge - ungeändert beschlossen
+- TOP 10.29: Abbruch und Neubau einer Unterkunft zur öffentlich-rechtlichen Unterbringung von Obdachlosigkeit bedrohten Menschen auf dem Grundstück Cohnenhofstraße ohne Nummer, 50769 Köln-Chorweiler hier: Baubeschluss - ungeändert beschlossen
+- TOP 10.30: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum hier: Aufhebungsbeschluss - Von der Verwaltung abgesetzt
+- TOP 10.31: Umbau Konzertsaal Stadtgarten Köln – Europäisches Zentrum für Jazz und Aktuelle Musik durch die Initiative Kölner Jazz Haus e.V. - ungeändert beschlossen
+- TOP 10.32: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2025 - ungeändert beschlossen
+- TOP 10.33: Weiterentwicklung BIC, Teilbereich Schulbau und Budgetierung Schulmieten - vertagt
+- TOP 10.34: Einrichtung eines bedarfsgerechten Ausbildungsstellenpools bei der Feuerwehr Köln - ungeändert beschlossen
+- TOP 10.35: Bedarfsfeststellung zur städtischen Unterbringung Geflüchteter 2026-2027 - ungeändert beschlossen
+- TOP 10.36: Förderaufruf SKS II Schwimmbäder - Interessenbekundungsverfahren - ungeändert beschlossen
+- TOP 11: Bauplanungsrechtliche Vorlagen
+- TOP 11.1: Beschluss über Anregungen/Stellungnahmen sowie Satzungsbeschluss Bebauungsplanentwurf Nummer 68439/04 Arbeitstitel: "Deutzer Hafen - Teilplan A" in Köln-Deutz - ungeändert beschlossen
+- TOP 11.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 66499/09 Arbeitstitel: Südliche Schmiedegasse in Köln-Weidenpesch - geändert beschlossen
+- TOP 11.3: Beschluss über die Feststellung der 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, Köln-Nippes, Arbeitstitel: "Südliche Schmiedegasse" in Köln-Weidenpesch - ungeändert beschlossen
+- TOP 11.4: Beschluss über Planung und Durchführung des Abrisses von 15 Einfamilienhäusern, eines Mehrfamilienhauses sowie Rückbau versiegelter Flächen auf dem städtischen Grundstück Auf dem Ginsterberg 2-34, 50737 Köln-Weidenpesch - ungeändert beschlossen
+- TOP 12: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 12.1: Satzung über die abweichende Herstellung der Erschließungsanlage Dillenburger Straße (ringförmige Umfahrung von Dillenburger Straße bis Dillenburger Straße) in Köln-Kalk - ungeändert beschlossen
+- TOP 13: Gremienbesetzungen
+- TOP 13.1: Bestellung weiterer Sachkundiger Einwohnerinnen und Einwohner für den Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren - geändert beschlossen
+- TOP 13.2: Entsendung der Vertreter*innen der Ratsfraktionen in die Jury des Umweltschutzpreises der Stadt Köln - geändert beschlossen
+- TOP 13.3: Bestellung sachkundige Einwohner*innen gem. § 85 II 4 SchulG NRW in den Ausschuss für Schule und Weiterbildung - geändert beschlossen
+- TOP 13.4: Besetzung des Jugendhilfeausschusses (JHA) - weitere beratende Mitglieder - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt und FDP/KSG - ungeändert beschlossen
+- TOP 13.5: Einrichtung eines Kunstbeirates für die Ratsperiode 2025-2030 - geändert beschlossen
+- TOP 13.6: Bestellung von sachkundigen Einwohner*innen für die Ausschüsse des Rates auf Vorschlag der Stadtarbeitsgemeinschaft Queerpolitik - ungeändert beschlossen
+- TOP 13.7: Benennung eines zusätzlichen sachkundigen Einwohners in den Ausschuss Kunst und Kultur - ungeändert beschlossen
+- TOP 13.8: Vertretung der Stadt Köln im Vorstand der Krankenhausstiftung Worringen - ungeändert beschlossen
+- TOP 13.9: moderne stadt Gesellschaft zur Förderung des Städtebaues und der Gemeindeentwicklung mbH: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 13.10: Bestellung sachkundige Einwohner*innen in den Ausschuss für Schule und Weiterbildung gem. § 85 II 2 SchulG NRW i.V.m. Beschluss 0033/2025 - ungeändert beschlossen
+- TOP 13.11: Flughafen Köln/Bonn GmbH: Vorschlag für die Wahl in den Aufsichtsrat - ungeändert beschlossen
+- TOP 13.12: GAG Immobilien AG: Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 13.13: Wohnungsgesellschaft der Stadtwerke Köln mbH: Vorschlag für die Entsendung in den Aufsichtsrat - ungeändert beschlossen
+- TOP 14: Genehmigung von Eil- und Dringlichkeitsentscheidungen
+- TOP 14.1: Wirtschaftsplan 2026 der Gebäudewirtschaft der Stadt Köln - ungeändert beschlossen
+- TOP 14.2: Infrastrukturmaßnahmen im Bereich der Stadtbahnlinien 1, 7 und 9 im Sommer 2026 - hier: Schienenersatzkonzept - ungeändert beschlossen
+- TOP 15: -
