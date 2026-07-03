@@ -1,0 +1,66 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-03T16:00:00+02:00
+- Ende: 2026-07-03T18:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29404
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29404
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verleihung einer Ehrenauszeichnung der Bezirksvertretung
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 08.05.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Kriminalitäts- und Verkehrsunfallstatistik 2025
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Parkpflegewerk Elbroichpark - Empfehlung einstimmig beschlossen
+- TOP 6.2: Abbruchantrag, Nikolausstraße 75a – Abbruch der bestehenden Gebäudeteile Remise sowie rückwärtige Scheune - einstimmig beschlossen
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Flächennutzungsplanänderung Nr. 206 (Entwurf) - Benrodestraße/Marbacher Straße - Empfehlung einstimmig beschlossen
+- TOP 6.6: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - abweichend beschlossen
+- TOP 6.7: Umbenennung der KGS Hermann-Gmeiner-Schule - Empfehlung mehrheitlich beschlossen
+- TOP 6.8: Städtische Katholische Grundschule Benrath, Einsiedelstraße 25, 40597 Düsseldorf, Städtische Kindertageseinrichtung Balckestraße 11, 40597 Düsseldorf, Hier: Teilentlassung von Flächen aus der schulischen Zweckbindung - zur Kenntnis genommen
+- TOP 6.9: Trödelmärkte auf dem Ikea-Parkplatz im Jahr 2026 - einstimmig beschlossen
+- TOP 6.10: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahr 2026 - einstimmig beschlossen
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Viele Schulhöfe als Spielhöfe dauerhaft „aktuell geschlossen“ - Anfrage der Fraktion Bündnis 90/ Die Grünen - zur Kenntnis genommen
+- TOP 7.2: Einsatz der von der BV 9 bereits finanzierten Smiley-Anzeigetafeln - Anfrage der CDU-Fraktion und SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Schulwegsicherheit an der Christophorus-Grundschule / Einrichtung eines Zebrastreifens - Antrag der CDU-Fraktion und SPD-Fraktion - einstimmig beschlossen
+- TOP 8.6: Anschaffung von zwei Smiley-Anzeigen für den Stadtbezirk 9 - Antrag der CDU-Fraktion und SPD-Fraktion - vertagt
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Gymnasium Koblenzer Straße/Realschule Theodor-Litt-Straße - Theaterstück zur Mobbingprävention 2026 - einstimmig beschlossen
+- TOP 9.2: Interessengemeinschaft Pauls-Mühler Jecke e.V. - Ausstattung der Kindertanzgarde 2026 - einstimmig beschlossen
+- TOP 9.3: Kulturverein der Griechen aus Pontos zu Düsseldorf und Umgebung e. V. "O XENITEAS" - Gedenkveranstaltung 2026 - einstimmig beschlossen
+- TOP 9.4: St. Hubertus Schützenbruderschaft Itter e.V. - Projekt „Gemeinsam Platz schaffen“ 2026 - einstimmig beschlossen
+- TOP 9.5: Ev. Jugendreferat - Ev. Offene Kinder- u. Jugendarbeit Benrath - Nähtreff im DIY Café 2026 - einstimmig beschlossen
+- TOP 9.6: KGS Einsiedelstraße - Martinsfest in der Paulsmühle 2026 - einstimmig beschlossen
+- TOP 9.7: Diakonie Düsseldorf Ernst-Lange-Haus - Stadtteilfest "Kumm'' eruss" 2026 - einstimmig beschlossen
+- TOP 9.8: St. Sebastianus Schützenverein D.-Holthausen 1925 e.V. - Schützenfestumzug 2026 - einstimmig beschlossen
+- TOP 9.9: St. Sebastianus Schützenverein D.-Holthausen 1925 e.V. - Seniorenvormittag 2026 - einstimmig beschlossen
+- TOP 9.10: Caritasverband Düsseldorf e.V. zentrum plus Wersten - Kulturgruppe Wersten 2026 - einstimmig beschlossen
+- TOP 9.11: St. Sebastianus Reiterkorps Düsseldorf-Wersten e. V. - 12. Werstener Reitertag 2026 - einstimmig beschlossen
+- TOP 9.12: Jumpers gGmbH Düsseldorf - Sommerferienprogramm 2026 - einstimmig beschlossen
+- TOP 9.13: Wir in Wersten e.V. - "Rock am Bach" 2026 - einstimmig beschlossen
+- TOP 9.14: Märchenfieber - Märchen in der Vorweihnachtszeit 2026 - einstimmig beschlossen
+- TOP 9.15: Brauchtumsgruppe Odebacher Blotschefööss - 25jähriges Jubiläum 2026 - einstimmig beschlossen
+- TOP 9.16: Heimatverein Werstener Jonges - Sommerfest 2026 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Beschlusskontrolle der Bezirksvertretung 9 - 1. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 10.2: Schulwegsicherheit in Hassels – Standorte der Hol- und Bringzonen - Beschluss der Bezirksvertretung 9 vom 13.03.2026; BV9/066/2026 - zur Kenntnis genommen
+- TOP 10.3: Änderungsvorschlag Bezirksradwegenetz im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 13.03.2026; BV9/068/2026 - zur Kenntnis genommen
+- TOP 10.4: Schulwegsicherung Benrather Schloßallee/ Bonner Straße - Beschluss der Bezirksvertretung 9 vom 13.03.2026; BV9/070/2026 - zur Kenntnis genommen
+- TOP 10.5: Verschiebung des Beginns der Sanierungsarbeiten für die A59 in Fahrtrichtung Köln/Düsseldorf - Beschluss der Bezirksvertretung 9 vom 08.05.2026; BV9/104/2026 - zur Kenntnis genommen
