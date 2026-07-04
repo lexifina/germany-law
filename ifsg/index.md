@@ -42,7 +42,7 @@
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
 - [§ 20a (weggefallen)](0020a.md)
 - [§ 20b (weggefallen)](0020b.md)
-- [§ 20c Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker](0020c.md)
+- [§ 20c Durchführung von Schutzimpfungen durch Apotheker](0020c.md)
 - [§ 21 Impfstoffe](0021.md)
 - [§ 22 Impf-, Genesenen- und Testdokumentation](0022.md)
 - [§ 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung](0022a.md)

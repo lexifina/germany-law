@@ -105,6 +105,8 @@
 | § 47a | Sondervertriebsweg, Nachweispflichten |
 | § 47b | Sondervertriebsweg Diamorphin |
 | § 48 | Verschreibungspflicht |
+| § 48a | Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Anschlussversorgung |
+| § 48b | Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Versorgung bei bestimmten Erkrankungen; Verordnungsermächtigung |
 | § 49 | (weggefallen) |
 | § 50 | Einzelhandel mit freiverkäuflichen Arzneimitteln |
 | § 51 | Abgabe im Reisegewerbe |

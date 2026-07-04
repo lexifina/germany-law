@@ -108,6 +108,8 @@ klinischen Prüfung
 - [§ 47a Sondervertriebsweg, Nachweispflichten](0047a.md)
 - [§ 47b Sondervertriebsweg Diamorphin](0047b.md)
 - [§ 48 Verschreibungspflicht](0048.md)
+- [§ 48a Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Anschlussversorgung](0048a.md)
+- [§ 48b Abgabe von bestimmten verschreibungspflichtigen Arzneimitteln durch Apotheker zur Versorgung bei bestimmten Erkrankungen; Verordnungsermächtigung](0048b.md)
 - [§ 49](0049.md)
 - [§ 50 Einzelhandel mit freiverkäuflichen Arzneimitteln](0050.md)
 - [§ 51 Abgabe im Reisegewerbe](0051.md)
