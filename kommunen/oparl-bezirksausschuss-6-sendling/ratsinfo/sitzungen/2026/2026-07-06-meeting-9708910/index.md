@@ -1,0 +1,139 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-07-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9708910
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9708910
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 08.06.2026
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Geplante Streichung der Buslinie X30 der MVG
+- TOP 2.2.: Baumersatzpflanzungen vor dem Anwesen Alramstraße 15
+- TOP 2.3.: Tauben am Herzog-Ernst-Platz
+- TOP 2.4.: Sammelbeschwerde von 12 Wohneinheiten – Bitte um dringende Überprüfung der Ersatzhaltestelle X6 in der Oberländerstraße 3
+- TOP 2.5.: Taktung des Schienenersatzverkehrs X6
+- TOP 2.6.: Fahrradabstellplätze an der Implerstraße 23 und Wiederbegrünung entlang der Implerstraße 29
+- TOP 2.7.: Fehlende kostenfreie Sportmöglichkeiten / Vorschlag für einen Calisthenics-Park in Untersendling
+- TOP 2.8.: Müllproblematik in der Umgebung der Lindwurmstraße
+- TOP 2.9.: Müllbehälter Aberle-/Oberländerstraße
+- TOP 2.10.: Fahrradstellplatz in der Schäftlarnstraße 62
+- TOP 2.11.: E-Ladestationen in der Implerstraße
+- TOP 2.12.: Straßenbäume Ganghoferstraße zwischen Pfeuferstraße und Baumgartnerstraße
+- TOP 2.13.: Vorschlag zur Verbesserung der Verkehrssicherheit in der Lindenschmitstraße
+- TOP 2.14.: Straßenlaterne in der Esswurmstraße 19
+- TOP 2.15.: Anregung zur systematischen Prüfung und Ausweitung des Grünpfeils für den Radverkehr in München
+- TOP 2.16.: Lärmbelästigung Bavariastraße und weitere Hindernisse
+- TOP 2.17.: Anfrage zu Bewohnerparkgebiet um die Urbanstraße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Thalkirchner Brücke – Projektvorstellung durch das Baureferat Ingenieurbau
+- TOP 4.: Berichte der BA-Vorsitzenden/des BA-Vorstands, Berichte v. Beauftragten (max. 2 Min Redezeit)
+- TOP 4.1.: Termin mit der Gasteig München GmbH (Hesse/Pehle)
+- TOP 4.2.: Austausch zwischen den BAs und dem Sozialreferat – Thema Zukunftssicherungsprozess
+- TOP 4.3.: Austausch zwischen den BAs und dem Baureferat – Thema Spielplätze in München
+- TOP 5.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Init. "Guitars come together" „Guitars come together - Mitmachkonzert für Gitarristinnen (und Ukulele/ Singen) vom 15.08.2026 - 15.10.2026“ 1.498,40 € / AZ: 0262.100-6-0634
+- TOP 5.1.2.: (E) Stadtbezirksbudget artXchange „Der Rhythmus, der uns verbindet vom 03.08.2026 - 14.12.2026“ 974,25 € / AZ: 0262.100-6-0627
+- TOP 5.1.3.: (E) Stadtbezirksbudget Evangelisch - Lutherische Kirchengemeinde Sendling „Paulus am 27.06.2026“ 2.000,00 € / AZ: 0262.100-6-0630
+- TOP 5.1.4.: (E) Stadtbezirksbudget Evangelisch-Lutherische Kirchengemeinde Sendling „Sendlinger Orgelnacht am 23.10.2026“ 2.000,00 € / AZ: 0262.100-6-0631
+- TOP 5.1.5.: (E) Stadtbezirksbudget Nachbarschaftstreff Theresia, Donna Mobile AKA e.V. „Frühlingsbasar vom 29.05.2026 - 31.05.2026“ 760,00 € / AZ: 0262.100-6-0624
+- TOP 5.1.6.: (E) Stadtbezirksbudget Kollektiv Lotse „Ausstellung: "Für Deutschland? vom 01.07.2026 - 17.10.2026“ 3.100,00 € / AZ: 0262.100-6-0625
+- TOP 5.1.7.: (E) Stadtbezirksbudget Init. "Bergweihnacht" „Kulturprogramm Sendlinger Bergweihnacht vom 20.11.2026 - 23.12.2026“ 3.000,00 € / AZ: 0262.100-6-0635
+- TOP 5.1.8.: (E) Stadtbezirksbudget HIDALGO gGmbH „Street Art Song (im Rahmen des Kunstlied - Festivals HIDALGO) am 05.09.2026“ 1.600,00 € / AZ: 0262.100-6-0637
+- TOP 5.1.9.: Förderung der Stadtteilwoche Sendling-Obersendling
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Anträge
+- TOP 5.4.: Unterrichtungen
+- TOP 5.4.1.: Verwendungsnachweise: - Parklet Kochelseestraße
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Mobilität
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: (E) Stellplatz Haus für Kinder
+- TOP 6.1.2.: (E) Verbesserung der Verkehrssicherheit für Kinder und Familien, Bewohner*innen des Stadtbezirks Sendling
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Plinganserstraße - BA-Anhörung
+- TOP 6.2.2.: Anpassungsprogramms 2027 der Münchner Verkehrsgesellschaft mbH (MVG)
+- TOP 6.2.3.: Einrichtung eines personenbezog. Behindertenparkplatz in der Oberländerstraße 28
+- TOP 6.3.: Anträge
+- TOP 6.3.1.: „Blitzersäule“ für die Implerstraße! (SPD Fraktion)
+- TOP 6.3.2.: Falsch abmarkierte „Geteilte Abstellfläche“ am Harras wird entfernt und an der richtigen Stelle abmarkiert (SPD Fraktion)
+- TOP 6.4.: Unterrichtungen
+- TOP 6.4.1.: Umgestaltung des freilaufenden Rechtsabbiegers Steinerstraße in die Flößergasse TOP 2.15 – 04/26
+- TOP 6.4.2.: Schienenersatzverkehr Bus 132 - Losfahrende SEV-Busse in der Implerstraße / Oberländerstraße
+- TOP 6.4.3.: Fahrradbrücke über die Brudermühlstraße
+- TOP 6.4.4.: Poller oder vergleichbare bauliche Maßnahmen an der Kreuzung Lindenschmit-/ Kidlerstraße
+- TOP 6.4.5.: Luise-Kiesselbach-Tunnel – Sperrung Oströhre
+- TOP 6.4.6.: Wertstoffhof Thalkirchner Straße 260 – Anordnung von Zusatzschildern und Fahrbahnmarkierungen
+- TOP 6.4.7.: Wertstoffhof Thalkirchner Straße 260 - inzwischen täglicher Stau durch illegale Linksabbieger
+- TOP 6.4.8.: Antrag auf Ladezone im Bereich Alramstraße 8
+- TOP 6.4.9.: Erhebliches Gehwegparken und Behinderung der Müllabfuhr in der Kidlerstraße 1
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Öffentlicher Raum, Begrünung und Gewerbe
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Veranstaltung in Grünanlagen, Zirkus Pumpernudl 28.07.2026 - 18.10.2026
+- TOP 7.2.2.: Veranstaltung in einer städtischen Grünanlage; Stadtviertelfest am Gotzinger Platz am 06.09.2026 (Ersatztermin: 13.09.2026)
+- TOP 7.3.: Anträge
+- TOP 7.3.1.: Anpassung der Kapazitäten für Altglas-Container an den bestehenden Wertstoffinseln im Zuge der Einführung der „gelben Tonne“ im Jahr 2027 (SPD Fraktion, Fraktion Die Grünen)
+- TOP 7.3.2.: Polder Straßenecke Kidler-/ Oberländerstraße (Seniorenvertretung Sendling)
+- TOP 7.4.: Unterrichtungen
+- TOP 7.4.1.: (U) Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 7.4.2.: HKW Süd – schrittweise Inbetriebnahme des neuen Gas- und Dampfkraftwerkes (GUD) – die SWM lassen Dampf
+- TOP 7.4.3.: Ausnahmegenehmigung - Veranstaltung in einer städtischen Grünanlage; Geländepraktikum Studierende der LMU Geographie in den Isarauen Flaucheranlagen vom 17.07.-01.08.2026
+- TOP 7.4.4.: Informationen zum GeoPortal
+- TOP 7.4.5.: Bäume am großen Stadtbach: Dokumentation Ortstermin mit SWM Wasserkraft
+- TOP 7.4.6.: Stadtbäume in Sendling
+- TOP 7.4.7.: Kurzinfo Einführung Gelbe Tonne ab 01.01.2027 – Vorstellung des Abfallwirtschaftsbetrieb München
+- TOP 7.4.8.: Antrag auf unveränderte Fortführung des o.g. Gaststättenbetriebes in der Ganghoferstraße 86b
+- TOP 7.4.9.: Oktoberfest 2025 vom 20. September bis zum 05. Oktober 2025; Schlussbericht
+- TOP 7.4.11.: Einweihung der Graffiti-Wand & offizielles Opening „im Dazwischen“ am 24.06.2026
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Soziales, Bildung und Kultur
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Anträge
+- TOP 8.3.1.: Stadtteilwoche Sendling – Obersendling 2032
+- TOP 8.4.: Unterrichtungen
+- TOP 8.4.1.: Austausch zwischen den Bezirksausschüssen und dem Gesundheitsreferat am 10.06.2026
+- TOP 8.4.2.: Gruß-/ Vorwort für das nächste KiS-Magazin
+- TOP 8.5.: Sonstiges
+- TOP 9.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Anträge
+- TOP 9.3.1.: „Erneute Forderung: Lindenschmitstr. 25: Baugenehmigung zurücknehmen“ (ÖDP, SPD-Fraktion, Fraktion Die Grünen)
+- TOP 9.4.: Unterrichtungen
+- TOP 9.4.1.: Hinweis auf den nächstgelegenen Wertstoffhof; SPD-Antrag
+- TOP 9.4.2.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 9.4.3.: Vortrag Luise-Kiesselbach-Tunnel: - Präsentation - Anlieger-Info - Rathausumschau
+- TOP 9.4.4.: VCD Debatte Parkraumwende
+- TOP 9.4.5.: Rückmeldung zu Ihrer Beschwerde bezüglich der Nachtbeleuchtung am Durchgang Karwendelstraße / Plinganserstraße
+- TOP 9.5.: Sonstiges
+- TOP 10.: Verschiedenes / Sonstiges
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: BA-Flyer in Einladung Bürgerversammlung (November 2026)
+- TOP 10.2.: Anhörungen
+- TOP 10.3.: Anträge
+- TOP 10.4.: Unterrichtungen
+- TOP 10.4.1.: Präventions- und Aufklärungsarbeit
+- TOP 10.5.: Sonstiges
+- TOP 10.1.2.: Termin BA-Empfang 2026
+- TOP 9.4.6.: SWM Fernwärme-Projekt Gaißacher Straße
+- TOP 2.18.: Rückbau eines provisorischen Straßenüberganges vor der Brudermühlstraße 53-55
+- TOP 2.19.: Beschilderung in der Kochelseestraße
+- TOP 7.4.10.: Beschluss des BA 18 Untergiesing-Harlaching: Vermüllung und unerlaubtes Campieren an der Isar
+- TOP 7.4.12.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO; Straßenfest "Sommerfeierabend Daiserstraße" (zwischen Alramstr. und Oberländerstr.) am 25.07.2026
+- TOP 9.1.1.: Willkommen und Einladung Vor-Ort-Termin Großmarkt
+- TOP 10.4.2.: Vorstellung der Gelben Tonne
+- TOP 2.20.: Fehlende Parkplätze in der Karwendelstraße
+- TOP 9.4.7.: 2. Fachgespräch Zukunft Großmarkt
+- TOP 7.4.13.: Eilentscheidung: Fußball-Spaßturnier Staatl. Wirtschaftsschule, Neuhofen-Nord, Fuß-ballfeld Am Wacker, Bezirkssportanlage (Demleitnerstraße 2) am 27.07.2026
+- TOP 6.5.1.: Juni-Sitzung: TOP 2.15 - Verlegung des Eingangs zur Stemmerwiese
