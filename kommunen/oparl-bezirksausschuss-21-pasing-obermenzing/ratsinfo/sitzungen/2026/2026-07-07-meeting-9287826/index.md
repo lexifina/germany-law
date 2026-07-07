@@ -1,0 +1,152 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2026-07-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9287826
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9287826
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.: Genehmigung der Tagesordnung und des Protokolls der letzten Sitzung
+- TOP 1.2: Erklärung der Beauftragten gegen Rechtsextremismus
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA 21
+- TOP 2.2.1.: Kiosk in der Engelbertstraße / Ecke Planegger Straße (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.2.: Bauvorhaben Maria-Eich-Str. 73 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.3.: Bauvorhaben Lichtingerstr. 12 / Baumschutz (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.4.: Schienenersatzverkehr Pasing Bahnhof Nord (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.5.: Unterstützung wegen gefährlicher Verkehrssituation vor dem Jan-Amos-Comenius-Kinderhaus und der Grundschule (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.6.: Sonnenuhr am Karlsgymnasium Pasing (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 2.2.7.: Fußgängerüberweg über die Blumenauer Straße mit Ampel-Lichtzeichenanlagen im Bereich der Bushaltestellen „Seeholzenweg“
+- TOP 2.2.8.: Zunehmender Durchgangsverkehr in der Keyserlingstraße
+- TOP 2.2.9.: Beschwerde zu SEV sowie Bau und Verkehrssituation Pasing Bahnhof Nord
+- TOP 2.2.10.: Antrag auf Prüfung der Einführung von Bewohnerparken im Bereich Volmstraße / Hieronymusstraße / Varnhagenstraße
+- TOP 2.2.11.: Baumschutz / Bauvorhaben Böhlaustr. 16
+- TOP 2.2.12.: Prüfung der Verkehrssituation Bodenseestraße / Heimburgstraße / Richard-Tauber-Straße
+- TOP 2.2.13.: SEV Pasing Bahnhof Nord
+- TOP 2.2.14.: Erhalt der Nahversorgung in der Maria-Eich-Straße
+- TOP 2.2.15.: Bauvorhaben Paosostraße 1b – erhebliche Bedenken hinsichtlich Überverdichtung, Baumverlust und Beeinträchtigung des Straßenbildes
+- TOP 2.2.16.: Unfälle an der Straßenecke Bergsonstraße / Alte Allee
+- TOP 2.2.17.: Fußgängerüberweg Kaflerstraße Höhe Herrmann-Hesse-Weg
+- TOP 2.2.18.: Chaos durch wild abgestellte Leih-Elektrofahrzeuge (E-Scooter, E-Roller und E-Fahrräder)
+- TOP 3.: Bericht des UA Umwelt, Natur und Klimaschutz + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Baumbachstr. 6: 1 Winterlinde
+- TOP 3.1.2.: Gustav-Meyrink-Str. 5: 1 Blutpflaume
+- TOP 3.1.3.: im Wismat 7: 1 Mammutbaum
+- TOP 3.1.4.: Annelies-Kupper-Allee 4: 1 Birke
+- TOP 3.1.5.: Härtingerstr. 16: 1 Fichte
+- TOP 3.1.6.: Eugen-Papst-Str. 5: 1 Weißdorn, 1 Walnuss
+- TOP 3.1.7.: Rathochstr. 61: 1 Linde
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung und Mobilität + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur, Heimatpflege, Denkmalschutz + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales, Bildung und Sport + Beschlussfassung über Empfehlungen
+- TOP 8.: Bericht des UA Budget und Organisation + Beschlussfassung über Empfehlungen
+- TOP 9.: Berichte der Beauftragten und Beirät*innen
+- TOP 10.: Entscheidungen
+- TOP 10.1.: (E) Stadtbezirksbudget Kultur & Spielraum e.V. / Kinder- und Jugendwerkstatt Pasinger Fabrik „Pasinger kreuz & quer - Aktionsprogramm für Kinder im Münchner Westen vom 06.05.2026 - 23.05.2026“ 3.500,00 € / AZ: 0262.100-21-0550 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 10.2.: (E) Stadtbezirksbudget Bayerische Philharmonie e.V. Nachhaltigkeitsinitiative Licht vom 28.05.2026 - 30.09.2026 7.000,00 Euro, Az.: 0262.100-21-0552 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 10.3.: (E) Stadtbezirksbudget Huneck & Brantjes GbR SYMBIOSIS in Pasing vom 28.10. - 02.11.2026 2.980,00 Euro, Az.: 0262.100-21-0559 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 10.4.: (E) Stadtbezirksbudget TSG Pasing Hockeyabteilung Schutzausrüstung für Torwarte 4.928,60 €; Az. 0262.100-21-0560 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 10.5.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Urban Art trifft auf Würm vom 01.09.2026 - 01.11.2026 2.200,00 Euro, Az.: 0262.100-21-0562
+- TOP 10.6.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-21-0563
+- TOP 11.: Anhörungen
+- TOP 11.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2027 (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 11.2.: Grünanlage Angela-von-der-Driesch-Weg: Zirkus Pumpernudl am 04.10.26
+- TOP 11.3.: August-Exter-Str. 1: Quartierfest am 23.07.26
+- TOP 11.4.: Schulwegsicherheit Mendelssohnstraße; verkehrsrechtliche Anordnung
+- TOP 11.5.: Mobilfunk; Suchkreismitteilung, Suchkreis M 1LXE M-Pasing-Bahnhofsviertel
+- TOP 11.6.: Gemeinde Gräfelfing: Aufstellung des Bebauungsplans Nr. 17-I für die Grundstücke Jahnplatz 1 und Aubinger Str. 1
+- TOP 11.7.: Silberdistelstraße; Pasinger Volksfest (Vorwiesn) 28.07. - 03.08.26
+- TOP 12.: Anträge und Anfragen
+- TOP 12.1.: Bündnis 90 / Die Grünen, Antrag: Ausreichende Beschattung von Spielplätzen im Stadtbezirk 21
+- TOP 12.2.: CSU, Antrag: Sitzmöglichkeiten entlang der Buslinie 158
+- TOP 12.3.: CSU, Antrag: Änderung B-Plan im Bereich Landschaftspark West
+- TOP 12.4.: SPD, Antrag: Einrichtung von mobilen und stationären Mädchentreffs
+- TOP 13.: Unterrichtungen
+- TOP 13.1.: Unveränderte Fortführung von Gaststätten - "Cotidiano Pasing", Bodenseestr. 1 - "Cantina in der Pasinger Fabrik", August-Exter-Str. 1
+- TOP 14.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.1.: Ausschuss für Stadtplanung und Bauordnung vom 10.06.26: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 14.2.: Ausschuss für Stadtplanung und Bauordnung vom 10.06.26: Geförderter Wohnungsbau, welcher Sinn?
+- TOP 14.3.: Sozialausschuss vom 18.06.26: (U) Neueröffnung einer dezentralen kommunalen Unterkunft zur Unterbringung Geflüchteter am Standort Drygalski-Allee (Flst.Nr. 272/2, Gemarkung Forstenried) Verlängerung bestehender dezentraler kommunaler Unterkünfte für Geflüchtete an den Standorten • Elsenheimerstraße 48-50 • Gerty-Spies-Straße 9-11 (Leichtbauhallenstandort) • Maria-Goeppert-Mayer-Straße 21 (Leichtbau-hallenstandort) • Triebstraße 24 Wiedereröffnung einer Unterkunft mit einer geänderten Zielgruppe als dezentrale kommunale Unterkunft am Standort Planegger Straße 125 Betreiber- und Zielgruppenwechsel der staatlichen Gemeinschaftsunterkunft am Standort Karl-Schmid-Straße 8 Bekanntgabe über die Nichtverlängerung der dezentralen Erstanlaufstelle / Drehscheibe am Standort Dachauer Straße 122 und Helene-Weber-Allee 1 Bekanntgabe über die Nichtverlängerung bestehender dezentraler Unterkünfte für Geflüchtete an den Standorten • Hachinger-Bach-Straße 19 (Leichtbauhallenstandort) • Hansastraße 55 (Leichtbauhallenstandort) • Kronstadter Straße 36 (Leichtbauhallenstandort) Bekanntgabe über die Verlängerung einer bestehenden staatlichen Gemeinschaftsunterkunft am Standort Willy-Brandt-Allee 8
+- TOP 15.: Post an den BA
+- TOP 15.1.: von der Stadtverwaltung
+- TOP 15.1.1.: Direktorium
+- TOP 15.1.1.1.: Stadtbezirksbudget; Verwendungsnachweise - Anschaffung von neuen Zielscheiben und neuen Zielständen; Schützengesellschaft Grabenfleck e.V. - Casa-Fest am 09.05.26; Eggenfabrik BetriebsgGmbH
+- TOP 15.1.2.: Baureferat
+- TOP 15.1.2.1.: Entfernung von Fahrrädern im Bereich Landsberger Str. 497
+- TOP 15.1.2.2.: Aufwertung des Bolzplatzes in der Richard-Riemerschmid-Allee mit Fußballtoren für Kinder
+- TOP 15.1.2.3.: Bepflanzung des Ost-West-Weges durch den Landschaftspark West mit einer „Bürgerhecke“
+- TOP 15.1.2.4.: Baumfällungen Pagodenburgstraße
+- TOP 15.1.2.5.: Information über geplante Straßenbauarbeiten durch den Straßenunterhalt im Jahr 2026
+- TOP 15.1.2.6.: Fertigstellung der Mountainbikestrecke an der städtischen Baumschule
+- TOP 15.1.2.7.: Verlagerung der Fahrradständer Pasing Bahnhof Nord an der Bushaltestelle
+- TOP 15.1.3.: Mobilitätsreferat
+- TOP 15.1.3.1.: Wildes Parken in der Roseggerstraße
+- TOP 15.1.3.2.: Arbeiten im Straßenraum vom 27.07. - 11.09.26; Bodenseestraße 15, Neubau einer Fernwärmeleitung
+- TOP 15.1.3.3.: Rechtsabbbiegegrünpfeile für den Radverkehr an weiteren Knotenpunkten
+- TOP 15.1.3.4.: Buslinie 162, Haltestelle Tannenweg stadtauswärts, Sitzgelegenheit
+- TOP 15.1.3.5.: Landsberger Str. 450, Markierung Sonderparkplatz; verkehrsrechtliche Anordnung
+- TOP 15.1.3.6.: Arbeiten im Straßenraum vom 29.06. - 30.09.26 ; Josef-Felder-Str. 27 bis 35, Verlängerung der U5 (Los 2), Fernwärme Leitungsumlegung, Bauabschnitte 1 und 2
+- TOP 15.1.3.7.: Arbeiten im Straßenraum vom 21.09. - 09.10.26; Bäckerstraße zwischen Gräfstraße und Weinbergerstraße, Neubau der Fahr- und Gehbahn
+- TOP 15.1.3.8.: Neues Parklizenzgebiet "Pasing Süd" - Inbetriebnahme
+- TOP 15.1.3.9.: Drehgenehmigung Paul-Hösch-Str. 1 bis 9 und gegenüber mit Vollsperre der Fahrbahn, 01.07. und 02.07.26
+- TOP 15.1.3.10.: Arbeiten im Straßenraum vom 27.06. - 14.07.26; An der Schäferwiese 2 – 8 (Verlegung Strom)
+- TOP 15.1.3.11.: Verkehrssituation Am Schützeneck
+- TOP 15.1.3.12.: Arbeitsstelle im Straßenraum vom 02.07. - 11.09.26; Justinus-Kerner-Str. 18-20
+- TOP 15.1.3.13.: Arbeiten im Straßenraum vom 31.08. - 06.11.26; Josef-Retzer-Str. 37, Neubau einer Fernwärmeleitung in mehreren Bauphasen
+- TOP 15.1.3.14.: Arbeiten im Straßenraum vom 06.07. - 20.07.26; Josef-Felder-Str. 43a bis Josef-Felder-Straße ca. 25 m östlich Einmündung Pippinger Straße, Verlängerung der U5 (Los 2), Hindernisbeseitigung im Baugrund, Baugrundverkittung, Herstellung Baugrubenverbau (Schlitzwand), 1. Zwischenphase zu U 01061/26 (Hauptverkehrsphase VP100; 30.1 + 100_V3), Fußgänger- und Radfahrverbindung zwischen dem Pasinger Bahnhofsplatz im Süden und der Gottfried-Keller-Straße nördlich des Pasinger Bahnhofs („Wolkentunnel“), Josef-Felder-Straße (Geh- und Radwegbereich), Spartenarbeiten (SWM, Telekom), Terminverschiebung (von U 01773/26)
+- TOP 15.1.4.: Referat für Stadtplanung und Bauordnung
+- TOP 15.1.4.1.: Zugangsbauwerk Pasinger Bahnhof Nord – Architektonische Qualität sicherstellen (Vertagung aus der BA-Sitzung am 16.06.26)
+- TOP 15.1.4.2.: Vollzug der Baumschutzverordnung - August-Exter-Str. 37 - Bachmairstr. 12 - Benedikterstr. 23 - Franz-Hauser-Weg 3 - Hofbauernstr. 2c - Paganinistr. 84 - Rathochstr. 18a - Rathochstr. 43 - Rathochstr. 58 - Rodenstockplatz 2
+- TOP 15.1.5.: Referat für Klima- und Umweltschutz
+- TOP 15.1.5.1.: Information zur Einbindung der Bezirksausschüsse beim Mobilfunkausbau
+- TOP 15.1.5.2.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage, Standort Gräfstr. 74
+- TOP 15.1.5.3.: Lärmschutzwand an den Gleisen der Bahnstrecke München-Augsburg
+- TOP 15.1.6.: Referat für Arbeit und Wirtschaft incl. SWM, MVG
+- TOP 15.1.6.1.: Baumaßnahmen der Stadtwerke: - Fernwärmeprojekt Josef-Felder-Straße - Fernwärmeprojekt Bodenseestraße
+- TOP 15.1.6.2.: Frühzeitige Information zu Bürgerveranstaltungen im Juli 2026, über die geplanten Seismikmessungen im Rahmen des Forschungsprojekts GIGA-M
+- TOP 15.1.6.3.: Stromprojekt Blumenauer Straße; Beendigung der Baustelle
+- TOP 15.1.7.: Gesundheitsreferat
+- TOP 15.1.7.1.: Austausch zwischen den Bezirksausschüssen und dem Gesundheitsreferat am 10.6.26 - Präsentation
+- TOP 15.1.8.: Referat für Bildung und Sport
+- TOP 15.1.8.1.: Betreuungssituation Grundschule Grandlstraße
+- TOP 15.1.9.: Sozialreferat
+- TOP 15.1.9.1.: Rückmeldung zur Infoveranstaltung für die Bezirksausschüsse
+- TOP 15.1.10.: Kommunalreferat incl. AWM
+- TOP 15.1.10.1.: Präsentation zur Vorstellung des AWM und Einführung der Gelben Tonne
+- TOP 15.1.11.: Kreisverwaltungsreferat
+- TOP 15.1.11.1.: Regelmäßige Kontrollen bzgl. Tempo 30 und LKW-Verbot in der Frauendorfer- und Beer-Wallbrunn-Straße
+- TOP 15.1.12.: Kulturreferat
+- TOP 15.1.12.1.: Stellungnahme zum Antrag der Huneck & Brantjes GbR für „SYMBIOSIS“
+- TOP 15.2.: Sonstige
+- TOP 15.2.1.: Straßenbahnfreunde München e. V.: MVG - Anpassungsprogramm 2027
+- TOP 15.2.2.: Münchner Forum e.V.: MVG - Anpassungsprogramm 2027
+- TOP 15.2.3.: VHS Stadtbereich West: Antrag auf Fahrrad- und Lastenradabstellplätze, Bäckerstraße
+- TOP 15.2.4.: BA 6 Sendling: Resilienz der Stadt München stärken, Baum-Biodiversität im Straßenraum
+- TOP 15.2.5.: Die Mitterfelder gGmbH: Baustellenverkehr U5 / Mitterfeldstraße und Fischer-von-Erlach-Straße
+- TOP 15.2.6.: Kulturforum München West e.V.: Ebenböckhaus
+- TOP 16.: Sonstiges
+- TOP 16.1.: Termine
+- TOP 16.1.1.: - BA-Sitzung 28.07.26, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486 - BA-Sitzung 15.09.26, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Sitzungssaal, Landsberger Str. 486
+- TOP 16.1.2.: Mittwoch, 15.07.26, 17.00 Uhr: öffentlicher Spatenstich Kulturhaus 21, an der Baustelle am Paseo
+- TOP 16.1.3.: Dienstag, 28.07.26, 18.30 Uhr: Gruppenfoto BA-Mitglieder im sog. „Hochzeitshof“
+- TOP 16.1.4.: Samstag, 12.09.26, 09.00 – 18.00 Uhr: Mitarbeit beim Kinderfest am Zehentstadel
+- TOP 16.2.: Bereits weitergeleitete Antragen, Anliegen etc.
+- TOP 16.2.1.: Stromprojekt Blumenauer Straße; Beendigung der Baustelle
+- TOP 2.2.19.: Lärmbelästigungen durch Studentenwohnheim / WG im Bereich Thuillestraße / Lanzlottstraße
+- TOP 2.2.20.: Verkehrssituation Am Schützeneck
+- TOP 2.2.21.: Parklizenzgebiet Pasing Süd
+- TOP 11.8.: Projektname: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing, Oberflächenwiederherstellung Gotthardstraße – Westteil zwischen Genovevaweg und Fischer-von-Erlach-Straße, Projektnummer: 5815b
+- TOP 15.1.3.15.: Verkehrsüberlastung und Gefährdung der Schulwegsicherheit in der Keyserlingstraße
+- TOP 15.1.3.16.: Arbeiten im Straßenraum vom 20.07. – 31.07.26; Josef-Felder-Str. 43a bis Josef-Felder-Straße ca. 25 m östlich Einmündung Pippinger Straße, Verlängerung der U5 (Los 2), Hindernisbeseitigung im Baugrund, Baugrundverkittung, Herstellung Baugrubenverbau (Schlitzwand), 2. Zwischenphase zu U 01061/26 (Hauptverkehrsphase VP100; 30.1 + 100_V3), Fußgänger- und Radfahrverbindung zwischen dem Pasinger Bahnhofsplatz im Süden und der Gottfried-Keller-Straße nördlich des Pasinger Bahnhofs („Wolkentunnel“), Spartenarbeiten (SWM, Telekom)
