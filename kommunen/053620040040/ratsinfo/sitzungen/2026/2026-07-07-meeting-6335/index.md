@@ -1,0 +1,55 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2026-07-07T18:00:00+02:00
+- Ende: 2026-07-07T19:30:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbxNWhy4vepuxSi512FW40Y
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6335
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRztJ1Fsgh1dYSUq4hM7PFw3jUGVltX4fXVpsIZ_iRgU/Einladung_Rat_07.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZabk-qOnwOsJUrfwOh7vaWjtLVokNo3kBql_QwKKBN_m/Oeffentliche_Niederschrift_Rat_07.07.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnendenfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: 14. Änderungssatzung über die Erhebung von Elternbeiträgen für die Förderung von Kindern in Tageseinrichtungen und Kindertagespflege in der Stadt Wesseling - 29 Ja-Stimmen, 10 Nein-Stimmen, 0 Enthaltungen
+- TOP 6.1.: 14. Änderungssatzung über die Erhebung von Elternbeiträgen für die Förderung von Kindern in Tageseinrichtungen und Kindertagespflege in der Stadt Wesseling; Ergänzungsänderung des § 8 „Essensgeld“
+- TOP 6.2.: Änderungsantrag der Fraktion „Die Linke“ zur 14. Änderungssatzung über die Erhebung von Elternbeiträgen für die Förderung von Kindern in Tageseinrichtungen und Kindertagespflege in der Stadt Wesseling
+- TOP 7.: Aufhebung des Ratsbeschlusses vom 02.12.2025 über den Erlass einer Ordnungsbehördlichen Verordnung über das Verbot des Verkaufs, sowie der Ab- und Weitergabe von Distickstoffmonoxid "Lachgas" an Minderjährige in der Stadt Wesseling - 33 Ja-Stimmen, 6 Nein-Stimmen, 0 Enthaltungen
+- TOP 7.1.: Änderungsantrag der AfD-Fraktion zu der Aufhebung des Ratsbeschlusses vom 02.12.2025 über den Erlass einer Ordnungsbehördlichen Verordnung über das Verbot des Verkaufs, sowie der Ab- und Weitergabe von Distickstoffmonoxid "Lachgas" an Minderjährige in der Stadt Wesseling
+- TOP 8.: Haushaltswirtschaft im Haushaltsjahr 2026 Bereitstellung von überplanmäßigen Ausgaben - Einstimmig, 4 Enthaltungen
+- TOP 8.1.: Haushaltswirtschaft im Haushaltsjahr 2026 Bereitstellung von überplanmäßigen Ausgaben - Einstimmig, 6 Enthaltungen
+- TOP 9.: Einlage von Anlagevermögen in das Sondervermögen Sportstätten - Einstimmig, 0 Enthaltungen
+- TOP 10.: Neubau einer städtischen Unterkunft für die Unterbringung von Geflüchteten „Im Kleinen Mölchen“ - 33 Ja-Stimmen, 6 Nein-Stimmen, 0 Enthaltungen
+- TOP 10.1.: Änderungsantrag der AfD-Fraktion zum Neubau einer städtischen Unterkunft für die Unterbringung von Geflüchteten „Im Kleinen Mölchen“
+- TOP 11.: Zweite Fortschreibung des „Masterplan Einzelhandel“ hier: Beschluss als städtebauliches Entwicklungskonzept gemäß § 1 Abs. 6 Nr. 11 BauGB - Einstimmig, 1 Enthaltung
+- TOP 12.: Klimabeirat Wesseling hier: künftige Ausrichtung des Klimabeirats - Einstimmig, 6 Enthaltungen
+- TOP 13.: Standortkonzept Freiflächen-Photovoltaik hier: Schlussbericht - Beschluss als städtebauliches Entwicklungskonzept - 33 Ja-Stimmen, 6 Nein-Stimmen, 0 Enthaltungen
+- TOP 13.1.: Ergänzungsantrag der Fraktion B90/Die Grünen zum Standortkonzept Freiflächen-Photovoltaik
+- TOP 14.: Beitritt der Stadt Wesseling zum Zweckverband Verkehrsverbund Rhein-Sieg (ZV VRS) hier: Aufhebung des Ratsbeschlusses 162/2025 vom 30.09.2025 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Antrag der FDP-Fraktion: Resolution: Kommunale Selbstverwaltung durch faire Finanzreformen sichern - 10 Ja-Stimmen, 29 Nein-Stimmen, 0 Enthaltungen
+- TOP 16.: Antrag der Fraktion B90/Die Grünen: Autofähre zwischen Wesseling und Niederkassel - 4 Ja-Stimmen, 31 Nein-Stimmen, 4 Enthaltungen
+- TOP 17.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 17.1.: Antrag der CDU-Fraktion: Um-/Nachbesetzungen Betriebsausschuss - Einstimmig, 0 Enthaltungen
+- TOP 18.: Satzung über die Vergabe von Bau-, Liefer- und Dienstleistungen unterhalb der Schwellenwerte gemäß § 106 Gesetz gegen Wettbewerbsbeschränkungen - Vergabesatzung der Stadt Wesseling - - Einstimmig, 0 Enthaltungen
+- TOP 18.1.: Änderungsantrag der FDP-Fraktion zur Vergabesatzung der Stadt Wesseling
+- TOP 18.1.1.: Änderungsantrag der FDP-Fraktion zur Vergabesatzung der Stadt Wesseling, hier: Stellungnahme der Verwaltung
+- TOP 19.: Mitteilungen und Anfragen
+- TOP 19.1.: Anfrage der Fraktion B90/Die Grünen: Wohnraumschutzsatzung
+- TOP 19.1.1.: Anfrage der Fraktion B90/Die Grünen: Wohnraumschutzsatzung, hier: Stellungnahme der Verwaltung
+- TOP 19.2.: Anfrage der Fraktion B90/Die Grünen: Hitzewelle
+- TOP 19.2.1.: Anfrage der Fraktion B90/Die Grünen: Hitzewelle, hier: Stellungnahme der Verwaltung
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Grundstückserwerb im Bereich „An der Elsmaar“ in Wesseling-Keldenich - 31 Ja-Stimmen, 6 Nein-Stimmen, 2 Enthaltungen
+- TOP 2.: Erhöhung der Kapitalrücklage des Sondervermögens Sportstätten - Einstimmig, 0 Enthaltungen
+- TOP 3.: Antrag der Fraktion B90/Die Grünen: Berichtspflicht Städtische Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 5.: Unterrichtung der Öffentlichkeit
