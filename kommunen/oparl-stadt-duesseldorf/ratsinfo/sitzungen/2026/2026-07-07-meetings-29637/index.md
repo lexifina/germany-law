@@ -1,0 +1,69 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-07T16:00:00+02:00
+- Ende: 2026-07-07T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29637
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29637
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592623.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592623.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592623.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der NiederschriftSI-BV2/003/2026 vom 28.04.2026 und SI-BV2/004/2026 vom 09.06.2026
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Einladung des ADFC zum Bericht über den Radwegetest im Stadtbezirk 2 für die Sitzung der BV 2 am 07.07.2026 - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage BV2/133/2026 - zur Kenntnis genommen
+- TOP 4.2: Konzept und Realisierung des Pocketpark-Vorhabens im Bereich des Stadtbezirks 2 - mündlicher Bericht zum Beschluss der Bezirksvertretung 2, Vorlage BV2/099/2026 - zur Kenntnis genommen
+- TOP 4.3: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - einstimmig beschlossen
+- TOP 4.4: Errichtung der Fahrradstationen Brehmstraße, Mathildenstraße und Weseler Straße - abweichend beschlossen
+- TOP 4.5: Reduzierung der Fahrbahn Einmündung Vennhauser Straße in die Behrenstraße - Beschluss der Bezirksvertretung 2 , Vorlage BV2/004/2024 - zur Kenntnis genommen
+- TOP 4.6: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag des Sozialverbandes VdK - einstimmig beschlossen
+- TOP 4.7: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag der Derendorfer Jonges - mehrheitlich beschlossen
+- TOP 4.8: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag des Kinderspielhauses - einstimmig beschlossen
+- TOP 4.9: Bestimmungsverfahren an der KGS Mettmanner Straße zur Umwandlung der Schulart in eine Gemeinschaftsgrundschule - Empfehlung mehrheitlich beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Fahrradständer auf der Degerstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - abweichend beschlossen
+- TOP 5.2: Fahrradständer auf der Ostendorfstraße bei der Einmündung Maurenbrecherstraße - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - abweichend beschlossen
+- TOP 5.3: Müllentsorgung auf dem Hermannplatz - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.4: Mülleimer an der Benzstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.5: Beleuchtung am Spielplatz Binnenstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.6: Sitzbank vor der Montessori Gesamtschule - Antrag der CDU-Fraktion - zurückgezogen
+- TOP 5.7: Instandsetzung des Bolzplatzes an der Eduard-Schloemann-Straße 55 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.8: Beleuchtung für den Parcours-Trainingsplatz und den 3x3-Basketballplatz an der Luise-Rainer-Straße - Antrag der Fraktionen von CDU und Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Gänsekot im Zoopark – Sachstandsbericht zum Gänsemanagement und Reinigungskonzept - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Graffiti- und Vandalismusschäden an öffentlichen Einrichtungen im Stadtbezirk 2 - Anfrage der AFD-Fraktion - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Einrichtung von Hol- und Bringzonen vor Kindertagesstätten im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.4: Büdchen im Stadtwerkepark - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.5: Baustelle Hinz & Kunz - Anfrage der CDU-Fraktion - vertagt
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Stadtwerke-Areal - Anfrage der Fraktion DIE LINKE - vertagt
+- TOP 7.8: Müllverbrennungsanlage - Anfrage der Fraktion DIE LINKE - vertagt
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Sachstand Entwicklung im Märchenland - Anfrage der SPD-Fraktion - beantwortet
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Parken an E Ladeinfrastruktur zwischen 22:00 und 07:00 Uhr - Beschluss der Bezirksvertretung 2, Vorlage BV2/082/2026 - zur Kenntnis genommen
+- TOP 8.2: Fußgängerüberquerung im Bereich Achenbachstraße / Schumannstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/029/2026 - zur Kenntnis genommen
+- TOP 8.3: Baustellenmanagement im Stadtbezirk 2 - Beschluss der Bezirksvertretung 2, Vorlage BV2/184/2025 - zur Kenntnis genommen
+- TOP 8.4: Umgestaltung der Parkstände vor dem Haus Hoffeldstraße 33 von Senkrecht- zu Längsparkständen - Beschluss der Bezirksvertretung 2, Vorlage BV2/071/2026 - zur Kenntnis genommen
+- TOP 8.5: Querung Degerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/027/2026 - zur Kenntnis genommen
+- TOP 8.6: Müllentsorgung im Zoopark - Beschluss der Bezirksvertretung 2, Vorlage BV2/132/2026 - zur Kenntnis genommen
+- TOP 8.7: Mülleimer am Stadtwerkepark - Beschluss der Bezirksvertretung 2, Vorlage BV2/148/2026 - zur Kenntnis genommen
+- TOP 8.8: Trinkbrunnen an der Jugendfreizeiteinrichtung Icklack - Beschluss der Bezirksvertretung 2, Vorlage BV2/149/2026 - zur Kenntnis genommen
+- TOP 8.9: Verkehrssituation Metrostraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/019/2026 - zur Kenntnis genommen
