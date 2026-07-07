@@ -1,0 +1,85 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-07-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379733
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379733
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Kfz-Parkplätze in der Parkstraße und Schwanthalerstraße
+- TOP 4.2.: Rückmeldung zum "Im Dazwischen"
+- TOP 4.3.: Errichtung einer temporären WC-Anlage im Bavariapark
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.1.1.: Freischankfläche Landsberger Straße 65
+- TOP 6.1.2.: Freischankfläche Westendstraße 117
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ridlerstraße 31
+- TOP 6.2.2.: Werbeanlage Ganghoferstraße / Ridlerstraße
+- TOP 6.2.3.: Bauvorhaben Ridlerstraße 88
+- TOP 6.2.4.: Mobilfunk; Suchkreis Donnersbergerbrücke-Süd
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Zirkuswiese an der Theresienhöhe reaktivieren; Schaffung einer öffentlichen Grünanlage oder Verwirklichung eines Konzeptes mit privaten Partnern - Wiedervorlage
+- TOP 6.3.2.: Baustelle Ganghoferstr. 29: Baustellenbelastung, Gehwegblockade und Müllverschmutzung
+- TOP 6.3.3.: Meldeliste Bauvorhaben
+- TOP 6.3.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Gesundheitsreferat - Präsentation zum BA-Austausch vom 10.06.2026
+- TOP 7.3.2.: Sozialreferat - Präsentation zum BA-Austausch vom 09.06.2026
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Dauerhaft Flächen verfügbar machen für legales Graffiti am MK2-Gelände
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Ladezone Kazmairstraße 44
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Erfahrungsbericht Oktoberfest 2025 - Antwortschreiben
+- TOP 9.3.2.: Verbesserung der Fußgänger*innensicherheit am Zebrastreifen an der Kreuzung Ganghoferstraße Ecke Anglerstraße durch Ausweitung auf die Fahrradwege in beiden Fahrtrichtungen oder durch die Umsetzung anderer Möglichkeiten
+- TOP 9.3.3.: Meldeliste Bauvorhaben SWM und Flyer Fernwärmebauvorhaben Bergmannstraße
+- TOP 9.3.4.: Einführung Gelbe Tonne
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "ÜberKopf" ÜberKopf - ein performativer Stadtspaziergang vom 18. -26.07.2026 2.117,23€; Az. 0262.100-8-0494
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.1.1.: (E) Belästigung durch laute Handy- und Lautsprechernutzung im öffentlichen Raum und ÖPNV
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 10.1.2.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-8-0495
+- TOP 6.3.1.1: Sachstand Pachtvertrag Zirkuswiese
+- TOP 9.1.1.: (E) Schutz der Schüler*innen und der Kindergartenkinder der Guldeinschule vor der Verkehrsbelastung des Mittleren Rings; -Verlängerung der bestehenden Tempo-30-Regelung -Einhausung des Streckenabschnitts
+- TOP 9.1.1.1: OB-Entscheidung; Schutz der Schüler*innen und der Kindergartenkinder der Guldeinschule vor der Verkehrsbelastung des Mittleren Rings; - Verlängerung der bestehenden Tempo-30-Regelung -Einhausung des Streckenabschnitts Empfehlung Nr. 20-26 / E 02620 vom 03.04.2025
+- TOP 9.3.5.: Errichtung von Fahrradabstellbügeln und Lastenradplätzen vor der Ligsalzstraße 31a
+- TOP 11.1.: Zebrastreifen an der Geroltstraße Ecke Anglerstraße (Jugendversammlung Antrag 8)
+- TOP 8.3.2.: Open-Air-Filmvorführung am Sinti-Roma-Platz am 11.07.2026
+- TOP 9.1.2.: (E) Querung der Theresienhöhe
+- TOP 9.3.6.: BA6; Resilienz der Stadt München stärken: Mehr Baum-Biodiversität im Straßenraum
+- TOP 9.3.7.: BA-Austauschtreffen des Baureferates vom 17.06.2026; Präsentation Gartenbau und Spielplätze
+- TOP 10.1.3.: Finanzierung der Jugendversammlung 2026 aus dem BA-Veranstaltungsbudget - Aufstockung auf 900,29 €
