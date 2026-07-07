@@ -1,0 +1,100 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-07-07T16:00:00+02:00
+- Ende: 2026-07-07T17:04:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24697
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24697
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366661.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367708.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten des Finanzausschusses
+- TOP 1: Allgemeine Finanzangelegenheiten
+- TOP 1.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2025 - ungeändert beschlossen
+- TOP 1.2: -Zurückgezogen- Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2025 hier: Analyse wesentlicher Planabweichungen und Risiken für die künftige Entwicklung-zurückgezogen- - zurückgezogen
+- TOP 1.3: Ermächtigungsübertragungen in das Haushaltsjahr 2026 - Entgegennahme ohne Beschluss
+- TOP 1.4: Redaktionelle Berichtigung § 4 (Inanspruchnahme Eigenkapital) der Haushaltssatzung 2026/2027 - ungeändert beschlossen
+- TOP 2: Laufende Bewirtschaftung des Haushaltes
+- TOP 2.1: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 2.2: Hauptstraße - Verkehrliche Maßnahmen im Zuge der Deckensanierung - ungeändert beschlossen
+- TOP 2.3: Brücke Fischertal Provisorium Stahlüberbauteil - Kostenneufestsetzung sowie überplanmäßige Mittelbereitstellung - ungeändert beschlossen
+- TOP 2.4: Abschluss der Vorbereitenden Untersuchungen und Stadtumbaugebiet Zentrum Vohwinkel - ungeändert beschlossen
+- TOP 2.5: Vorkaufssatzung für das Vohwinkeler Zentrum - ungeändert beschlossen
+- TOP 2.6: ISEK Vohwinkel – Aufwertung Corneliuspark und Kinderspielplatz Corneliusstraße - ungeändert beschlossen
+- TOP 2.7: Kinderspielplatz Klippe – Sozialer Zusammenhalt Heckinghausen/Langerfeld-West - Entgegennahme ohne Beschluss
+- TOP 2.8: Grundschule Am Dönberg, Grundschule Hammesberger Weg und Förderschule Melanchthonstr./ unbefristeter Teilstandort Kyffhäuser Str. - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 2.9: Einrichtung von Familiengrundschulzentren in Wuppertal - ungeändert beschlossen
+- TOP 2.10: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 2.11: Betriebskostenzuschüsse 2026 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 2.12: Richtlinie der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Haus- und Hofflächen - ungeändert beschlossen
+- TOP 2.13: Öffentlich-rechtliche Vereinbarung zur Unterhaltung einer gemeinsamen Gruppe Leitender Notärztinnen und Leitender Notärzte der Städte Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 2.14: Sachstand zum Neubau der gemeinsamen Feuerwehrleitstelle Solingen/Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.15: Grundsatzbeschluss zur Finanzierung der Investitionen in den Neubau der Wagenhalle Vohwinkel und den Neubau des Betriebshofs Varresbeck - ungeändert beschlossen
+- TOP 2.16: Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt - ungeändert beschlossen
+- TOP 2.17: Notwendigkeit der vorzeitigen Beauftragung der Leistungsphase 4 - Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 2.18: Beitritt der Stadtverwaltung Wuppertal zu Urban.KI - ungeändert beschlossen
+- TOP 2.19: Einführung eines gesamtstädtischen Verfahrens zur Aufgaben-,Produkt- und Prozesskritik"; Umsetzung der HSK-Maßnahme und des Begleitantrages zum Drei-Säulen-Modell - ungeändert beschlossen
+- TOP -: Teil B - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Städtische Beteiligungen
+- TOP 3.1: Gründung einer Stadtentwicklungsgesellschaft - ungeändert beschlossen
+- TOP -: Straßenreinigung Wuppertal (ESW)
+- TOP 3.2: Jahresabschluss und Lagebericht 2025 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Gebäudemanagement (GMW)
+- TOP 3.3: QUARTALSREPORT für Q1/2026 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP -: Wirtschaftsförderung Wuppertal AöR
+- TOP 3.4: Jahresabschluss der Wirtschaftsförderung Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Jobcenter Wuppertal AöR
+- TOP 3.5: Dritte Satzung zur Änderung der Satzung der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP -: Historische Stadthalle
+- TOP 3.6: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.6.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.7: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Wuppertaler Bühnen- und Sinfonieorchester GmbH
+- TOP 3.8: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2025/2026 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP -: Tanztheater Wuppertal Pina Bausch GmbH
+- TOP 3.9: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2026/2027 - ungeändert beschlossen
+- TOP -: Konzern Wuppertaler Stadtwerke (WSW)
+- TOP 3.10: WSW Wuppertaler Stadtwerke GmbH – Bergische Kooperation: Gründung einer gemeinsamen Tochtergesellschaft - ungeändert beschlossen
+- TOP 3.11: Jahresabschluss und Konzernabschluss der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.11.1: Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH für das Geschäftsjahr 2025 - Entgegennahme ohne Beschluss
+- TOP 3.12: Jahresabschluss der WSW mobil GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.12.1: Entlastung des Aufsichtsrates der WSW mobil GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.13: Jahresabschluss der WSW Energie & Wasser AG für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.13.1: Entlastung des Aufsichtsrates der WSW Energie & Wasser AG für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.14: Jahresabschluss der VSG Verkehrs-Service GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.15: Jahresabschluss der BinnenWind Windpark Verwaltungs GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.16: Jahresabschluss der Windpark Kahlenberg II GmbH & Co. KG für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.17: Jahresabschluss der Windpark Kahlenberg III GmbH & Co. KG für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.18: Jahresabschluss der GWH Gemeinschaftswerk Hattingen GmbH für das Geschäftsjahr 2025 - Entgegennahme ohne Beschluss
+- TOP 3.19: Jahresabschluss der BEG Bergische Entsorgungsgesellschaft mbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.20: Jahresabschluss der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Gemeinnützige Wohnungsbaugesellschaft Wuppertal mbH
+- TOP 3.21: Durchführungsbeschluss zur Optimierung der Finanzierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (gwg) - zur Beratung und Entscheidung verwiesen
+- TOP 3.22: Jahresabschluss der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal und Konzern gwg für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.22.1: Entlastung des Aufsichtsrates der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.23: Jahresabschluss der gwg Stadt- und Projektentwicklungsgesellschaft mbH Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.23.1: Entlastung des Aufsichtsrates der gwg Stadt- und Projektentwicklungsgesellschaft mbH Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Wuppertal Marketing GmbH
+- TOP 3.24: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.24.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.25: Abberufung und Bestellung eines Mitglieds für den Aufsichtsrat der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP -: Neue Effizienz gGmbH
+- TOP 3.26: Jahresabschluss der Neue Effizienz gemeinnützige GmbH für das Geschäftsjahr 2025 und Ermächtigung der Geschäftsführung für Beschlüsse in der Gesellschafterversammlung der Realer Wandel GmbH - ungeändert beschlossen
+- TOP -: Bergische Struktur- und Wirtschaftsförderung GmbH
+- TOP 3.27: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Aktualisierung der Geschäftsordnung des Aufsichtsrates - ungeändert beschlossen
+- TOP 3.28: Wirtschaftsplan 2026 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP -: Helios Klinikum Wuppertal GmbH
+- TOP 3.29: Jahresabschluss der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.29.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 3.30: Wechsel in der Geschäftsführung der Helios Klinikum Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: 6. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2027-2032) - ungeändert beschlossen
+- TOP 4.2: Stadtentwässerung - Maßnahmenkatalog 2027/Katalogentwurf 2028 - ungeändert beschlossen
