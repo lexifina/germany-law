@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-07-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384706
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384706
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 10.06.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Jahresempfang 2026 des Bezirksausschusses
+- TOP 2.4.: Thalkirchner Brücke Projektvorstellung
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (Antrag) Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 3.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-19-0637
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Anfrage) Gesundheitsschutz bei der Sanierung asbestverdächtiger Gebäude in Fürstenried-West
+- TOP 4.4.: (A) Mobilfunk-Suchkreismeldung M-Solln
+- TOP 4.5.: (Antrag) Bäume pflanzen in der westlichen Hofbrunnstraße
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: (E) Nachrüstung Aufzugsanlage am U-Bahnhof Obersendling
+- TOP 5.1.2: Rückverlegung der beiden Behindertenparkplätze der Diefenbachstraße an den Fellererplatz 2
+- TOP 5.2.: (Antrag) Parkverbot für Schwerlaster und Anhänger auf der Graubündener Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Errichtung einer Hol- und Bringzone in der Wolfratshauser Str. 195
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Klarstellung der Vorfahrtsregelung in der Gmunder Straße
+- TOP 5.5.: (U) Verkehrsrechtliche Anordnung: Beschilderung und Markierung im Abschnitt zwischen Siemensallee und Josephinenstraße in Verbindung zur der Umbaumaßnahme an der Wolfratshauser Straße
+- TOP 5.6.: (E) Projektplangenehmigung Rupert-Mayer-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Buchauerstraße 7
+- TOP 6.2.2: Kleinstraße 2
+- TOP 6.2.3: Springerstraße 3 (VB)
+- TOP 6.2.4: Bauweberstraße 7a (T)
+- TOP 6.2.5: Faustnerweg 3 (T)
+- TOP 6.2.6: Fraunbergstraße 4 (VB)
+- TOP 6.2.7: Hanfelder Straße 24 (VB)
+- TOP 6.2.8: Appenzeller Straße 94a (T)
+- TOP 6.2.9: Appenzeller Straße 129
+- TOP 6.3.: (Antrag) Prüfung der Eintragung in die Liste der Einzelbaudenkmäler: Richard-Meier-Bauten, Hofmannstraße
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Dringender Sanierungsbedarf der Laufbahn auf der Bezirkssportanlage Graubündener Straße 100
+- TOP 7.2.: (Antrag) Städtische Grünfläche östlich der Halle des TSV Solln öffentlich zugänglich machen
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Stadtteilwoche Sendling - Obersendling
+- TOP 8.3.: (A) Ran an die Stadtteil-Koffer Einsatz 2027
+- TOP 8.4.: (A) Veranstaltung: „Radlcheck“ am Schweizer Platz am 25.07.2026
+- TOP 9: Verschiedenes
+- TOP 5.7.: (Antrag) Einführung einer streckenbezogenen Geschwindigkeitsbegrenzung auf 30 km/h in der Pognerstraße (Abschnitt Pullacher Platz bis Schäftlarnstraße)
+- TOP 4.6.: (A) Feuerwerk in der Zielstattstraße 5 am 09.07.2026
+- TOP 8.5.: Tag des offenen Denkmals am 13.09.2026
