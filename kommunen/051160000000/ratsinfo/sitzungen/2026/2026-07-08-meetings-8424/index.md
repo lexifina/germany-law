@@ -1,0 +1,61 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-07-08T17:43:00+02:00
+- Ende: 2026-07-08T20:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00267565.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00267565.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00267565.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptausschusses vom 06.05.2026 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Anwendung des „Bauturbos" - Mit Stimmenmehrheit empfohlen
+- TOP 2.1: Änderungsantrag zur Beratungsvorlage Nr. 0662/XI (Anwendung des Bauturbos und Zweiter Nachtrag zur Zuständigkeitsordnung), hier: Antrag der AfD-Ratsfraktion vom 23.06.2026 - Ohne Abstimmung
+- TOP 3: Dritter Nachtrag zur Zuständigkeitsordnung - Mit Stimmenmehrheit empfohlen
+- TOP 4: HR-Report 2026 - Kenntnisnahme
+- TOP 5: Fortschreibung Gesamtstrategie - An den Rat verwiesen
+- TOP 6: Markenentwicklungsprozess der Stadt Mönchengladbach – Sachstand und weiteres Vorgehen - Kenntnisnahme
+- TOP 7: Sanitäre Infrastruktur in der Innenstadt und bei öffentlichen Veranstaltungen - Kenntnisnahme
+- TOP 8: Länder- und Kommunal-Infrastrukturfinanzierungsgesetz (LuKIFG) und NRW-Infrastrukturgesetzesentwurf 2025–2036 - Mit Stimmenmehrheit empfohlen
+- TOP 8.1: Änderungsantrag zu LuKiFG / Sondervermögen Infrastruktur (Vorlage 0783/XI) Mehr Bündnis 90 / Grüne wagen; hier: Antrag der Ratsfraktion DIE LINKE / Die PARTEI vom 08.07.2026 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 9: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2025 und Verwendung des Überschusses - Einstimmig empfohlen
+- TOP 10: Entlastung der Sparkassenorgane für das Geschäftsjahr 2025 - Einstimmig empfohlen
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (2. Nachweisung) - Kenntnisnahme
+- TOP 12: Bereitstellung überplanmäßiger Haushaltsmittel 2026 im Bereich der Schulbegleitung von Kindern mit Behinderung sowie im Rahmen der Autismustherapie - Mit Stimmenmehrheit empfohlen
+- TOP 13: Modernisierung und Erweiterung der Bezirkssportanlage Mülfort - Einstimmig empfohlen
+- TOP 14: Straßenbenennung "Maria Hilf Terrassen" - Mit Stimmenmehrheit empfohlen
+- TOP 14.1: Straßennamenbennung im Stadtbezirk Nord, Neubaugebiet BP Nr. 794/N "Maria Hilf Terassen" 0613/XI: hier: Fraktionsnatrag - Mit Stimmenmehrheit nicht empfohlen
+- TOP 15: Schloss Rheydt, Schlossstraße 508 Brandschutzsanierung der gesamten Schlossanlage sowie Neueinrichtung und bauliche Begleitmaßnahmen zur Umsetzung der stadtgeschichtlichen Ausstellung in der Vorburg - Getrennte Abstimmung (s. Niederschrift)
+- TOP 16: Vorstellung des Themendossiers „Schulabsentismus in Mönchengladbach: Früh erkennen, gezielt handeln, Teil 1: Grundschulen – Datenbasierte Hand-lungsstrategie für Prävention, Steuerung und Unterstützung“ - Mit Stimmenmehrheit empfohlen
+- TOP 17: Zweckgebundene Zuwendung an den Betreuungsverein SKM Mönchengladbach e.V. und den Betreuungsverein Niederrhein e.V. für eine bedarfsgerechte finanzielle Ausstattung zur Führung von rechtlichen Betreuungen Mönchengladbach - Einstimmig empfohlen
+- TOP 18: Sozialbericht 2025 - Kenntnisnahme
+- TOP 19: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. - Mit Stimmenmehrheit empfohlen
+- TOP 20: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege - Mit Stimmenmehrheit empfohlen
+- TOP 21: Wiederbestellung einer Ombudsperson nach § nach § 16 Abs. 2 Wohn- und Teilhabegesetz NRW (WTG NRW) - Einstimmig empfohlen
+- TOP 22: Einführung eines „Tafel-Tickets“ für bedürftige Menschen in Mönchengladbach; hier: Fraktionsantrag von Die Linke/Die Partei vom 02.06.2026 - Mit Stimmenmehrheit nicht empfohlen
+- TOP 23: Gemeinschaftsgrundschule Wilhelm-Strauß-Straße 94, Rheydt - Getrennte Abstimmung (s. Niederschrift)
+- TOP 24: Interkommunale Entwicklung des GIB „Industriepark Elsbachtal-Ost" - Grundsatzbeschluss „Go4Gewerbe" - Mit Stimmenmehrheit empfohlen
+- TOP 25: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Umgestaltung Johann-Peter-Boelling-Platz (M09): Weiteres Vorgehen Tiefgarage Abteiberg - Einstimmig empfohlen
+- TOP 25.1: Fraktionsantrag zum Tagesordnungspunkt: „Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Umgestaltung Johann-Peter-Boelling-Platz (M09): Weiteres Vorgehen Tiefgarage Abteiberg“ (Vorlagennummer 0712/XI) - Mit Stimmenmehrheit nicht empfohlen
+- TOP 26: Optimierung der Haltestellen vor Ampeln (LSA) - Mit Stimmenmehrheit nicht empfohlen
+- TOP 27: Raserszene ausbremsen – nächtliche Vorrangschaltung einstellen - Mit Stimmenmehrheit nicht empfohlen
+- TOP 28: Einführung einer einheitlichen und detaillierten Veröffentlichung von Abstimmungsergebnissen im Ratsinformationssystem - Mit Stimmenmehrheit nicht empfohlen
+- TOP 29: Weiterentwicklung der Wohnungslosenhilfe in Mönchengladbach - Mit Stimmenmehrheit nicht empfohlen
+- TOP 30: Hitze-, Wasser- und Kühlprävention für heiße Sommer in Mönchengladbach - Mit Stimmenmehrheit nicht empfohlen
+- TOP 31: Verbesserung der Schulwegsicherheit sowie Durchführung eines Verkehrsversuchs im Bereich Erzbergerstraße / Luise-Vollmar-Straße / Schulstraße / Hardterbroicher Straße - Mit Stimmenmehrheit nicht empfohlen
+- TOP 32: Einbahnstraßenregelung Bereich Grünstraße, Teilbereich von Schmidt- Bleibtreu-Straße bis Schleestraße im Stadtteil Odenkirchen - Mit Stimmenmehrheit nicht empfohlen
+- TOP 33: Investitionen in Spielplätze sicherstellen; hier: Antrag der Ratsfraktionen CDU und SPD vom 11.06.2026 - Mit Stimmenmehrheit empfohlen
+- TOP 34: Änderungsantrag zur Beratungsvorlage 0666/XI: Bericht über die Baumaßnahmen am Schulzentrum Gerusenstraße - Mit Stimmenmehrheit nicht empfohlen
+- TOP 35: Entlastung der Sporthallensituation - Mit Stimmenmehrheit nicht empfohlen
+- TOP 36: Übernahme uneinbringlicher Schadensersatz- und Schmerzensgeldansprüche von tariflich Beschäftigten der Stadt Mönchengladbach analog § 82 LBG NRW und § 82a LBG NRW; hier: Antrag der CDU-Fraktion und SPD-Fraktion vom 19.06.2026 - Einstimmig empfohlen
+- TOP 37: Durchführung eines Cash-Recovery-Projektes im städtischen Haushalt durch ein externes Unternehmen - Mit Stimmenmehrheit nicht empfohlen
+- TOP 38: Hundesteuer vereinheitlichen, mehr Transparenz, mehr Tierschutz, weniger Bürokratie - Mit Stimmenmehrheit nicht empfohlen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Anfragen und Mitteilungen
