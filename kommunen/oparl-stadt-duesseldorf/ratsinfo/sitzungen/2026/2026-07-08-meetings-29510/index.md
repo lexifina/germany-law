@@ -1,0 +1,74 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-08T15:00:00+02:00
+- Ende: 2026-07-08T18:47:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29510
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29510
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 08.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591921.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 08.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591921.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung der Bezirksvertretung 4 am 08.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00591921.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/003/2026 vom 29.04.2026 - einstimmig beschlossen
+- TOP 3: Aktivitäten des Seniorenrats im Stadtbezirk 4 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4: Bebauungsplan der Innenentwicklung Nr. 04/021 (Entwurf) - Niederkasseler Straße / Kanalstraße - Empfehlung mehrheitlich beschlossen
+- TOP 5: Bebauungsplan-Entwurf Nr. 04/024 - Niederkasseler Lohweg 16 - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Errichtung von Sharingstationen im Umfeld der Mobilitätsstation Hansaallee - zur Kenntnis genommen
+- TOP 10: Konflikte zwischen Rad- und Fußverkehr auf dem Deich nördlich der Theodor-Heuss-Brücke vermeiden, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 11: Ladesäule Hansaallee (zwischen Niederkasseler Kirchweg und Schwalmstraße) in Fahrtrichtung Lörick - Alter, Kosten und Ersatzplanung, Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 12: Instandsetzung von Gehwegen und Straßen: Brückenunterführung Brüsseler Straße (B7) und Löricker Deich, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 13: Stillstehende Baustelle Greifweg 4 in unmittelbarer Nähe zum Belsenplatz - aktueller Sachstand und weiteres Vorgehen, Anfrage der Bezirksvertreterin Heidrun Leinenbach, CDU - zur Kenntnis genommen
+- TOP 14: Verkehrliche Auswirkungen durch den vorhabenbezogenen Bebauungsplan Nr. 25 „Südlich Böhlerstraße" in Meerbusch-Büderich?, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 15: Ladesäulen für E-Mobilität im linksrheinischen Düsseldorf?, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 16: Instandsetzung des Gehwegs Düsseldorfer Straße / Pariser Straße, Anfrage der Bezirksvertreterin Isolde Maessen - zur Kenntnis genommen
+- TOP 17: Ampelschaltung auf der Hansaallee vor der Kreuzung, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 18: Verkehrssituation während der Kragarmsanierung der Theodor-Heuss-Brücke basierend auf der Informationsveranstaltung vom 22. Juni 2026, Anfrage der AfD-Fraktion
+- TOP 19: Entwicklung des linksrheinischen Wirtschaftsstandorts - Gewerbegebiet Düsseldorf-Heerdt, Anfrage der CDU-Fraktion - zur Kenntnis genommen
+- TOP 20: Sozialer Wohnungsbau im Projekt "Wohnen am See" in Düsseldorf-Heerdt, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 21: Aktueller Sachstand zur Philippuskirche in Lörick – Denkmalschutz und zukünftige Nutzung, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 22: Zukunft der Kindertagesstätte am Grevenbroicher Weg 3a, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 23: Instandsetzung der Radwegeverbindung zwischen Grevenbroicher Weg und Oberlöricker Straße, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 24: Ausstattung linksrheinischer Haushalte mit der blauen Tonne, Anfrage des Bezirksvertreters Marc Klement - zur Kenntnis genommen
+- TOP 25: Erwartete Mehrverkehr im Umfeld der neuen internationalen Grundschule an der Comeniusstraße 1, Anfrage der Bezirksvertreterin Louisa Warden
+- TOP 26: Teich im Belsenpark, Anfrage des Bezirksvertreters Brien Dorenz, FDP - zur Kenntnis genommen
+- TOP 27: Umsetzung städteplanerischer Ziele im linksrheinischen Düsseldorf (Stadtbezirk 4), Anfrage des Bezirksvertreters Brien Dorenz, FDP
+- TOP 28: Zuwendung des Verkehrs- und Verschönerungsvereins für den linksrheinischen Teil der Stadt Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 29: Weihnachtsmarkt in Oberkassel im Jahr 2026 - einstimmig beschlossen
+- TOP 30: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - einstimmig beschlossen
+- TOP 31: Beschlusskontrolle der Bezirksvertretung 4 - zur Kenntnis genommen
+- TOP 32: Schulstraßen einrichten vor der Städtischen-Katholischen-Grundschule-Niederkassel und der Friedrich-von-Bodelschwingh-Grundschule, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 33: Verkehrssicherheit für alle auf der Wiesenstraße, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 34: Simon-Gatzweiler-Platz: Herstellung der Kanalisation wegen Untergrundbelastung, Antrag der Fraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 35: Bäume auf den Rheinwiesen nachpflanzen, Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 36: Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der Luegallee / Ecke Arnulfstraße (Barbarossaplatz), Antrag der AfD-Fraktion - einstimmig abgelehnt
+- TOP 37: Einbahnstraßenregelung in der Lohengrinstraße – Verkehrssicherheit nachhaltig verbessern, Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 38: Maßnahmen gegen das Herausziehen von Müll aus öffentlichen Abfallbehältern durch Vögel, Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 39: Zuweg Linnicher Straße zur Lütticher Straße sicher gestalten - zur Kenntnis genommen
+- TOP 40: Bäume pflanzen auf der Niederkasseler Straße zwischen Kanalstraße und Beim Dorf - zur Kenntnis genommen
+- TOP 41: Sanierung Verbindungsweg zwischen Schiessstraße und Krefelder Straße - zur Kenntnis genommen
+- TOP 42: Radstellplätze am Belsenplatz 2 - zur Kenntnis genommen
+- TOP 43: Fahrradstellplätze auf der Schorlemerstraße - zur Kenntnis genommen
+- TOP 44: Rückstau vermeiden - Verkehrsfluss verbessern - zur Kenntnis genommen
+- TOP 45: Parken an E-Ladeinfrastruktur zwischen 22.00 Uhr und 07.00 Uhr - zur Kenntnis genommen
+- TOP 46: Einsatz von Kleinbussen im Pendelverkehr auf der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 47: Vorstellung des Verkehrskonzeptes "Theodor-Heuss-Brücke" zur nächsten Sitzung der Bezirksvertretung 4 am 08.07.2026 - zur Kenntnis genommen
+- TOP 48: Infrastruktur bürgergerecht verbessern – Erreichbarkeit der neuen Poststelle sicherstellen - zur Kenntnis genommen
+- TOP 49: Radleitroute 2 überprüfen und verbessern - zur Kenntnis genommen
+- TOP 50: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 51: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 18 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 52: Outdoorfitness im Rheinpark Heerdt - einstimmig beschlossen
+- TOP 53: Antrag auf Abbruch, Rheinallee 124 – Beseitigung eines Zweifamilienhauses - einstimmig beschlossen
+- TOP 54: Street Art in Heerdt - zur Kenntnis genommen
+- TOP 55: Ampelphasen für zu Fuß Gehende auf der Luegallee überprüfen und ggf. anpassen - zur Kenntnis genommen
+- TOP 56: Nachhaltig die Parkraumqualität durch Quartiersgarage verbessern! - zur Kenntnis genommen
+- TOP 57: Regelmäßige Lärmbelästigung des Heerdter Sandbergs, Anfrage der AfD-Fraktion - zur Kenntnis genommen
