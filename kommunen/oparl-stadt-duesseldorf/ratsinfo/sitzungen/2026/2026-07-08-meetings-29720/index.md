@@ -1,0 +1,63 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-08T17:06:00+02:00
+- Ende: 2026-07-08T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29720
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29720
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592704.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592704.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00592704.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 29.04.2026 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 10.06.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten (wurden bereits übermittelt)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 6: Integriertes städtebauliches Entwicklungskonzept (ISEK) Rath/Mörsenbroich - mehrheitlich beschlossen
+- TOP 7: Bebauungsplan-Vorentwurf Nr. 06/027 - Nordöstlich Rather Kreuzweg - (ehem. Vallourec) Flächennutzungsplanänderung Nr. 222 - abweichend beschlossen
+- TOP 8: Zukunftsbetrachtung des Grundschul-Doppelstandortes Kartause-Hain-Schule / GGS Unterrath - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übermittelt)
+- TOP 11: Anfrage der CDU-Fraktion: Verhinderung der Blockade von Geh- und Radwegen durch Gewerbetreibende im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 12: Anfrage der CDU-Fraktion: Tarifzonen der neuen Parkausweisregelung - vertagt
+- TOP 13: Anfrage des Luca Meyer (Die Linke): Übersicht der Tempo-30-Regelungen im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Fahrradabstellanlage am Bahnhof Düsseldorf-Flughafen / Ahrensplatz - vertagt
+- TOP 15: Anfrage der Fraktion BÜ90/Die Grünen: Reparatur des Turnhallenbodens in der Grundschule Max-Halbe-Straße - vertagt
+- TOP 16: Anfrage der Fraktion BÜ90/Die Grünen: Unzureichender Lärmschutz am Flughafen Düsseldorf beim Test von Triebwerken - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 17: Anfrage der SPD-Fraktion: Umsetzung der Ertüchtigung von Bushaltepunkten am Beispiel des Mörsenbroicher Weges - vertagt
+- TOP 18: Anfrage der Fraktion BÜ90/Die Grünen: Linksabbiegen von der Westfalenstraße in die Straße In den Diken / Zebrastreifen - schriftlich beantwortet
+- TOP -: Anträge (wurden bereits übermittelt)
+- TOP 19: Antrag der CDU-Fraktion: Bereitstellung von Laubkörben auf dem Lichtenbroicher Weg und Am Stock im Herbst - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 20: Antrag der SPD-Fraktion: Entfernung der Container-Textilsammelstelle Münsterstraße - einstimmig beschlossen
+- TOP 21: Antrag der AfD-Fraktion: Prüfung der Parkbuchten am Rather Kreuzweg - mehrheitlich abgelehnt
+- TOP -: Verwaltungsvorlagen
+- TOP 22: Öffentliche Beleuchtung – Erneuerung gasbetriebene Beleuchtung (Standsicherheitsmaßnahmen 2026) in Mörsenbroich, Rath und Unterrath - vertagt
+- TOP 23: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - mehrheitlich beschlossen
+- TOP 24: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Team Bananenflanke Düsseldorf e. V. - Sommerfest 2026 - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Rather Familienzentrums - 13. Rather Kulturwochen - mehrheitlich beschlossen
+- TOP 26: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Westfalenstraße, Wiederherstellung Rasenfläche Mannesmannwerkstück - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 27: Freigabe des Fußweges für Radfahrende vom Mörsenbroicher Weg bis Zur Alten Kaserne in beide Fahrtrichtungen - Vorlage BV6/075/2026 - zur Kenntnis genommen
+- TOP 28: Einrichtung Parklücke zwischen Baumscheibe und Stromkasten an der Unterrather Straße 101 - Vorlage BV6/045/2026 - zur Kenntnis genommen
+- TOP 29: Optimierung der Lichtzeichenanlagen-Steuerung, Hülsmeyerplatz - Vorlage BV6/053/2026 - zur Kenntnis genommen
+- TOP 30: Baumfällungen im Stadtbezirk 6 ab der 24. Kalenderwoche 2026 - zur Kenntnis genommen
+- TOP 31: Sachstand zur Neuaufstellung des Nahverkehrsplans und zum Beteiligungsprozess Mitteilung der Verwaltung zur Sitzung der BV 1 bis BV 10 - zur Kenntnis genommen
+- TOP 32: Einführung einer Live-Übertragung des öffentlichen Teils der Sitzungen der Bezirksvertretung 6 - BV6/073/2026 - zur Kenntnis genommen
+- TOP 33: Querungshilfe Volkardeyer Weg - Vorlage BV6/048/2026 - zur Kenntnis genommen
+- TOP 34: Weniger Angst-Räume, dafür mehr Aufenthaltsqualität im Stadtbezirk 6 am Beispiel Kürtenstraße - Vorlage BV6/195/2025 - zur Kenntnis genommen
+- TOP 35: Weihnachtsmarkt am Rather Carreé im Jahr 2026 - abweichend beschlossen
+- TOP 36: Bauunterhaltungsmittel 2026 Teil C "Förderung Dritter" Zuschussantrag des Post-Kleingartenverein Düsseldorf e. V. - Begegnungsecke im öffentlichen Bereich - einstimmig beschlossen
+- TOP 37: Wiederherstellung der Fahrradabstellplätze vor der Sofia Apotheke "Klinkenplatz", Unterrather Straße - Vorlage BV6/102/2026 - zur Kenntnis genommen
+- TOP 38: Verbesserung der Sauberkeit an der Treppe vom Mintarder Weg zur Hamborner Straße - Vorlage BV6/099/2026 - zur Kenntnis genommen
