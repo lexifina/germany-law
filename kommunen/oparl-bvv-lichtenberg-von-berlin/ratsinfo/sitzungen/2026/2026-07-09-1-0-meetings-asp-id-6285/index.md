@@ -1,0 +1,68 @@
+# 54. Sitzung in der IX. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-07-09T17:00:00+02:00
+- Ende: 2026-07-09T21:10:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6285
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6285
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=457758
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit - erledigt
+- TOP 2: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 3: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 5.1: Änderung der Geschäftsordnung, Anlage Drucksachenordnung - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Hitzeschutz im Bezirk stärken – Wo sind die kühlen Orte? - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Kein neues Planungsrecht für Büro-Komplexe - Leerstehende Büros zu Wohnungen umbauen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Finanzierung der Statikprüfung für den Taubenschlag auf dem Dach des CineMotion - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Familienfreundliches Lichtenberg, familienfreundliches Jugendamt: Ein Spielplatz als Ort der Begegnung und niedrigschwelligen Zugangs am Jugendamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Sitzgelegenheiten im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Sondermittelantrag Balkenmäher zur insektenfreundlichen Pflege von Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Sondermittelantrag Projekt Büchertauchbox Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Sondermittelantrag fotografische Dokumentation des Nicaraguawandbildes - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Sondermittelantrag Richard-Wagner-Grundschule Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Verschattungsvorrichtungen Nordseite Sportplatz Harnackstraße/Coppistraße - überwiesen
+- TOP 5.12: Taubenschlag im Kaskelkiez - überwiesen
+- TOP 5.13: Besseres Miteinander von Fuß- und Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Ausschilderung der Radwege an Knotenpunkten orientieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Sonnenschutz Sitzgruppe Hönower Weg 54 - überwiesen
+- TOP 5.16: Fahrbahnschäden beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 5.17: Kiosk auf dem Tuchollaplatz mit Angeboten aus der Nachbarschaft wiederbeleben - ohne Änderungen in der BVV beschlossen
+- TOP 5.18: Wenn die Folgen des Klimawandels mehr zu spüren sind, als gesund ist: Senat muss Bezirke jetzt beim Kampf gegen den Eichenprozessionsspinner unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Trinkwasserversorgung an allen Lichtenberger Schulen unverzüglich sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.20: Ordnung am Japanischen Tor schaffen - überwiesen
+- TOP 5.21: Bauvorhaben Am Lindenplatz / Schwarzmeerstraße klar adressieren - ohne Änderungen in der BVV beschlossen
+- TOP 5.22: Kein neues Hochhaus im Kiez Frankfurter Allee Süd - überwiesen
+- TOP 5.23: Gesamten Kiezgarten wieder begehbar machen - überwiesen
+- TOP 6: Bericht des Bezirksamtes und Aussprache dazu - erledigt
+- TOP 7: Fragestunde für Einwohnerinnen und Einwohner - erledigt
+- TOP 8: Wahlen - erledigt
+- TOP 9: Offene Drucksachen der letzten BVV-Sitzung - erledigt
+- TOP 10: Prioritäten der Fraktionen - (offen)
+- TOP 10.1: Durchmischte Stadtquartiere wieder schaffen - Keine Quoten mehr für unsere Landeseigenen - in der BVV abgelehnt
+- TOP 10.2: Kein Werben fürs Sterben - Bundeswehr raus aus den Schulen! - in der BVV abgelehnt
+- TOP 10.3: Mehr Wohnungen für die Gartenstadt Karlshorst! - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Resolution: Für einen fairen und gewaltfreien Wahlkampf in Lichtenberg - in der BVV abgelehnt
+- TOP 10.5: Veranstaltungen des Bezirksamtes für alle sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Persönlichkeitsrechte schützen: Bildaufnahmen in Toiletten verhindern! - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - erledigt
+- TOP 12: Vorlagen zur Beschlussfassung (BA und Vorsteher/in) - (offen)
+- TOP 12.1: Beschluss über das Zentren- und Einzelhandelskonzept 2025 (ZEK 2025) für den Bezirk Lichtenberg von Berlin - mit Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Duschbusse zum Bahnhof Lichtenberg holen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Eine Kiezkantine für Lichtenberg - überwiesen
+- TOP 14.3: Energy Sharing nach § 42c EnWG auch in Lichtenberg nutzen - überwiesen
+- TOP 14.4: Beendigung freiwilliger bezirklicher Klimaschutzmaßnahmen in Lichtenberg - in der BVV abgelehnt
+- TOP 14.5: Wahlwerbung im öffentlichen Raum auf ausgewiesene Standorte konzentrieren - Umweltbelastung und Vermüllung reduzieren - in der BVV abgelehnt
+- TOP 14.6: Übertrag von zweckgebundenen Haushaltsmitteln vom Haushaltsjahr 2026 ins Haushaltsjahr 2027 für die Umsetzung des Antrages DS/1426/IX „Ein Frauenzentrum für FLINTA* in Lichtenberg!“ - überwiesen
+- TOP 14.7: Handlungsspielraum bei der Planung und Umsetzung von Investitionen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15: VzK/Aufhebungsanträge - erledigt
+- TOP 16: Geschäftliche Mitteilungen des Vorstandes - erledigt
