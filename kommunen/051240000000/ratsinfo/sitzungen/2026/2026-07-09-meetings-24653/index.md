@@ -1,0 +1,95 @@
+# öffentliche/nicht öffentliche Sitzung des Haupt- und Personalausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-07-09T16:02:00+02:00
+- Ende: 2026-07-09T16:23:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24653
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00366548.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00367709.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wahl eines Beigeordneten für den Geschäftsbereich 4 – Finanzen und Beteiligungssteuerung (nur Rat)
+- TOP 1.2: Bestellung eines Stadtkämmerers im Interim - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Situation der Bahnhofs-Mall am Wuppertaler Hauptbahnhof
+- TOP 2.2: Unfall-Statistik im Zusammenhang mit E-Scootern
+- TOP 2.2.1: Beantwortung der Anfrage der AfD-Fraktion zum Thema Unfallstatistik im Zusammenhang mit E-Scootern
+- TOP 2.3: Auskunft zu Personal- und Haushaltsmitteln für den Bereich sexuelle Vielfalt (LGBTIQA+)
+- TOP 2.4: Umsetzungsstand des Wuppertaler Hitzeaktionsplans; Große Anfrage der SPD-Ratsfraktion vom 06.07.2026
+- TOP 2.5: Zukunft des Grundstücks Obere Lichtenplatzer Straße – Gründe für die Aussetzung der Vermarktung und weiteres Vorgehen der Verwaltung
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Täterarbeit stärken – Prävention häuslicher Gewalt konsequent ausbauen; Gemeinsamer Antrag der Fraktionen von SPD und CDU - ungeändert beschlossen
+- TOP 4.2: Priorisierte Sanierung von Schultoiletten im Stadtgebiet Wuppertal - ungeändert beschlossen
+- TOP 4.3: Katastrophenschutzlager – Alternativen zur vorgesehenen Anmietung prüfen; Gemeinsamer Antrag der Fraktionen von SPD und CDU - ungeändert beschlossen
+- TOP 4.4: Sofortprogramm Hitzeschutz für obdachlose und suchtkranke Menschen in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.5: Hitzeschutz an Kitas, Schulen sowie Alten- und Pflegeeinrichtungen konsequent ausbauen - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Vorkaufssatzung für das Vohwinkeler Zentrum - ungeändert beschlossen
+- TOP 6.2: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.3: Richtlinie der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung und Gestaltung von privaten und kommunalen Haus- und Hofflächen - ungeändert beschlossen
+- TOP 6.4: Öffentlich-rechtliche Vereinbarung zur Unterhaltung einer gemeinsamen Gruppe Leitender Notärztinnen und Leitender Notärzte der Städte Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Redaktionelle Berichtigung § 4 (Inanspruchnahme Eigenkapital) der Haushaltssatzung 2026/2027 - ungeändert beschlossen
+- TOP 7.2: Ermächtigungsübertragungen in das Haushaltsjahr 2026 - Entgegennahme ohne Beschluss
+- TOP 7.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2025 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Dritte Satzung zur Änderung der Satzung der Jobcenter Wuppertal AöR - zurückgezogen
+- TOP 8.2: Einbringung Wirtschaftsplan GMW 2026 - in der Sache erledigt
+- TOP 8.3: Jahresabschluss der Wirtschaftsförderung Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.4: Durchführungsbeschluss zur Optimierung der Finanzierung der Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (gwg) und Rekommunalisierung der von der Stadtsparkasse Wuppertal AöR gehaltenen Anteile an der gwg in den städtischen Konzern - zur Beratung und Entscheidung verwiesen
+- TOP 8.5: Gründung einer Stadtentwicklungsgesellschaft - zur Beratung und Entscheidung verwiesen
+- TOP 8.6: Jahresabschluss und Lagebericht 2025 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.7: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.8: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 8.9: WSW Wuppertaler Stadtwerke GmbH – Bergische Kooperation: Gründung einer gemeinsamen Tochtergesellschaft - ungeändert beschlossen
+- TOP 8.10: Grundsatzbeschluss zur Finanzierung der Investitionen in den Neubau der Wagenhalle Vohwinkel und den Neubau des Betriebshofs Varresbeck - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 1276/1 V - Einern (Gut Einern Süd) - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Radring - Einrichtung einer Fahrradstraße in einem Teilabschnitt der Straße Zur Waldesruh - ungeändert beschlossen
+- TOP 10.2: Hauptstraße - Verkehrliche Maßnahmen im Zuge der Deckensanierung - ungeändert beschlossen
+- TOP 10.3: Brücke Fischertal Provisorium Stahlüberbauteil - Kostenneufestsetzung sowie überplanmäßige Mittelbereitstellung - zur Beratung und Entscheidung verwiesen
+- TOP 10.4: Grundschule Am Dönberg, Grundschule Hammesberger Weg und Förderschule Melanchthonstr./ unbefristeter Teilstandort Kyffhäuser Str. - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.5: Sachstand zum Neubau der gemeinsamen Feuerwehrleitstelle Solingen/Wuppertal - Entgegennahme ohne Beschluss
+- TOP 10.6: Barrierefreie Anbindung der Südstadt an den Wuppertaler Hauptbahnhof - Kostenneufestsetzung - ungeändert beschlossen
+- TOP 10.7: Notwendigkeit der vorzeitigen Beauftragung der Leistungsphase 4 - Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: 6. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2027-2032) - ungeändert beschlossen
+- TOP 11.2: Abschluss der Vorbereitenden Untersuchungen und Stadtumbaugebiet Zentrum Vohwinkel - ungeändert beschlossen
+- TOP 11.3: Sachstandsbericht Projekt Radring - Entgegennahme ohne Beschluss
+- TOP 11.4: Stadtentwässerung - Maßnahmenkatalog 2027/Katalogentwurf 2028 - ungeändert beschlossen
+- TOP 11.5: Quartalsbericht I/2026 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.6: Gestaltung der Stützmauer am Briller Kreuz - geändert beschlossen
+- TOP 11.7: Beitritt der Stadtverwaltung Wuppertal zu Urban.KI - ungeändert beschlossen
+- TOP 11.8: ISEK Vohwinkel – Aufwertung Corneliuspark und Kinderspielplatz Corneliusstraße - ungeändert beschlossen
+- TOP 11.9: Kinderspielplatz Klippe – Sozialer Zusammenhalt Heckinghausen/Langerfeld-West - ungeändert beschlossen
+- TOP 11.10: Nutzungsänderung Sportplatz Kaiserhöhe zu einem multifunktionalen Sportpark - ungeändert beschlossen
+- TOP 11.11: Stadtteilbibliothek BIB@BOB – Räumliche Änderung und Prüfung der Einrichtung einer Open Library - ungeändert beschlossen
+- TOP 11.12: Betriebskostenzuschüsse 2026 an die Träger der offenen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.13: Schenkung von der Schloss Lüntenbeck GmbH an den SB 213 - ungeändert beschlossen
+- TOP 11.14: Antrag auf Einrichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) am Berufskolleg am Haspel - ungeändert beschlossen
+- TOP 11.15: Einrichtung von Familiengrundschulzentren in Wuppertal - ungeändert beschlossen
+- TOP 11.16: Erwerb des ehemaligen Kaufhof-Gebäudes am Neumarkt durch die Stadt - zur Beratung und Entscheidung verwiesen
+- TOP 11.17: Bewerbung des Bergischen Städtedreiecks zur Ausrichtung der eREGIONALE 2033 - ungeändert beschlossen
+- TOP 11.18: Einführung eines gesamtstädtischen Verfahrens zur Aufgaben-,Produkt- und Prozesskritik"; Umsetzung der HSK-Maßnahme und des Begleitantrages zum Drei-Säulen-Modell - zur Beratung und Entscheidung verwiesen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Gremienbesetzungen - in der Sache erledigt
+- TOP 12.2: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.3: Umbesetzung JVA Beirat Vohwinkel - ungeändert beschlossen
+- TOP 12.4: Personelle Veränderungen in den Ausschüssen - ungeändert beschlossen
+- TOP 12.5: Teilweise Neubesetzung des Planungsbeirates für die Klinik des Maßregelvollzugs (Forensik) des Landschaftsverbandes Rheinland (LVR) in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 12.6: Bildung der Kreiswahlausschüsse für die Landtagswahl am 25. April 2027 für die Landtagswahlkreise 32 Wuppertal I, 33 Wuppertal II und 34 Wuppertal III – Solingen II - ungeändert beschlossen
+- TOP 12.7: Wahl der Sachkundigen Einwohnerinnen und Einwohner für die Kommunalwahlperiode 2025-2030 - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.9: Umbesetzung Planungsbeirat Forensik - ungeändert beschlossen
+- TOP 12.10: Gremienumbesetzung; Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 12.11: Gremienbesetzung/Benennung - ungeändert beschlossen
