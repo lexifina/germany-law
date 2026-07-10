@@ -9,9 +9,10 @@
 ## Abschnitt 2 Anerkennung und Vollstreckung nach der Richtlinie 2011/99/EU
 
 - [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2a Gestattung der Anhörung mittels Videokonferenz oder Fernkommunikation](0002a.md)
 - [§ 3 Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung](0003.md)
 - [§ 4 Verfahren der Anerkennung einer Europäischen Schutzanordnung](0004.md)
-- [§ 5 Zuständigkeitskonzentration](0005.md)
+- [§ 5 Zuständigkeitskonzentration; Verordnungsermächtigungen](0005.md)
 - [§ 6 Versagung der Anerkennung einer Europäischen Schutzanordnung](0006.md)
 - [§ 7 Entscheidung über die Anerkennung einer Europäischen Schutzanordnung](0007.md)
 - [§ 8 Beschwerde gegen die Ablehnung der Anerkennung einer Europäischen Schutzanordnung](0008.md)
