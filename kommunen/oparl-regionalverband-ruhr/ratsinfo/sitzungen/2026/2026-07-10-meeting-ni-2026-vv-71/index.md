@@ -1,0 +1,100 @@
+# 3. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2026-07-10T10:00:00+02:00
+- Ende: 2026-07-10T13:15:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2026-VV-71
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2026-VV-71
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VV-71
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VV-71
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Formalia
+- TOP 1.1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 1.2: Genehmigung der Niederschrift
+- TOP 1.3: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 1.3.1: Antrag der AfD-Fraktion Gremienumbesetzung
+- TOP 1.3.2: Antrag der SPD-Fraktion Umbesetzung im Ausschuss für Kultur, Sport, Bildung und Wissenschaft
+- TOP 2: Aktuelles
+- TOP 2.1: Mitteilung des Regionaldirektors: Bericht zum Urteil des OVG NRW zum Regionalplan Ruhr
+- TOP 2.2: Bericht Delegation Stuttgart
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 3.1: Förderprogramm "Kommunale Straßeninfrastruktur 2026" hier: Unterrichtung und Beschlussfassung
+- TOP 4: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 4.1: 1. Änderung des Regionalplans Ruhr (RP Ruhr) - Windenergie, Feststellungsbeschluss
+- TOP 4.1.1: Ersetzungsvorlage Feststellungsgeschluss: 1. Änderung des Regionalplans Ruhr (RP Ruhr) - Windenergie
+- TOP 4.2: Feststellungsbeschluss zur 2. Änderung des Regionalplans Ruhr: Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Hattingen
+- TOP 4.2.1: Ersetzungsvorlage Feststellungsbeschluss zur 2. Änderung des Regionalplans Ruhr: Änderung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Hattingen
+- TOP 5: Fraktionsanträge
+- TOP 6: Anfragen und Mitteilungen
+- TOP 6.1: Anfragen
+- TOP 6.1.1: Antwort auf die Anfrage der AfD-Fraktion: Finanzielle Auswirkungen und Risiken in Folge des OVG-Urteils zum Regionalplan
+- TOP 6.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 7: Vorlagen aus dem Ausschuss für Europa, Wirtschaft und Soziales
+- TOP 8: Vorlagen aus dem Ausschuss für Kultur, Sport, Bildung und Wissenschaft
+- TOP 8.1: Genehmigung der Erhöhung der Förderhöchstsumme der Projektförderung Interkultur Ruhr
+- TOP 8.1.1: Ersetzungsvorlage Genehmigung der Förderhöchstsumme der Projektförderung Interkultur Ruhr
+- TOP 8.1.2: Änderungsantrag der AfD-Fraktion Förderprojekte Regionale Kulturförderung und Interkultur Ruhr
+- TOP 9: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 9.1: Regionales Radwegemonitoring - Zustandserfassung und Bewertung mittels KI-Tool im Ruhrgebiet
+- TOP 10: Vorlagen aus dem Ausschuss für Finanzen und Beteiligungen
+- TOP 10.1: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2025. Beschluss über die Behandlung des Jahresergebnisses 2025. Entlastung des Betriebsausschusses RVR Ruhr Grün.
+- TOP 10.2: Angelegenheiten der Business Metropole Ruhr GmbH - Ruhr:HUB GmbH, Übertragung der Gesellschaftsanteile der Business Metropole Ruhr GmbH auf den Gesellschafter WirtschaftsEntwicklungsGesellschaft Bochum mbH
+- TOP 10.3: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.4: Angelegenheiten Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2025
+- TOP 10.5: Optimierung des Beteiligungsportfolios des Regionalverbandes Ruhr - Stellungnahme der Verwaltung
+- TOP 10.5.1: Änderungsantrag der Fraktionen von SPD, CDU und Bündnis 90/Die Grünen Optimierung des Beteiligungsportfolios des Regionalverbandes Ruhr - Stellungnahme der Verwaltung
+- TOP 10.5.2: Änderungsantrag der Fraktion Die Linke Optimierung des Beteiligungsportfolios des Regionalverbandes Ruhr - Stellungnahme der Verwaltung
+- TOP 10.6: Angelegenheiten der Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.7: Angelegenheiten der Kultur Ruhr GmbH Verlängerung der Nebenabrede zum Gesellschaftsvertrag für den Zeitraum 2027-2029
+- TOP 10.8: Bekanntgabe der in der Zeit vom 01.01.2026 - 31.03.2026 für das Haushaltsjahr 2026 genehmigten Haushaltsüberschreitungen
+- TOP 10.9: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH Baukostensteigerung bei der Generalsanierung des Solebads Vonderort; erhöhter Mittelbedarf
+- TOP 10.10: Angelegenheiten der RuhrFutur gGmbH Jahresabschluss zum 31.12.2025
+- TOP 10.11: Angelegenheiten der Ruhr LIVE gGmbH EU-Beihilferechtliche Betrauung
+- TOP 10.12: Überplanmäßige Mittelbereitstellung für das Projekt "Straßenpanoramaerfassung - Regionale Befahrung"
+- TOP 10.13: Präsentation des RVR auf den IGA-Flächen
+- TOP 10.14: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Verschmelzung der ÖKODATA GmbH auf die AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 10.15: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Verschmelzung der AGR-Personal-Service Ruhr GmbH auf die AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 10.16: Entwurf des Jahresabschlusses des Regionalverbandes Ruhr zum 31.12.2025
+- TOP 11: Vorlagen aus dem Ausschuss für Umwelt, Klima und Liegenschaften
+- TOP 11.1: Beschluss zur Durchführung zweier Interessenbekundungsverfahren (IBV) zum Ausbau der Erneuerbaren Energien auf RVR Liegenschaften
+- TOP 11.2: Angelegenheiten der Revierpark Wischlingen GmbH Abschluss einer Parkpflegevereinbarung
+- TOP 11.3: Sachstand Umweltbildung im Regionalverband Ruhr
+- TOP 12: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 12.1: Baumaßnahme am NaturForum Bislicher Insel, Zustimmung zum weiteren Ausbau (Bauabschnitt II)
+- TOP 13: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 13.1: Stellungnahme des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW
+- TOP 13.2: Stellungnahme des Rechnungsprüfungsausschusses gemäß § 59 Abs. 3 Gemeindeordnung NRW
+- TOP 13.3: Bericht der Märkischen Revision GmbH des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlusses zum 31.12.2023
+- TOP 13.4: Bericht der Märkischen Revision GmbH des Regionalverbandes Ruhr über die Prüfung des Gesamtabschlusses zum 31.12.2024
+- TOP 14: Vorlagen ohne Fachausschussbeteiligung
+- TOP 14.1: Änderung der Zuständigkeitsordnung
+- TOP 14.2: Ruhr LIVE gGmbH - Gemeinnützigkeit
+- TOP 15: Fraktionsanträge/Resolutionen
+- TOP 15.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr Für einen starken Europäischen Sozialfonds ab 2028 - Arbeitsmarktpolitik, soziale Integration und Zusammenhalt im Ruhrgebiet sichern
+- TOP 15.1.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr Für einen starken Europäischen Sozialfonds ab 2028 - Arbeitsmarktpolitik, soziale Integration und Zusammenhalt im Ruhrgebiet sichern
+- TOP 15.2: Antrag der Koalition im Ruhrparlament: Änderungen bei der Vergabe von GRW-Mittel
+- TOP 16: Anfragen und Mitteilungen
+- TOP 16.1: Anfragen
+- TOP 16.1.1: Anfrage der Fraktion Bündnis 90/Die Grünen Aktueller Sachstand der Radschnellwegeprojekte RS1 (Radschnellweg Ruhr) und RS7 (Radschnellweg Mittleres Ruhrgebiet)
+- TOP 16.1.2: Anfrage der Fraktion Bündnis 90/Die Grünen Digitale Souveränität
+- TOP 16.1.2.1: Antwort auf die Anfrage der Fraktion Die Grünen: Digitale Souveränität
+- TOP 16.2: Mitteilungen
+- TOP 16.2.1: RVR-Delegationsreise in die japanische Präfektur Hokkaidō
+- TOP 16.2.2: Probeweiser Beitritt K+S zur Schlichtungsstelle Bergschaden NRW
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 17: nicht öffentlicher Tagesordnungspunkt
+- TOP 18: nicht öffentlicher Tagesordnungspunkt
+- TOP 18.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 18.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
