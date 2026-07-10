@@ -23,6 +23,7 @@
 - [§ 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung](0009a.md)
 - [§ 9b Europäisches System der Registervernetzung](0009b.md)
 - [§ 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung](0009c.md)
+- [§ 9d Sammelstelle für das zentrale europäische Zugangsportal; Verordnungsermächtigung](0009d.md)
 - [§ 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen](0010.md)
 - [§ 10a Anwendung der Verordnung (EU) 2016/679](0010a.md)
 - [§ 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen 

@@ -35,6 +35,7 @@
 - [§ 23 Anzeige von Verdachtsfällen](0023.md)
 - [§ 24 Verpflichtung des Insolvenzverwalters](0024.md)
 - [§ 24a Verordnungsermächtigung](0024a.md)
+- [§ 24b Meldungen zum zentralen europäischen Zugangsportal](0024b.md)
 
 ## Abschnitt 3 Marktmissbrauchsüberwachung
 

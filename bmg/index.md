@@ -42,7 +42,7 @@
 
 ## Abschnitt 4 Besondere Meldepflichten
 
-- [§ 28 Besondere Meldepflichten für Binnenschiffer und Seeleute](0028.md)
+- [§ 28 Besondere Meldepflichten für Binnenschiffer](0028.md)
 - [§ 29 Besondere Meldepflicht in Beherbergungsstätten](0029.md)
 - [§ 30 Besondere Meldescheine für Beherbergungsstätten](0030.md)
 - [§ 31 Verarbeitungsbeschränkungen](0031.md)
@@ -61,7 +61,6 @@
 - [§ 37 Datenweitergabe](0037.md)
 - [§ 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen](0038.md)
 - [§ 39 Verfahren des automatisierten Abrufs](0039.md)
-- [§ 39a Datenbestätigung für öffentliche Stellen](0039a.md)
 - [§ 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung](0040.md)
 - [§ 41 Zweckbindung übermittelter Daten und Hinweise](0041.md)
 - [§ 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften](0042.md)
@@ -75,7 +74,6 @@
 - [§ 47 Zweckbindung der Melderegisterauskunft](0047.md)
 - [§ 48 Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten](0048.md)
 - [§ 49 Automatisierte Melderegisterauskunft](0049.md)
-- [§ 49a Datenbestätigung](0049a.md)
 - [§ 50 Melderegisterauskünfte in besonderen Fällen](0050.md)
 - [§ 51 Auskunftssperren](0051.md)
 - [§ 52 Bedingter Sperrvermerk](0052.md)

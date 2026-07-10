@@ -39,7 +39,7 @@
 
 - [§ 21 Anerkannte Sprache](0021.md)
 - [§ 22 Elektronische Einreichung, Aufbewahrung](0022.md)
-- [§ 23 (weggefallen)](0023.md)
+- [§ 23 Meldungen zum zentralen europäischen Zugangsportal](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631](0024a.md)
 - [§ 25 Maßnahmen bei Verstößen](0025.md)

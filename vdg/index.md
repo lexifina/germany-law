@@ -30,7 +30,7 @@
 
 ## Teil 4 Qualifizierte Dienste für die Zustellung elektronischer Einschreiben
 
-- [§ 18 Dienste für die Zustellung elektronischer Einschreiben](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 
 ## Teil 5 Schlussvorschriften
 

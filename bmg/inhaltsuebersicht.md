@@ -37,7 +37,7 @@ Allgemeine Meldepflichten
 | § 27 | Ausnahmen von der Meldepflicht |
 Abschnitt 4
 Besondere Meldepflichten
-| § 28 | Besondere Meldepflichten für Binnenschiffer und Seeleute |
+| § 28 | Besondere Meldepflicht für Binnenschiffer |
 | § 29 | Besondere Meldepflicht in Beherbergungsstätten |
 | § 30 | Besondere Meldescheine für Beherbergungsstätten |
 | § 31 | Verarbeitungsbeschränkungen |
@@ -54,7 +54,6 @@ Datenübermittlungen zwischen öffentlichen Stellen
 | § 37 | Datenweitergabe |
 | § 38 | Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen |
 | § 39 | Verfahren des automatisierten Abrufs |
-| § 39a | Datenbestätigung für öffentliche Stellen |
 | § 40 | Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung |
 | § 41 | Zweckbindung übermittelter Daten und Hinweise |
 | § 42 | Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften |
@@ -67,7 +66,6 @@ Melderegisterauskunft
 | § 47 | Zweckbindung der Melderegisterauskunft |
 | § 48 | Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten |
 | § 49 | Automatisierte Melderegisterauskunft |
-| § 49a | Datenbestätigung |
 | § 50 | Melderegisterauskünfte in besonderen Fällen |
 | § 51 | Auskunftssperren |
 | § 52 | Bedingter Sperrvermerk |
