@@ -1,0 +1,67 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-07-10T16:00:00+02:00
+- Ende: 2026-07-10T19:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8048
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8048
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 10.07.2026 öffentlich Teil I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00247898.pdf
+- Ergebnisprotokoll: Sitzungspaket RAT 10.07.2026 öffentlich Teil I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00247898.pdf
+- Wortprotokoll: Sitzungspaket RAT 10.07.2026 öffentlich Teil I http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00247898.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Einführung und Verpflichtung eines Ratsmitgliedes
+- TOP 3: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 4: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Innenstadtstärkung
+- TOP 6: Zweckgebundene Bezuschussung des Vereins Zukunftsinitiative Neuss (ZIN) zur Umsetzung von Zielen des Innenstadtstärkungsprogramms 2026 - mehrheitlich zugestimmt
+- TOP 7: Umgang mit dem Bauturbo bei der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 8: Aufstellungsbeschluss BP 514 Hammfeld, Hessentordamm/Hammer Landstraße (Wendersplatz) - mehrheitlich zugestimmt
+- TOP 9: Änderung der Verwaltungsgebührensatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP -: Schulausschuss
+- TOP 10: Gewährung städtischer Zuschüsse für außerunterrichtliche Betreuungsangebote außerhalb der OGS - einstimmig zugestimmt
+- TOP 11: Schulentwicklungsplan Grundschulen - einstimmig zugestimmt
+- TOP 12: Schulentwicklungsplan Weiterführende Schulen - einstimmig zugestimmt
+- TOP -: Kulturausschuss
+- TOP 13: Grundsätze zum Verkauf von Werken aus der Sammlung „Kunst aus Neuss“ - einstimmig zugestimmt
+- TOP 14: VHS: Honorarerhöhungen und Entgelterhöhung der VHS Neuss/Kulturforum Alte Post - einstimmig zugestimmt
+- TOP -: Ausschuss für Wirtschaft, Beschäftigung und Liegenschaften
+- TOP 15: Feststellung des Jahresabschlusses 2025 der Liegenschaften und Vermessung Neuss (LVN) sowie Beschluss über die Entlastung der Betriebsleitung - einstimmig zugestimmt
+- TOP 16: Gewerbeflächenenticklung und Ansiedlungsstrategie - mit Änderungen mehrheitlich zugestimmt
+- TOP -: Rechnungsprüfungsausschuss
+- TOP 17: Prüfung des Jahresabschlusses 2024 sowie der Jahresabschlüsse 2024 der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP -: Jugendhilfeausschuss
+- TOP 18: Bedarfsplan Kindertagesbetreuung 26/27 ff - mit Änderungen einstimmig zugestimmt
+- TOP 19: Betrieb Spielmobil und Sachstand Kinderschutzbund Neuss - abgesetzt
+- TOP -: Bezirksausschuss VI - Gnadental, Grimlinghausen, Erfttal
+- TOP 20: Vermittlungskonzept Niedergermanischer Limes als UNESCO Welterbe - mehrheitlich zugestimmt
+- TOP -: Beschlussfassungen des Rates
+- TOP 21: Neufassung der Rettungsdienstgebührensatzung der Stadt Neuss - einstimmig zugestimmt
+- TOP 22: Antrag der ECE Rheinpark-Center-Neuss auf Erlass einer ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte an Sonntagen im Rahmen der Durchführung der Landesgartenschau Neuss gemäß Ladenöffnungsgesetz NRW - einstimmig zugestimmt
+- TOP 23: Vorschläge zur Berufung weiterer beratender Mitglieder des Bezirksausschusses I - Innenstadt - einstimmig zugestimmt
+- TOP 24: Erhöhung der institutionellen Förderung des Rheinischen Landestheaters Neuss - mehrheitlich zugestimmt
+- TOP 25: Einführung der Benutzungsordnung für den Stefanie-Thywissen-Dorsemagen-Saal (Alter Ratssaal) - verwiesen
+- TOP -: Anträge
+- TOP 26: Antrag der AfD-Fraktion betr.: Maßnahmen zur nachhaltigen Eindämmung und Zerschlagung der offenen Drogenszene und zur Stärkung der Sicherheit im öffentlichen Raum in Neuss - verwiesen
+- TOP 27: Antrag der AfD-Fraktion betr.: Neusser Kinderzimmer-Initiative - Gemeinsam anpacken. Gemeinsam helfen. - mehrheitlich abgelehnt
+- TOP 28: Antrag der CDU-Fraktion betr.: Sicherheit und Ordnung stärken - Drogenhilfe weiterentwickeln - verwiesen
+- TOP 29: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Bericht zum akuten Hitzeschutz der Stadt Neuss - beraten ohne Abstimmung
+- TOP 30: Antrag der Fraktion DIE LINKE betr.: Umsetzung von Maßnahmen aus dem Klimaanpassungskonzept: Trinkwasserbrunnen, Wasserflächen und Zerstäuber in der Innenstadt - beraten ohne Abstimmung
+- TOP 31: Antrag der Fraktion DIE LINKE betr.: Einführung der Flächenkreislaufwirtschaft in Neuss - verwiesen
+- TOP -: Anfragen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 34: Bezahlbarer Wohnraum - Flächenentwicklung - zur Kenntnis genommen
+- TOP 35: Haushalt 2026 der Stadt Neuss - Veröffentlichung der Stellungnahme und Genehmigung des Rhein-Kreises Neuss - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
