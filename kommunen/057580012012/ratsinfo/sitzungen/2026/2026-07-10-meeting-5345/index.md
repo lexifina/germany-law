@@ -1,0 +1,59 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2026-07-10T17:00:00+02:00
+- Ende: 2026-07-10T21:20:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaukIUrXEnUpKmAOrju-CuM
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5345
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYVCwjYA-eK033WXuy8KfTF3MGMNrEv5PdZDU2zUD_8N/Einladung_Rat_10.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdXrcXJ_Ro9ksuzAPV2B-gK7XpJkT30Q4vApD28SxZrS/Oeffentliche_Niederschrift_Rat_10.07.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Anträge zur Tagesordnung
+- TOP A.3: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 29.05.2026
+- TOP A.4: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.6: Anregungen gemäß § 24 GO NRW
+- TOP A.7: Bürgerbegehren Mindener Straße: Feststellung der Gesamtzahl der Unterschriften und mögliche Entscheidung zur Planung der Mindener Straße - Auf Antrag von Frau Gätjen wird die Beendigung der Debatte mit 29 Stimmen dafür, 9 Stimmen dagegen und sechs Enthaltungen beschlossen.Anschließend ruft Frau Theisen zunächst zur Abstimmung über die Zulässigkeitsfeststellung auf. Einstimmig und ohne Enthal
+- TOP A.8: Steuerung von Drittorganisationen:
+- TOP A.8a: HVV Konzern: 1. Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: a) Feststellung des Jahresabschlusses 2025 b) Ergebnisverwendung c) Entlastung der Geschäftsführung 2. Entlastung der Mitglieder der Aufsichtsräte des HVV Konzerns für das Geschäftsjahr 2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Billigung des Konzernabschlusses 2025 b) Ergebnisverwendung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8c: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: a) Feststellung des Jahresabschlusses 2025 b) Ergebnisverwendung c) Bericht des Aufsichtsrates und Entlastung des Aufsichtsrates d) Entlastung der Geschäftsführung - Mit 39 Stimmen dafür, einer Stimme dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8d: WWS Wohn- und Wirtschafts-Service Herford GmbH Änderung des Gesellschaftsvertrages zur Teilnahme eines beratenden Mitglieds im Aufsichtsrat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2025 b) Ergebnisverwendung c) Vorabausschüttung 2026 d) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8f: INTERKOMM GmbH Jahresabschluss 2025, Ergebnisverwendung und Entlastung der Geschäftsführung - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8g: Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford: Jahresabschluss 2025, Ergebnisverwendung, Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8h: Pro Herford GmbH a) Feststellung des Jahresabschlusses 2025 b) Ergebnisverwendung c) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8i: Stadtwerke Herford GmbH Austritt aus dem Wasserbeschaffungsverband Begatal und Übertragung der Wasserrechte - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8j: Stadtwerke Herford GmbH Verkauf des 1 %-Anteils an der Stadtwerke Quedlinburg GmbH - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8k: Stadtwerke Herford GmbH Änderung des Gesellschaftsvertrages zur Teilnahme von drei beratenden Mitgliedern im Aufsichtsrat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.8l: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: Mögliche künftige Beteiligungsstrukturen - Zunächst wird beantragt, ergänzend zur Beschlussvorlage zu prüfen, inwieweit im Rahmen der Beteiligungsstruktur eine Eingliederung der Kultur Herford gGmbH und der Marta gGmbH direkt in den städtischen Haushalt möglich und sinnvoll wäre. Der Prüfauftrag w
+- TOP A.9: Gremienbesetzungen
+- TOP A.9a: Gestaltungsbeirat Hier: Wahl der Mitglieder und Stellvertreter - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9a)1: FDP-Änderungsantrag zum Gestaltungsbeirat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9b: Antrag auf Gremienumbesetzung der Fraktion Die Linke - Einstimmig und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9c: Wahl eines zu entsendenden Mitgliedes und einer Stellvertretung des ACI in den Verkehrsausschuss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9d: Antrag auf Gremienumbesetzung der Fraktion Bündnis 90/ Die Grünen - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.9e: Antrag auf Gremienumbesetzung der SPD-Fraktion im Bau- und Umweltausschuss - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.9f: Antrag auf Gremienumbesetzung der Fraktion Bündnis 90/ Die Grünen für den HVV AR - Einstimmig und mit zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.10: Jugendhilfeplanung und Kindertagesbetreuung: Errichtung der Kindertageseinrichtung Hammersmith - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Durchführung eines verkaufsoffenen Sonntags am 27.12.2026 - Mit 29 Stimmen dafür, sechs Stimmen dagegen und sieben Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.12: Gesetz zur Beschleunigung des Wohnungsbaus als Änderung des Baugesetzbuches ("Bauturbo") hier: Beschluss der Grundsätze zum Zustimmungsverfahren nach § 36a BauGB in der Stadt Herford - Mit 36 Stimmen dafür, sechs Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Gesamtprojekt „Schöner Ankommen in Herford – Umgestaltung des Herforder Bahnhofs und Umfeld“ Hier: Fortsetzung der Planung und vertragliche Vereinbarung zum Umbau von Flächen im Eigentum der DB InfraGo. - Frau Voßmerbäumer beantragt, die Beschlüsse 1b, 2 und 3 zusammenzufassen und zur Abstimmung zu stellen. Dem Antrag wird mit 33 Stimmen dafür neun Stimmen dagegen und einer Enthaltung entsprochen. Bevor es zur Abstimmung kommt, beantragt die FDP-Fraktion d
+- TOP A.14: Förderprogramm für Dach-, Fassaden- und Hofbegrünung 2026-2032 (ISEK Innenstadt II) - Mit 39 Stimmen dafür, drei Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Aufhebung der Satzung zum Schutze des Baumbestandes im Gebiet der Hansestadt Herford - Mit 22 Stimmen dafür, 21 Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Änderung der Ordnungsbehördlichen Verordnung (OVO) zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Hansestadt Herford - Mit 38 Stimmen dafür, vier Stimmen dagegen und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.17: Antrag der Fraktion Die Linke: Jährlicher Konnexitätsbericht - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Nutzung von städtischen Versammlungsräumen
+- TOP A.18a: Antrag der Fraktion Bündnis 90/ Die Grünen zur Nutzung städtischer Versammlungsräume durch politische Parteien - Der TOP wird vertagt.
+- TOP A.18b: Antrag der Fraktion Bündnis 90/ Die Grünen zur Nutzung städtischer Versammlungsräume für politische Veranstaltungen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.19a: Änderungsantrag der AfD-Fraktion zum Herforder Realitätscheck - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Mitteilungen
