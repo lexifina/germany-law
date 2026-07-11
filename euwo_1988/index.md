@@ -28,8 +28,7 @@
 
 - [§ 14 Führung des Wählerverzeichnisses](0014.md)
 - [§ 15 Eintragung der wahlberechtigten Deutschen in das Wählerverzeichnis](0015.md)
-- [§ 16 Zuständigkeiten für die Eintragung von wahlberechtigten Deutschen
-in das Wählerverzeichnis](0016.md)
+- [§ 16 Zuständigkeiten für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis](0016.md)
 - [§ 17 Verfahren für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis auf Antrag](0017.md)
 - [§ 17a Eintragung der wahlberechtigten Unionsbürger, Zuständigkeiten und Verfahren für die Eintragung in das Wählerverzeichnis](0017a.md)
 - [§ 17b Eintragung von wahlberechtigten Unionsbürgern in das Wählerverzeichnis von Amts wegen](0017b.md)

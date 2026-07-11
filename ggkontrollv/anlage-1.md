@@ -1,86 +1,42 @@
-# Anlage 1 (zu § 3 Abs. 3 Satz 1)Prüfliste
+# Anlage 1 (zu § 3 Absatz 3 Satz 1)Prüfliste für Straßenkontrollen
 
-(Fundstelle: BGBl. I 2005, 3107)
-1. Ort der Kontrolle 2. Datum 3. Zeit
-................................. ................ ...............
-4. Nationalitätskennzeichen und
-Zulassungsnummer des Fahrzeugs .....................
-5. Nationalitätskennzeichen und
-Zulassungsnummer des Anhängers/
-Sattelanhängers .....................
-6. Transportunternehmen/Anschrift .....................
-7. Fahrer/Beifahrer .....................
-8. Absender, Anschrift, Verladeort
-1), 2) .....................
-9. Empfänger, Anschrift, Entladeort,
-1), 2) .....................
-10. Gesamtmenge der Gefahrgüter je
-Beförderungseinheit .....................
-11. Höchstmenge gemäß ADR 1.1.3.6
-überschritten .. Ja .. Nein
-12. Beförderungsart .. in loser .. Versandstück .. Tank
-Schüttung
-Dokumente an Bord
-13. Beförderungspapier .. kontrolliert .. Verstoß .. nicht
-festgestellt anwendbar
-14. Schriftliche Weisungen .. kontrolliert .. Verstoß .. nicht
-festgestellt anwendbar
-15. Bilaterale/multilaterale .. kontrolliert .. Verstoß .. nicht
-Vereinbarung oder festgestellt anwendbar
-nationale Genehmigung
-16. Zulassungsbescheinigung für .. kontrolliert .. Verstoß .. nicht
-Fahrzeuge festgestellt anwendbar
-17. Schulungsbescheinigung des .. kontrolliert .. Verstoß .. nicht
-Fahrers festgestellt anwendbar
-Beförderung
-18. Zur Beförderung zugelassene .. kontrolliert .. Verstoß .. nicht
-Güter festgestellt anwendbar
-19. Zur Beförderung der Güter .. kontrolliert .. Verstoß .. nicht
-zugelassene Fahrzeuge festgestellt anwendbar
-20. Vorschriften in Bezug auf .. kontrolliert .. Verstoß .. nicht
-das Beförderungsmittel festgestellt anwendbar
-(lose Schüttung, Versandstück,
-Tank)
-21. Verbot der Zusammenladung .. kontrolliert .. Verstoß .. nicht
-festgestellt anwendbar
-22. Beladen, Sicherung der .. kontrolliert .. Verstoß .. nicht
-Ladung und Handhabung 3) festgestellt anwendbar
-23. Austreten von Gütern oder .. kontrolliert .. Verstoß .. nicht
-Beschädigung des festgestellt anwendbar
-Versandstücks 3)
-24. Kennzeichnung des Versand- .. kontrolliert .. Verstoß .. nicht
-stücks nach UN und des Tanks festgestellt anwendbar
-nach UN/ADR/RID/IMO
-25. Kennzeichnung des Versand- .. kontrolliert .. Verstoß .. nicht
-stücks (z. B. UN-Nummer) und festgestellt anwendbar
-Bezettelung 2) (ADR 3.3/3.4/4.1/5.2)
-26. Anbringen von Großzetteln .. kontrolliert .. Verstoß .. nicht
-(Placards) auf Tank/Fahrzeug festgestellt anwendbar
-(ADR 5.3.1)
-27. Kennzeichnung von .. kontrolliert .. Verstoß .. nicht
-Fahrzeug/Beförderungseinheit festgestellt anwendbar
-(orangefarbene Kennzeichnung,
-erwärmter Zustand) (ADR 5.3.2/5.3.3)
-Ausrüstung an Bord
-28. Allgemeine Sicherheits- .. kontrolliert .. Verstoß .. nicht
-ausrüstung gemäß ADR festgestellt anwendbar
-29. Ausrüstung nach Maßgabe der .. kontrolliert .. Verstoß .. nicht
-beförderten Güter festgestellt anwendbar
-30. Andere in den schriftlichen .. kontrolliert .. Verstoß .. nicht
-Weisungen genannte Ausrüstung festgestellt anwendbar
-31. Feuerlöscher .. kontrolliert .. Verstoß .. nicht
-festgestellt anwendbar
-32. Gegebenenfalls
-schwerwiegendste Gefahren-
-kategorie der festgestellten .. Kategorie I .. Kategorie II .. Kategorie
-Verstöße III
-33. Bemerkungen (z. B. getroffene
-Maßnahmen)
-........................................................................
-34. Behörde/Beamter,
-die/der die Kontrolle
-durchgeführt hat ...........................................
------
-1) Nur ausfüllen, wenn für einen Verstoß von Bedeutung.
-2) Bei Sammelbeförderungen unter "Bemerkungen" angeben.
-3) Prüfung auf sichtbare Verstöße.
+| 1. | Ort und Land der Kontrolle: |  | 2. Datum: |  | 3. Uhrzeit: |  |
+| Daten zu Fahrzeug/Ladung |
+| 4. | Länderkennzeichen und Zulassungsnummer(n) des Fahrzeugs/der Fahrzeuge |  |
+| 5. | Transportunternehmen/Anschrift: |  |
+| 6. | Name(n) der Fahrer/Beifahrer und deren Bescheinigungsnummern (ADR 8.2, falls zutreffend): |  |
+| 7. | Anschrift und Datum der letzten Be- oder Entladung: |  |
+| 8. | Anschrift und Datum der nächsten Be- oder Entladung: |  |
+| 9. | UN-Nummer, Verpackungsgruppe und Menge der Gefahrgüter, bei denen Verstöße festgestellt wurden: |  |
+| 10. | Befreiung anwendbar und, wenn ja, welche? | □ | nein | □ | ja |  | Abschnitt: |  |
+| 11. | Umschließungsmittel | □ | Schüttgut | □ | Tank | □ | Versandstück | □ | MEMU |
+| Dokumente | Prüfstatus | Verstoß | ADR-Abschnitt + Beteiligte |
+|  | G | n. m. | n. z. | Gefahren- kategorie |  |
+| 12. | Beförderungspapiere (wie ADR 8.1.2.1 Buchstabe a, 5.4.1, 5.4.2) | □ |  | □ |  | □ |  |  |  |
+| 13. | Schriftliche Weisungen (ADR 8.1.2.1 Buchstabe b, 5.4.3) | □ |  | □ |  | □ |  |  |  |
+| 14. | Zulassungsbescheinigung für Fahrzeuge (ADR 8.1.2.2 Buchstabe a, 9.1.3) | □ |  | □ |  | □ |  |  |  |
+| 15. | Schulungsbescheinigung des Fahrers (ADR 8.1.2.2 Buchstabe b) und Ausweisdokument (ADR 1.10.1.4, 8.1.2.1 Buchstabe d) | □ |  | □ |  | □ |  |  |  |
+| Beförderung |
+| 16. | Zur Beförderung zugelassene Güter (ADR 1.1.2.1) | □ |  | □ |  | □ |  |  |  |
+| 17. | Umschließungsmittel (wie ADR 4.1 bis 4.7) | □ |  | □ |  | □ |  |  |  |
+| 18. | Beförderungsvorschriften (wie ADR 7.1 bis 7.4) | □ |  | □ |  | □ |  |  |  |
+| 19. | Zusammenladungsverbote und Mengenbegrenzungen (wie ADR 7.5.2, 7.5.4, 7.5.5) | □ |  | □ |  | □ |  |  |  |
+| 20. | Handhabung und Verstauung (wie ADR 7.5.7) | □ |  | □ |  | □ |  |  |  |
+| 21. | Kennzeichnung des Versandstücks/Tanks/Schüttguts (wie ADR Teil 6) | □ |  | □ |  | □ |  |  |  |
+| 22. | Kennzeichnung und Bezettelung von Versandstücken (wie ADR 3.3 bis 3.5, 4.1.4.1, 5.1, 5.2) | □ |  | □ |  | □ |  |  |  |
+| 23. | Großzettel (Placards), organgefarbene Tafeln, Kennzeichnung von Fahrzeugen/Tanks usw. (wie ADR 3.4.13, 5.3, 5.5, 7.3, 7.5.11) | □ |  | □ |  | □ |  |  |  |
+| 24. | Fahrzeuganforderungen (ADR Teil 9) | □ |  | □ |  | □ |  |  |  |
+| Ausrüstung an Bord |
+| 25. | Allgemeine und spezifische Ausrüstung (wie ADR 8.1.4, 8.1.5) | □ |  | □ |  | □ |  |  |  |
+| Sonstiges |
+| 26. | Bilaterale/multilaterale Vereinbarungen (wie ADR 1.5.1), nationale Vorschriften, Genehmigung der zuständigen Behörde (wie ADR 8.1.2.2 Buchstabe c): | □ |  | □ |  | □ |  |  |  |
+| 27. | Sonstige Verstöße: |  |  |  |  |  |  |  |  |
+|  |  |
+| Ergebnis |
+| 28. | Abhilfemaßnahmen vor Ort□vor Beendigung der Fahrt□auf dem Betriebsgelände□ | Abhilfemaßnahmen vor Ort | □ | vor Beendigung der Fahrt | □ | auf dem Betriebsgelände | □ | Art der Maßnahme: Anzeige□Verwarnung□Untersagung d. Weiterfahrt□ | Art der Maßnahme: Anzeige | □ | Verwarnung | □ | Untersagung d. Weiterfahrt | □ |  |  |
+| 29. | Anmerkungen: |
+|  |
+|  |
+|  |
+| 30. | Siegel gebrochen/angebracht? | Gebrochen am |  | Angebracht am |  |
+| 31. | Behörde/Beamter/delegierte Stelle, die/der die Kontrolle durchgeführt hat |  |

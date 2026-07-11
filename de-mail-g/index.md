@@ -43,3 +43,4 @@
 - [§ 23 Bußgeldvorschriften](0023.md)
 - [§ 24 (weggefallen)](0024.md)
 - [§ 25 Verfahren über eine einheitliche Stelle](0025.md)
+- [§ 26 Außerkrafttreten](0026.md)

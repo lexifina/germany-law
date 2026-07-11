@@ -1,50 +1,63 @@
-# Anlage 3 (zu § 3 Abs. 7)Verstöße
+# Anlage 3 (zu § 3 Absatz 7)Verstöße
 
-Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
-Für die Zwecke dieser Verordnung stellt die folgende, nicht erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß einzustufen ist.
-Die Bestimmung der angemessenen Gefahrenkategorie erfolgt unter Berücksichtigung der besonderen Umstände und liegt im Ermessen der vollziehenden Behörde bzw. des vollziehenden Beamten auf der Straße.
-Nicht unter den Gefahrenkategorien aufgeführte Mängel werden entsprechend den Beschreibungen der Kategorien eingestuft.
-Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1 dieser Verordnung angegeben) angewandt.
+Für die Zwecke dieser Verordnung stellt die folgende, nicht abschließende Liste mit drei Gefahrenkategorien eine Leitlinie dafür dar, was als Verstoß einzustufen ist, wobei Kategorie I für die höchste Gefahr steht.
+Die angemessene Gefahrenkategorie wird unter Berücksichtigung der besonderen Umstände eines Verstoßes festgelegt und liegt im Ermessen der Vollstreckungsbehörde bzw. des Vollstreckungsbeamten, was bedeutet, dass ein Verstoß in eine höhere oder niedrigere Gefahrenkategorie eingestuft werden kann.
+In der Liste nicht aufgeführte Verstöße werden entsprechend den Beschreibungen der Gefahrenkategorien eingestuft.
+Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie angewandt.
 A. Gefahrenkategorie I
-  Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer hohen Lebensgefahr bzw. der Gefahr schwerer gesundheitlicher Schäden oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel unverzüglich geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. Untersagung der Weiterfahrt, Stilllegung des Fahrzeugs.
-  Mängel sind:
-  1. die Beförderung der beförderten Gefahrgüter ist verboten,
-  2. Austreten von gefährlichen Stoffen,
-  3. Beförderung in einer verbotenen Beförderungsart oder einem ungeeigneten Beförderungsmittel,
-  4. Beförderung in loser Schüttung in einem in bautechnischer Hinsicht ungeeigneten Behälter,
-  5. Beförderung in einem Fahrzeug ohne entsprechende Zulassungsbescheinigung,
-  6. das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen und stellt eine unmittelbare Gefahr dar (sonst Gefahrenkategorie II),
-  7. nicht zulässige Verpackung,
-  8. Verpackung ist nicht mit den gültigen Verpackungsanweisungen konform,
-  9. die besonderen Bestimmungen für die Zusammenpackung wurden nicht eingehalten,
-  10. die Regeln für die Sicherung der Ladung wurden nicht eingehalten,
-  11. die Vorschriften für die Zusammenladung von Versandstücken wurden nicht eingehalten,
-  12. der zulässige Füllungsgrad von Tanks oder Versandstücken wurde nicht eingehalten,
-  13. die Vorschriften zur Begrenzung der in einer Beförderungseinheit beförderten Mengen wurden nicht eingehalten,
-  14. Beförderung von Gefahrgütern ohne Hinweis auf ihr Vorhandensein (z. B. Dokumente, Kennzeichnung und Bezettelung der Versandstücke, Anbringen von Großzetteln (Placards) und Kennzeichnung am Fahrzeug),
-  15. Beförderung ohne Anbringen von Großzetteln (Placards) und Kennzeichnung von Containern, MEGC, Tankcontainern, ortsbeweglichen Tanks und Fahrzeugen,
-  16. relevante Angaben zu dem beförderten Stoff, die die Feststellung eines Verstoßes der Gefahrenkategorie I ermöglichen, fehlen (z. B. UN-Nummer, offizielle Benennung, Verpackungsgruppe),
-  17. der Fahrer ist nicht Inhaber einer gültigen Schulungsbescheinigung,
-  18. Verwendung von Feuer oder offenem Licht oder
-  19. das Rauchverbot bei Ladearbeiten wird nicht beachtet.
+  Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen ein hohes Sterberisiko bzw. die Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der Umwelt besteht. Werden solche Verstöße bei Straßenkontrollen festgestellt, müssen diese in der Regel zu unverzüglichen und geeigneten Abhilfemaßnahmen führen, beispielsweise zur Stilllegung des Fahrzeugs. Sollten solche Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
+  Diese Kategorie erfasst folgende Mängel:
+  1. Beförderung gefährlicher Güter, deren Beförderung verboten ist,
+  2. Beförderung gefährlicher Güter mit verbotenen oder nicht zugelassenen Umschließungsmitteln, von der eine solche Gefahr für Menschenleben oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs verfügt wird,
+  3. Beförderung gefährlicher Güter ohne entsprechende Gefahrgutkennzeichnung am Fahrzeug, von der eine solche Gefahr für Menschenleben oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs verfügt wird,
+  4. Austreten gefährlicher Güter,
+  5. Beförderung in einer verbotenen Beförderungsart oder einem ungeeigneten Beförderungsmittel,
+  6. Beförderung in loser Schüttung in einem in bautechnischer Hinsicht dafür ungeeigneten Fahrzeug oder Container,
+  7. Beförderung in einem Fahrzeug ohne angemessene Zulassungsbescheinigung,
+  8. Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen entspricht und eine unmittelbare Gefahr darstellt; ansonsten Einstufung in Gefahrenkategorie II,
+  9. Verwendung nicht zugelassener Versandstücke, Tanks, Container oder Fahrzeuge,
+  10. Verwendung von Verpackungen, die nicht den geltenden Verpackungsanweisungen entsprechen, Verwendung von Tanks, Fahrzeugen und Containern, die nicht den geltenden Vorschriften entsprechen,
+  11. Nichteinhaltung der besonderen Vorschriften für die Zusammenladung,
+  12. Nichteinhaltung der Vorschriften für die Sicherung und Verstauung der Ladung,
+  13. Nichteinhaltung der Vorschriften für Nahrungs-, Genuss- und Futtermittel,
+  14. Nichteinhaltung der Vorschriften für die Zusammenladung von Versandstücken,
+  15. Nichteinhaltung der Vorschriften zur Begrenzung der in einer Beförderungseinheit zugelassenen Mengen, einschließlich des zulässigen Füllungsgrads bzw. Füllfaktors von Tanks oder Versandstücken,
+  16. Beförderung gefährlicher Güter ohne die erforderlichen Dokumente an Bord oder in einem ungeeigneten elektronischen Format, sofern zulässig,
+  17. Beförderung gefährlicher Güter in Versandstücken, die nicht mit der erforderlichen Kennzeichnung oder Bezettelung versehen sind,
+  18. Beförderung gefährlicher Güter ohne Anbringung von Großzetteln (Placards) oder Kennzeichen (einschließlich orangefarbener Tafeln) am Fahrzeug,
+  19. unvollständige oder falsche Angaben zu dem beförderten gefährlichen Gut, die die Feststellung eines in der Gefahrenkategorie I genannten Verstoßes ermöglichen (z. B. UN-Nummer, offizielle Benennung, Verpackungsgruppe),
+  20. Fahrzeugführer ist nicht im Besitz einer Schulungsbescheinigung nach Kapitel 8.2 ADR,
+  21. Verwendung von Feuer oder offenem Licht,
+  22. Nichtbeachtung des Rauchverbots,
+  23. Nichtbenennung eines Sicherheitsberaters (Gefahrgutbeauftragter) für jedes Unternehmen, sofern erforderlich,
+  24. Nichteinhaltung der Vorschriften für die Sicherung gemäß Kapitel 1.10 ADR, sofern erforderlich.
 B. Gefahrenkategorie II
-  Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit der Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. wenn möglich und angemessen die Behebung am Kontrollort, spätestens jedoch nach Abschluss der laufenden Beförderung.
-  Mängel sind:
-  1. die Beförderungseinheit besteht aus mehr als einem Anhänger/Sattelanhänger,
-  2. das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen, stellt jedoch keine unmittelbare Gefahr dar,
-  3. im Fahrzeug befinden sich nicht die geforderten funktionsfähigen Feuerlöscher; ein Feuerlöscher gilt noch als funktionsfähig, wenn nur das vorgeschriebene Siegel und/oder das Verfallsdatum fehlen; dies gilt jedoch nicht, wenn der Feuerlöscher offensichtlich nicht länger funktionstüchtig ist, z. B. Manometer auf 0,
-  4. im Fahrzeug befindet sich nicht die im ADR oder den schriftlichen Weisungen vorgeschriebene Ausrüstung,
-  5. Prüffristen und Verwendungszeiträume von Verpackungen, Großpackmitteln (IBC) oder Großverpackungen wurden nicht eingehalten,
-  6. Versandstücke mit beschädigter Verpackung, beschädigtem Großpackmittel (IBC), beschädigter Großverpackung oder beschädigte, ungereinigte leere Verpackungen werden befördert,
-  7. Beförderung verpackter Güter in einem in bautechnischer Hinsicht ungeeigneten Container,
-  8. Tanks/Tankcontainer (einschließlich leerer und ungereinigter) wurden nicht ordnungsgemäß verschlossen,
-  9. Beförderung einer zusammengesetzten Verpackung, bei der die Außenverpackung nicht ordnungsgemäß verschlossen ist,
-  10. falsche Kennzeichnung, Bezettelung oder falsches Anbringen von Großzetteln (Placards),
-  11. keine schriftlichen Weisungen gemäß ADR vorhanden oder die schriftlichen Weisungen betreffen nicht die beförderten Güter oder
-  12. das Fahrzeug ist nicht ordnungsgemäß überwacht oder geparkt.
+  Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen die Gefahr einer Verletzung oder einer Schädigung der Umwelt besteht. Werden solche Verstöße bei Straßenkontrollen festgestellt, müssen diese in der Regel zu geeigneten Abhilfemaßnahmen führen, z. B. wenn möglich die Behebung am Kontrollort, spätestens jedoch nach Abschluss der laufenden Beförderung. Sollten diese Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
+  Diese Kategorie erfasst folgende Mängel:
+  1. Betrieb einer Beförderungseinheit, die aus mehr als einem Anhänger oder Sattelanhänger besteht,
+  2. Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen entspricht, jedoch keine unmittelbare Gefahr darstellt,
+  3. an Bord der Beförderungseinheit fehlen die geforderten funktionsfähigen Feuerlöschgeräte oder die Feuerlöschausrüstung entspricht nicht den besonderen Vorschriften,
+  4. die gemäß ADR oder den schriftlichen Weisungen vorgeschriebene Ausrüstung befindet sich nicht an Bord der Beförderungseinheit,
+  5. Nichteinhaltung der Inspektions- und Prüffristen oder Verwendungsdauer von Verpackungen, Großpackmitteln (IBC), Großverpackungen, Tanks, Fahrzeugen oder Containern,
+  6. Beförderung von Versandstücken mit beschädigten Verpackungen, Großpackmitteln (IBC) oder Großverpackungen oder Beförderung beschädigter, leerer ungereinigter Verpackungen,
+  7. Beförderung verpackter gefährlicher Güter in einem in bautechnischer Hinsicht ungeeigneten Fahrzeug oder Container,
+  8. Tanks, Fahrzeuge, Container oder Versandstücke, einschließlich leerer und ungereinigter Tanks, Fahrzeuge, Container oder Versandstücke, wurden nicht ordnungsgemäß verschlossen,
+  9. Tanks, Fahrzeuge, Container oder Versandstücke mit falschen Bezettelungen, Kennzeichen (einschließlich orangefarbener Tafeln) oder Großzetteln,
+  10. schriftliche Weisungen gemäß ADR werden nicht mitgeführt,
+  11. Fahrzeug wurde nicht ordnungsgemäß überwacht oder abgestellt,
+  12. Beförderung von anderen Personen als der Fahrzeugbesatzung in Beförderungseinheiten, in denen gefährliche Güter befördert werden,
+  13. Nichteinhaltung der Vorschriften in Abschnitt 7.5.10 ADR über Vorsichtsmaßnahmen zur Vermeidung elektrostatischer Aufladung bei der Befüllung oder Entleerung,
+  14. Nichteinhaltung der Vorschriften über die Ankunft an Be- und Entladestellen,
+  15. Nichteinhaltung der Vorschriften über die Rolle des Gefahrgutbeauftragten, die Verpflichtungen und Bescheinigungen für jedes Unternehmen, sofern erforderlich,
+  16. Nichteinhaltung der Vorschriften über die Mindestaufbewahrungsfrist für das Beförderungspapier für Gefahrguttransporte und zusätzliche Informationen und Dokumente gemäß ADR,
+  17. Nichteinhaltung der Vorschriften über die Unterweisung von Personen, die an der Beförderung gefährlicher Güter beteiligt sind,
+  18. den zuständigen Behörden wurden die erforderlichen Unterlagen oder Berichte nicht vorgelegt.
 C. Gefahrenkategorie III
-  Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer geringen Gefahr von Verletzungen oder einer Schädigung der Umwelt verbunden ist und geeignete Maßnahmen zur Beseitigung der Gefahr nicht an der Straße ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem Betriebsgelände getroffen werden können.
-  Mängel sind:
-  1. die Größe der Großzettel (Placards) oder Zettel oder der Buchstaben, Zahlen oder Symbole auf den Großzetteln oder Zetteln entspricht nicht den Vorschriften,
-  2. weitere Angaben als die in Gefahrenkategorie I Nr. 16 sind in den Beförderungsunterlagen nicht verfügbar oder
-  3. die Schulungsbescheinigung befindet sich nicht an Bord des Fahrzeugs, es gibt jedoch Belege dafür, dass der Fahrer sie besitzt.
+  Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen eine geringe Gefahr von Verletzungen oder einer Schädigung der Umwelt besteht und geeignete Abhilfemaßnahmen nicht an der Straße ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem Betriebsgelände getroffen werden können. Sollten diese Verstöße bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der Regel andere geeignete Maßnahmen zu treffen.
+  Diese Kategorie erfasst folgende Mängel:
+  1. Nichteinhaltung der Vorschriften über die Größe von Großzetteln (Placards), Gefahrzetteln oder anderer Kennzeichen oder über die Größe von Buchstaben, Zahlen oder Symbolen auf den Großzetteln, Gefahrzetteln oder anderer Kennzeichen,
+  2. aus den Beförderungspapieren gehen keine weiteren Angaben als die der Gefahrenkategorie I Nr. 19 hervor,
+  3. die Schulungsbescheinigung wurde nicht an Bord des Fahrzeugs mitgeführt, es gibt jedoch Belege dafür, dass der Fahrzeugführer über eine solche verfügt,
+  4. nicht jedes Mitglied der Fahrzeugbesatzung führt ein Ausweisdokument mit Lichtbild mit,
+  5. nicht ordnungsgemäß angebrachte Großzettel (Placards) oder Kennzeichen (einschließlich orangefarbener Tafeln),
+  6. den zuständigen Behörden wurden die erforderlichen Unterlagen oder Berichte zu spät vorgelegt.
