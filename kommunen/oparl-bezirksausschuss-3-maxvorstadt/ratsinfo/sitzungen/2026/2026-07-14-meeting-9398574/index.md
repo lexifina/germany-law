@@ -1,0 +1,169 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2026-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9398574
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9398574
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Calisthenics Anlage Alter Nördlicher Friedhof
+- TOP 5.2.2.: Neureuther Platz
+- TOP 5.2.3.: Caritas Studierendenwohnheim
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Transparenz, Anwendung der Erhaltungssatzung und denkmalrechtliche Prüfung beim Bauvorhaben Schleißheimer Str. 75
+- TOP 6.2.: Pflanzung von mindestens zwei Apfelbäumen im Arnulfpark um die Biodiversität des Parks zu verbessern
+- TOP 6.3.: Kinder- und Jugendversammlung: Aufenthaltsqualität in Parks für Jugendliche steigern
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM - Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Anfrage zu Baumfällungen in einem Hinterhof in der Maxvorstadt und möglichen Maßnah-men zur Verbesserung der Wohnqualität Bürger*innenanliegen vom 28.06.2026
+- TOP 1.1.2.: Anfrage Kreittmayrstraße 30 Bürger*innenanliegen vom 19.06.2026
+- TOP 1.1.3.: Bevorstehender Hausverkauf Josephsplatz 7 – Erhaltungssatzungsgebiet Maxvorstadt
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Leerstand Türkenstraße 50, 52 und 54 verhindern
+- TOP 1.2.2.: Nachverfolgung Mietenprellung Türkenstr. 94
+- TOP 1.2.3.: Verkauf BR Gelände – Gemeinbedarf erhalten
+- TOP 1.2.4.: Entfernung der Altkleidercontainer u. a. in der Luisenstraße – welche Entsorgungsmöglichkeiten werden geschaffen?
+- TOP 1.2.5.: Leerstand/ Zweckentfremdung Heßstraße 23 – Baustillstand seit mehreren Monaten
+- TOP 1.2.6.: Leerstand seit einem Jahr in der Heßstraße 49 WEG – Aufteilung im Erhaltungssatzungsgebiet durch die Hintertüre?
+- TOP 1.2.7.: Wasserverbrauch der Zierbrunnen in der Maxvorstadt
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste KW23, KW24, KW25, KW26
+- TOP 2.1.2.: WEB-Liste 16.06 - 30.06.2026
+- TOP 2.1.3.: Heßstr. 49, VGB: Aufstockung eines Wohnhauses, Anbau von Balkonen, Anbau eines Perso-nenaufzuges und Anbringen von Wärmedämmung RGB: Neubau eines Wohnhauses im In-nenhof mit zwei Wohneinheiten l 23.07.2026
+- TOP 2.1.4.: Schellingstr. 25, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (Multiparker), mit Mobilitätskonzept (Schellingstr 25 / 27 und Türkenstr 66) l 23.07.2026
+- TOP 2.1.5.: Dachauer Str. 92, Neubau Einzelhandel, Büro und Tiefgarage - VORBESCHEID l 15.07.2026
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Resilienz der Stadt München stärken: Mehr Baum-Biodiversität im Straßenraum (BA-Antrag Nr. 26-32 / B 00008 des BA 6 mit der Bitte um Unterstützung)
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Erzgießereistr. 16c l 20.07.2026
+- TOP 3.2.2.: Kaulbachstr. 35 l 24.07.2026
+- TOP 3.2.3.: Kaulbachstr. 47 l 31.07.2026
+- TOP 3.2.4.: Fällungsantrag Lothstr. 98
+- TOP 3.2.5.: Fällungsantrag Zentnerstr. 20
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erhalt unversiegelter Flächen in Sendling und im Stadtgebiet
+- TOP 5.2.: PaketPost-Areal
+- TOP 5.3.: Eilentscheid, Türkenstraße 71, Nutzungsänderung zur Gaststätte, Fristablauf am 26.05.2026
+- TOP 5.4.: Eilentscheid, Lothstraße 84, Errichtung einer 2-geschossigen Dachaufstockung, Ersatz und Vergrößerung der Bestandsbalkone und energetische Sanierung von 9 Wohnhäusern in der Lothstraße, Fristablauf am 26.05.2026
+- TOP 5.5.: Eilentscheid, Steinheilstr. 6, Erweiterung einer genehmigten Gastrofläche mit Nutzungsände-rung im EG, Fristablauf am 26.05.2026
+- TOP 5.6.: Eilentscheid, Enhuberstr. 4, Neubau eines Mehrfamilienhauses mit Mobilitätskonzept - VORBESCHEID, Fristablauf am 26.05.2026
+- TOP 5.7.: Eilentscheid, Kurfürstenstr. 8, Umbau eines Wohn- und Geschäftshauses. Aufstockung. An-bau von Balkonen. Nutzungsänderung: Teilung von drei Wohneinheiten in sechs Wohneinheiten. Anbau einer Notleiteranlage. Aufzuganbau mit Versetzen der Außentreppe KiTa und Ausgang Tanzstudio, Fristablauf am 26.05.2026
+- TOP 5.8.: Eilentscheid, Barer Str. 40, Errichtung einer begehbaren, temporären Skulptur der Künstlerin Morag Myerscough, in und vor dem südlichen Winter garten der Pinakothek der Moderne (Barer Str. 40 / Gabelsbergerstr. 10 /Türkenstr. 15)- ÄNDERUNGSANTRAG, Fristablauf am 26.05.2026
+- TOP 5.9.: Eilentscheid, Arnulfstr. 42, Änderung im Bereich des Westteils des Hochhaussockels, des Kantinenbaus und von Haus 3 des Bayerischen Rundfunks – VORBESCHEID, Fristablauf am 27.05.2026 Entscheidung: Zustimmung
+- TOP 5.10.: Balkonvoltaik fördern Empfehlung Nr. 20-26 / E 03321 der Bürgerversammlung des Stadtbezirks 5 - Au-Haidhausen vom 24.03.2026
+- TOP 5.11.: Antwort PLAN auf die Stellungnahme des BA zum Bauvorhaben Gabelsbergerstr. 28
+- TOP 5.12.: Präsentation zur Vorstellung des AWM und Einführung der Gelben Tonne
+- TOP 5.13.: notwendige Gefahrbaumfällungen Alter Nordfriedhof
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Wohn- und Lebensqualität in der Amalienstraße Bürger*innenanliegen vom 25.06.2026
+- TOP 1.1.2.: Unzumutbare Verkehrsbelastung der Amalienstraße bei Sperrungen der Ludwigstraße Bürger*innenanliegen vom 25.06.2026
+- TOP 1.1.3.: Unzumutbare Verkehrs- und Lärmbelastung in der Amalienstraße Bürger*innenanliegen vom 25.06.2026
+- TOP 1.1.4.: Bau-Container in der Adalbertstr. 88 Bürger*innenanliegen vom 23.06.2026
+- TOP 1.1.5.: Amalienstraße Abschnitt Schellingstr-Theresienstr Bürger*innenanliegen vom 16.06.2026
+- TOP 1.1.6.: WEG Adalbertstraße 74, 80799 München - TG - Fahrrad abstellen verboten - Schild // Park-platzumwidmung (vertagt aus 06/2027)
+- TOP 1.1.7.: E-Scooter Abstellflächen am Augustinerkeller erweitern & Geofencing auf sämtliche Gehwege um Biergarten Bürger*innenanliegen vom 18.06.2026
+- TOP 1.1.8.: Baumaßnahme Augustenstraße - Bitte um verstärkte Parkraumüberwachung in den Anwoh-nerbereichen (Steinheilstraße/ Enhuberstraße) Bürger*innenanliegen vom 29.06.2026
+- TOP 1.1.9.: Steinheilstraße – Anmerkungen zu den geplanten Parklets
+- TOP 1.1.10.: Burger* Türkenstr
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Verkehrskonzept bei Veranstaltungssperrungen der Ludwigsstraße
+- TOP 1.2.2.: Zukunft der Wertstoffinseln nach Einführung der „gelben Tonnen“
+- TOP 1.2.3.: Umwidmung zur Fußgängerzone und Neugestaltung des Ali-Mitgutsch-Platzes mit kostengünstigen Maßnahmen
+- TOP 1.2.4.: Inwiefern ist der Königsplatz noch denkmalgeschützt?
+- TOP 1.2.5.: Gegen Raser, Autoposer und illegale Straßenrennen am Siegestor und auf der Ludwigstraße
+- TOP 1.2.6.: Ampelschaltung für Radverkehr an der Kreuzung Von-der-Tann-Straße / Ludwigstraße über-prüfen
+- TOP 1.2.7.: Ampelschaltung Seidlstraße zwischen Paul-Heye-Unterführung bis Stiglmaierplatz prüfen
+- TOP 1.2.8.: Verbesserte Abstimmung zwischen CSD, Landeshauptstadt und Gastronomie entlang der Veranstaltungsstrecke
+- TOP 1.2.9.: Vorzeitige Sperrungen infolge des CSD
+- TOP 1.2.10.: Einrichtung von Fahrradstellplätzen an der Kreuzung Adalbertstraße/ Barer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Beschwerde über die Sitzbank in der Königinstraße auf Höhe der Hausnummer 59; Entscheidung über Abbau oder Weiterleitung an AKIM
+- TOP 2.2.2.: BA-Anhörung zum Projekt Barerstraße – Nordendstraße (Ali-Mitgutsch-Platz) -Platzgestaltung.
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Oben Ohne Open Air des KJR am 25.07.2026 auf dem Königsplatz | Frist: 15.07.2026
+- TOP 2.4.2.: Bezirksübergreifende Veranstaltung in Grünanlagen, Zirkus Pumpernudl am 21.08.2026 und 23.08.2026 im Maßmannpark | Frist: 17.07.2026
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Unveränderte Gaststättenfortführungen
+- TOP 3.3.: Verkehrsrechtliche Anordnungen
+- TOP 3.4.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.5.: Baumaßnahmen der SWM
+- TOP 3.6.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.7.: Bez. 03, Josephsplatz | § 29 StVO für Weinfest CSU München-Josephsplatz am 11.07.2026 (Ersatztermin 18.07.2026) | Anhörungsfrist: 30.06.2026 (Eilentscheidung)
+- TOP 3.8.: Drehgenehmigungen
+- TOP 3.9.: Neuer Lageplan- Anhörung (Bez. 3) | Strandveranstaltung am Professor-Huber Platz | 29.05. - 14.09.26 | Frist: 30.06.2026 (Eilentscheidung)
+- TOP 3.10.: Antwort MOR auf das Bürger*innenanliegen Umstellung der Parkregelung auf Parken mit Parkschein im Umfeld des Circus Krone
+- TOP 3.11.: Antwort MOR auf das Bürger*innenanliegen Fahrradparkhaus Hirtenstraße
+- TOP 3.12.: Antwort AWM auf die Stellungnahme des BA zur Versetzung der Wertstoffsammelstelle innerhalb der Zieblandstraße
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Freunde des Rupprechts-Gymnasiums e.V. Medienkompetenzworkshop "Du und das Internet" für alle 6. Klassen am 28./29.07.2026 320,00 Euro, Az.: 0262.100-3-0683
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Aufwertung der U-Bahn-Galerie im Zwischengeschoss der U-Bahn-Station Universität (Aufgang Nord)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Init. "Offene Ateliers" Offene Ateliers Maxvorstadt/Schwabing vom 04. - 05.07.2026 112,50 €; Az, 0262.100-3-0681
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "embrace" embrace vom 01.08. - 31.12.2026 3.306,00 Euro, Az.: 0262.100-3-0688
+- TOP 2.3.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-3-0685
+- TOP 2.4.: (E) Stadtbezirksbudget MUCA Foundation KULAB -der Nachwuchs-Kunstmarkt vom 07. -08.11.2026 2.506,00 Euro, Az.: 0262.100-3-0650
+- TOP 2.5.: (E) Stadtbezirksbudget AMALAS Kollektiv Performanceprojekt Echos vom 01.10.2026 - 31.01.2027 2.440,00 Euro, Az.: 0262.100-3-0680
+- TOP 2.6.: (E) Stadtbezirksbudget Münchner Behördenorchester e.V. Vorbereitung für das Konzert in der LMU München am 21.11.2026 vom 29.07. - 21.12.2026 1.125,00 Euro, Az.: 0262.100-3-0686
+- TOP 2.7.: (E) Stadtbezirksbudget Förderverein Kirchenmusik St. Bonifaz München Jahreskonzert am 25.10.2026 3.150,00 Euro, Az.: 0262.100-3-0687
+- TOP 2.8.: (E) Stadtbezirksbudget Initiative "What&#039;s Love got to do with this" Ausstellungsserie "Whats Love got to do with this?" vom 06.08.2026 - 31.01.2027 1.741,50 Euro, Az.: 0262.100-3-0689
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Übernahme der für den Stadtrat geltenden Ferienzeit (§ 47 Abs. 2 GeschO-Stadtrat) sowie Bil-dung eines Ferienausschusses (§ 22a BA-Satzung) mit 1.1 Beschlussfassung über Größe 1.2 Benennung der Mitglieder und ihrer Stellvertreter*innen 1.3 Wahl der / des Vorsitzenden 1.4 Ggf. Benennung der / des stellvertretenden Vorsitzenden
+- TOP 1.2.: BA-Sitzungstermine für 2027
+- TOP 1.3.: Informationsschreiben für die Bezirksausschüsse Juni GIGA-M Seismik
+- TOP 1.4.: Information zur Einbindung der Bezirksausschüsse beim Mobilfunkausbau
+- TOP 1.5.: Vorschlag einer Vertreterin des BA für den Mieterbeirat
+- TOP 1.6.: Finanzierung der BA-Veranstaltung „Einweihung Ali-Mitgutsch Platz“
+- TOP 1.7.: II. Quartalsübersicht 2026 des Stadtbezirksbudgets
+- TOP 1.8.: Präsentation Baureferat Gartenbau für das BA – Austauschtreffen
+- TOP 1.9.: Verwendung des Münchner Kindls (Kleines Stadtwappen) im Rahmen Ihrer ehrenamtlichen Tätigkeit
+- TOP 1.10.: Städtische Weihnachtsbäume in den Münchner Stadtbezirken
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
