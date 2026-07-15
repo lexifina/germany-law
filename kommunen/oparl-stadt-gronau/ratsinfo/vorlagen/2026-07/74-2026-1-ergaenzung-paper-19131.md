@@ -1,0 +1,21 @@
+# Feststellungen und Empfehlungen der Gemeindeprüfungsanstalt NRW (gpaNRW) Stellungnahmen zum Prüfbericht vom 04.03.2026
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 74/2026 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2026-07-15
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZXTikKKFUYOqh_OWxColRtM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/19131
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Feststellungen und Empfehlungen der Gemeindeprüfungsanstalt NRW (gpaNRW) Stellungnahmen zum Prüfbericht vom 04.03.2026) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU3ycITiA4VJlBCVbVNjKpsSqaunsJfmZdcg_LF7xC_C/Beschlussvorlage_74-2026_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Gesamtbericht_Stadt_Gronau (Westf.)_2026) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrLfF_IxKK2ru9gvPC5IvRpnv0FeoUy4Xr483PvbT3b/Gesamtbericht_Stadt_Gronau_-Westf.-_2026.pdf
+- Anlage: Beschlussvorlage (1. + 2. Stellungnahme_Finanzen_Zahlungsabw._Vollstreckung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRzZAXh5L2eWt2lRilHSP7yLFbF3EZBA_oC92ry5VnMc/1._-_2._Stellungnahme_Finanzen_Zahlungsabw._Vollstreckung.pdf
+- Anlage: Beschlussvorlage (3._Stellungnahme_Gremienarbeit) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVMU0XACZLqbvJuZQFnmS5yn6nmlMmNtltLffTnfo84p/3._Stellungnahme_Gremienarbeit.pdf
+- Anlage: Beschlussvorlage (4. Stellungnahme_Personal_Orga_IT) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZexOMtWhQqYcXjOhtVC48cWN-_Wav-j1v5RoucLbkvK0/4._Stellungnahme_Personal_Orga_IT.pdf
+- Anlage: Beschlussvorlage (5. Stellungnahme_Kommunales Krisenmanagement.xls) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ8m_rOyETO0uvu9kH-pSVFvAAxb3ZBpoCz9T4Cw-Msk/5._Stellungnahme_Kommunales_Krisenmanagement.xls.pdf
+- Anlage: Beschlussvorlage (6. Stellungnahme_Hilfen zur Erziehung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPqdRusg9Fd_slhvTftuSasmiKe6lQWAnfWZa5D4cRQ/6._Stellungnahme_Hilfen_zur_Erziehung.pdf
+- Anlage: Beschlussvorlage (Antrag proB "Außerplanmäßige Prüfung" zum TOP 5 RPA) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa0_8uyqZybN-e5y6xYduodmqC6PaiODTf1QJo4i49Xm/Antrag_proB_-Ausserplanmaessige_Pruefung-_zum_TOP_5_RPA.pdf
+- Anlage: Beschlussvorlage (Auszug RPA 09.07.2026 TOP 5) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYWI7byfMdtgfy0cH6U-mHdm8mjjddDxlGukAeuJ2Lsx/Auszug_RPA_09.07.2026_TOP_5.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6654 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-22
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6631 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-52
