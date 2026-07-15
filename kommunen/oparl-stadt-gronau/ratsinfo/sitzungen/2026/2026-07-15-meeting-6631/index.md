@@ -1,0 +1,57 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2026-07-15T18:00:00+02:00
+- Ende: 2026-07-15T23:21:00+02:00
+- Ort: Wirtschaftszentrum Gronau, Fabrikstraße 3, 48599 Gronau, Ratssaal, 1. OG
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXKWAy4Zf3xPJyQIO9BVbbc
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6631
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3KAnMGaj6rEAZkyL1-H-zzllGDN4Kh7AdVealhTpaW/Bekanntmachung_Rat_15.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS85wQzeMyHwr9MHGPxv1KTvMBuNHTBwDGWhHgakgPQh/Oeffentliche_Niederschrift_Rat_15.07.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.06.2026
+- TOP 3.: Beschlusskontrolle
+- TOP 4.: Direktionsrecht für die Platzanlage Friedrich-Harkort-Straße - 44 Jastimmen, 5 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion pro:Bürgerschaft vom 26.06.2026; "Sperrvermerk Euregio"
+- TOP 5.2: Antrag der Fraktion pro:Bürgerschaft vom 26.06.2026; "Erstellung eines Doppelhaushaltes" - 3 Jastimmen, 45 Neinstimmen, 1 Enthaltungen
+- TOP 5.3: Antrag der Fraktion pro:Bürgerschaft vom 26.06.2026; "Einbringung des Haushaltes am Ende des Jahres" - 3 Jastimmen, 46 Neinstimmen, 0 Enthaltungen
+- TOP 5.4: Antrag der Fraktion WEG vom 03.07.2026; "Integriertes Städtebauliches Entwicklungskonzept (ISEK) für das Germania-Quartier und den Gemeindepark Stadtteil Epe, Stand der Umsetzung des Ratsbeschlusses vom 02.07.2025" - Einstimmig, 0 Enthaltungen
+- TOP 6.: Projektentwicklung Fridtjof-Nansen-Realschule - 42 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Entwicklung im Euregioquartier - 45 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 8.: Jahresabschluss für das Abwasserwerk der Stadt Gronau Wirtschaftsjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Zentrale Bau- und Umweltdienste der Stadt Gronau (Westf.) Jahresabschluss des Wirtschaftsjahres 2024 – Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Angebot einer Dienstleistung zur ordnungsrechtlichen Unterbringung unfreiwillig obdachloser Personen - 39 Jastimmen, 5 Neinstimmen, 4 Enthaltungen
+- TOP 11.: Neufassung der Satzung der Stadt Gronau über die Erhebung von Erschließungsbeiträgen - Einstimmig, 0 Enthaltungen
+- TOP 12.: Weiterentwicklung der Richtlinien zur Förderung von Kindern in Kindertagespflege zum 01.08.2026 - 46 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 255 "Schillerstraße/Riekenhofweg", Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 14.: 115. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Lasterfeld - Biogasanlage Preister", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 4a Abs. 3 BauGB i.V.m. § 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden gem. § 4a Abs. 3 BauGB i.V.m. § 4 Abs. 2 BauGB 7. Planbeschluss - 39 Jastimmen, 8 Neinstimmen, 1 Enthaltungen
+- TOP 14.1: 115. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Lasterfeld - Biogasanlage Preister", Stadtteil Epe Anpassung der Bauleitplanung an die Ziele der Raumordnung hier: Bescheidung der Anträge der Stadt Gronau auf Abweichung von Zielen des Regionalplans Münsterland und des Landesentwicklungsplan NRW
+- TOP 15.: Vorhabenbezogener Bebauungsplan "Biogasanlage Preister", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - 38 Jastimmen, 9 Neinstimmen, 1 Enthaltungen
+- TOP 16.: Feststellungen und Empfehlungen der Gemeindeprüfungsanstalt NRW (gpaNRW) Stellungnahmen zum Prüfbericht vom 04.03.2026 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses und Gesamtlageberichts für das Haushaltsjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 19.: Gutachten zur Intensivierung der Zusammenarbeit kommunaler IT-Dienstleister im Münsterland - Einstimmig, 0 Enthaltungen
+- TOP 20.: Stellenausschreibung der/des Technischen Beigeordneten (m/w/d) der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 21.: Besetzung von Ausschüssen gem. §§ 50, 58 der Gemeindeordnung NRW und anderen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 22.: Berichte aus den Gremien stadteigener Gesellschaften
+- TOP 23.: Mitteilungen der Verwaltung
+- TOP 23.1: Sachstandsbericht Mobilstation Haltepunkt Epe
+- TOP 23.2: St.-Georg-Kirche Epe - Anfrage der Fraktion pro:Bürgerschaft
+- TOP 23.3: Kommunalverfassungsbeschwerde gegen den Stärkungspakt NRW
+- TOP 24.: Anfragen
+- TOP 24.1: Geschwisterkindregelung bei Kindergartenbeiträgen (Anfrage v. RM Gabbe)
+- TOP 24.2: Rechtsstreit Mannebeck (Anfrage v. RM Krause)
+- TOP 24.3: Sanierung Overberg-Turnhalle (Anfrage v. RM Doetkotte)
+- TOP 24.4: Sachstand Delta-Parkplatz (Anfrage v. RM Kernebeck)
+- TOP 24.5: Wegrand Bewuchs (Anfrage v. RM Tegetmeyer)
+- TOP 24.6: Baugebiet Steenkuhle (Anfrage v. RM Stenau-van Wüllen)
+- TOP 24.7: Verkehrssicherheit Steinfurter Straße (Anfrage v. RM Reinhoffer)
+- TOP 24.8: Hitzeschutzmaßnahmen (Anfrage v. RM Bieber)
