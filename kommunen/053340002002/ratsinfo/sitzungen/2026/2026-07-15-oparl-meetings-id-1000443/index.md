@@ -1,0 +1,62 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-07-15T17:00:00+02:00
+- Ende: 2026-07-15T23:59:59+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000443
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000443
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1557079&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Tagesordnungsantrag der Fraktionen bzw. Ratsgruppen von CDU, SPD, Volt und FDP vom 30.06.2026: Anpassung der Dezernatsverteilung - ungeändert beschlossen
+- TOP 4: Tagesordnungsantrag der Fraktionen bzw. Ratsgruppen von CDU, SPD, Volt und FDP vom 30.06.2026: Stellenausschreibungen Beigeordnete - ungeändert beschlossen
+- TOP 4.1: Stellenausschreibung der Beigeordneten - beantragte Ausschreibung des Dezernates III - zur Kenntnis genommen
+- TOP 5: Bestellung von Mitgliedern des Aufsichtsrates der Regiotram Aachen Infrastrukturgesellschaft mbH - geändert beschlossen
+- TOP 6: Anschlussdirektvergabe eines öffentlichen Dienstleistungsauftrags (öDA) über Busverkehrsleistungen an die ASEAG ab dem Fahrplanwechsel im Dezember 2027 auf dem Gebiet der Stadt/StädteRegion Aachen (ohne Stadt) - ungeändert beschlossen
+- TOP 7: Haushaltssperre 2026 - geändert beschlossen
+- TOP 8: Personalwirtschaftliche Maßnahmen im Kontext der Haushaltssperre und Ausblick zum weiteren Vorgehen - ungeändert beschlossen
+- TOP 9: Änderung der Betriebssatzung des Aachener Stadtbetriebs - ungeändert beschlossen
+- TOP 10: Gebietsfestlegung des Gebietes „Östliche Innenstadt“ als Stadtumbaugebiet nach § 171b Baugesetzbuch (BauGB) - ungeändert beschlossen
+- TOP 11: Östliche Innenstadt: Integriertes Stadtentwicklungskonzept „Altstadtquartier Büchel mit Umfeld Haus der Neugier“; hier: Grundantrag Städtebauförderung - ungeändert beschlossen
+- TOP 12: Aufhebung der besonderen Vorkaufsrechtssatzung gemäß § 25 BauGB für den Bereich zwischen der Schleidener Straße, Prämienstraße und Auf der Kier; hier: Aufhebungsbeschluss - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 923 - Campus West - hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) und der erneuten Beteiligung gemäß § 4a (3) BauGB in Verbindung mit § 214 Abs.4 BauGB - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) und der erneuten Beteiligung gemäß § 4a (3) BauGB in Verbindung mit § 214 Abs.4 BauGB - Empfehlung zum Satzungsbeschluss, ergänzendes Verfahren nach § 214 Abs.4 BauGB - ungeändert beschlossen
+- TOP 14: Bebauungsplan Nr. 976 - Im Ginster / Erweiterung Gewerbegebiet - hier: - Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB - Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB - Satzungsbeschluss gem. § 10 (2) BauGB - ungeändert beschlossen
+- TOP 15: Entscheidung über die Zustimmung der Gemeinde gemäß § 36a BauGB im Stadtbezirk Aachen-Mitte: Martelenberger Weg 8 hier: Änderung eines Mehrfamilienhauses gem. § 64 BauO NRW 2018, hier: Umbau des Kellers zu einer 7. Wohnung in einem Mehrfamilienhaus (mit Erweiterung der bestehenden Gebäudekubatur) - abgelehnt
+- TOP 16: Entscheidung über die Zustimmung der Gemeinde gemäß § 36a BauGB im Stadtbezirk Aachen-Mitte: Halifaxstraße hier: Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes, hier: Halifaxstraße, Errichtung von zwei Wohngebäuden mit 151 öffentlich geförderten Studierendenappartements - zurückgezogen
+- TOP 17: Napoleonsberg – Instandsetzung der Inde-Stützwand 2. Bauabschnitt und Straßenerneuerung von der Zufahrt Korneliusmarkt bis Haus Nr. 194 sowie Umbau der Haltestelle „Kornelimünster“ in Fahrtrichtung Walheim zur barrierefreien Fahrbahnhaltestelle hier: Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 18: Schulentwicklungsplan für den Bereich der Primarstufe für den Zeitraum 2025/2026 bis 2030/2031 - ungeändert beschlossen
+- TOP 19: Entgeltordnung für die Volkshochschule - geändert beschlossen
+- TOP 20: Kurzfristige Anpassung der Eintrittspreise von Stadttheater und Musikdirektion Aachen ab der kommenden Spielzeit 2026/27 - ungeändert beschlossen
+- TOP 21: Elisabethhalle – Sanierung der Beckenwassertechnik Fördermittel aus dem Bundesprogramm „Sanierung kommunaler Sportstätten 2025/2026 - ungeändert beschlossen
+- TOP 22: Änderung Wochenmarktsatzung - geändert beschlossen
+- TOP 23: Durchführung von ′Turbo-Konzeptverfahren′ - ungeändert beschlossen
+- TOP 24: Demographiekonzept der Stadt Aachen, Ratsantrag 071/18 der SPD-Fraktion „Dem demografischen Wandel begegnen – Erstellung eines ressortübergreifenden, strategischen Demografiekonzepts" - geändert beschlossen
+- TOP 25: Kürzungen bei Sprach- und Integrationskursen - zurückgezogen
+- TOP 26: Anpassung der Richtlinie zum Sofortprogramm zur Generierung von zusätzlichen Wohneinheiten, Förderprogramm "MitgeDACHt“ - geändert beschlossen
+- TOP 27: Anpassung der Richtlinie zur Förderung von Projekten mit Bürgerbeteiligung aus einem Stadtteilfonds - ungeändert beschlossen
+- TOP 28: Resolutionsantrag der Ratsgruppe Volt vom 16.06.2026: Resolution zur geplanten BAföG-Reform - zurückgezogen
+- TOP 29: Anfragen
+- TOP 29.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 29.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 30: Ratsanträge - ungeändert beschlossen
+- TOP 31: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
