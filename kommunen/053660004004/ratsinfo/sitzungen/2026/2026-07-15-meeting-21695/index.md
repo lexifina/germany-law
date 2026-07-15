@@ -1,0 +1,60 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2026-07-15T18:02:00+02:00
+- Ende: 2026-07-15T19:49:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaSRaXei_7aKwFfHGHFH1Dw
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21695
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwsLg9ei4DEEYBLVMv8K2R0CssNmzWDVU5t-YC_ZBSx/Bekanntmachung_Rat_15.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRNihOOaW4wY19u_Hts1c27JAvYt5CY049b25IxwaEjk/Oeffentliche_Niederschrift_Rat_15.07.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 19.05.2026 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Immobilienübersicht städtische Immobilien hier: Antrag der CDU-Fraktion vom 12.05.2026 - Beschluss siehe RD-Nr.: 246-XII/Z-1
+- TOP -: Immobilienübersicht städtische Immobilien hier: Ausarbeitung der Verwaltung - Einstimmiger BeschlussDer Stadtverordnete Thilo Waasem, SPD-Fraktion, wirkt bei der Beschlussfassung nicht mit.
+- TOP 5.: Nutzung des Grundstückes „Große Bleiche“ hier: Antrag der CDU-Fraktion vom 12.05.2026 - Beschluss siehe RD 247-XII/Z-1
+- TOP -: Nutzung des Grundstückes „Große Bleiche“ hier: Ausarbeitung der Verwaltung - Einstimmiger Beschluss
+- TOP 6.: Einführung einer zweimonatigen Berichtspflicht zum Sachstand der kommunalen Hochwasserschutzmaßnahmen hier: Antrag der CDU-Fraktion vom 08.06.2026 - Beschluss siehe RD-Nr.: 260-XII/Z-1
+- TOP -: Einführung einer zweimonatigen Berichtspflicht zum Sachstand der kommunalen Hochwasserschutzmaßnahmen hier: Antrag der CDU-Fraktion vom 08.06.2026 - Einstimmiger Beschluss
+- TOP 7.: Begegnungsstätte für das Dorf Mutscheid hier: Gemeinschaftsantrag der FDP-, UWV-, CDU- und SPD-Fraktion vom 16.06.2026 - Beschluss siehe RD-Nr.: 265-XII/Z-1
+- TOP -: Begegnungsstätte für das Dorf Mutscheid hier: Gemeinschaftsantrag der FDP-, UWV-,CDU- und SPD-Fraktion vom 16.06.2026 - Mehrheitlicher Beschluss bei 2 Nein-Stimme und 5 Enthaltungen
+- TOP 8.: Beschattung der Hangrutsche im Kurpark hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.06.2026 - Beschluss siehe RD 280-XII/Z-1
+- TOP -: Antrag zur Beschattung der Hangrutsche im Kurpark hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.06.2026 - Beschluss mit 16 Ja-Stimmen, 17 Nein-Stimmen und 2 Enthaltungen und somit abgelehnt
+- TOP 9.: Vertretung der Stadt Bad Münstereifel in der Verbandsversammlung der Kommunalen Datenverarbeitungszentrale (KDVZ) Frechen Hier: Bestellung eines Stellvertreters - Einstimmiger Beschluss
+- TOP 10.: Videoüberwachung / Sicherheitskonzept von öffentlichen Plätzen hier: Sachstand - Mehrheitlicher Beschluss bei 31 Ja-Stimmen und 3 Nein-Stimmen
+- TOP 11.: Aufnahmeverfahren an weiterführenden Schulen der Stadt Bad Münstereifel Hier: Vorlage eines Satzungsentwurfes zur Bildung eines Schuleinzugbereiches - Beschluss siehe RD 197-XII/Z-3
+- TOP -: Aufnahmeverfahren an weiterführenden Schulen der Stadt Bad Münstereifel Hier: Satzungsbeschluss zur Bildung eines Schuleinzugbereiches für die weiterführenden Schulen der Stadt Bad Münstereifel - Einstimmiger Beschluss
+- TOP 12.: Gesetz zur Beschleunigung des Wohnungsbaus und zur hier: Beschluss über die „Kommunale Leitlinie zur Anwendung des Gesetzes zur Beschleunigung des Wohnungsbaus und der Wohnraumsicherung („Bauturbo“)“ - Beschluss siehe RD 256-XII/Z-1
+- TOP -: Gesetz zur Beschleunigung des Wohnungsbaus und zur hier: Beschluss über die „Kommunale Leitlinie zur Anwendung des Gesetzes zur Beschleunigung des Wohnungsbaus und der Wohnraumsicherung („Bauturbo“)“ - Mehrheitlicher Beschluss mit 3 Nein-Stimmen
+- TOP 13.: Stiftskirche St. Chrysanthus und Daria, Gem. Münstereifel, Flur 5, Flurstück Nr. 1493, Kirchplatz, Bad Münstereifel, Baudenkmal Nr. 17 hier: Sachstand sowie denkmalfachliche Abstimmungen und Erlaubnisse gem. § 9 DSchG - Einstimmiger Beschluss
+- TOP 14.: 4. Änderungssatzung zur Änderung der Wasserversorgungssatzung; 1. Änderung der Regelungen für die Standrohrvermietung 2. Ergänzung zur Nachprüfung von Hauswasserzählern - Einstimmiger Beschluss
+- TOP 15.: 29. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung; 1) Anpassung der Verwaltungsgebühr für die Standrohrvermietung 2) Änderung der Bezeichnung von Hauswasserzählern - Einstimmiger Beschluss
+- TOP 16.: Umstrukturierung Winterdienst hier: aktueller Sachstand und weiteres Vorgehen - Beschluss siehe 72-XII/Z-5
+- TOP -: Umstrukturierung Winterdienst hier: aktueller Sachstand und weiteres Vorgehen - Mehrheitlicher Beschluss mit 1 Nein Stimme
+- TOP 17.: Befreiung von der Pflicht zur Aufstellung eines Gesamtabschlusses für das Haushaltsjahr 2025 - Einstimmiger Beschluss
+- TOP 18.: Anfragen und Mitteilungen
+- TOP 18.1: Sachstand Wiederaufbau hier: Stand 30.06.2026
+- TOP 18.2: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 18.3: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Genehmigungsverfügung des Landrates vom 13.05.2026 vs. Ratsbeschluss zur RD 70-XII/Z-10 vom 19.05.2026; Anfrage der CDU-Fraktion
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2026 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2033 hier: Genehmigungsverfügung des Landrates vom 13.05.2026 vs. Ratsbeschluss zur RD 70-XII/Z-10 vom 19.05.2026; Anfrage der CDU-Fraktion Hier: Ausarbeitung der Verwaltung
+- TOP 18.4: Aktueller Stand und weitere zeitliche Planung zur Wiederherstellung des Sportplatzes in Bad Münstereifel hier: Anfrage der Stadtverordneten Dr. Kerstin Oerter
+- TOP 18.5: Parksituation im Umfeld des Sportplatzes Schönau hier: Anfrage der Stadtverordneten Dr. Kerstin Oerter
+- TOP 18.6: Begrünung von Schulhöfen und Kita-Freiflächen; Prüfung entsprechender Fördermöglichkeiten und erste Umsetzungspläne hier: Anfrage der Stadtverordneten Dr. Kerstin Oerter
+- TOP 18.7: Fortführung des "Klima-Café" in Zusammenarbeit mit dem Deutschen Roten Kreuz hier: Anfrage der Stadtverordneten Dr. Kerstin Oerter
+- TOP 18.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.9: Sonnenschutz Kindergarten Kirspenich hier: Anfrage des Stadtverordneten Dr. Jörg Lommatsch
+- TOP 18.10: Freischneiden von Wirtschaftswegen hier: Anfrage des Stadtverordneten Andreas Schmitz
+- TOP 18.11: Streetballplatz hier: Anfrage des Stadtverordneten Tenzin Naktsang
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Kaufanfrage Grundstück Gemarkung Arloff, Kirchheimer Straße - Einstimmiger Beschluss
+- TOP 2.: Beschluss zur Beteiligung an der Projektgesellschaft „EUWABIO“ – Biomethanaufbereitung - Einstimmiger Beschluss
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Zugang W-Lan Rathaus hier: Anfrage des Stadtverordneten Norbert Lindemann, AfD-Fraktion
