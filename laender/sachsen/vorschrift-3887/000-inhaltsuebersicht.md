@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
-§ 2 Aufgabe der Förderschule
+§ 2 Aufgabe der Förderschulen und Förderzentren
 § 3 Aufgabe und Aufbau der Schule mit dem Förderschwerpunkt Sehen
 § 4 Aufgabe und Aufbau der Schule mit dem Förderschwerpunkt Hören
 § 5 Aufgabe und Aufbau der Schule mit dem Förderschwerpunkt geistige Entwicklung
@@ -11,7 +11,7 @@ Abschnitt 1 Allgemeines
 § 9 Aufgabe und Aufbau der Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung
 § 10 Aufgabe der Klinik- und Krankenhausschule
 § 11 Beratungsstellen
-§ 12 Förderzentrum
+§ 12 (weggefallen)
 Abschnitt 2 Feststellung sonderpädagogischen Förderbedarfs, Schuleingangsphase, Wechsel der Schule und der Schulart
 § 13 Beratung und Verfahren zur Feststellung von sonderpädagogischem Förderbedarf
 § 14 Anmeldung und Aufnahme
@@ -48,6 +48,6 @@ Abschnitt 7 Abschlussprüfungen und Erwerb von Abschlüssen
 § 34 Erwerb des Hauptschulabschlusses oder eines dem Hauptschulabschluss gleichgestellten Abschlusses an der Schule mit dem Förderschwerpunkt Lernen
 § 34a Erwerb eines dem Hauptschulabschluss gleichgestellten Abschlusses in Klassen zur Erlangung der Berufsreife
 § 34b Erwerb des erfolgreichen Abschlusses im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
-Abschnitt 8 Schlussvorschriften
-§ 34c Übergangsvorschrift
-§ 35 Inkrafttreten und Außerkrafttreten
+Abschnitt 8 Erhebungen
+§ 35 Zustimmung
+§ 36 Zuständigkeit
