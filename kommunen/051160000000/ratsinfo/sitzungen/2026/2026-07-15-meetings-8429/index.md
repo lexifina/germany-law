@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-07-15T15:00:00+02:00
+- Ende: 2026-07-15T19:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8429
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8429
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00268376.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00268376.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00268376.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 13.05.2026 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: Fortschreibung Gesamtstrategie - Mit Stimmenmehrheit beschlossen
+- TOP 3: Markenentwicklungsprozess der Stadt Mönchengladbach – Sachstand und weiteres Vorgehen - Kenntnisnahme
+- TOP 4: Verleihung Heimat-Preis 2026 der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: HR-Report 2026 - Kenntnisnahme
+- TOP 6: Nachbenennung einer/eines stellvertretenden sachkundigen Einwohner*in - Einstimmiger Beschluss
+- TOP 7: Jahresrechnung 2025 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Mündlicher Bericht des Stadtdirektors und -kämmerers zur Haushaltssperre nach § 25 Abs. 2 KomHVO NRW - Kenntnisnahme
+- TOP 9: Länder- und Kommunal-Infrastrukturfinanzierungsgesetz (LuKIFG) und NRW-Infrastrukturgesetzesentwurf 2025–2036 - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 9.1: Änderungsantrag zu LuKiFG / Sondervermögen Infrastruktur (Vorlage 0783/XI) Mehr Bündnis 90 / Grüne wagen; hier: Antrag der Ratsfraktion DIE LINKE / Die PARTEI vom 08.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 9.2: Änderungsantrag zu Länder- und Kommunal-Infrastrukturfinanzierungsgesetz (LuKIFG) und NRW-Infrastrukturgesetzesentwurf 2025–2036 hier: Festlegung von Rahmenbedingungen und ersten Maßnahmen aus dem Sondervermögen Infrastruktur (SoVI) - Mit Stimmenmehrheit beschlossen
+- TOP 10: Bekanntgabe des Abschlussergebnisses der Stadtsparkasse Mönchengladbach für das Geschäftsjahr 2025 und Verwendung des Überschusses - Einstimmiger Beschluss
+- TOP 11: Entlastung der Sparkassenorgane für das Geschäftsjahr 2025 - Einstimmiger Beschluss
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (2. Nachweisung) - Kenntnisnahme
+- TOP 13: Bereitstellung überplanmäßiger Haushaltsmittel 2026 im Bereich der Schulbegleitung von Kindern mit Behinderung sowie im Rahmen der Autismustherapie - Mit Stimmenmehrheit beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen - Mit Stimmenmehrheit beschlossen
+- TOP 15: Modernisierung und Erweiterung der Bezirkssportanlage Mülfort - Einstimmiger Beschluss
+- TOP 16: Straßenbenennung "Maria Hilf Terrassen" - Mit Stimmenmehrheit beschlossen
+- TOP 16.1: Straßennamenbenennung im Stadtbezirk Nord, Neubaugebiet BP Nr. 794/N "Maria Hilf Terrassen" 0613/XI: hier: Fraktionsantrag - Mit Stimmenmehrheit abgelehnt
+- TOP 17: Schloss Rheydt, Schlossstraße 508 Brandschutzsanierung der gesamten Schlossanlage sowie Neueinrichtung und bauliche Begleitmaßnahmen zur Umsetzung der stadtgeschichtlichen Ausstellung in der Vorburg - Getrennte Abstimmung (s. Niederschrift)
+- TOP 18: Vorstellung des Themendossiers „Schulabsentismus in Mönchengladbach: Früh erkennen, gezielt handeln, Teil 1: Grundschulen – Datenbasierte Hand-lungsstrategie für Prävention, Steuerung und Unterstützung“ - Mit Stimmenmehrheit beschlossen
+- TOP 19: Zweckgebundene Zuwendung an den Betreuungsverein SKM Mönchengladbach e.V. und den Betreuungsverein Niederrhein e.V. für eine bedarfsgerechte finanzielle Ausstattung zur Führung von rechtlichen Betreuungen Mönchengladbach - Einstimmiger Beschluss
+- TOP 20: Sozialbericht 2025 - Kenntnisnahme
+- TOP 21: Leistungsvereinbarung mit dem Flüchtlingsrat Mönchengladbach e. V. - Mit Stimmenmehrheit beschlossen
+- TOP 22: Leistungsvereinbarung mit den Trägern der freien Wohlfahrtspflege - Mit Stimmenmehrheit beschlossen
+- TOP 23: Wiederbestellung einer Ombudsperson nach § nach § 16 Abs. 2 Wohn- und Teilhabegesetz NRW (WTG NRW) - Einstimmiger Beschluss
+- TOP 24: Gemeinschaftsgrundschule Wilhelm-Strauß-Straße 94, Rheydt - Getrennte Abstimmung (s. Niederschrift)
+- TOP 25: Interkommunale Entwicklung des GIB „Industriepark Elsbachtal-Ost" - Grundsatzbeschluss „Go4Gewerbe" - Einstimmiger Beschluss
+- TOP 26: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Umgestaltung Johann-Peter-Boelling-Platz (M09): Weiteres Vorgehen Tiefgarage Abteiberg - Einstimmiger Beschluss
+- TOP 26.1: Fraktionsantrag zum Tagesordnungspunkt: „Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Umgestaltung Johann-Peter-Boelling-Platz (M09): Weiteres Vorgehen Tiefgarage Abteiberg“ (Vorlagennummer 0712/XI) - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Anwendung des „Bauturbos" - Mit Stimmenmehrheit beschlossen
+- TOP 27.1: Änderungsantrag zur Beratungsvorlage Nr. 0662/XI (Anwendung des Bauturbos und Zweiter Nachtrag zur Zuständigkeitsordnung), Beratungsfolge bis zum Rat am 15. Juli 2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Dritter Nachtrag zur Zuständigkeitsordnung - Mit Stimmenmehrheit beschlossen
+- TOP 29: Optimierung der Haltestellen vor Ampeln (LSA) - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Raserszene ausbremsen – nächtliche Vorrangschaltung einstellen - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Einführung einer einheitlichen und detaillierten Veröffentlichung von Abstimmungsergebnissen im Ratsinformationssystem - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Hitze-, Wasser- und Kühlprävention für heiße Sommer in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Verbesserung der Schulwegsicherheit sowie Durchführung eines Verkehrsversuchs im Bereich Erzbergerstraße / Luise-Vollmar-Straße / Schulstraße / Hardterbroicher Straße - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Weiterentwicklung der Wohnungslosenhilfe in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Einführung eines „Tafel-Tickets“ für bedürftige Menschen in Mönchengladbach; hier: Fraktionsantrag von Die Linke/Die Partei vom 02.06.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Einbahnstraßenregelung Bereich Grünstraße, Teilbereich von Schmidt- Bleibtreu-Straße bis Schleestraße im Stadtteil Odenkirchen - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Investitionen in Spielplätze sicherstellen; hier: Antrag der Ratsfraktionen CDU und SPD vom 11.06.2026 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 38: Entlastung der Sporthallensituation - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Änderungsantrag zur Beratungsvorlage 0666/XI: Bericht über die Baumaßnahmen am Schulzentrum Gerusenstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Übernahme uneinbringlicher Schadensersatz- und Schmerzensgeldansprüche von tariflich Beschäftigten der Stadt Mönchengladbach analog § 82 LBG NRW und § 82a LBG NRW; hier: Antrag der CDU-Fraktion und SPD-Fraktion vom 19.06.2026 - Einstimmiger Beschluss
+- TOP 41: Durchführung eines Cash-Recovery-Projektes im städtischen Haushalt durch ein externes Unternehmen - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Hundesteuer vereinheitlichen, mehr Transparenz, mehr Tierschutz, weniger Bürokratie - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Antrag Ersatzpflanzung für Stieleiche Herdt hier: Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN vom 02.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Umbesetzung von Kommissionen; hier: Antrag der AfD-Ratsfraktion vom 01.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Umbesetzung von Mitglieder des Polizeibeirates; hier: Antrag der AfD-Ratsfraktion vom 02.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 47: Umbesetzung von Mitgliedern für den örtlichen Beirat des Jobcenter Mönchengladbach; hier: Antrag der AfD-Ratsfraktion vom 02.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 48: Umbesetzung von Gremien; hier: Antrag der FDP/VOLT-Ratsfraktion vom 07.07.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 49: Anfragen und Mitteilungen
+- TOP 49.1: Persönliche Erklärung RH Immel (AfD)
