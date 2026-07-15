@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums für Wissenschaft, Kultur und Tourismus über die Festsetzung von Zulassungszahlen an den Universitäten, den Hochschulen für angewandte Wissenschaften und der Dualen Hochschule Sachsen im Studienjahr 2026/2027 (Sächsische Zulassungszahlenverordnung 2026/2027 – SächsZZVO 2026/2027)
+Vom 1. Juni 2026
+Das Staatsministerium für Wissenschaft, Kultur und Tourismus verordnet aufgrund des § 2 Absatz 1 und des § 5 Absatz 1 des Sächsischen Hochschulzulassungsgesetzes vom 7. Juni 1993 (SächsGVBl. S. 462), das zuletzt durch Artikel 2 des Gesetzes vom 31. Mai 2023 (SächsGVBl. S. 329) geändert worden ist, nach Anhörung der Hochschulen:
