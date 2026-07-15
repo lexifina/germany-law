@@ -7,4 +7,4 @@
 2. in den nicht unter Nummer 1 genannten Fächern die Note „mangelhaft“ durch die Note „befriedigend“ oder besser in einem anderen Fach
 ausgeglichen werden kann.
 (3) Der Notenausgleich ist in höchstens drei Fächern zulässig.
-(4) Die Schülerin oder der Schüler erwirbt den erfolgreichen Abschluss im Förderschwerpunkt geistige Entwicklung, wenn sie oder er an der Schule mit dem Förderschwerpunkt geistige Entwicklung oder an der Förderschule in der Klasse mit Förderbedarf im Förderschwerpunkt geistige Entwicklung am Ende der Werkstufe die Anforderungen des Förderplans gemäß § 17 Absatz 1 erfüllt.
+(4) Die Schülerin oder der Schüler erwirbt den erfolgreichen Abschluss im Förderschwerpunkt geistige Entwicklung, wenn sie oder er an der Schule mit dem Förderschwerpunkt geistige Entwicklung oder an der Förderschule in der Klasse mit Förderbedarf im Förderschwerpunkt geistige Entwicklung am Ende der Berufsbildungsstufe die Anforderungen des Förderplans gemäß § 17 Absatz 1 erfüllt.
