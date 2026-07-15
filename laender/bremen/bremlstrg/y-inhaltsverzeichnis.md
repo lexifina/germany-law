@@ -37,8 +37,10 @@ Schutzmaßnahmen | Schutzmaßnahmen
 § 29 | Beschränkungen bei geplanten Straßen
 § 30 | Entschädigung für Bauverbote und Beschränkungen
 § 31 | Veränderungssperre
-§ 32 | Vorarbeiten
+§ 32 | Duldungspflichten
 § 33 | Planfeststellung
+§ 33a | Anhörung
+§ 33b | Vorzeitiger Baubeginn
 § 34 | Vorzeitige Besitzeinweisung
 § 35 | Enteignung
 7. Abschnitt Entschädigungsverfahren
