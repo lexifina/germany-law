@@ -45,8 +45,9 @@ Siebter Abschnitt Erwerb und Verlust der Mitgliedschaft in der Bürgerschaft
 33 | Erwerb der Mitgliedschaft in der Bürgerschaft
 34 | Verlust der Mitgliedschaft in der Bürgerschaft
 35 | Folge eines Parteienverbotes
-36 | Berufung von Listennachfolgern
+36 | Berufung von Nachfolgern
 36a | Erwerb und Verlust der Mitgliedschaft in der Stadtbürgerschaft.
+36b | Berechnung der Nachfolge
 Achter Abschnitt Wahlprüfung, Nachwahlen und Wiederholungswahlen
 37 | Wahlprüfungsgericht
 38 | Verfahren
@@ -72,7 +73,7 @@ Vierter Teil Schlußbestimmungen
 55 | Fristen, Termine und Form
 56 | Wahlkosten
 57 | Wahlstatistik
-57a | Beschränkung von Rechten der betroffenen Person nach der Verordnung (EU) 2016/679
+57a | Beschränkung von Rechten und Pflichten nach dem Bremischen Ausführungsgesetz zur EU-Datenschutzgrundverordnung
 58 | Landeswahlordnung
 58a | Naturkatastrophen oder ähnliche Ereignisse höherer Gewalt
 59 | Vorzeitige Beendigung der Wahlperiode der Bürgerschaft.
