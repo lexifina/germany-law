@@ -1,0 +1,56 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2026-07-16T17:00:00+02:00
+- Ende: 2026-07-16T19:43:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZiydQCGcuvy_5KURzewkpk
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3258
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUqlWx8e8JfpAAEaSv3rOnVq041uiAcn1qD8s3TnkzRk/Bekanntmachung_Rat_16.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRknPNQbHljWdp0KBB1aTs4cKf_MHE9o1vYpKGODixAB/Oeffentliche_Niederschrift_Rat_16.07.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Entwurf des Jahresabschlusses der Stadt Rahden für das Haushaltsjahr 2025 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Unterjähriger Finanzbericht Stand Mai 2026
+- TOP 6.: Planerische Steuerung der Windkraftnutzung - Ohne Abstimmung
+- TOP 6.1: Planerische Steuerung der Windkraftnutzung - 5 Stimmen dafür, 18 dagegen, 4 Enthaltungen
+- TOP 7.: Bürgerradweg Stelle an der L 765, Mindener Straße - Ohne Abstimmung
+- TOP 7.1: Bürgerradweg Stelle an der L 765, Mindener Straße - Ohne Abstimmung
+- TOP 7.2: Bürgerradweg Stelle an der L 765, Mindener Straße - Einstimmig, 0 Enthaltungen
+- TOP 8.: Aufstellung des Bebauungsplanes Nr. 102 "Kleinendorf - 2. Erweiterung Holunderweg" sowie 92. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über die während der Veröffentlichung der Entwürfe der Bauleitpläne vorgebrachten Stellungnahmen gemäß § 3 Abs. 2 und § 4 Abs. 2 BauGB b) Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 92. Änderung des Flächennutzungsplanes - 24 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. 100 "Nördlich Osnabrücker Straße" und 89. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) zur Schaffung weiterer Wohnbauflächen - 26 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 10.: 12. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig, 0 Enthaltungen
+- TOP 11.: ADAC Rallye Stemweder Berg am 25.09.2026 - 23 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 12.: Neuvergabe des Prozessmanagements zur abschlussorientierten Begleitung des ISEK "Rahden Innenstadt 2030" - 24 Stimmen dafür, 4 dagegen, 0 Enthaltungen
+- TOP 13.: Sachstandsbericht zu den Maßnahmen aus dem Brandschutzbedarfsplan
+- TOP 14.: Beschaffung eines Moduls „Einsatzstellenhygiene“ für die Stadtfeuerwehr Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Kauf einer gebrauchten Containeranlage - 18 Stimmen dafür, 12 dagegen, 0 Enthaltungen
+- TOP 16.: Antrag der FDP-Fraktion: Installation eines digitalen Mängelmelders auf der Homepage der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Anträge der CDU-Fraktion - Sachstand Krankenhaus Rahden
+- TOP 18.: Sachstandsbericht zu den städtischen Friedhöfen
+- TOP 19.: Änderung der Geschäftsordnung des Rates der Stadt Rahden - Ohne Abstimmung
+- TOP 20.: Änderung der Zuständigkeitsordnung für Ausschüsse des Rates der Stadt Rahden - Ohne Abstimmung
+- TOP 21.: Wiederkehrende Antragsliste der politischen Anträge
+- TOP 22.: Bekanntgaben und Anfragen
+- TOP 22.1: Wasserverbrauch in Rahden
+- TOP 22.2: Klimakonzept
+- TOP 22.3: Terminkoordination Haushaltsplanung 2027
+- TOP 22.4: Sachstand Glasfaserausbau
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 23.: Grundstücksangelegenheiten
+- TOP 23.1: Vertragsangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 23.2: Festlegung des Verkaufspreises für den BPLAN 99 inklusive Vergabeverfahren - Einstimmig, 0 Enthaltungen
+- TOP 23.3: Veräußerung eines Gewerbegrundstückes im Gewerbegebiet Rahden-Süd - 29 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 23.4: Bestellung eines Erbbaurechtes für das Gebäude der Friedhofskapelle Varl einschließlich Glockenturm zugunsten des Vereins Kapelle Varl e.V. - 29 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.: Bekanntgaben und Anfragen
+- TOP 26.1: Störung Mobilfunknetz
