@@ -1,0 +1,1 @@
+Auf Grund des Art. 1 des Ausführungsgesetzes-Aufenthaltsgesetz (AGAufenthG) vom 24. August 1990 (GVBl. S. 338, BayRS 26-1-I), das zuletzt durch Gesetz vom 24. Juli 2018 (GVBl. S. 612) geändert worden ist, in Verbindung mit Art. 2 Abs. 2 AGAufenthG verordnet das Bayerische Staatsministerium des Innern und für Integration:
