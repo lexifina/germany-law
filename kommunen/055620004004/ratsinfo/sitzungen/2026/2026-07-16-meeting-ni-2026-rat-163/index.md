@@ -1,0 +1,65 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2026-07-16T17:00:00+02:00
+- Ende: 2026-07-16T19:17:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-163
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-163
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-RAT-163
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-163
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-163
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Konsensliste
+- TOP 2.1: Grundstücksgeschäfte der ECAS GmbH - Entwicklung der Fläche "Holzstraße"
+- TOP 2.2: Antrag Bündnis 90_Die Grünen vom 17.06.2026_Angsträume systematisch erfassen
+- TOP 2.2.1: Ergänzungsantrag der Fraktion Die Linke vom 06.07.2026 zum Antrag "Angsträume systematisch erfassen - Mängelmelder um die Kategorie Angsträume und Unsicherheitsräume erweitern
+- TOP 2.3: Antrag der SPD-Ratsfraktion: Prüfauftrag zur Befreiung von Verwaltungsgebühren bei gemeinwohlorientierten Sondernutzungen im Zusammenhang mit Veranstaltungen
+- TOP 2.4: Antrag von Die Linke-Ratsfraktion vom 01.07.2026 zur Optimierung der Informations- und Ansprachewege zum CAS-Pass
+- TOP 2.5: Antrag der CDU - Ratsfraktion vom 19.06.2026_Reduzierung der Geschwindigkeit von Tempo 50 km/h auf Tempo 30 km/h innerorts auf der Pöppinghauser Straße im Ortsteil Pöppinghausen
+- TOP 2.6: Antrag der Fraktion Bündnis 90/ Die GRÜNEN vom 26.06.2026_Querungshilfe Dresdener Straße
+- TOP 2.7: Änderung der Zusammensetzung der Jury sowie die Anpassung des Auswahlverfahrens zur Vergabe der Ehrennadel der Stadt Castrop-Rauxel
+- TOP 2.8: Umbesetzung der wewole Stiftung im Ausschuss für Generationen, Inklusion und Diversität
+- TOP 3: Neubau einer Feuer- und Rettungswache an der Habinghorster Straße (B235) / Klöcknerstraße
+- TOP 4: Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der Wirtschaft & Marketing Castrop-Rauxel GmbH
+- TOP 5: Entwurf des Jahresabschlusses zum 31.12.2025
+- TOP 6: Interkommunale Zusammenarbeit mit der Stadt Waltrop zur Übernahme von Telefondienstleistungen durch das Service Center der Stadt Castrop-Rauxel ab dem Jahr 2027
+- TOP 7: Vorstellung des Konzepts zur Erreichung der Klimaneutralität kommunaler Liegenschaften der Stadt Castrop-Rauxel deutlich vor 2040
+- TOP 8: Antrag der AFD-Fraktion vom 28.06.2026_Prüfung und Umsetzung einer Neuordnung des ruhenden Verkehrs auf der Karolinenstraße zwischen Kirchstraße und Vinckestraße
+- TOP 9: Antrag AfD Ratsfraktion vom 26.06.2026_Verkehrssituation auf der Oststraße im Bereich des Bauernhofes Menken
+- TOP 10: Gesamtkonzept Veranstaltungssicherheit - Sachstandsbericht
+- TOP 11: Antrag CDU Ratsfraktion vom 12.06.2026_Friedhofskapelle Henrichenburg
+- TOP 12: Antrag der CDU-Ratsfraktion vom 23.06.2026_Gehwege Becklemer Straße
+- TOP 13: Antrag der AfD-Fraktion vom 26.06.2026_Prüfung zur Aufstellung weiterer Papiercontainer oder anderer Lösungsmöglichkeiten
+- TOP 14: Antrag der AFD-Fraktion vom 28.06.2026_Prüfung der Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der Recklinghauser Straße im Bereich der Hausnummer 329
+- TOP 15: Antrag der Fraktion Die Linke vom 05.07.2026_Antrag zur Überprüfung und Optimierung der Parksituation Im Stahlskamp
+- TOP 16: Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten
+- TOP 17: Antrag CDU-Ratsfraktion vom 19.06.2026 Projekttag zum Tag des Grundgesetzes
+- TOP 18: Antrag der CDU-Fraktion_Nacht der Ausbildung
+- TOP 19: Berufung und Entsendung der Sachkundigen Einwohnerinnen und Einwohner für den Ausschuss für Klima, Umwelt und Mobilität für die Wahlperiode 2025-2030
+- TOP 20: Antrag der CDU-Fraktion vom 22.05.2026_Einführung von HVO 100 zur klimafreundlichen Betankung kommunaler Fahrzeuge in Castrop-Rauxel
+- TOP 21: Nahverkehrsplan: - ÖPNV-Untersuchung Castrop-Rauxel - Sachstand zur Fortschreibung des Nahverkehrsplans durch den Kreis Recklinghausen
+- TOP 21.1: Antrag der SPD-Fraktion vom 07.07.2026_Ergänzungsprüfauftrag zur Vorlage 2026/152 (Nahverkehrsplan Kreis Recklinghausen)
+- TOP 22: Antrag der CDU Ratsfraktion vom 19.06.2026_Hitzeschutzmaßnahmen
+- TOP 23: Antrag der Fraktion Bündnis 90/ Die GRÜNEN vom 01.06.2026_Umsetzung der Ergebnisse des Fußverkehr-Checks 2023 - Sicherung der Gehwege für soziale Teilhabe und Barrierefreiheit
+- TOP 24: Antrag der Fraktion Bündnis 90/ Die GRÜNEN vom 01.06.2026_Prüfung von Tempo 30 auf der Cottenburgstraße
+- TOP 25: Einbeziehung weiterer beratender Mitglieder in den Jugendhilfeausschuss
+- TOP 26: Wiederwahl einer Schiedsperson der Stadt Castrop-Rauxel für den Bezirk I
+- TOP 27: Bestellung einer Vertretung der Stadt Castrop-Rauxel für den Vorstand des Vereins "DROB - Drogenhilfe Recklinghausen und Ostvest e.V."
+- TOP 28: Änderung der Hauptsatzung
+- TOP 29: Änderung der Zuständigkeitsordnung für den Rat und die Ausschüsse
+- TOP 30: Antrag AfD Ratsfraktion vom 26.06.2026_Prüfung der Einführung gemeinnütziger Arbeitsgelgenheiten für leistungsberechtigte Asybewerber gemäß § 5 Asylbewerberleistungsgesetz (AsylbLG)
+- TOP 31: Ausschussumbesetzungen
+- TOP 31.1: Ausschussumbesetzung und Benennung eines neuen Ausschussvorsitzenden für den AKUM durch die AfD-Fraktion
+- TOP 31.2: Ausschussumbesetzungen der SPD-Fraktion
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 33: Anfragen der Ratsmitglieder
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
