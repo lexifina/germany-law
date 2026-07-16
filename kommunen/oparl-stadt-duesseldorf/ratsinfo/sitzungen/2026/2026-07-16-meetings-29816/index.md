@@ -1,0 +1,145 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-07-16T14:00:00+02:00
+- Ende: 2026-07-16T21:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29816
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29816
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 16.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00593053.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 16.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00593053.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 16.07.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00593053.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitgliedes
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 07.05.2026 (SI-RAT/003/2026) - einstimmig beschlossen
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Brand eines Feldes am 07. Juli 2026 in Angermund - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Zwischenlösung an der Bilker Kirche - Evaluation und weitere Planung - zurückgewiesen
+- TOP 4.3: Anfrage aus aktuellem Anlass der Ratsfraktion SPD/Volt: Einsparvorgaben an Träger vonseiten des Gesundheitsamtes - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Maßnahmen der Landeshauptstadt Düsseldorf gegen die Zwangs- und Ferienverheiratung minderjähriger Kinder - zurückgewiesen
+- TOP 4.5: Anfrage aus aktuellem Anlass der AfD-Ratsfraktion: Kurzfristige Sperrung einer Spur der Joseph-Kardinal-Frings-Brücke in Richtung Neuss für Kraftfahrzeuge zugunsten des Rad- und Fußgängerverkehrs durch Straßen.NRW - beantwortet
+- TOP 4.6: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Vorschlag, dass Thomas Geisel als Vorsitzender der vorgeschlagenen Einigungsstelle bei der Rheinbahn AG wirken soll - zurückgewiesen
+- TOP 4.7: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: RRX in Angermund und mögliche Verschiebung, Finanzierung und Gerichtstermin - beantwortet
+- TOP 4.8: Anfrage aus aktuellem Anlass des Ratsherrn Krüger: verschiedenste Probleme rund um das Konzert von System Of A Down am 10.07.2026 auf dem Open Air Park( Messeparkplatz P1) - beantwortet
+- TOP 4.9: Anfrage aus aktuellem Anlass der Ratsfrau Mirus: mögliche Zählersperrungen bei rund 600 Haushalten in Eller - beantwortet
+- TOP 4.10: Anfrage aus aktuellem Anlass der Ratsfrau Mirus: Skytrainstörung am 11. Juli 2026 - schriftlich beantwortet
+- TOP 4.11: Anfrage aus aktuellem Anlass des Ratsherrn Kühbacher: RRX nicht ausbremsen – Auswirkungen des Rechtsverfahrens um den Teilabschnitt Angermund - schriftlich beantwortet
+- TOP 4.12: Anfrage aus aktuellem Anlass des Ratsherrn Tscholl: „Why have you forsaken me?“ – Organisatorische Mängel beim Probelauf der Open-Air-Fläche - schriftlich beantwortet
+- TOP 4.13: Anfrage aus aktuellem Anlass des Ratsherrn Dr. Bresztowszky: Konsequenzen der Ausschreitungen in Oberbilk für die Drogen- und Sicherheitspolitik - schriftlich beantwortet
+- TOP 4.14: Anfrage aus aktuellem Anlass der Ratsfrau Kraljic: Fehleranalyse zum Einweihungskonzert mit System of a Down - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktion SPD/Volt: Wohnungsbau voranbringen – Wo steht die Landeshauptstadt bei der Aktivierung ihrer Flächenpotenziale? - beantwortet
+- TOP 5.2: Anfrage der Ratsfraktion SPD/Volt: Personalwirtschaftliche Einsparmaßnahmen: Auswirkungen auf Verwaltung, Beschäftigte und städtische Leistungen - beantwortet
+- TOP 5.3: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Luftballons verschmutzen Düsseldorf und gefährden Tiere? - beantwortet
+- TOP 5.4: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Horst Klosterkemper ehren, würdigen, den Düsseldorfern nahebringen - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Auswirkungen der Rechenzentrumsstrategie der Bundesregierung auf Düsseldorf - beantwortet
+- TOP 5.6: Anfrage der FDP-Ratsfraktion: Sachstand des Projekts „Feuerwehrorganisatorische Maßnahmen I (FOM I)“ - beantwortet
+- TOP 5.7: Anfrage der FDP-Ratsfraktion: Systematisches Monitoring des baulichen Zustands städtischer Gebäude - schriftlich beantwortet
+- TOP 5.8: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Schrottimmobilie - schriftlich beantwortet
+- TOP 5.9: Anfrage der AfD-Ratsfraktion: Umfang der Kontrollen des Ordnungsamtes zur Einhaltung von Parkbeschränkungen im Umfeld von Düsseldorfer Moscheen während der wöchentlichen Freitagsgebete - schriftlich beantwortet
+- TOP 5.10: Anfrage der AfD-Ratsfraktion: Heimaturlaub von geflüchteten Personen im Leistungsbezug - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Dufhues: Streichungen und Kürzungen bei VHS-Angeboten - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau Dufhues: Post-, Bank- und/oder Sparkassenkontokündigungen von Nicht-EU-Bürgern seit dem 1.1.2022 - zurückgezogen
+- TOP 5.13: Anfrage der Ratsfraktion Die Linke: Glücksspielsucht in Düsseldorf - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfraktion Die Linke: Sanierung von Kulturgebäuden: zakk - schriftlich beantwortet
+- TOP 5.15: Anfrage der Ratsfrau Mirus: Hitze in Mietwohnungen, die zu gesundheitlichen Problemen bei Mietern führen kann - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Kraljic: Public Viewing zur WM 2026 am Blumengroßmarkt - schriftlich beantwortet
+- TOP 5.17: Anfrage des Ratsherrn Winter: Finanzierung und strukturelle Unterstützung des Jugendrings Düsseldorf e.V. durch die Landeshauptstadt Düsseldorf in den Jahren 2021 bis 2025 - schriftlich beantwortet
+- TOP 5.18: Anfrage des Ratsherrn Maniera: Bewirtschaftungs- und Reinigungskosten in angemieteten Unterkünften für Flüchtlinge und Asylbewerber - schriftlich beantwortet
+- TOP 5.19: Anfrage des Ratsherrn Maniera: Ausbau des Zivil- und Bevölkerungsschutzes - schriftlich beantwortet
+- TOP 5.20: Anfrage des Ratsherrn Krüger: Vergabeverfahren "Suchthilfezentrum Eisenstraße" (AGS/051/2026) und Einbindung des städtischen Compliance-Managements - schriftlich beantwortet
+- TOP 5.21: Anfrage des Ratsherrn Montanus: Einsatz von Brumisateuren im Stadtgebiet - schriftlich beantwortet
+- TOP 5.22: Anfrage des Ratsherrn Salinger: Erhebung der Verstöße gegen das Lkw-Fahrverbot auf der Theodor-Heuss-Brücke und Südbrücke im Zeitraum 1. März bis 30. Juni 2026 - schriftlich beantwortet
+- TOP 5.23: Anfrage der Ratsfrau Mirus: Umzugspläne für die Mitarbeitenden der städtischen Ämter - schriftlich beantwortet
+- TOP 5.24: Anfrage der Ratsfrau Lehmann: Auf die Hitzewelle vorbereitet? - schriftlich beantwortet
+- TOP 5.25: Anfrage der Ratsfrau Marmulla: Ausmaß und Kontrolle von Mietpreisüberhöhung und Mietwucher auf Düsseldorfer Vermietungsportalen - schriftlich beantwortet
+- TOP 5.26: Anfrage des Ratsherrn Eberhardt-Köster: Sondervermögen für Infrastruktur und Klimaneutralität - schriftlich beantwortet
+- TOP 5.27: Anfrage der Ratsfrau Dr. Proschmann: Hallo Wohnungsaufsicht? Falsch verbunden – Entmietung in der Halskestraße 8 - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 7: Bestellung eines ordentlichen Mitglieds für die Düsseldorfer Gesundheitskonferenz. Hier: Landesverband der Hebammen NRW e. V. - einstimmig beschlossen
+- TOP 8: Bestellung eines ordentlichen Mitglieds für die Düsseldorfer Gesundheitskonferenz. Hier: Psychotherapeutenkammer Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 9: Benennung von Mitglieder*innen für den Forensikbeirat bei der LVR-Klinik Düsseldorf - einstimmig beschlossen
+- TOP 10: Zuwendung des Verkehrs- und Verschönerungsvereins für den linksrheinischen Teil der Stadt Düsseldorf e.V. - einstimmig beschlossen
+- TOP 11: Integriertes städtebauliches Entwicklungskonzept (ISEK) Garath 2.0 - einstimmig beschlossen
+- TOP 12: Integriertes städtebauliches Entwicklungskonzept (ISEK) Rath/Mörsenbroich - mehrheitlich beschlossen
+- TOP 13: Bebauungsplan - Entwurf Nr. 03/029 - Planstraße Oberbilk - mehrheitlich beschlossen
+- TOP 14: Plan Nr. 03/051 - Buysstraße/ Fruchtstraße / Mecumstraße / Düssel - einstimmig beschlossen
+- TOP 14.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage APS/050/2026 - mehrheitlich abgelehnt
+- TOP 14.2: Änderungsantrag der AfD-Ratsfraktion zur Vorlage APS/050/2026 - mehrheitlich abgelehnt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Entschädigungsregelung für die Mitglieder des Umlegungsausschusses - mehrheitlich beschlossen
+- TOP 17: Nachträgliche Erteilung der Zustimmung der Gemeinde gemäß § 36a BauGB zu Vorhaben nach § 31 Abs. 3 BauGB - mehrheitlich beschlossen
+- TOP 18: Änderungssatzung der Satzung über die Erhebung von Elternbeiträgen für die Betreuung in Tageseinrichtungen für Kinder, in Tagespflege und im Rahmen der Offenen Ganztagsschule im Primarbereich - mehrheitlich beschlossen
+- TOP 18.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage JHA/059/2026 - mehrheitlich abgelehnt
+- TOP 18.2: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage JHA/059/2026 - mehrheitlich abgelehnt
+- TOP 18.3: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage JHA/059/2026 - mehrheitlich abgelehnt
+- TOP 18.4: Änderungsantrag der Ratsfrau Marmulla zur Vorlage JHA/059/2026 - mehrheitlich abgelehnt
+- TOP 18.5: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage JHA/059/2026 - mehrheitlich beschlossen
+- TOP 19: Besetzung Bernd-und-Hilla-Becher-Preisgerichtes 2025-2030 - mehrheitlich beschlossen
+- TOP 20: Änderung der Satzung der Volkshochschule - abweichend beschlossen
+- TOP 20.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage KUA/097/2026 - zurückgezogen
+- TOP 20.2: mündlicher Änderungsantrag der CDU-Ratsfraktion zur Vorlage KUA/097/2026 - mehrheitlich beschlossen
+- TOP 21: Wahl eines Mitgliedes und dessen Stellvertretung in die Mitgliederversammlung und in die Bezirksarbeitsgemeinschaft - einstimmig beschlossen
+- TOP 22: Herbeiführen eines Bedarfsbeschlusses - Neugestaltung Konrad-Adenauer-Platz - mehrheitlich beschlossen
+- TOP 22.1: Änderungsantrag der FDP-Ratsfraktion zu OVA/061/2026 - mehrheitlich abgelehnt
+- TOP 23: Neugestaltung östliche Königsallee - mehrheitlich beschlossen
+- TOP 23.1: Änderungsantrag der FDP-Ratsfraktion zu OVA/062/2026 - mehrheitlich abgelehnt
+- TOP 23.2: Ergänzungsantrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN zur Vorlage OVA/062/2026 - mehrheitlich beschlossen
+- TOP 24: Sicherungsmaßnahmen an der Theodor-Heuss-Brücke - mehrheitlich beschlossen
+- TOP 25: Bestimmungsverfahren an der KGS Mettmanner Straße zur Umwandlung der Schulart in eine Gemeinschaftsgrundschule - einstimmig beschlossen
+- TOP 26: Zukunftsbetrachtung des Grundschul-Doppelstandortes Kartause-Hain-Schule / GGS Unterrath - einstimmig beschlossen
+- TOP 27: Technische Abwassersatzung der Landeshauptstadt Düsseldorf vom 19.04.2021 - Anpassung der Anlage 1 - Beschluss - - einstimmig beschlossen
+- TOP 28: Pariser Straße/Drususstraße, Sanierung Regenüberlauf 14 (I-2030709003) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 29: Kenntnisnahme des Jahresabschlusses 2025 der Stadtsparkasse Düsseldorf, Beschluss zur Gewinnverwendung sowie Entlastung der Sparkassenorgane für das Jahr 2025 - einstimmig beschlossen
+- TOP 30: Evaluation über die Einführung der Beherbergungssteuer - zur Kenntnis genommen
+- TOP 31: Umlegungsausschuss -Bestellung von Mitgliedern- - einstimmig beschlossen
+- TOP 32: Abbruchantrag, Hoffeldstraße 43 – Abbruch des vorhandenen Wohn- und Geschäftshauses – Entscheidung nach Beanstandung - mehrheitlich beschlossen
+- TOP 33: Jugendhilfeausschuss -Ersatzwahl eines Mitgliedes der im Bereich des Jugendamtes wirkenden und anerkannten Träger der freien Jugendhilfe- - einstimmig beschlossen
+- TOP 34: Deutsche Oper am Rhein, Opernhaus der Zukunft (OdZ) – Aufhebung der Ratsbeschlüsse KUA/141/2024 und RAT/244/2024 sowie weiteres Vorgehen - mehrheitlich beschlossen
+- TOP 34.1: Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/427/2026 - mehrheitlich abgelehnt
+- TOP 35: Anträge
+- TOP 35.1: Antrag der Ratsfraktion Die Linke: Keine Uran- und Castor-Transporte durch Düsseldorf - mehrheitlich abgelehnt
+- TOP 35.2: Antrag der Ratsfraktion Die Linke: Düsselferien kostenfrei für Düsselpass-Kinder - mehrheitlich abgelehnt
+- TOP 35.2.1: Änderungsantrag der FDP-Ratsfraktion zu Vorlage RAT/264/2026 - mehrheitlich abgelehnt
+- TOP 35.3: Antrag der AfD-Ratsfraktion: Konsequente Überprüfung erfolgter Einbürgerungen vor dem Hintergrund offenkundiger Missstände in der Düsseldorfer Ausländerbehörde - mehrheitlich abgelehnt
+- TOP 35.4: Antrag der AfD-Ratsfraktion: Antrag auf Einsparung von Kosten im Klimaschutz zur Rettung des Klimas in Höhe von 120 bis 190 Millionen Euro aufgrund der falschen und zurückgenommenen Klima-Szenarien-Berechnung und -Grundannahme (RCP8.5) - mehrheitlich abgelehnt
+- TOP 35.4.1: Änderungsantrag der Ratsgruppe Freie Wähler Tierschutz PARTEI zur Vorlage RAT/306/2026 - mehrheitlich abgelehnt
+- TOP 35.5: Antrag der AfD-Ratsfraktion: Unverzügliche Beteiligung der Landeshauptstadt Düsseldorf am bewährten Landesprojekt MISSIMO zur Bekämpfung von organisiertem Sozialleistungsmissbrauch und zur Einsparung von Millionen Euro Steuergeldern - mehrheitlich abgelehnt
+- TOP 35.6: Antrag der AfD-Ratsfraktion: Einrichtung permanenter Anlaufstellen des Ordnungs- und Sicherheitsdienstes („Nachtwächter-Projekt“) an zentralen Plätzen der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 35.7: Antrag der AfD-Ratsfraktion: Einführung eines grundsätzlichen Grillverbots in öffentlichen Parks und Grünanlagen der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 35.8: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Deutschlandticket ist besser! - zurückgezogen
+- TOP 35.9: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Initiative beim Städtetag: Verzicht auf Strafverfolgung ist besser! - mehrheitlich abgelehnt
+- TOP 35.10: Antrag der FDP-Ratsfraktion: Aufhebung des Ratsbeschlusses vom 15. Juni 2023 zu BAU/008/2023
+- TOP 35.10.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage RAT/322/2026
+- TOP 35.11: Antrag der AfD-Ratsfraktion: Auflösung aller Beiräte im Kulturbereich der Stadt zur Haushaltskonsolidierung und Schuldentilgung
+- TOP 35.12: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Fahrrad- und Fußgängerweg auf der Rheinkniebrücke
+- TOP 35.13: Antrag der Ratsfraktion Die Linke: Gerechte Alternativen und lebbare Kompromisse für die Haushaltsfinanzierung
+- TOP 35.14: Antrag der Ratsfraktion SPD/Volt: Zweitwohnungssteuer einführen – kommunale Einnahmebasis stärken
+- TOP 35.15: Antrag der Ratsfraktion SPD/Volt: Sinnvolle Projektabwicklung U81 – Priorisierung des Bauabschnitts U81/West
+- TOP 35.16: Antrag der Ratsfraktion SPD/Volt: Genug getestet – Bodycams für Ordnungsdienstmitarbeitende endlich einführen
+- TOP 35.17: Antrag der FDP-Ratsfraktion: Zusätzliche Bademöglichkeiten in Düsseldorf
+- TOP 35.17.1: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage RAT/390/2026
+- TOP 35.18: Antrag der FDP-Ratsfraktion: Veräußerung des Grundstücks Am Wehrhahn 1 und Oststraße 15 – ehem. Kaufhof
+- TOP 35.19: Antrag der Ratsfraktion SPD/Volt: Meldekategorie „Hornissen-Nest“ in die App „Düsseldorf bleibt sauber“ integrieren
+- TOP 35.20: Antrag der AfD-Ratsfraktion: Verzicht der Beigeordneten und des Oberbürgermeisters auf 10% ihrer Bezüge
+- TOP 35.21: Antrag der AfD-Ratsfraktion: Kürzung der Aufwandsentschädigungen nebst Zulagen der Mitglieder des Rates um 10% sowie der Mitglieder der Bezirksvertretungen um 5%
+- TOP 35.22: Antrag der AfD-Ratsfraktion: Streichung der Ausgaben für die zakk gGmbH
+- TOP 35.23: Antrag der AfD-Ratsfraktion: Errichtung eines kommunalen Ausreisezentrums am Düsseldorfer Flughafen zur effizienten Umsetzung bestehender Ausreiseverpflichtungen
+- TOP 35.24: Antrag der AfD-Ratsfraktion: Kinder- und Jugendschutz konsequent umsetzen: Erweiterung der aufstellten Piktogramme um zusätzliches Alkohol- und Cannabisverbot auf allen öffentlichen Spielplätzen sowie in allen städtischen Parkanlagen mit Spielgeräten
+- TOP 35.25: Antrag der AfD-Ratsfraktion: Prüfung der Verlagerung von Gesundheitsamt und Technischem Rathaus in das ehemalige Kaufhof-Gebäude am Wehrhahn
+- TOP 35.26: Antrag der AfD-Ratsfraktion: Stornierung des Neubaus des Gesundheitsamtes
+- TOP 35.27: Antrag der AfD-Ratsfraktion: Städtischen Zuschuss für den Verein STAY! Düsseldorfer Flüchtlingsinitiative e.V. mit sofortiger Wirkung streichen
+- TOP 35.28: Antrag der AfD-Ratsfraktion: Umgehende Beseitigung der illegalen Zelt- und Hüttensiedlung an der Lierenfelder Straße
+- TOP 35.29: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Prüfung der Einrichtung von öffentlich zugänglichen Schutzräumen bei Extremhitze („Hitzezufluchten“) und Prüfung eines Leihpools für mobile Klimageräte
+- TOP 35.30: Antrag der Ratsfraktion SPD/Volt: Wohnungsbauoffensive breiter aufstellen – Bundeswohnungsbaugesellschaft als Chance wahrnehmen
+- TOP 35.31: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Entwicklung einer strategischen Ankaufspolitik von Bestandsimmobilen
+- TOP 35.31.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/410/2026
+- TOP 36: Rotterdamer Straße 141, Stadthalle – Instandhaltungsmaßnahmen und Ersatzbeschaffungen - Ausführungs und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 36.1: mündlicher Ergänzungsantrag der Ratsfraktion SPD/Volt zur Vorlage BAU/011/2026/1 - mehrheitlich abgelehnt
+- TOP 37: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
