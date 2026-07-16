@@ -15,7 +15,7 @@
 - [§ 11 Unterstützungsdienste](0011.md)
 - [§ 12 Allgemeine Anforderungen an Dienstleistungen](0012.md)
 - [§ 13 Zusätzliche Anforderungen an bestimmte Dienstleistungen](0013.md)
-- [§ 14 Zusätzliche Anforderungen an Telekommunikationsdienste](0014.md)
+- [§ 14 Zusätzliche Anforderungen Telekommunikationsdienstleister](0014.md)
 - [§ 15 Zusätzliche Anforderungen an Personenbeförderungsdienste](0015.md)
 - [§ 16 Zusätzliche Anforderungen an Stadt-, Vorort- und Regionalverkehrsdienste](0016.md)
 - [§ 17 Zusätzliche Anforderungen an Bankdienstleistungen für Verbraucher](0017.md)
