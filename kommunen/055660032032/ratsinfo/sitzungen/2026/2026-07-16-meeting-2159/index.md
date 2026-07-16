@@ -1,0 +1,52 @@
+# Rat der Gemeinde Ladbergen (70. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2026-07-16T19:00:00+02:00
+- Ende: 2026-07-16T21:04:00+02:00
+- Ort: Rathaus, Jahnstraße 5, 49549 Ladbergen, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdHrrOdF2dIbxYCfFFP0nQ8
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2159
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZciN1_iysac6hioVmAJh6r1UNpimtW40gTLrbyfrWFoP/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_16.07.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEmpkbIzkMTu4v8KF_KtWgXO_zfTZvMG7Lf-r4gogSK/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_16.07.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Gesundheitliche Versorgungskrise
+- TOP 3: Optimierung Spielarena 12+; Vorstellung der Planung
+- TOP 3.1: Optimierung Spielarena 12+; Vorstellung der Planung - 14 Ja, 8 Nein, 0 Enthaltung(en)
+- TOP 4: Genehmigung eines Dringlichkeitsbeschlusses gem. § 60 Absatz 1 Satz 2 GO NRW in Verbindung mit § 6 der Hauptsatzung der Gemeinde Ladbergen hier: Teilnahme am Projektaufruf 2026 des Bundesprogramms „Anpassung urbaner und ländlicher Räume an den Klimawandel" - Einstimmig
+- TOP 5: Resolution zur öffentlichen Videoüberwachung öffentlich zugänglicher Räume - 19 Ja, 3 Nein, 0 Enthaltung(en)
+- TOP 6: Antrag der SPD – Fraktion Beitritt der Gemeinde Ladbergen zum Netzwerk #sicherimDienst - Einstimmig
+- TOP 7: Förderantrag Integrativer Zucht-, Reit-, Voltigier- und Fahrverein Ladbergen e.V. - Einstimmig
+- TOP 8: Spielplatz „Auf dem Kamp“ - 21 Ja, 0 Nein, 1 Enthaltung(en)
+- TOP 9: Antrag der Fraktion Bündnis 90/Die Grünen Verbesserung der ÖPNV-Anbindung von Ladbergen zum FMO und zum Kattenvenner Bahnhof durch die RVM-Linie 140 - Einstimmig
+- TOP 10: 7. Änderung / Erweiterung des Bebauungsplanes Nr. 5 „Sandtoschlag“ der Gemeinde Ladbergen hier: Aufstellungsbeschluss und Beschluss zur Offenlage Bebauungsplanes - Einstimmig
+- TOP 11: 49. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig
+- TOP 12: 1. Ergänzung des Bebauungsplanes Nr. 31 „In der Laake“ der Gemeinde Ladbergen hier: Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig
+- TOP 13: Vorhabenbezogener Bebauungsplan Nr. 127„Freiflächen-Photovoltaikanlage zur Königsbrücke“ der Gemeinde Ladbergen hier: a) Beratung von Anregungen b) Satzungsbeschluss - 17 Ja, 3 Nein, 2 Enthaltung(en)
+- TOP 14: Antrag der Fraktion Bündnis 90/Die Grünen hier: Zeitliche Verschiebung des barrierefreien Umbaus der Bushaltestelle „Auf dem Rott“ an der Querungshilfe - 3 Ja, 19 Nein, 0 Enthaltung(en)
+- TOP 15: Genehmigung bzw. Bekanntgabe des über- und außerplanmäßigen Aufwandes bzw. der über- und außerplanmäßigen Auszahlungen für das Jahr 2025 - Einstimmig
+- TOP 16: Genehmigung bzw. Bekanntgabe des über- und außerplanmäßigen Aufwandes bzw. der über- und außerplanmäßigen Auszahlungen für das I. Quartal 2026 - Einstimmig
+- TOP 17: Jahresabschluss 2025 - Einstimmig
+- TOP 18: Über- und außerplanmäßige Aufwendungen und Auszahlungen - Einstimmig
+- TOP 19: Gutachten zur Intensivierung der Zusammenarbeit kommunaler IT-Dienstleister im Münsterland - Einstimmig
+- TOP 20: Neufassung der Hauptsatzung der Gemeinde Ladbergen
+- TOP 20.1: Neufassung der Hauptsatzung der Gemeinde Ladbergen - Einstimmig
+- TOP 21: Neufassung der Zuständigkeitsordnung des Rates der Gemeinde Ladbergen
+- TOP 21.1: Neufassung der Zuständigkeitsordnung des Rates der Gemeinde Ladbergen - Einstimmig
+- TOP 22: Neufassung der Geschäftsordnung des Rates der Gemeinde Ladbergen - Einstimmig
+- TOP 23: Bestellung des Leiters und stellvertretenden Leiters der Freiwilligen Feuerwehr Ladbergen - Einstimmig
+- TOP 24: Mitteilungen und Anfragen
+- TOP 24.1: Vermarktung der Mühle
+- TOP 24.2: Haushaltssatzung genehmigt
+- TOP 24.3: Änderung der Bepflanzung an der Grundschule
+- TOP 24.4: Geschwindigkeitsübertretungen Grevener Straße
+- TOP 24.5: Jakobskreuzkraut
+- TOP 24.6: Temperaturen im neuen Anbau der Grundschule
+- TOP 24.7: Spielplatz Waldweg
