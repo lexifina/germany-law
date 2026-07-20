@@ -1,0 +1,84 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9321091
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9321091
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.1.: Protokoll (Entwurf) der Sitzung am 22.06.2026
+- TOP 1.2: Beschluss über die Benennung der stellvertretenden UA-Vorsitzenden
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Bitte um Entfernung der Sitzbank vor einem Anwesen in der Dachauer Straße
+- TOP 2.2.: Quietschen der Gleisbremsen (Rangierlärm) am Rangierbahnhof München Nord
+- TOP 2.3.: Schmierereien am St.-Martins-Platz / Pelkovenschlössl
+- TOP 2.4.: Verkehrssituation nach Fertigstellung der Bahnunterführung Dachauer Straße
+- TOP 2.5.: Lärmbelästigung durch Hubschrauber
+- TOP 2.6.: Schulwegsicherheit und Durchgangsverkehr - Antrag auf verkehrsrechtliche Prüfung Netzerstraße (München-Moosach)
+- TOP 2.7.: Parkplatzsituation in der Dachauer Straße im Abschnitt von der Bahnunterführung bis zur Max-Born-Straße
+- TOP 2.8.: Parkplatzsituation in der Eggmühler Straße im Abschnitt zwischen Moosburger Straße und Eininger Straße
+- TOP 2.9.: Schwierige Situation im Park beim boomerang sowie an der U-Bahn-Haltestelle am OEZ
+- TOP 2.10.: Dringende Sanierung und Erweiterung des Basketballplatzes am Bahnhof Moosach
+- TOP 3.: Berichte
+- TOP 3.1: UA Soziales, Bildung und Kultur
+- TOP 3.1.1.: Mangelhafte Einkaufssituation Im Stadtteil Moosach
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Missstände in der Andernacher Straße
+- TOP 3.2.2.: Bericht über den Ortstermin am Memminger Platz - Dolphin Markt
+- TOP 3.3: UA Bau und Planung
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Gärtnerstraße 20
+- TOP 3.3.1.2.: Triebstraße 3
+- TOP 3.3.1.3.: Dachauer Straße 535
+- TOP 3.3.1.4.: Triebstraße 9
+- TOP 3.3.1.5.: Riesstraße 86
+- TOP 3.3.1.6.: Georg-Kainz-Straße 8
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: UA Gesundheit und Umwelt
+- TOP 3.5: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Bearbeitungsstand eines Antrags aus der Bürgerversammlung vom 16.10.2025
+- TOP 4.1.2.: Austausch des Sands auf dem Spielplatz „Spielplatz am Eck“ (neben der Wittenberger Straße 3)
+- TOP 4.1.3.: Erneuerung des Wegebelags von der Karl-Lipp-Straße zur Hugo-Troendle-Straße
+- TOP 4.1.4.: Anbringung eines Krähenschutzes
+- TOP 4.1.5.: Entschädigung von Gewerbebetrieben wegen Neubau der Eisenbahnüberführung
+- TOP 4.1.6.: Sanierungsgebiet Moosach - Sanierung der Siedlung der Münchner Wohnen GmbH an der Nanga-Parbat- und Welzenbachstraße
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: Antrag vom 11.10.2025 für die Maßnahme „Gemeinsam kochen, gesund essen - Das Küchenprojekt bei den Moosacher Gänseblümchen vom 01.03.2026 -15.04.2026 Änderungsanfrage zur Bewilligung des höheren Zuwendungsbetrags
+- TOP 5.2.: (E) Stadtbezirksbudget Kinder- und Jugendtreff Mooskito, KJR München-Stadt Sommerferienprogramm für Moosacher Kinder und Jugendliche vom 03.08. -14.09.2026 6.000,00€; Az. 0262.100-10-0477
+- TOP 5.3.: (E) Stadtbezirksbudget Init. "Filmdokumentation "Gesamtkunstwerk" Olympiapark" Wahnsinn und Wagemut formten ein Wunder - Gesamtkunstwerk Olympiapark München von August 2026 - Juli 2027 9.000,00€; Az. 0262.100-10-0475
+- TOP 5.4.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH Sommerfest Teestube "komm" am 07.08.2026 162,18 Euro, Az.: 0262.100-10-0480
+- TOP 5.5.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-10-0479
+- TOP 5.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Sanierung des Spielplatzes am Kapuzinerhölzl
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht über eine Freischankfläche in der Dachauer Straße 288
+- TOP 6.: Anhörungen
+- TOP 6.1.: Benehmensverfahren Nachtrag in die Denkmalliste Leipziger Str. 7
+- TOP 6.2.: Unterstützungsaufruf des BA 6 - Sendling: Mehr Baum-Biodiversität im Straßenraum
+- TOP 6.3.: Suche eines Mobilfunkstandortes im Suchkreis MY8527 M-Westfriedhof-West
+- TOP 6.4.: Städtische Weihnachtsbäume in den Münchner Stadtbezirken
+- TOP 6.5.: Antrag auf Erteilung eines Negativattests in der Dachauer Straße -nicht öffentlich-
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Wohn- und Hofsituation in der Wohnanlage Höchstädter Weg bis Leipheimer Weg
+- TOP 7.2.: Regelmäßige Reinigung Franz-Mader-Straße und ein weiterer Mülleimer
+- TOP 7.3.: Anfrage zur Gründung eines Naturkindergartens im Stadtbezirk 10 Moosach
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Modernisierungsarbeiten an bestehenden Mobilfunkanlagen
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: -->Arbeiten im Straßenraum: - Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße: (Straßenbauarbeiten, BPh 510, BPh 520, BPh 530) vom 12.06.2026 bis 31.12.2026 - Hanauer Straße 4, mit Seite Dachauer Straße (Verlegung Strom) -Verlängerung- vom 20.06.2026 bis 31.07.2026 - Allacher Straße Bauphasen 200,205,206,207,210 (Herstellung Fahrbahn, Gehweg, Radweg, Bordstein, Herstellung Zufahrten) vom 08.07.2026 bis 14.08.2026
+- TOP 8.3.: Auskunft über den Zustand der Brücke an der Allacher Straße, den Stand der geplanten Sanierung und die zu erwartenden Auswirkungen - Abdruck des Antwortschreibens an den BA 10
+- TOP 8.4.: Menschenansammlung auf öffentlichem Verkehrsgrund gem. § 23 LStVG und Privatgrund; Hier: Gedenken an das OEZ-Attentat zum 10. Jahrestag, Hanauer Str. 77 am 22.07.2026 von 15.00 – 19.00 Uhr, Aufbau ab 05.00 Uhr, Abbau bis 24.00 Uhr -Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.5.: Sondernutzungserlaubnisse für zwei Parklets sowie eine Stadtterrasse in der Welzenbachstraße und Nanga-Parbat-Straße
+- TOP 8.6.: (U) Neueröffnung einer dezentralen kommunalen Unterkunft zur Unterbringung Geflüchteter am Standort Drygalski-Allee (Flst.Nr. 272/2, Gemarkung Forstenried) Verlängerung bestehender dezentraler kommunaler Unterkünfte für Geflüchtete an den Standorten • Elsenheimerstraße 48-50 • Gerty-Spies-Straße 9-11 (Leichtbauhallenstandort) • Maria-Goeppert-Mayer-Straße 21 (Leichtbau-hallenstandort) • Triebstraße 24 Wiedereröffnung einer Unterkunft mit einer geänderten Zielgruppe als dezentrale kommunale Unterkunft am Standort Planegger Straße 125 Betreiber- und Zielgruppenwechsel der staatlichen Gemeinschaftsunterkunft am Standort Karl-Schmid-Straße 8 Bekanntgabe über die Nichtverlängerung der dezentralen Erstanlaufstelle / Drehscheibe am Standort Dachauer Straße 122 und Helene-Weber-Allee 1 Bekanntgabe über die Nichtverlängerung bestehender dezentraler Unterkünfte für Geflüchtete an den Standorten • Hachinger-Bach-Straße 19 (Leichtbauhallenstandort) • Hansastraße 55 (Leichtbauhallenstandort) • Kronstadter Straße 36 (Leichtbauhallenstandort) Bekanntgabe über die Verlängerung einer bestehenden staatlichen Gemeinschaftsunterkunft am Standort Willy-Brandt-Allee 8
+- TOP 8.7.: Balkonvoltaik fördern Empfehlung Nr. 20-26 / E 03321 der Bürgerversammlung des Stadtbezirks 5 - Au-Haidhausen vom 24.03.2026
+- TOP 8.8.: Überprüfung
+- TOP 8.9.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2024-2025
+- TOP 8.10.: Genehmigung Zweckentfremdung von Wohnraum durch Abbruch -nicht öffentlich-
