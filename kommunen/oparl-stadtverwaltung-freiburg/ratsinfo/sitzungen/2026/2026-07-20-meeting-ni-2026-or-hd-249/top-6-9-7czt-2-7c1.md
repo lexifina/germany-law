@@ -1,0 +1,7 @@
+# TOP 6: Mitteilung Ergebnis der Sitzung des Kinder- und Jugendausschusses des Ortschaftrates am 15.06.2026 - Anschaffung von weiterem Müllbehälter und zweier Aschenbecher sowie Kehrgarnitur für den neuen Unterstand bei der Mooswaldhalle - Beratung und Beschluss -
+
+- Sitzung: 7. Sitzung des Ortschaftsrates Hochdorf (2026-07-20)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2026-OR_HD-249%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-OR_HD-249%7Czt_2%7C1
