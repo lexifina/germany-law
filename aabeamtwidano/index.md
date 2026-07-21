@@ -1,0 +1,1 @@
+# Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden aus dem Beamtenverhältnis bezüglich Beamtinnen und Beamten des Auswärtigen Amtes auf das Bundesamt für Auswärtige Angelegenheiten
