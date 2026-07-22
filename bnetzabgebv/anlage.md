@@ -67,7 +67,7 @@ Abschnitt 6: Postgesetz (PostG)
 Abschnitt 7: Post- und Telekommunikationssicherstellungsgesetz (PTSG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
 | 1 | Maßnahme zur Durchsetzung von Verpflichtungen nach § 10 PTSG | nach Zeitaufwand |
-Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Verordnung zu den gemeinsamen Ausschreibungen (GemAV), Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV)
+Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV), Strom-Versorgungssicherheits-und-Kapazitätengesetz (StromVKG) Innovationsausschreibungsverordnung (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung (GEEV)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
 | 1 | Durchführung eines Zuschlagsverfahrens –für Solaranlagen des ersten Segments nach den §§ 32 und 37d des Erneuerbare-Energien-Gesetzes,–für Solaranlagen nach § 11 InnAusV oder–für Solaranlagen nach § 12 GEEV | 624 |
 | 2 | Durchführung eines Zuschlagsverfahrens für Solaranlagen des zweiten Segments nach § 32 des Erneuerbare-Energien-Gesetzes | 451 |
@@ -75,9 +75,10 @@ Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-Ausschreibungsverordnung (KWKAusV)
 | 4 | Durchführung eines Zuschlagsverfahrens für Windenergieanlagen an Land –nach § 32 des Erneuerbare-Energien-Gesetzes,–nach § 11 InnAusV oder–nach § 12 GEEV | 597 |
 | 5 | Durchführung eines Zuschlagsverfahrens –für Biomasseanlagen nach den §§ 32 und 39d des Erneuerbare-Energien-Gesetzes,–für Biomasseanlagen nach § 11 InnAusV oder–für Biomethananlagen nach Teil 3 Abschnitt 3 Unterabschnitt 6 des Erneuerbare-Energien-Gesetzes | 597 |
 | 6 | Durchführung eines Zuschlagsverfahrens für KWK-Anlagen und innovative KWK-Systeme nach § 11 KWKAusV | 1 019 |
-| 7 | Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes | 1 883 |
-| 8 | Verlängerung der Realisierungsfrist von Zuschlägen –für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes–für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes | 561,66 |
-| 9 | Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung | 280,83 |
+| 7 | Durchführung eines Zuschlagsverfahrens für Ausschreibungen für Anlagen nach dem StromVKG | 956 |
+| 8 | Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes | 1 883 |
+| 9 | Verlängerung der Realisierungsfrist von Zuschlägen –für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes–für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes | 561,66 |
+| 10 | Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung | 280,83 |
 Abschnitt 9: Kohleverstromungsbeendigungsgesetz (KVBG)
 | Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen in Euro |
 | 1 | Gebotsverfahren |  |
