@@ -1,0 +1,171 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-07-23T19:45:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9338195
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9338195
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Umgang mit Bild- und Tonaufnahmen
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Benennung einer / eines Migrations- / Integrationsbeauftragten (§ 23 Abs. 4 BA-Satzung)
+- TOP 5.2.: Benennung einer / eines Beauftragten für Queere Angelegenheiten
+- TOP 5.3.: Benennung einer / eines Beauftragten für Schulwegsicherheit
+- TOP 5.4.: Straßenfest Einweihung Fußgängerzone St.-Anna-Straße, 2026.01 C 2.2, TOP 2026.03 D 2.3.1, TOP 2026.06 A 5.4
+- TOP 5.5.: Sitzungstermine 2027
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 0: Bericht
+- TOP 0.1.: Bericht Vorstellung Bauvorhaben Promenadepl. 1: Sanierung, Abbruch und Neubau eines in Teilen denkmalgeschützten Gebäudeensembles - (Löwengrube 18 / Promenadepl. 1 und 3)
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Resilienz der Stadt München stärken: Mehr Baum-Biodiversität im Straßenraum, Antrag des BA 06 Sendling
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Liebherrstr. Ferienwohnungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Promenadepl. 1 Sanierung, Abbruch und Neubau eines in Teilen denkmalgeschützten Gebäudeensembles - (Löwengrube 18 / Promenadepl. 1 und 3), TOP 26.06 B 3.1.4; Frist: 29.07.2026
+- TOP 3.1.2.: Tal 39 Umnutzung Bürofläche in 2 Ferienwohnung im Sinne §13 a der BaoNVO, keine Änderung der Gebäudehülle, keinen Eingriff in statische Bauteile; Frist: 14.08.2026
+- TOP 3.1.3.: Neuhauser Str. 8 Um- und Neubau eines Gebäudes mit 53 Wohnungen, Einzelhandel, Büro und Gastronomie mit Wirtsgarten sowie einer Tiefgarage mit 58 KFZ-Stellplätzen - ÄNDERUNGSANTRAG zu 1.1-2020-8450-21 (hier: Änderungen beim Bauteil
+- TOP 3.1.4.: Neuhauser Str. 8 Nutzungsänderung Wohnen zu Beherbergungsbetrieb Long-Stay – VORBESCHEID; Frist: 14.08.2026
+- TOP 3.1.5.: Maximilianspl. 16 Nutzungsänderung EG Maximiliansplatz 16 in München von Friseur zu Tagesbar; Frist: 14.08.2026
+- TOP 3.1.6.: Tal 43 Nutzungsänderung Erdgeschoss / Teilkellergeschoss- Rückgebäude - von Grosstagespflege in eine Wohnung, Nutzungsänderung 1.u.2. Obergeschoss von Büros in je 2 Wohnungen und Vorbau von 2 Balkonen auf der Hofseite, Nutzungsänderung 3.u.4. Obergeschoss von Büro / Gewerbe in je 2 Wohnungen; Frist: 14.08.2026
+- TOP 3.1.7.: Thomas-Wimmer-Ring 3 Umbau und Sanierung eines Bürogebäudes sowie Sanierung eines Wohn- und Bürogebäudes mit zwei Untergeschossen; Frist: 14.08.2026
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag Prinzregentenstr. 3; First: 07.08.2026
+- TOP 3.2.2.: Fällungsantrag Thomas-Wimmer-Ring 3; Frist: 31.08.2026
+- TOP 3.3: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag SPD Fraktion: Sommer am Eisbach - Tram für alle nutzbar halten
+- TOP 1.2.: Bürger*innenanliegen: Unhaltbare Zustände am Eisbach durch illegales Schwimmen und Ruhestörungen
+- TOP 1.3.: Bürger*innenanliegen: 1. Parken am und beim „Paradiesplatz“ + 2. Nutzung des Isar Fußweg
+- TOP 1.4.: Bürger*innenanliegen: Einbahnregelung in Rosental und Prälat-Zistl-Straße beibehalten
+- TOP 1.5.: Bürger*innenanliegen: Bänke Sankt Anna Platz: hier Antrag Aschenbecher
+- TOP 1.6.: Bürger*innenanliegen: Baustellensituation Lehel
+- TOP 1.7.: Bürger*innenanliegen: gefährliche Dauerabsperrung am Stachus
+- TOP 1.8.: Bürger*innenanliegen: Parken mittleres Lehel
+- TOP 1.9.: Bürger*innenanliegen: Wegfall von Parkplätzen in der Altstadt und im Lehel - Bitte um ausgewogene Lösungen für Anwohner und Besucher
+- TOP 1.10.: Bürger*innenanliegen: Ausstieg Eisbach an der Tivolistraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Sichere Querungsmöglichkeit an der Maximilianstraße
+- TOP 2.2.: (E) Verkehrsberuhigter Bereich in der Widenmayerstraße 45-52
+- TOP 2.3.: (E) Keine gemeinsame Haltestelle in der Thierschstraße
+- TOP 2.4.: (E) Installation Gepäck-Schließfächer
+- TOP 2.5.: (E) Gestaltung von Seitenstreifen neben Straßen
+- TOP 2.6.: (E) Was ist aus dem Toilettengipfel geworden? Wildpinkeln in der Altstadt – sechs Jahre ohne Ergebnis
+- TOP 2.7.: (E) Dialog-Displays und Tempoanzeige in der Frauenstraße
+- TOP 2.8.: (E) Böllerverbot in der Münchner Altstadt
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Emil-Riedel-Straße 11 - Umbeschilderung Ladezone; Frist: 05.08.2026
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP D: Kultur, Soziales, Gastronomie und Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Spielplatz Hirschanger
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget vox nova e.V. Sterne vom 26.09. -30.11.2026 567,50€; Az. 0262.100-1-0459
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. "İÇ İÇE München" İÇ İÇE München 2026 vom 24. -25.07.2026 1.633,33€; Az. 0262.100-1-0465
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Ausstellung Digesting Form" Digesting Form - Nothing Disappears, Everything Transforms vom 10.07. -10.09.2026 4.760,00€; Az. 0262.100-1-0466
+- TOP 2.1.4.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 Euro, Az.: 0262.100-1-0467
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: (E) + (U) Tal Straßenfest
+- TOP 2.2.2.: (E) Dringender Bedarf an einem digitalen Antrags- und Statusverfolgungssystem für Aufenthaltstitel bei der Ausländerbehörde
+- TOP 2.2.3.: Kulturstrand: Belange Naturschutz aus dem Bürger*innenanliegen: Lärm Kulturstrand / Praterinsel – Teilwiedervorlage aus 06/2026 E 1.1
+- TOP 2.2.4.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund; hier: Flohmarkt am 12.09.2026 (Ersatztermin: 26.09.2026) auf der Isarpromenade entlang der Widenmayerstr. (zwischen Maximilianstr. Und Liebigstraße bis zur Praterinsel)
+- TOP 2.2.5.: Erläuterungsschild Lion-Feuchtwanger-Platz
+- TOP 3: Anhörungen
+- TOP 3.1.: Info VA Internationaler Mädchentag am 08.10.2026 (Termin: 31.07.2026)
+- TOP 3.2.: Open Air Kino auf Basis eines Lastenfahrrads / Anhänger ab 27.08.2026 (Termin: 14.08.2026)
+- TOP 3.3.: Open Air Kino auf Basis eines Lastenfahrrads / Anhänger ab 28.08.2026 (Termin: 14.08.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP E: Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP 0: Bericht
+- TOP 0.1.: Terminfindung Ortstermin Kulturstrand
+- TOP 1: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen: Aktuelle Lärmbelästigung im Stadtteil Altstadt Lehel
+- TOP 1.2.: Bürger*innenanliegen: Andauernde Lärmbelastung durch P1, Prinzregentenstraße 1
+- TOP 1.3.: Bürger*innenanliegen: Unterstützung Pilotprojekt – Nachnutzung inaktiver Telefonzellen durch Verpflegungsautomaten im gesamten Stadtgebiet München
+- TOP 1.4.: Bürger*innenanliegen: Sicherung einer bezahlbaren und vielfältigen Nahversorgung im Bereich Tal / Westenriederstraße, TOP 2026.06 C 1.3
+- TOP 1.5.: Sitzbagatelle Theatinerstr., TOP 2026.06 E 1.2
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Löwengrube 18: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.2.: (E) Extreme Lärmbelästigung am Abend von neuen Gaststätten
+- TOP 2.1.3.: (E) Küchengestank und Fettabsaugergestank durch Kontrolle/Vorgabe reduzieren
+- TOP 2.1.4.: (E) Lärmbelästigung in der Nacht
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Oettingenstr. 26: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.2.: (E) Transparenz der Kosten für Straßenreinigung – explodierte Betriebskosten durch Fußgängerzonen
+- TOP 2.2.3.: Kulturstrand: Belange Naturschutz aus dem Bürger*innenanliegen: Lärm Kulturstrand / Praterinsel – Teilwiedervorlage aus 06/2026 E 1.1
+- TOP 3: Anhörungen
+- TOP 3.1.: Wiesnzüge Oktoberfest 2026" am 19.09.2026 (Wirteeinzug WEZ) und am 20.09.2026 (Trachten- und Schützenzug TSZ) (Termin: 16.08.2026)
+- TOP 3.2.: Italienischer Markt vom 25.09. bis 04.10.2026 (Termin: 23.07.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen + Infrastruktur
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Adelgundenstraße – Baumpflanzungen im Straßenraum
+- TOP B 4.4.: Anliegen Abbruch Bauvorhaben Neubau Versicherungskammer, Antwort Referat für Klima- und Umwelt
+- TOP B 4.5.: Nachpflanzung Tulpenbaum Hackenstraße, Schreiben Baureferat
+- TOP B 4.6.: PaketPost-Areal
+- TOP B 4.7.: Geförderter Wohnungsbau, welcher Sinn?
+- TOP B 4.8.: Bescheid Fällung Sigmundstr. 1
+- TOP B 4.9.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2024-2025
+- TOP B 4.10.: Überprüfung
+- TOP B 4.11.: Aussage zum Luitpold-Gymnasium
+- TOP B 4.12.: Bescheid Fällung Reitmorstr. 41
+- TOP B 4.13.: Information Baumaßnahme Mariannenstraße
+- TOP C 4: Unterrichtungen - Mobilität, öffentlicher Raum + Umwelt
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Bäume und Fahrradstellplätze in der Adelgundenstraße
+- TOP C 4.3.: Bürger*innenanliegen Brunnen St.-Anna-Platz, Antwort Baureferat
+- TOP C 4.4.: Städtische Weihnachtsbäume in den Münchner Stadtbezirken
+- TOP C 4.5.: BA-Ansprechpartner der MVG
+- TOP C 4.6.: Bürger*innenanliegen Rattenbefall im Asamhof – Bitte um Maßnahmen, Antwortschreiben
+- TOP C 4.7.: Bürger*innenanliegen Absperrung Galeriestraße, Antwortschreiben
+- TOP C 4.8.: Bürger*innenanliegen: Baustellensituation Lehel
+- TOP C 4.9.: Bürger*innenanliegen Ladezone Emil-Riedl-Straße 11, Antwortschreiben
+- TOP C 4.10.: Bürger*innenanliegen Kreuzung Oettingen-/Prinzregentenstraße, TOP 2026.04 C 1.1, Antwortschreiben
+- TOP C 4.11.: Bürger*innenanliegen Permanenter Stau durch Einspurigkeit in der Sternstraße, 2026.04 C 1.4, Antwortschreiben
+- TOP C 4.12.: Bürger*innenanliegen Pilotystraße, Sigmundstraße, Bruderstraße und Seitzstraße Parkplatznot, TOP 2026 C 1.9, Antwortschreiben
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Bildung + Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Kostenübernahme für das Erinnerungszeichen für Hugo Helbing
+- TOP D 4.4.: Kritik an den gekürzten Öffnungszeiten im Müllerschen Volksbad, Antwortschreiben BA 05
+- TOP E 4: Unterrichtungen - Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP E 4.1.: Gaststättenfortführungen
+- TOP E 4.2.: Veranstaltungsgenehmigungen
+- TOP E 4.3.: Projekt Gelber Sack
+- TOP E 4.4.: Verkehr, Bierkneipen, die Gehsteige blockieren, Lebensqualität für Anwohner
+- TOP E 4.5.: Bürger*inneanliegen Praterinsel und Pfistermühle/Lärmbelästigung, Antwortschreiben Bezirksinspektion Mitte
+- TOP 1.11.: Antrag CSU Fraktion: Anpassung Parkregelung in der Liebigstraße vor dem St.-Anna-Gymnasium
+- TOP 1.12.: Antrag CSU Fraktion: Vorfahrtssituation am Knoten Tal - Viktualienmarkt - Sparkassenstraße eindeutig gestalten und Fußgängerüberweg dauerhaft fertigstellen
+- TOP 0.1.1: Terminfindung Ortstermin Kulturstrand
+- TOP 1.13.: Südlicher Mariannenplatz als Quartiersplatz: Durchführung eines ergebnisoffenen Dialogs mit allen Interessengruppen rund um die Lukaskirche
+- TOP 2.1.5.: Paradiesstr. 9, Genehmigung einer Freischankfläche (Kleinstfläche)
