@@ -920,6 +920,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 229
 
 
+#### Art 229
+
+
 ## Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -1208,7 +1211,22 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 #### Art 244 Abschlagszahlungen beim Hausbau
 
 
-#### Art 245 (weggefallen)
+#### Art 245 Europäisches Formular für Reparaturinformationen
+
+
+#### Art 245
+
+
+#### Art 245
+
+
+#### Art 245
+
+
+#### Art 245
+
+
+#### Art 245
 
 
 #### Art 246 Informationspflichten beim Verbrauchervertrag
@@ -1482,6 +1500,9 @@ erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
 
 
 #### Art 253
+
+
+### -
 
 
 ### -

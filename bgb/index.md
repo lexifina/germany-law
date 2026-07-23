@@ -759,7 +759,17 @@ erbrachter Leistung](0281.md)
 - [§ 478 Sonderbestimmungen für den Rückgriff des Unternehmers](0478.md)
 - [§ 479 Sonderbestimmungen für Garantien](0479.md)
 
-##### Untertitel 4 Tausch
+##### Untertitel 4 Reparaturverpflichtung des Herstellers
+
+- [§ 479a Anwendungsbereich](0479a.md)
+- [§ 479b Reparaturverpflichtung](0479b.md)
+- [§ 479c Ersatzteile und Werkzeuge](0479c.md)
+- [§ 479d Information über die Reparaturverpflichtung und Angaben über Richtpreise](0479d.md)
+- [§ 479e Unzulässige Handlungen](0479e.md)
+- [§ 479f Hersteller mit Sitz außerhalb der Europäischen Union](0479f.md)
+- [§ 479g Abweichende Vereinbarungen](0479g.md)
+
+##### Untertitel 5 Tausch
 
 - [§ 480 Tausch](0480.md)
 
