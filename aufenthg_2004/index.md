@@ -218,6 +218,7 @@
 
 - [§ 86 Erhebung personenbezogener Daten](0086.md)
 - [§ 86a Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration](0086a.md)
+- [§ 86b Auslesen von Daten aus Pässen und Schweizer Personalausweisen durch Luftfahrtunternehmen](0086b.md)
 - [§ 87 Übermittlungen an Ausländerbehörden](0087.md)
 - [§ 88 Übermittlungen bei besonderen gesetzlichen Verarbeitungsregelungen](0088.md)
 - [§ 88a Verarbeitung von Daten im Zusammenhang mit Integrationsmaßnahmen](0088a.md)

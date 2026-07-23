@@ -6,7 +6,7 @@
 | 1. | Unterabschnitt |
 |  | Luftfahrzeuge und Luftfahrtpersonal ......... | §§ 1 - 5 |
 | 2. | Unterabschnitt |
-|  | Flugplätze ......... | §§ 6 - 19d |
+|  | Flugplätze ......... | §§ 6 – 19e |
 | 3. | Unterabschnitt |
 |  | Luftfahrtunternehmen und -veranstaltungen ......... | §§ 20 - 24 |
 | 4. | Unterabschnitt |
