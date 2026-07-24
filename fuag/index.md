@@ -37,6 +37,14 @@
 
 - [§ 22 Notifizierende Behörde, Verordnungsermächtigung](0022.md)
 
+## Abschnitt 4a Notfallverfahren
+
+- [§ 22a Anwendung der Notfallverfahren](0022a.md)
+- [§ 22b Vorrangigkeit der Konformitätsbewertung von als krisenrelevante Waren eingestuften Funkanlagen](0022b.md)
+- [§ 22c Ausnahme von den Konformitätsbewertungsverfahren bei Notfallverfahren](0022c.md)
+- [§ 22d Konformitätsvermutung im Notfallmodus für den Binnenmarkt](0022d.md)
+- [§ 22e Vorrangigkeit der Marktüberwachung im Notfallmodus für den Binnenmarkt](0022e.md)
+
 ## Abschnitt 5 Bundesnetzagentur
 
 

@@ -26,4 +26,4 @@
 - [§ 22 Inkrafttreten](0022.md)
 - [Anlage 1 (zu § 15b Absatz 1)](anlage-1.md)
 - [Anlage 2 (zu § 15b Absatz 1)](anlage-2.md)
-- [Anlage 3 (zu § 15b Absatz 3)](anlage-3.md)
+- [Anlage 3 (weggefallen)](anlage-3.md)

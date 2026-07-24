@@ -1,60 +1,6 @@
 # Anlage 1 (zu § 15b Absatz 1)
 
-A. Inhaltliche Anforderungen an die Weiterbildung für Immobilienmakler
-1. Kundenberatung
-1.1 Serviceerwartungen des Kunden
-1.2 Besuchsvorbereitung/Kundengespräch/Kundensituation
-1.3 Kundenbetreuung
-2. Grundlagen des Maklergeschäfts
-2.1 Teilmärkte des Immobilienmarktes
-2.2 Preisbildung am Immobilienmarkt
-2.3 Objektangebot und Objektanalyse
-2.4 Die Wertermittlung
-2.5 Gebäudepläne, Bauzeichnungen und Baubeschreibungen
-2.6 Relevante Versicherungsarten im Immobilienbereich
-2.7 Umwelt- und Energiethemen im Immobilienbereich
-3. Rechtliche Grundlagen
-3.1 Bürgerliches Gesetzbuch
-3.1.1 Allgemeines Vertragsrecht
-3.1.2 Maklervertragsrecht
-3.1.3 Mietrecht
-3.1.4 Grundstückskaufvertragsrecht
-3.1.5 Bauträgervertragsrecht
-3.2 Grundbuchrecht
-3.3 Wohnungseigentumsgesetz
-3.4 Wohnungsvermittlungsgesetz
-3.5 Zweckentfremdungsrecht
-3.6 Geldwäschegesetz
-3.7 Makler- und Bauträgerverordnung
-3.8 Informationspflichten des Maklers
-3.8.1 Dienstleistungs-Informationspflichten-Verordnung
-3.8.2 Digitale-Dienste-Gesetz
-3.8.3 Preisangabenverordnung
-3.8.4 Energieeinsparverordnung
-4. Wettbewerbsrecht
-4.1.1 Allgemeine Wettbewerbsgrundsätze
-4.1.2 Unzulässige Werbung
-5. Verbraucherschutz
-5.1.1 Grundlagen des Verbraucherschutzes
-5.1.2 Schlichtungsstellen
-5.1.3 Datenschutz
-6. Grundlagen Immobilien und Steuern
-6.1 Einkommensteuern
-6.2 Körperschaftsteuern
-6.3 Gewerbesteuer
-6.4 Umsatzsteuer
-6.5 Bewertungsgesetzabhängige Steuern
-6.6 Spezielle Verkehrssteuern (Grunderwerb- und Grundsteuern)
-7. Grundlagen der Finanzierung
-7.1 Allgemeine Investitionsgrundlage und Finanzierungsrechnung
-7.2 Kostenerfassung
-7.3 Eigenkapital und Kapitaldienstfähigkeit
-7.4 Kosten einer Finanzierung
-7.5 Kreditsicherung und Beleihungsprüfung
-7.6 Förderprogramme, Wohnriester
-7.7 Absicherung des Kreditrisikos im Todesfall
-7.8 Steuerliche Aspekte der Finanzierung
-B. Inhaltliche Anforderungen an die Weiterbildung für Wohnimmobilienverwalter
+Inhaltliche Anforderungen an die Weiterbildung für Wohnimmobilienverwalter
 1. Grundlagen der Immobilienwirtschaft
 1.1 Lebenszyklus der Immobilie
 1.2 Abgrenzung Facility Management – Gebäudemanagement

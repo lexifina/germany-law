@@ -35,6 +35,12 @@
 
 - [§ 21 Notifizierende Behörde, Verordnungsermächtigung](0021.md)
 
+## Abschnitt 4a Notfallverfahren
+
+- [§ 21a Anwendung der Notfallverfahren](0021a.md)
+- [§ 21b Konformitätsvermutung im Notfallmodus für den Binnenmarkt](0021b.md)
+- [§ 21c Vorrangigkeit von Marktüberwachungstätigkeiten im Notfallmodus für den Binnenmarkt](0021c.md)
+
 ## Abschnitt 5 Bundesnetzagentur
 
 
