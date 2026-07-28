@@ -69,5 +69,5 @@
 
 ## Abschnitt 4 Schlussvorschriften
 
-- [§ 38 Inkrafttreten, Außerkrafttreten](0038.md)
+- [§ 38 Übergangsvorschriften](0038.md)
 - [Anlage (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall](anlage.md)
