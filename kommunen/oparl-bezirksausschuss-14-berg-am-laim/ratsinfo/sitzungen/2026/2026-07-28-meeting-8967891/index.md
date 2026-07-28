@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 30.06.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 30.06.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Verkehrsüberwachung Hansjakobstraße
+- TOP 2.2.: (E) Kontrolle der Einhaltung des absoluten Haltverbots im Kreuzungsbereich St.-Michael-Straße/Hachinger-Bach-Straße rechtsseitig
+- TOP 2.3.: (E) + (U) Jährliche kurze Vorstellung der positiv angenommenen Anträge aus der letzten Bürgerversammlung
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 3.1.1.: Sonnbergstr. 16 - ÄNDERUNGSANTRAG zu 1.2-2026-6397-32 - Abriss des Bestandsgebäudes und Neubau eines Wohnhauses mit 2 Wohneinheiten in Holzbauweise
+- TOP 3.1.2.: Friedenstr. 18 - Teil-Abbruch am Gebäude Friedenstr. 18-18a, Abbruch, Beseitigung des Gebäudes Haager Str. 4-10a
+- TOP 3.1.3.: Piusstr. 20 - Neubau einer Wohnanlage mit Kindertagesstätten, Mobility Hub, Gemeinschaftsflächen und Tiefgarage - VORBESCHEID
+- TOP 3.1.4.: Resilienz der Stadt München stärken: Baum-Biodiversität im Straßenraum; Antrag des BA 06
+- TOP 3.1.5.: Mobile Toiletten in Berg am Laim
+- TOP 3.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 3.2.1.: Mögliches Pilotprojekt am Leuchtenbergring; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Anordnung für die Einrichtung eines personenbezogenen Sonderparkplatzes in der Gammelsdorfer Str. 4; Anhörung des Mobilitätsreferat
+- TOP 3.2.3.: Ergebnisse der TOPO-Box Messung in der Hermann-Weinhauser-Str.; Anhörung des Mobilitätsreferat
+- TOP 3.2.4.: Ausbau des Netzes an E-Scooter-Abstellflächen mit Geofencing im Stadtbezirk Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 3.3.1.: Das Bildungsreferat schafft einen neuen Standort für das BildungsLokal und die Stadtteilbibliothek Berg am Laim; Antrag der CSU-Fraktion
+- TOP 3.3.2.: Beantragung einer Stadtteilwoche in Berg am Laim; Antrag der Grünen-Fraktion
+- TOP 3.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 3.5.: Bereich Budget und Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Cantvs München e. V. John Dowland (1563-1626) am 09. oder 10.09.2026 2.260,00 €; Az. 0262.100-14-0513
+- TOP 3.5.2.: (E) Stadtbezirksbudget Elterninitiative "Bunte Knöpfe e. V." Mittagsbetreuung Sportpädagogisches Programm mit "Bunt kickt gut" in der Grundschule Grafingerstraße vom 01.10.2026 - 22.07.2027 4.400,00 €; Az. 0262.100-14-0514
+- TOP 3.5.3.: Information zu Neuerungen - Münchner Ferienpass 2026/2027 und Münchner Familienpass 2027; Anhörung des Sozialreferats
+- TOP 3.5.4.: Antrag auf Bestellung städtischer Leistungen: Finanzierung von Münchner Ferienpässe 2026/2027 und Münchner Familienpässe 2027; Antrag der CSU-Fraktion
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Sonnbergstr. 16
+- TOP 3.6.2.: Piusstr. 20
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 4.1.1.: Baulisten Juni 2026
+- TOP 4.1.2.: Projekt Metamorphose von 2023; Stellungnahme des BA 05
+- TOP 4.1.3.: Präsentation vom BA-Austauschtreffen mit dem Gartenbau
+- TOP 4.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 4.2.1.: Bus 195: Bedarfshaltestelle Sonnwendjochstraße einrichten, bis dahin wieder „Halten auf Wunsch nach 21 Uhr“ ermöglichen
+- TOP 4.2.2.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2024-2025
+- TOP 4.2.3.: Stadtsanierung in München Sanierung am Innsbrucker Ring / Baumkirchner Straße Bekanntgabe "Stadtteilsanierung Innsbrucker Ring / Baumkirchner Straße - Abschlussdokumentation" Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf-Perlach
+- TOP 4.2.4.: Anordnung für die Verlegung der MVG Haltestelle „Friedenstraße“ der Linien 190 und 191
+- TOP 4.2.5.: Pkw-Parken im Bereich des markierten Gehweg-Parkens im der Josephsburgstr.
+- TOP 4.2.6.: Anordnung für die Verlegung der geteilten Abstellfläche in der Haager Str.
+- TOP 4.2.7.: Arbeiten im Straßenraum: Erneuerung der Beleuchtung in der Unterführung Berg-am-Laim-Str.
+- TOP 4.2.8.: Anzeige eines Betreiberwechsel
+- TOP 4.2.9.: Absolutes Haltverbot in der Krumbadstr.
+- TOP 4.2.10.: Widerruf eines bestehenden Fußgängerüberwegs und Baustellenbedingte Errichtung eines Fußgängerüberwegs für die Zeit der Baumaßnahmen an der 2. S-Bahn-Stammstrecke
+- TOP 4.2.11.: Entschlossenes Durchgreifen bei spekulativem Leerstand
+- TOP 4.2.12.: Einsatz platzsparender und gestalterisch integrierter Ladeinfrastruktur für E-Autos im öffentlichen Raum
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 4.5.: Bereich Budget und Organisation
+- TOP 4.5.1.: Kunstprojekt „Metamorphose“ (2023) Unterführung Ostbahnhof – Prüfung weiterer Vorgehensweise und möglicher Konsequenzen bei nicht eingehaltenen Projektzusagen zum Stadtbezirksbudget
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 5.1.2: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren und Familie
+- TOP 5.1.5: Bereich Budget und Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 4.2.13: Dauerhafte Maßnahme: Absolutes Haltverbot einseitig mit Zeitzusatz in der Großvenedigerstr.
+- TOP 4.2.13.: Dauerhafte Maßnahme: Absolutes Haltverbot einseitig mit Zeitzusatz in der Großvenedigerstr.
+- TOP 1.1.2.: Nachtrag TOP 3.5.5: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 €; Az. 0262.100-14-0512
+- TOP 3.5.5.: (E) Stadtbezirksbudget HIDALGO gGmbH Street Art Song (im Rahmen des Kunstlied-Festivals HIDALGO) am 05.09.2026 1.600,00 €; Az. 0262.100-14-0512
