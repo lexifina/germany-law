@@ -72,6 +72,7 @@
 
 - [§ 34 Erkundung geeigneter Standorte](0034.md)
 - [§ 35 Planfeststellung und Genehmigung](0035.md)
+- [§ 35a Projektmanager](0035a.md)
 - [§ 36 Erteilung, Sicherheitsleistung, Nebenbestimmungen](0036.md)
 - [§ 37 Zulassung des vorzeitigen Beginns](0037.md)
 - [§ 38 Planfeststellungsverfahren und weitere Verwaltungsverfahren](0038.md)

@@ -49,7 +49,7 @@ Verfahrensgrundsätze
 | § 26 | Beweismittel |
 | § 27 | Versicherung an Eides statt |
 | § 27a | Bekanntmachung im Internet |
-| § 27b | Zugänglichmachung auszulegender Dokumente |
+| § 27b | Auslegung von Dokumenten |
 | § 27c | Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit |
 | § 28 | Anhörung Beteiligter |
 | § 29 | Akteneinsicht durch Beteiligte |
@@ -126,9 +126,17 @@ Verfahren über eine einheitliche Stelle
 Abschnitt 2
 Planfeststellungsverfahren
 | § 72 | Anwendung der Vorschriften über das Planfeststellungsverfahren |
+| § 72a | Einreichung des Plans und Ausgestaltung des Verfahrens |
 | § 73 | Anhörungsverfahren |
-| § 74 | Planfeststellungsbeschluss, Plangenehmigung |
+| § 73a | Behördenbeteiligung |
+| § 73b | Erörterungstermin |
+| § 73c | Planänderung im Verfahren |
+| § 73d | Projektmanager |
+| § 74 | Planfeststellungsbeschluss |
+| § 74a | Plangenehmigung |
+| § 74b | Entfallen von Planfeststellung und Plangenehmigung |
 | § 75 | Rechtswirkungen der Planfeststellung |
+| § 75a | Außerkrafttreten des Plans |
 | § 76 | Planänderungen vor Fertigstellung des Vorhabens |
 | § 77 | Aufhebung des Planfeststellungsbeschlusses |
 | § 78 | Zusammentreffen mehrerer Vorhaben |
@@ -167,4 +175,5 @@ Schlussvorschriften
 | § 101 | Stadtstaatenklausel |
 | § 102 | Übergangsvorschrift zu § 53 |
 | § 102a | Übergangsregelung für die Durchführung von Verwaltungsverfahren |
+| § 102b | Übergangsvorschrift zu den §§ 72 bis 78 |
 | § 103 | (Inkrafttreten) |

@@ -98,6 +98,7 @@ Beurkundungsfälle
 - [§ 43 Erklärungen zur Namensangleichung](0043.md)
 - [§ 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft](0044.md)
 - [§ 44a Nachweise nach einer Anerkennung trotz bestehender Vaterschaft](0044a.md)
+- [§ 44b Feststellung der Abstammung in Fällen eines Aufenthaltsrechtsgefälles](0044b.md)
 - [§ 45 Erklärungen zur Namensführung des Kindes](0045.md)
 - [§ 45a Erklärung zur Reihenfolge der Vornamen](0045a.md)
 - [§ 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag](0045b.md)

@@ -28,6 +28,7 @@
 - [§ 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577](0014b.md)
 - [§ 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau](0014c.md)
 - [§ 14d Bau von Radwegen an Bundesstraßen](0014d.md)
+- [§ 14e Ausnahmen von der Umweltverträglichkeitsprüfung für Verteidigung sowie für Verkehrs- und Energieinfrastruktur](0014e.md)
 
 ### Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung
 

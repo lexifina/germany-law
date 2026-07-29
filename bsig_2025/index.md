@@ -108,6 +108,6 @@
 
 ## Teil 9 Anwendungsbestimmungen; Übergangsregelungen
 
-- [§ 66 Anwendungsbestimmungen und Übergangsregelungen](0066.md)
+- [§ 66 Anwendungsbestimmungen und Übergangsregelung](0066.md)
 - [Anlage 1 Sektoren besonders wichtiger und wichtiger Einrichtungen](anlage-1.md)
 - [Anlage 2 Sektoren wichtiger Einrichtungen](anlage-2.md)

@@ -14,7 +14,7 @@
 | 1.1.8 |  |  | Anbieter von Ausgleichsleistungen nach § 3 Nummer 1b EnWG |
 | 1.1.9 |  |  | Ladepunktbetreiber nach § 2 Nummer 8 LSV |
 | 1.2 |  | Fernwärmeversorgung oder Fernkälteversorgung |  |
-| 1.2.1 |  |  | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GEG |
+| 1.2.1 |  |  | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GModG |
 | 1.3 |  | Kraftstoff- und Heizölversorgung |  |
 | 1.3.1 |  |  | Betreiber von Erdöl-Fernleitungen |
 | 1.3.2 |  |  | Betreiber von Anlagen zur Produktion, Raffination und Aufbereitung von Erdöl sowie Betreiber von Erdöllagern und Erdöl-Fernleitungen |

@@ -212,7 +212,10 @@
 - [§ 83 Beschränkung der Anfechtbarkeit](0083.md)
 - [§ 84 Wirkungen von Widerspruch und Klage](0084.md)
 - [§ 85 Berechnung von Aufenthaltszeiten](0085.md)
-- [§ 85a Verfahren bei konkreten Anhaltspunkten einer missbräuchlichen Anerkennung der Vaterschaft](0085a.md)
+- [§ 85a Zustimmung der Ausländerbehörde zu einer Anerkennung der Vaterschaft; Anwendungsbereich](0085a.md)
+- [§ 85b Missbräuchliche Anerkennung der Vaterschaft; Vermutungstatbestände](0085b.md)
+- [§ 85c Verfahren zur Prüfung der Zustimmung](0085c.md)
+- [§ 85d Anzeige einer fehlenden Zustimmung gegenüber dem Standesamt; Rücknahme der Zustimmung oder der Feststellung, dass eine solche nicht erforderlich ist](0085d.md)
 
 ### Abschnitt 4 Datenschutz
 
@@ -275,6 +278,7 @@
 - [§ 105a Bestimmungen zum Verwaltungsverfahren](0105a.md)
 - [§ 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster](0105b.md)
 - [§ 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit](0105c.md)
+- [§ 105d Übergangsregelung für das Verfahren zur Prüfung einer missbräuchlichen Anerkennung der Vaterschaft](0105d.md)
 - [§ 106 Einschränkung von Grundrechten](0106.md)
 - [§ 107 Stadtstaatenklausel](0107.md)
 - [Anlage (zu § 20a Absatz 3 Nummer 2, § 20b)](anlage.md)

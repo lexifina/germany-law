@@ -25,4 +25,4 @@
 - [§ 23 Verarbeitung personenbezogener Daten](0023.md)
 - [§ 24 Bußgeldvorschriften](0024.md)
 - [§ 25 Evaluierung](0025.md)
-- [§ 26 Anwendungsbestimmung und Übergangsregelung](0026.md)
+- [§ 26 (weggefallen)](0026.md)
