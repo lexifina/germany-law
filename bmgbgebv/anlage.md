@@ -17,6 +17,7 @@ Inhaltsübersicht
 | Abschnitt 13 | Stammzellgesetz |
 | Abschnitt 14 | Bundeskrebsregisterdatengesetz |
 | Abschnitt 15 | Medizinal-Cannabisgesetz |
+| Abschnitt 16 | Fünftes Buch Sozialgesetzbuch |
 Abschnitt 1
 Betäubungsmittelgesetz (BtMG) und Betäubungsmittel-Außenhandelsverordnung (BtMAHV)
 | Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
@@ -1485,3 +1486,9 @@ Medizinal-Cannabisgesetz (MedCanG)
 | 10 | Auslagen |  |
 | 10.1 | Kosten für Dienstreisen im Fall der Nummer 7 | In tatsächlich entstandener Höhe |
 | 10.2 | Kosten für Zustellungen im Widerspruchsverfahren | In tatsächlich entstandener Höhe |
+Abschnitt 16
+Fünftes Buch Sozialgesetzbuch (SGB V)
+| Gebührenerhebende Behörde: Bundesinstitut für Arzneimittel und Medizinprodukte |
+| Nummer | Gebühren- oder Auslagentatbestand | Höhe der Gebühren oder Auslagen in Euro |
+| 1 | Entscheidung über einen Antrag auf Befreiung vom zusätzlichen Herstellerabschlag nach § 130a Absatz 1c Satz 1 SGB V | 1 800 |
+| 2 | Entscheidung über einen Antrag auf Verlängerung der Befreiung vom zusätzlichen Herstellerabschlag nach § 130a Absatz 1c Satz 11 SGB V | 400 |
