@@ -1,0 +1,6 @@
+# TOP 4.: Sachstand und weiteres Vorgehen zum Projekt „Aufwertung des Dorf,- und Spielplatz und Errichtung einer Toilettenanlage“
+
+- Sitzung: Ortsbeirat Daisbach (3. Sitzung) (2026-07-30)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/34620
