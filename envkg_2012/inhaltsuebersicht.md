@@ -20,12 +20,6 @@ Neu in Verkehr gebrachte Produkte
 | § 14 | Aufgaben der beauftragten Stelle |
 | § 15 | Bußgeldvorschriften; Verordnungsermächtigung |
 Abschnitt 3
-Gebrauchte Produkte
-| § 16 | Berechtigung zur Verbrauchskennzeichnung |
-| § 17 | Verpflichtung zur Verbrauchskennzeichnung |
-| § 18 | Verfahren zur Verbrauchskennzeichnung und Überprüfung |
-| § 19 | Kostenfreiheit und Duldungspflicht |
-| Anlage 1 | Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019 |
-| Anlage 2 | Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019 |
-| Anlage 3 | Zeitliche Vorgabe zur Etikettierung |
-| Anlage 4 | Poster zum Energiekostenvergleich |
+Übergangsregelung
+| § 16 | Berechtigung zur Abrechnung von Etiketten |
+| Anlage | Poster zum Energiekostenvergleich |

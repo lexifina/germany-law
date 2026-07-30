@@ -49,10 +49,9 @@
 
 - [§ 28 Planfeststellung und vorläufige Anordnung](0028.md)
 - [§ 28a Veränderungssperre, Vorkaufsrecht](0028a.md)
-- [§ 28b Projektmanager](0028b.md)
-- [§ 28c Veröffentlichung im Internet](0028c.md)
 - [§ 29 Planfeststellungsbehörde](0029.md)
-- [§ 29a Vorzeitige Besitzeinweisung](0029a.md)
+- [§ 29a Anhörungsverfahren](0029a.md)
+- [§ 29b Vorzeitige Besitzeinweisung](0029b.md)
 - [§ 30 Enteignung](0030.md)
 - [§ 30a Entschädigungsverfahren](0030a.md)
 - [§ 31 Benutzung öffentlicher Straßen](0031.md)

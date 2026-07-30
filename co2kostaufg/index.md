@@ -4,7 +4,6 @@
 ## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Zweck des Gesetzes](0001.md)
-- [§ 1 Zweck des Gesetzes](0001-2.md)
 - [§ 2 Anwendungsbereich](0002.md)
 
 ## Abschnitt 2 Informationspflicht bei der Lieferung von Brennstoffen oder Wärme

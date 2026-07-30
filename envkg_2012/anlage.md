@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 3 Absatz 4)Poster zum Energiekostenvergleich
+# Anlage (zu § 3 Absatz 4)Poster zum Energiekostenvergleich
 
 Vorlage DIN A2
 [Bild: bgbl1_2021_j3026-1_0010.jpg]

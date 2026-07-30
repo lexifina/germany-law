@@ -23,13 +23,7 @@
 - [§ 14 Aufgaben der beauftragten Stelle](0014.md)
 - [§ 15 Bußgeldvorschriften; Verordnungsermächtigung](0015.md)
 
-## Abschnitt 3 Gebrauchte Produkte
+## Abschnitt 3 Übergangsregelung
 
-- [§ 16 Berechtigung zur Verbrauchskennzeichnung](0016.md)
-- [§ 17 Verpflichtung zur Verbrauchskennzeichnung](0017.md)
-- [§ 18 Verfahren zur Verbrauchskennzeichnung und Überprüfung](0018.md)
-- [§ 19 Kostenfreiheit und Duldungspflicht](0019.md)
-- [Anlage 1 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019](anlage-1.md)
-- [Anlage 2 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019](anlage-2.md)
-- [Anlage 3 (zu § 16 Absatz 2)Zeitliche Vorgabe zur Etikettierung](anlage-3.md)
-- [Anlage 4 (zu § 3 Absatz 4)Poster zum Energiekostenvergleich](anlage-4.md)
+- [§ 16 Berechtigung zur Abrechnung von Etiketten](0016.md)
+- [Anlage (zu § 3 Absatz 4)Poster zum Energiekostenvergleich](anlage.md)
