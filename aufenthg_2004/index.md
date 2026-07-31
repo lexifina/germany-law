@@ -171,7 +171,6 @@
 - [§ 66 Kostenschuldner; Sicherheitsleistung](0066.md)
 - [§ 67 Umfang der Kostenhaftung](0067.md)
 - [§ 68 Haftung für Lebensunterhalt](0068.md)
-- [§ 68a Übergangsvorschrift zu Verpflichtungserklärungen](0068a.md)
 - [§ 69 Gebühren](0069.md)
 - [§ 70 Verjährung](0070.md)
 
