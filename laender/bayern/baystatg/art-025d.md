@@ -1,0 +1,4 @@
+# Art. 25d Erhebungsbeauftragte des Zensus
+(1) Die örtlichen Erhebungsstellen haben die für die Durchführung der Erhebungen nach den §§ 11, 14 und 29 Abs. 1 Satz 3 ZensG 2022 benötigten Erhebungsbeauftragten auszuwählen und zu bestellen.
+(2) Die örtlichen Erhebungsstellen sind verpflichtet, die Erhebungsbeauftragten nach den Vorgaben des Landesamts zu schulen, die Schulung und die ordnungsgemäße Aufgabenerledigung der Erhebungsbeauftragten zu dokumentieren und die Dokumentation an das Landesamt zu übermitteln.
+(3) § 20 Abs. 2 Satz 1 und 2 ZensG 2022 gilt für die Gemeinden, Gemeindeverbände und unter der Aufsicht des Staates stehenden juristischen Personen des öffentlichen Rechts entsprechend. Darüber hinaus sind alle Bürgerinnen und Bürger verpflichtet, die Tätigkeit als Erhebungsbeauftragte zu übernehmen. Zu befreien ist, wem eine solche Tätigkeit aus gesundheitlichen oder anderen wichtigen Gründen nicht zugemutet werden kann.
