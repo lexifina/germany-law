@@ -921,6 +921,7 @@ erbrachter Leistung](0281.md)
 - [§ 555d Duldung von Modernisierungsmaßnahmen, Ausschlussfrist](0555d.md)
 - [§ 555e Sonderkündigungsrecht des Mieters bei Modernisierungsmaßnahmen](0555e.md)
 - [§ 555f Vereinbarungen über Erhaltungs- oder Modernisierungsmaßnahmen](0555f.md)
+- [§ 555f Mieterhöhung nach Einbau oder Aufstellung einer Wärmepumpe](0555f-2.md)
 
 ##### Kapitel 2 Die Miete
 

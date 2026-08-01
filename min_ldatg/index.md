@@ -1,7 +1,7 @@
 # Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
 
-- [§ 1 Erhebungszweck, Zuständigkeit](0001.md)
-- [§ 2 Meldepflichtige](0002.md)
+- [§ 1 Erhebungszweck; Zuständigkeit](0001.md)
+- [§ 2 Meldepflichtige; Anordnung einer Meldeplicht](0002.md)
 - [§ 3 Meldepflichten](0003.md)
 - [§ 4 Verordnungsermächtigung](0004.md)
 - [§ 5 Geheimhaltung, Weiterleitung](0005.md)

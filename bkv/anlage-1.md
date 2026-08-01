@@ -43,6 +43,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1321 | Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-Jahren [(µg/m3) x Jahre] |
 |  | Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315: |
 |  | Ausgenommen sind Hauterkrankungen. Diese gelten als Krankheiten im Sinne dieser Anlage nur insoweit, als sie Erscheinungen einer Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe in den Körper verursacht werden, oder gemäß Nummer 5101 zu entschädigen sind. |
+| 1322 | Parkinson-Syndrom durch langjährig, häufig und selbst angewendete Pestizide |
 | 2 | Durch physikalische Einwirkungen verursachte Krankheiten |
 | 21 | Mechanische Einwirkungen |
 | 2101 | Schwere oder wiederholt rückfällige Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze |

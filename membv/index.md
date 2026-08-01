@@ -1,4 +1,4 @@
-# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch
+# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Geltungsbereich](0001.md)
