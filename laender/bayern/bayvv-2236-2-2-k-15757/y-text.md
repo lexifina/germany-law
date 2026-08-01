@@ -1,0 +1,1 @@
+Zum Vollzug von Art. 27 Abs. 4 Satz 1, Art. 94 sowie Art. 99 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) an beruflichen Schulen erlässt das Bayerische Staatsministerium für Unterricht und Kultus folgende Bestimmungen:
