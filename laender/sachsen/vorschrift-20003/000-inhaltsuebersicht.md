@@ -25,6 +25,7 @@ Abschnitt 4 Unterrichtsorganisation
 § 20 Arbeitsgemeinschaften, Ganztagsangebote
 § 21 Unterrichtszeit
 § 22 Schuljahr, Ferien, unterrichtsfreie Tage
+§ 22a Nutzung privater mobiler Endgeräte
 § 23 Aufsicht
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 24 Grundsätze und Grundlagen der Leistungsermittlung und -bewertung
@@ -87,8 +88,6 @@ Abschnitt 10 Abiturprüfung für Schulfremde
 Abschnitt 11 Erhebungen
 § 76 Zustimmung
 § 77 Zuständigkeit
-Abschnitt 12 Schlussbestimmungen
-§ 78 Übergangsregelungen
 Anlage 1 Punktesystem
 Anlage 2 Tabelle zur Ermittlung eines vierfach gewerteten Prüfungsergebnisses
 Anlage 3 Tabelle zur Errechnung der Durchschnittsnote N aus der Punktzahl der Gesamtqualifikation P
