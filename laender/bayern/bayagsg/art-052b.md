@@ -1,0 +1,3 @@
+# Art. 52b Bundesmittel für laufende Belastungen im Zuge der Umsetzung des Ganztagsanspruchs für Kinder im Grundschulalter; Verordnungsermächtigung
+(1) Soweit der Freistaat Bayern erhöhte Landesanteile an der Umsatzsteuer nach § 1 FAG zum anteiligen Ausgleich für laufende Belastungen der Länder, die diesen aus der stufenweisen Einführung eines Anspruchs auf Förderung für Grundschulkinder entstehen, erhält, werden diese vollumfänglich an die bayerischen Kommunen weitergegeben.
+(2) Das Staatsministerium wird ermächtigt, im Einvernehmen mit den Staatsministerien des Innern, für Sport und Integration, der Finanzen und für Heimat sowie für Unterricht und Kultus die Einzelheiten zur Weitergabe der in Abs. 1 genannten Bundesmittel durch Rechtsverordnung zu bestimmen.
