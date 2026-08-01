@@ -1,0 +1,8 @@
+1. Art. 13 Abs. 1 Satz 2 Halbsatz 2, Art. 35 Abs. 3, Art. 40 Abs. 1 Nr. 6 Halbsatz 2, Art. 68 Abs. 1 Satz 1, Art. 73 Abs. 6 Satz 2, Art. 78 Abs. 3 Satz 2, Art. 79 Satz 3, Art. 80e Abs. 2 Satz 1 Halbsatz 2 des Bayerischen Beamtengesetzes (BayBG),
+2. § 28 Abs. 3 Nr. 3 und § 66 Abs. 1 des Bundesbesoldungsgesetzes (BBesG) in der Fassung der Bekanntmachung vom 6. August 2002 (BGBl I S. 3020), geändert durch Art. 10 des Gesetzes vom 6. August 2002 (BGBl I S. 3082),
+3. Art. 26 Satz 2 des Bayerischen Reisekostengesetzes vom 24. April 2001 (GVBl S. 133, BayRS 2032-4-1-F),
+4. § 60 Satz 2 der Laufbahnverordnung (LbV) in der Fassung der Bekanntmachung vom 4. März 1996 (GVBl S. 99, ber. S. 220, BayRS 2030-2-1-2-F), zuletzt geändert durch Verordnung vom 30. Juli 2002 (GVBl S. 354),
+5. § 6 Abs. 1 Satz 1 der Bayerischen Leistungsprämien- und Leistungszulagenverordnung vom 15. Dezember 1998 (GVBl S. 1020, BayRS 2032-3-1-6-F),
+6. § 6 Abs. 1 Satz 2 der Jubiläumszuwendungsverordnung vom 21. Dezember 1999 (GVBl S. 568, BayRS 2030-2-24-F),
+7. § 6 der Verordnung über die Erstattung der Ausbildungskosten bei einem Dienstherrnwechsel von Beamten des mittleren und gehobenen Dienstes vom 24. Juli 1986 (GVBl S. 258, BayRS 2030-2-41-F),
+8. § 1 Abs. 2 der Verordnung über Zuständigkeiten für die Festsetzung, Anordnung und Abrechnung der Bezüge von Bediensteten und Versorgungsempfängern des Freistaates Bayern vom 10. Januar 1989 (GVBl S. 5, BayRS 2032-3-1-4-F), zuletzt geändert durch Verordnung vom 13. Februar 2001 (GVBl S. 54),
