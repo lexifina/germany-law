@@ -1,0 +1,1 @@
+Auf Grund des Art. 26 Abs. 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) in der Fassung der Bekanntmachung vom 31. Mai 2000 (GVBl S. 414, ber. S. 632, BayRS 2230-1-1-UK), zuletzt geändert durch Art. 10 des Gesetzes vom 20. Dezember 2007 (GVBl S. 919), erlässt das Bayerische Staatsministerium für Unterricht und Kultus folgende Verordnung:
