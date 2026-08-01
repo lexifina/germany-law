@@ -1,0 +1,30 @@
+# Schulordnung für die Gymnasien in Bayern
+(Gymnasialschulordnung – GSO)
+Vom 23. Januar 2007
+(GVBl. S. 68)
+BayRS 2235-1-1-1-K
+Gymnasialschulordnung (GSO) vom 23. Januar 2007 (GVBl. S. 68, BayRS 2235-1-1-1-K), die zuletzt durch § 11 der Verordnung vom 1. Juli 2026 (GVBl. S. 425) geändert worden ist
+Änderungen
+1. § 1 ÄndV vom 6.7.2007 (GVBl. S. 454)
+2. § 1 ÄndV vom 5.5.2008 (GVBl. S. 262, ber. S. 336)
+3. § 1 ÄndV vom 19.8.2008 (GVBl. S. 586)
+4. § 3 V zur Änd. der VolksschulO, der RealschulO und der GymnasialschulO vom 6.7.2009 (GVBl. S. 308, ber. S. 346)
+5. § 1 ÄndV vom 7.7.2009 (GVBl. S. 318)
+6. § 1 ÄndV vom 29.7.2010 (GVBl. S. 640)
+7. § 1 ÄndV vom 8.7.2011 (GVBl. S. 320)
+8. § 1 ÄndV vom 12.6.2013 (GVBl. S. 390)
+9. § 1 Nr. 251 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 22.7.2014 (GVBl. S. 286)
+10. § 2 Nr. 27 G zur Änderung des Bayerischen StatistikG und anderer Rechtsvorschriften vom 12.5.2015 (GVBl. S. 82)
+11. § 1 ÄndV vom 2.6.2015 (GVBl. S. 215)
+12. § 7a Abs. 6 SchülerunterlagenV vom 11.9.2015 (GVBl. S. 349)
+13. § 8 V zur Änderung von Schulordnungen zum Schuljahr 2016/2017 vom 15.7.2016 (GVBl. S. 193)
+14. § 1 V zur Änd. der Gymnasialschulordnung und weiterer Rechtsvorschriften vom 8.5.2018 (GVBl. S. 356)
+15. § 5 V zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 9.7.2019 (GVBl. S. 420)
+16. V zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 22.6.2020 (GVBl. S. 335, 406)
+17. ÄndV vom 18.6.2021 (GVBl. S. 399)
+18. § 5 V zur Änderung der Bayerischen Schulordnung und weiterer Verordnungen vom 8.7.2021 (GVBl. S. 479)
+19. V zur Änderung der Gymnasialschulordnung vom 23.5.2022 (GVBl. S. 279)
+20. §§ 7, 8 V zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 6.4.2023 (GVBl. S. 161)
+21. § 8 V zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 4.7.2024 (GVBl. S. 281)
+22. §§ 6, 7 Verordnung zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 2.7.2025 (GVBl. S. 272)
+23. § 11 Verordnung zur Änderung der Bayerischen Schulordnung und weiterer Rechtsvorschriften vom 1.7.2026 (GVBl. S. 425)
