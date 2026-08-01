@@ -1,0 +1,1 @@
+Auf Grund des Art. 57a Abs. 4 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) in der Fassung der Bekanntmachung vom 31. Mai 2000 (GVBl S. 414, ber. S. 632; BayRS 2230-1-1-UK), zuletzt geändert durch Gesetz vom 24. Juli 2013 (GVBl S. 465), erlässt die Bayerische Staatsregierung folgende Verordnung:
