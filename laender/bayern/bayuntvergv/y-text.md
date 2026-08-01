@@ -1,0 +1,1 @@
+Auf Grund des Art. 79 Satz 1 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl S. 410, ber. S. 764, BayRS 2032-1-1-F), zuletzt geändert durch § 2 des Gesetzes vom 22. Mai 2013 (GVBl S. 301), erlässt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
