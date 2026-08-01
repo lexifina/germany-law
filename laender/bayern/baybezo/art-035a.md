@@ -1,0 +1,5 @@
+# Art. 35a Bereitstellung von Bediensteten und Einrichtungen
+(1) Die Regierung stellt dem Bezirk die leitenden Verwaltungsbeamtinnen oder Verwaltungsbeamten der Hauptverwaltung und der Sozialhilfeverwaltung sowie für weitere zentrale Verwaltungsaufgaben staatliche Dienstkräfte nach Maßgabe des Staatshaushalts zur Verfügung. Die leitende Verwaltungsbeamtin oder der leitende Verwaltungsbeamte sowie die leitende Beamtin oder der leitende Beamte der Sozialhilfeverwaltung werden im Einvernehmen mit der Bezirkstagspräsidentin oder dem Bezirkstagspräsidenten bestellt.
+(2) Soweit der Bezirk seine Verwaltungsaufgaben nicht mit eigenen Verwaltungseinrichtungen erledigt, stellt ihm die Regierung ihre Einrichtungen nach Maßgabe des Staatshaushalts zur Verfügung.
+(3) Der Bezirk und die Regierung leisten sich in Fachfragen zur Erfüllung ihrer Aufgaben gegenseitig gutachtliche Hilfe.
+(4) Für Amtspflichtverletzungen der für den Bezirk tätigen Staatsbediensteten haftet der Bezirk. Für Amtspflichtverletzungen der für die Regierung tätigen Bezirksbediensteten haftet der Freistaat Bayern.
