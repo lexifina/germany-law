@@ -1,0 +1,1 @@
+Auf Grund des Art. 9 Abs. 6 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen erläßt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
