@@ -1,3 +1,5 @@
+## Abschnitt 12 (aufgehoben)
+### § 78 (aufgehoben)
 # Anlagen
 Anlage 1 Punktesystem
 Anlage 2 Tabelle zur Ermittlung eines vierfach gewerteten Prüfungsergebnisses
