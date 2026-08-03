@@ -1,0 +1,164 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-08-03T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9708982
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9708982
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 06.07.2026
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1.: Defektes Eingangstor Stemmerwiese
+- TOP 2.2.: LKW-Lieferverkehr auf dem Gehweg in der Daiserstraße 9
+- TOP 2.3.: Zunehmende Verschlechterung bei Müll- und Glascontainern in Sendling
+- TOP 2.4.: Zukünftige Straßenführung in der Plinganserstraße
+- TOP 2.5.: Verkehrsberuhigung in der Lindenschmitstraße
+- TOP 2.6.: Gerüst an der U-Bahn Station Brudermühlstrasse (gegenüber des Resi-Huber-Platzes)
+- TOP 2.7.: Anregung zur Gestaltung der Außenfläche / Pfeuferstraße 14
+- TOP 2.8.: Sperrung der Auffahrt Brudermühlstraße – Begründung und Überprüfung gefordert
+- TOP 2.9.: Begrünung Einfahrt zur Berlepschstr.
+- TOP 2.10.: Zunehmende Verschlechterung bei den Müll- und Glascontainern Dialog zwischen Bürgerin und AWM bzgl. TOP 2.1 aus 06/26
+- TOP 2.11.: Unterstützung für die Ausstattung der Grundschulen im Viertel mit Klimaanlagen
+- TOP 2.12.: Oberländer-/Gotzinger Straße - Beibehaltung temporäre Verkehrsführung als Dauerlösung
+- TOP 2.13.: Verkehr in Sendling
+- TOP 2.14.: Mehrere Anliegen einer Bürgerin: 1) Newsletter BA 6 2) Taubenhaus 3) Baumentscheid
+- TOP 2.15.: Verkehrssituation durch SEV Implerstrasse gegenüber der Schule
+- TOP 2.16.: Bitte um Streetwork-Unterstützung und Freizeitflächen für Jugendliche in der Karwendelstrasse
+- TOP 2.17.: Protest gegen Einstellung des X30
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Stellungnahme der Sendlinger Stadtteilbibliothek
+- TOP 3.2.: Stellungnahme der Sendlinger Volkshochschule
+- TOP 4.: Berichte der BA-Vorsitzenden/des BA-Vorstands, Berichte v. Beauftragten (max. 2 Min Redezeit)
+- TOP 4.1.: Bericht Beauftragte für Bäume & Biodiversität Implerstr. 51: Biodiverse Begrünung nach Fällung vier großer Bäume (Tiefgaragen-Statik) Austausch SWM Wasserkraft - RKU/UNB: Ersatzpflanzungen Großer Stadtbach / Bachauskehr (2027); Baum-Schulung Bund Naturschutz
+- TOP 5.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH „Sommerfest Teestube "komm" am 07.08.2026“ 162,18 € / AZ: 0262.100-6-0638
+- TOP 5.1.2.: (E) Stadtbezirksbudget Himmelfahrtskirche Sendling „"Ökologische-klimaresiliente Flächenaufwertung" der Himmelfahrtskirche in Sendling Oktober 2026“ 13.000,00 € / AZ: 0262.100-6-0636
+- TOP 5.1.3.: (E) Stadtbezirksbudget Init. "Gitarrenfestival" „Konzert im Rahmen des 4. Gitarrenfestival München, Konzert in der Himmelfahrtskirche: 22.07.2026, Gitarrenfestival vom 21.07.2026 - 25.07.2026“ 1.000,00 € / AZ: 0262.100-6-0640
+- TOP 5.1.4.: (E) Stadtbezirksbudget H-Team e.V. „Fortbildungen für H-Team Mitarbeiter vom 01.01.2026 - 31.12.2026“ 1.971,00 € / AZ: 0262.100-6-0639
+- TOP 5.1.5.: Finanzierung Soziale Bude
+- TOP 5.1.6.: Finanzierung BA-Empfang 2026
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Anträge
+- TOP 5.4.: Unterrichtungen
+- TOP 5.4.1.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 2. Quartal 2026
+- TOP 5.4.2.: Verwendungsnachweise Budget
+- TOP 5.4.3.: Verlängerung des Bewilligungszeitraums "Die Sendlinger Kasperl"
+- TOP 5.5.: Sonstiges
+- TOP 5.5.1.: Information zu Neuerungen - Münchner Ferienpass 2026/2027 und Münchner Familienpass 2027
+- TOP 6.: Unterausschuss Mobilität
+- TOP 6.1.: Entscheidungen
+- TOP 6.1.1.: Fahrradstellplätze in der Gotzinger Straße Erneute Zustimmung des BA nötig: TOP 2.18 aus 12/25
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Anträge
+- TOP 6.3.1.: Dauerhafte Anhebung der Fahrbahn vor Meindlstraße 6; Grünen-Antrag
+- TOP 6.3.2.: Vorzeitige Einführung des Parklizenzgebietes Mittersendling im Bereich Fallstraße / Leipartstraße / Flößergasse / Steinerstraße; SPD-Antrag
+- TOP 6.4.: Unterrichtungen
+- TOP 6.4.1.: SEV Führung Implerstraße Antwort zu Bürgeranfrage aus 06/26
+- TOP 6.4.2.: Ladesäulen und Parkbänke am Gotzinger Platz Antwort zu Bürgeranfrage aus 09/25
+- TOP 6.4.3.: Implerstr/Oberländerstr - Chaos auf den Straßen Antwort zu Bürgeranfrage aus 06/26
+- TOP 6.4.4.: Erneute Bitte um nachhaltige Lösung der Parksituation im Bereich Kidlerstraße 1 sowie Antrag auf Überwachung der Grundstückszufahrt Erneute Anfrage des Bürgers an die Stadtverwaltung (TOP 6.4.9 aus 07/26)
+- TOP 6.4.5.: Schienenersatzverkehr in der Oberländerstraße
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Öffentlicher Raum, Begrünung und Gewerbe
+- TOP 7.1.: Entscheidungen
+- TOP 7.1.1.: Antrag für Kaugummiautomat, Aberlestr. 2
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Vollzug der Baugenehmigung Lindenschmitstraße 25 BV-Empfehlung Nr. 20-26 / E 03198
+- TOP 7.3.: Anträge
+- TOP 7.3.1.: Schmied-von-Kochel-Brunnen als Trinkwasserbrunnen aktivieren; Grünen-Antrag
+- TOP 7.4.: Unterrichtungen
+- TOP 7.4.1.: Neu-Aufstellung einer Sitzbank an der Ecke Roter-Turm-Platz / Esswurmstraße
+- TOP 7.4.2.: Sitzbänke in Sendling (Fraktion B90 / Die Grünen, ÖDP, CSU und SPD)
+- TOP 7.4.3.: Grünanlagensatzung München anpassen – ökologische Funktion wird auch Hauptzweck; ÖDP-Antrag
+- TOP 7.4.4.: Bitte um Aufstellung von Abfallbehältern und Hinweisschild auf öffentliche Toiletten
+- TOP 7.4.5.: Dokumentation Termin: Begrünung Implerstraße 51
+- TOP 7.4.6.: Beschluss des BA 18 Untergiesing-Harlaching: Antrag für Bezirksausschuss 18 - Hundeleinenpflicht in den Isarauen
+- TOP 7.4.7.: Städtische Weihnachtsbäume in den Münchner Stadtbezirken
+- TOP 7.4.8.: Grünfläche Wackersberger/Reutberger Straße Implerstr/Oberländerstr - Chaos auf den Straßen Antwort zu Bürgeranfrage aus 06/26
+- TOP 7.4.9.: Einladung zur Münchner Müllmeisterschaft 2026
+- TOP 7.4.10.: Eilentscheid der Vorsitzenden: Sommercafé der Sendlinger SPD vor Daiserstr. 27-29 (Gehweg) am 31.07.2026; TERMIN: 24.07.2026
+- TOP 7.4.11.: Abfallsituation im Bereich der Kreuzung Aberle-/Oberländerstraße
+- TOP 7.4.12.: Abdruck OB - Schanigarten Lindwurmstr. 205
+- TOP 7.4.13.: Drehgenehmigungen
+- TOP 7.4.14.: Versammlungen unter freiem Himmel
+- TOP 7.4.15.: Veranstaltungsanzeigen
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Soziales, Bildung und Kultur
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Bestellung einer städtischen Leistung zur Finanzierung von Ferien- und Familienpässen
+- TOP 8.2.: Anhörungen
+- TOP 8.3.: Anträge
+- TOP 8.3.1.: Bestandsaufnahme öffentlich zugänglicher Defibrillatoren in Sendling; SPD-Anfrage
+- TOP 8.4.: Unterrichtungen
+- TOP 8.4.1.: Spielplatz Dietramszeller Platz
+- TOP 8.4.2.: Aktuelles von AKIM: Ansprechpartner, Workshops, Kennenlern-Angebot
+- TOP 8.4.3.: Anfrage zur Gestaltung der Gartenmauer am städtischen Haus für Kinder in der Wackersberger Straße 71
+- TOP 8.4.4.: Sendling feiert 2027 150 Jahre Eingemeindung
+- TOP 8.5.: Sonstiges
+- TOP 9.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Anhörung zur Behandlung der BA-Anträge Nr. 20-26 / B 05063 und Nr. 20-26 / B 07077 I Frist: 05.08.2026
+- TOP 9.2.2.: Schäftlarnstr. 9 Abbruch Bestandsgebäude und Neubau einer Rettungswache mit 6 Stellplätzen und einer Waschgarage Unterrichtung beantragte Baumfällung
+- TOP 7.2.2.: Spitzwegstr. 5 Fällungsantrag vom 09.07.2026
+- TOP 9.2.3.: Fallstr. 38 Abbruch und Neubau von zwei Wohngebäuden mit 92 Wohneinheiten (Fallstr. 38 / Zechstr. 2, 8, 10, 10a) - VORBESCHEID
+- TOP 9.3.: Anträge
+- TOP 7.3.2.: „Rewe-Park“: Grüne Oase für alle statt verlängerter Vorgarten für Premium-Bauprojekt; SPD-Antrag
+- TOP 9.4.: Unterrichtungen
+- TOP 9.4.1.: Überprüfung
+- TOP 9.4.2.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2024-2025
+- TOP 9.4.3.: Taubenplage: Wohnanlage Implerstraße 23, 25, 25a
+- TOP 9.4.4.: Baumaßnahme der SWM: Ferwärmeprojekt Implerstraße
+- TOP 9.4.5.: BA-Austauschtreffen mit dem Baureferat
+- TOP 9.4.6.: Thalkirchner Brücke Projektvorstellung im BA 6 - Präsentation
+- TOP 9.4.7.: Kommunikationsmaßnahmen bezüglich der geplanten Seismikmessungen im Rahmen des Forschungsprojekts GIGA-M
+- TOP 9.4.8.: Fernwärme Projekt Danklstraße 30
+- TOP 9.4.9.: Fernwärme Projekt Kidlerplatz 8
+- TOP 9.4.10.: Eilentscheid der Vorsitzenden: Projektplanung Nachrüstung Beleuchtung Jugendspiel Neuhofen-Nord Erneute Zustimmung des BA nötig aufgrund von Fledermausproblematik
+- TOP 9.5.: Sonstiges
+- TOP 10.: Verschiedenes / Sonstiges
+- TOP 10.1: Entscheidungen
+- TOP 10.2.: Anhörungen
+- TOP 5.2.1.: Anhörung zur Änderung der BA-Satzung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 10.3.: Anträge
+- TOP 10.4.: Unterrichtungen
+- TOP 10.5.: Sonstiges
+- TOP 2.18.: S-Bahn Unterführung Zielstattstrasse 6
+- TOP 8.2.1.: Zwischennutzung / Kulturprojekt am Stemmerhof
+- TOP 8.2.2.: SOSOSO Galerie: BA 6: Anfrage für ein Sondierungsgespräch – mögliche Förderung eines Ausstellungsprojekts
+- TOP 2.19.: Spiegel am Fahrrad-und Fußweg an der Stemmerwiese
+- TOP 2.20.: Appell wegen Einstellung Expressbus X30
+- TOP 2.21.: Geschwindigkeitsüberwachung in der Radlkoferstraße
+- TOP 6.4.6.: Vorzeitige Öffnung Luise-Kiesselbach-Tunnel
+- TOP 7.4.16.: Interims-Gasteig: Antrag zur Verkehrssituation; BA-Antrags-Nr. 20-26 - B 02777 vom 05.07.2021 - Nachtrag Optimierung der Beleuchtungssituation
+- TOP 8.4.5.: Veranstaltungen Neuhofener Berg: Fachstelle MoNa | Moderation der Nacht
+- TOP 9.2.4.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen – Zusammenarbeit mit dem Referat für Klima- und Umweltschutz (RKU)
+- TOP 2.22.: Baustelle Spitzwegstrasse/ Ecke Lipowskystraße
+- TOP 2.23.: Anfrage zur Stellungnahme des Bezirksausschusses Sendling zum MVG-Sparprogramm
+- TOP 2.24.: Absperrung Baustelle an der Thalkirchner Straße und Gotzinger Strasse
+- TOP 5.1.7.: Stadtbezirksbudget Mütterzentrum Sendling e.V. „Spülmaschine vom 01.09.2026 - 30.09.2026“ 603,89 € / 0262.100-6-0642
+- TOP 7.2.3.: Pfeuferstr. 32 I Frist: 24.08.2026 Fällungsantrag vom 18.06.2026
+- TOP 8.3.2.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk Sendling; Die Grünen und SPD-Antrag
+- TOP 2.25.: Parklizenzgebiet für Sendling / Fahrradständer an der Ecke Neuhofener Platz / Umplanung Flössergasse Zechstraße
+- TOP 2.26.: Information zu Verkaufsplanungen und Besichtigungen in der Lindwurmstraße 201 & 203
+- TOP 2.27.: Sammelbeschwerde von 12 Wohneinheiten – Bitte um dringende Überprüfung der Ersatzhaltestelle X6 in der Oberländerstraße 3
+- TOP 5.1.8.: (E) Stadtbezirksbudget Init. "Yelda Fest „Yelda Fest am 05.9.2026“ 900,00 € / AZ: 0262.100-6-0641
+- TOP 6.5.1.: Parksituation Fahrräder vor Wachstation
+- TOP 2.28.: Protest Streichung Expressbus X30
+- TOP 2.29.: Sitzbank in der Wackersberg Straße vor Hausnummer 11
+- TOP 5.1.9.: (E) Stadtbezirksbudget Rosa Stern Space e.V. „Emilia de las Carreras & Fátima Rodrigo vom 17.09.2026 - 11.10.2026“ 1.912,50 € / AZ: 0262.100-6-0643
+- TOP 8.3.3.: Gedenken an die Opfer des Anschlags auf den CSD Berlin sowie konsequenter Schutz und Stärkung queeren Lebens im Bezirk: Beauftragung einer Ansprechperson für queere Menschen; Linken-Antrag
+- TOP 6.2.1.: Brudermühlstraße: Anhörung, Tempo 30 aus Lärmschutzgründen für die Nachtzeit
+- TOP 2.30.: Verbesserung der Lebensqualität und Verkehrssicherheit in der Zechstraße durch die Pflanzung von Straßenbäumen
+- TOP 2.31.: Siehe auch Anhörung zu TOP 9.2.3 Fallstr. 38 I Frist: 06.08.2026 Abbruch und Neubau von zwei Wohngebäuden mit 92 Wohneinheiten
+- TOP 2.32.: Ersatzpflanzung des gefällten Baums an dem Grundstück der Ecke Zechstraße/Flößergasse
+- TOP 2.33.: Bußhaltestelle Ersatzverkehr U6 Oberländerstraße
+- TOP 2.34.: Störung durch Leuchtreklame
