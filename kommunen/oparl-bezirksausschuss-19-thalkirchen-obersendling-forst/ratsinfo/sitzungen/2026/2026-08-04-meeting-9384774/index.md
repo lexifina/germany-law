@@ -1,0 +1,72 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-08-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384774
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384774
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 07.07.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: AWM München: Informationen zur Einführung der Gelben Tonne am 01. Januar 2027
+- TOP 2.4.: (A) Satzungsänderung: Kommunale Kinder- und Jugendpartizipation
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Ensemble La Vie e.V. Festival in der Passionskirche München vom 15.08. - 30.12.2026 3.500,00 Euro, Az.: 0262.100-19-0638
+- TOP 3.3.: (E) Stadtbezirksbudget Förderverein Grundschule Forstenried e.V. Zirkusprojekt mit Zirkus Galliano vom 06.07.2026 bis 10.07.2026 und vom 13.07.2026 bis 17.07.2026 5.715,00€; Az. 0262.100-19-0639
+- TOP 3.4.: (E) Stadtbezirksbudget Elterninitiative Villa Kinderbunt e.V. Neues Spielgerät mit Fokus für die U3 Kinder ab 01.09.2026 5.607,23€; Az. 0262.100-19-0640
+- TOP 3.5.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. Forstenrieder Dorffest am 12./ 13.09.2026 4.730,00€; Az. 0262.100-19-0641
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Bäume pflanzen in der westlichen Hofbrunnstraße
+- TOP 4.4.: (A) Mobilfunksuchkreismeldung Forstenried
+- TOP 4.5.: (A) Lärmbelästigung durch nächtliche Benutzung von Parkbänken am Uriweg
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Projektplanung Thalkirchner Brücke
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Errichtung einer Geschwindigkeitsbeschränkung auf 30 km/h in der Murnauer Straße 265
+- TOP 5.4.: (Antrag) Fahrradabstellchaos am nördlichen Ausgang des S-Bahnhaltepunktes Siemens-Werke
+- TOP 5.5.: (E) Sondernutzungserlaubnis: Foodtruck an der Zentralländstraße
+- TOP 5.6.: (Antrag) Lkw-Durchfahrtsverbot in der Steinmetzstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: -abgesetzt-
+- TOP 6.2.2: Boschetsrieder Straße 119 (VB)
+- TOP 6.2.3: Frillenseestraße 14
+- TOP 6.2.4: Liesl-Karlstadt-Straße 14
+- TOP 6.2.5: Becker-Gundahl-Straße 18
+- TOP 6.2.6: Aidenbachstraße 7 (VB)
+- TOP 6.2.7: -abgesetzt-
+- TOP 6.2.8: Appenzeller Straße 119 (T)
+- TOP 6.2.9: Forst-Kasten-Allee Flurnr. 652/42 (T)
+- TOP 6.2.10: Lochhamer Straße 73
+- TOP 6.3.: (A) Erhaltungssatzung in Obersendling - Verdrängung bekämpfen
+- TOP 6.4.: (A) Bebauungsplan A 22 „Nördlich der Zugspitzstraße“ Gemeinde Neuried
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Saubere und sichere Spielplätze – Maßnahmen gegen Zigarettenstummel und Rauchbelastung prüfen
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Jeder Mensch hat einen Namen – Gedenken an den 9. November 1938
+- TOP 8.3.: (U) Gaststättenfortführung: Zentralländstraße
+- TOP 8.4.: Ruhestörung im Wohngebiet Allgäuer Straße / Kemptener Straße
+- TOP 9: Verschiedenes
+- TOP 3.6.: (E) Stadtbezirksbudget Elternbeirat Kita Kistlerhofstraße 127 Tanzprojekt vom 01.09.2026 -31.07.2027 7.440,00€; Az. 0262.100-19-0643
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes in der St.-Wendel-Straße
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Einrichtung eines Halteverbots in der Plinganserstraße
+- TOP 5.9.: (Antrag) Verbesserung der Sichtbeziehungen am Fußgängerüberweg Baierbrunner Straße
