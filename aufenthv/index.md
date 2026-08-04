@@ -144,7 +144,7 @@ Ausweisersatz und sonstige Dokumente
 
 #### Unterabschnitt 1 Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
 
-- [§ 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip](0061a.md)
+- [§ 61a Datenerfassung bei der Beantragung von Dokumenten mit Chip](0061a.md)
 - [§ 61b Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung](0061b.md)
 - [§ 61c Übermittlung der Daten an den Dokumentenhersteller](0061c.md)
 - [§ 61d Nachweis der Erfüllung der Anforderungen](0061d.md)
@@ -173,7 +173,7 @@ Ausweisersatz und sonstige Dokumente
 - [§ 73 Mitteilungen der
 Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15
 des Bundesvertriebenengesetzes](0073.md)
-- [§ 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen](0074.md)
+- [§ 74 Mitteilungen der Justizbehörden und der Maßregelvollzugseinrichtungen](0074.md)
 - [§ 75 (weggefallen)](0075.md)
 - [§ 76 Mitteilungen der Gewerbebehörden](0076.md)
 - [§ 76a Form und Verfahren der Datenübermittlung im Ausländerwesen](0076a.md)

@@ -117,7 +117,7 @@
 | Datenerfassung, Datenverarbeitung und Datenschutz |
 | Unterabschnitt 1 |
 | Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes |
-| § 61a | Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip |
+| § 61a | Datenerfassung bei der Beantragung von Dokumenten mit Chip |
 | § 61b | Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung |
 | § 61c | Übermittlung der Daten an den Dokumentenhersteller |
 | § 61d | Nachweis der Erfüllung der Anforderungen |
@@ -142,7 +142,7 @@
 | § 72 | Mitteilungen der Meldebehörden |
 | § 72a | Mitteilungen der Pass- und Ausweisbehörden |
 | § 73 | Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes |
-| § 74 | Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen |
+| § 74 | Mitteilungen der Justizbehörden und der Maßregelvollzugseinrichtungen |
 | § 75 | (weggefallen) |
 | § 76 | Mitteilungen der Gewerbebehörden |
 | § 76a | Form und Verfahren der Datenübermittlung im Ausländerwesen |
