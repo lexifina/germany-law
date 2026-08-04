@@ -44,7 +44,7 @@
 |  | § 18c | Datenübermittlung an die für den öffentlichen Gesundheitsdienst zuständigen Behörden |
 |  | § 18d | Datenübermittlung an die Jugendämter, die Unterhaltsvorschussstellen und die Elterngeldstellen |
 |  | § 18e | Datenübermittlung an die Meldebehörden |
-|  | § 18f | Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit und die Familienkassen |
+|  | § 18f | Datenübermittlung an die Familienkasse Direktion und die Familienkassen der Bundesagentur für Arbeit |
 |  | § 18g | Datenübermittlung an die Träger der Deutschen Rentenversicherung |
 |  | § 19 | Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden |
 |  | § 20 | Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst |
