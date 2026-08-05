@@ -72,6 +72,7 @@ anderer Staaten und über- oder zwischenstaatliche Stellen
 ## Kapitel 3 Visadatei
 
 - [§ 28 Anlaß der Speicherung](0028.md)
+- [§ 29 Inhalt](0029.md)
 - [§ 30 Übermittelnde Stellen](0030.md)
 - [§ 31 Allgemeine Vorschriften für die Datenübermittlung](0031.md)
 - [§ 32 Dritte, an die Daten übermittelt werden](0032.md)

@@ -89,7 +89,7 @@ Datentransparenz
 ## Achter Abschnitt Straf- und Bußgeldvorschriften, Anwendung sonstiger Vorschriften
 
 - [§ 57 Straf- und Bußgeldvorschriften, Zusammenarbeit](0057.md)
-- [§ 58 (weggefallen)](0058.md)
+- [§ 58 Vergütungsregelungen für Führungskräfte der Ebene unterhalb der Ebene der Geschäftsführung bei der landwirtschaftlichen Krankenkasse](0058.md)
 
 ## Neunter Abschnitt Übergangs- und Schlußvorschriften
 
