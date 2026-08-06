@@ -48,7 +48,7 @@
 - [§ 24 Anzeige des Wärmeplans](0024.md)
 - [§ 25 Fortschreibung des Wärmeplans](0025.md)
 
-### Abschnitt 6 Entscheidung über die Ausweisung von Gebieten im Sinne des Gebäudeenergiegesetzes; Transformation von Gasnetzen
+### Abschnitt 6 Entscheidung über die Ausweisung von Gebieten; Transformation von Gasnetzen
 
 - [§ 26 Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet](0026.md)
 - [§ 27 Rechtswirkung der Entscheidung](0027.md)
