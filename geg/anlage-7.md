@@ -1,4 +1,4 @@
-# Anlage 7 (zu § 48)Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden
+# Anlage 7 (zu § 36)Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden
 
 | Nummer | Erneuerung,Ersatz oder erstmaligerEinbau von Außenbauteilen | Wohngebäudeund Zonen vonNichtwohngebäudenmit Raum-Solltemperatur ≥ 19 °C | Zonen vonNichtwohngebäuden mit Raum-Solltemperaturvon 12 bis < 19 °C |
 | Höchstwerte der Wärmedurchgangskoeffizienten Umax |

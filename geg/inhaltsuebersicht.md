@@ -11,8 +11,8 @@ Allgemeiner Teil
 | § 6a | Verordnungsermächtigung zur Versorgung mit Fernkälte |
 | § 7 | Regeln der Technik |
 | § 8 | Verantwortliche |
-| § 9 | Überprüfung der Anforderungen an zu errichtende und bestehende Gebäude |
-| § 9a | Länderregelung |
+| § 9 | Länderregelung |
+| § 9a | Evaluation |
 Teil 2
 Anforderungen an zu errichtende Gebäude
 Abschnitt 1
@@ -23,9 +23,7 @@ Allgemeiner Teil
 | § 13 | Dichtheit |
 | § 14 | Sommerlicher Wärmeschutz |
 Abschnitt 2
-Jahres-Primärenergiebedarf
-und baulicher Wärmeschutz
-bei zu errichtenden Gebäuden
+Jahres-Primärenergiebedarf und baulicher Wärmeschutz bei zu errichtenden Gebäuden
 Unterabschnitt 1
 Wohngebäude
 | § 15 | Gesamtenergiebedarf |
@@ -51,44 +49,44 @@ Berechnungsgrundlagen und -verfahren
 | § 31 | Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude |
 | § 32 | Vereinfachtes Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude |
 | § 33 | Andere Berechnungsverfahren |
-Abschnitt 4
-(weggefallen)
-| § 34 | (weggefallen) |
-| § 35 | (weggefallen) |
-| § 36 | (weggefallen) |
-| § 37 | (weggefallen) |
-| § 38 | (weggefallen) |
-| § 39 | (weggefallen) |
+Teil 3
+Modernisierung von bestehenden Gebäuden
+Abschnitt 1
+Allgemeine Anforderungen an bestehende Gebäude
+| § 34 | Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften |
+| § 35 | Nachrüstung eines bestehenden Gebäudes |
+| § 36 | Anforderungen an ein bestehendes Gebäude bei Änderung |
+| § 37 | Berechnung des Wärmedurchgangskoeffizienten |
+| § 38 | Energetische Bewertung eines bestehenden Gebäudes |
+| § 39 | Anforderungen an ein bestehendes Gebäude bei Erweiterung und Ausbau |
+Abschnitt 2
+Besondere Renovierungsanforderungen an bestehende Nichtwohngebäude
 | § 40 | (weggefallen) |
 | § 41 | (weggefallen) |
-| § 42 | (weggefallen) |
-| § 43 | (weggefallen) |
-| § 44 | (weggefallen) |
-| § 45 | (weggefallen) |
-Teil 3
-Anforderungen an bestehende Gebäude
-Abschnitt 1
-(weggefallen)
-| § 46 | Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften |
-| § 47 | Nachrüstung eines bestehenden Gebäudes |
-| § 48 | Anforderungen an ein bestehendes Gebäude bei Änderung |
-| § 49 | Berechnung des Wärmedurchgangskoeffizienten |
-| § 50 | Energetische Bewertung eines bestehenden Gebäudes |
-| § 51 | Anforderungen an ein bestehendes Gebäude bei Erweiterung und Ausbau |
-Abschnitt 2
-(weggefallen)
+Abschnitt 3
+Modernisierung der Wärmeversorgung in Gebäuden
+| § 42 | Grundsatz |
+| § 42a | Grüngas-/Grünheizölquote |
+| § 43 | Einbau einer Heizungsanlage, die mit Gas, Heizöl oder Flüssiggas beschickt wird |
+| § 44 | Einbau einer solarthermischen Anlage |
+| § 45 | Einbau einer Heizungsanlage zur Nutzung fester Biomasse |
+| § 46 | Einbau einer Stromdirektheizung |
+| § 47 | (weggefallen) |
+| § 48 | (weggefallen) |
+| § 49 | (weggefallen) |
+| § 50 | (weggefallen) |
+| § 51 | (weggefallen) |
 | § 52 | (weggefallen) |
 | § 53 | (weggefallen) |
 | § 54 | (weggefallen) |
 | § 55 | (weggefallen) |
-| § 56 | (weggefallen) |
 Teil 4
-Anlagen
-der Heizungs-, Kühl- und
-Raumlufttechnik sowie der Warmwasserversorgung
+Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung
 Abschnitt 1
-Aufrechterhaltung der
-energetischen Qualität bestehender Anlagen
+Gebäudeautomation
+| § 56 | Gebäudeautomatisierung und Gebäudesteuerung |
+Abschnitt 2
+Aufrechterhaltung der energetischen Qualität bestehender Anlagen
 Unterabschnitt 1
 Veränderungsverbot
 | § 57 | Verbot von Veränderungen; entgegenstehende Rechtsvorschriften |
@@ -100,7 +98,7 @@ Betreiberpflichten
 | § 60a | Prüfung und Optimierung von Wärmepumpen |
 | § 60b | Prüfung und Optimierung älterer Heizungsanlagen |
 | § 60c | Hydraulischer Abgleich und weitere Maßnahmen zur Heizungsoptimierung |
-Abschnitt 2
+Abschnitt 3
 Einbau und Ersatz
 Unterabschnitt 1
 Verteilungseinrichtungen und Warmwasseranlagen
@@ -118,28 +116,10 @@ Unterabschnitt 3
 Wärmedämmung von Rohrleitungen und Armaturen
 | § 69 | Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen |
 | § 70 | Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen |
-Unterabschnitt 4
-Anforderungen an Heizungsanlagen; Betriebsverbot für Heizkessel
-| § 71 | Anforderungen an eine Heizungsanlage |
-| § 71a | Gebäudeautomation |
-| § 71b | Anforderungen bei Anschluss an ein Wärmenetz und Pflichten für Wärmenetzbetreiber |
-| § 71c | Anforderungen an die Nutzung einer Wärmepumpe |
-| § 71d | Anforderungen an die Nutzung einer Stromdirektheizung |
-| § 71e | Anforderungen an eine solarthermische Anlage |
-| § 71f | Anforderungen an Biomasse und Wasserstoff einschließlich daraus hergestellter Derivate |
-| § 71g | Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse |
-| § 71h | Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung |
-| § 71i | Allgemeine Übergangsfrist |
-| § 71j | Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes |
-| § 71k | Übergangsfristen bei einer Heizungsanlage, die sowohl Erdgas als auch Wasserstoff verbrennen kann; Festlegungskompetenz |
-| § 71l | Übergangsfrist bei einer Etagenheizung oder einer Einzelraumfeuerungsanlage |
-| § 71m | Übergangsfrist bei einer Hallenheizung |
-| § 71n | Verfahren für Gemeinschaften der Wohnungseigentümer |
-| § 71o | Regelungen zum Schutz von Mietern |
-| § 71p | Verordnungsermächtigung zu dem Einsatz von Kältemitteln in elektrischen Wärmepumpen und Wärmepumpen-Hybridheizungen |
-| § 72 | Betriebsverbot für Heizkessel |
-| § 73 | Ausnahme |
-Abschnitt 3
+| § 71 | (weggefallen) |
+| § 72 | (weggefallen) |
+| § 73 | (weggefallen) |
+Abschnitt 4
 Energetische Inspektion von Klimaanlagen
 | § 74 | Betreiberpflicht |
 | § 75 | Durchführung und Umfang der Inspektion |
@@ -159,10 +139,8 @@ Energieausweise
 | § 87 | Pflichtangaben in einer Immobilienanzeige |
 | § 88 | Ausstellungsberechtigung für Energieausweise |
 Teil 6
-Finanzielle Förderung
-der Nutzung erneuerbarer
-Energien für die Erzeugung von Wärme
-oder Kälte und von Energieeffizienzmaßnahmen
+Finanzielle Förderung der Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte
+und von Energieeffizienzmaßnahmen
 | § 89 | Fördermittel |
 | § 90 | Geförderte Maßnahmen zur Nutzung erneuerbarer Energien |
 | § 91 | Verhältnis zu den Anforderungen an ein Gebäude |
@@ -181,8 +159,7 @@ Vollzug
 | § 102 | Befreiungen |
 | § 103 | Innovationsklausel |
 Teil 8
-Besondere Gebäude,
-Bußgeldvorschriften, Anschluss- und Benutzungszwang
+Besondere Gebäude, Bußgeldvorschriften, Anschluss- und Benutzungszwang
 | § 104 | Kleine Gebäude und Gebäude aus Raumzellen |
 | § 105 | Baudenkmäler und sonstige besonders erhaltenswerte Bausubstanz |
 | § 106 | Gemischt genutzte Gebäude |
@@ -196,15 +173,14 @@ Teil 9
 | § 112 | Übergangsvorschriften für Energieausweise |
 | § 113 | Übergangsvorschriften für Aussteller von Energieausweisen |
 | § 114 | Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik |
-| § 115 | Übergangsvorschrift für Geldbußen |
-| Anlage 1 | Technische Ausführung des Referenzgebäudes (Wohngebäude) |
-| Anlage 2 | Technische Ausführung des Referenzgebäudes (Nichtwohngebäude) |
-| Anlage 3 | Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude) |
-| Anlage 4 | Primärenergiefaktoren |
-| Anlage 5 | Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude |
-| Anlage 6 | Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude |
-| Anlage 7 | Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden |
-| Anlage 8 | Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen |
-| Anlage 9 | Umrechnung in Treibhausgasemissionen |
-| Anlage 10 | Energieeffizienzklassen von Wohngebäuden |
-| Anlage 11 | Anforderungen an die Inhalte der Schulung für die Berechtigung zur Ausstellung von Energieausweisen |
+| Anlage 1 (zu § 15 Absatz 1) | Technische Ausführung des Referenzgebäudes (Wohngebäude) |
+| Anlage 2 (zu § 18 Absatz 1) | Technische Ausführung des Referenzgebäudes (Nichtwohngebäude) |
+| Anlage 3 (zu § 19) | Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude) |
+| Anlage 4 (zu § 22 Absatz 1) | Primärenergiefaktoren |
+| Anlage 5 (zu § 31 Absatz 1) | Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude |
+| Anlage 6 (zu § 32 Absatz 3) | Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude |
+| Anlage 7 (zu § 36) | Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden |
+| Anlage 8 (zu den §§ 69 und 70) | Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen |
+| Anlage 9 (zu § 85 Absatz 6) | Umrechnung in Treibhausgasemissionen |
+| Anlage 10 (zu § 86) | Energieeffizienzklassen von Wohngebäuden |
+| Anlage 11 (zu § 88 Absatz 2 Nummer 2) | Anforderungen an die Inhalte der Schulung für die Berechtigung zur Ausstellung von Energieausweisen |
