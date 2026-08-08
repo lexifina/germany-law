@@ -61,9 +61,6 @@
 ## Teil 3 Modernisierung von bestehenden Gebäuden
 
 
-### Abschnitt 4 (weggefallen)
-
-
 ### Abschnitt 1 Allgemeine Anforderungen an bestehende Gebäude
 
 - [§ 34 Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften](0034.md)
@@ -202,7 +199,6 @@
 - [§ 112 Übergangsvorschriften für Energieausweise](0112.md)
 - [§ 113 Übergangsvorschriften für Aussteller von Energieausweisen](0113.md)
 - [§ 114 Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik](0114.md)
-- [§ 115 (weggefallen)](0115.md)
 - [Anlage 1 (zu § 15 Absatz 1)Technische Ausführung des Referenzgebäudes (Wohngebäude)](anlage-1.md)
 - [Anlage 2 (zu § 18 Absatz 1)Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)](anlage-2.md)
 - [Anlage 3 (zu § 19)Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude)](anlage-3.md)
