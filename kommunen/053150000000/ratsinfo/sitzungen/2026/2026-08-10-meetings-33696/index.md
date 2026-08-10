@@ -1,0 +1,51 @@
+# 5. Sitzung des Hauptausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-08-10T16:32:00+02:00
+- Ende: 2026-08-10T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/3
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33696
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33696
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde
+- TOP 1.1: Antrag der AfD-Fraktion betreffend "Ausländeramt der Stadt Köln verhindert Abschiebungen: Geltendes Recht muss durchgesetzt werden." - endgültig abgelehnt
+- TOP 1.2: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Volt und FDP/KSG betreffend "Umgang der Stadt Köln mit dem Unterstützungsangebot des Landes bei aufenthaltsbeendenden Verfahren" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Mitteilungen
+- TOP 2.1: Mitteilungen des Oberbürgermeisters
+- TOP 2.1.1: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung 20.04.2026 betreffend "Genehmigung von Dienstreisen von Mandatsträger*innen" - Kenntnis genommen
+- TOP 2.1.2: Besetzungsverfahren der vakanten Stellen Beigeordnete für das neu strukturierte Dezernat I sowie für das neu strukturierte Dezernat IX - Kenntnis genommen
+- TOP 2.1.3: Beantwortung einer mündlichen Anfrage des RM Petelkau aus der Sitzung des Hauptausschusses vom 20.04.2026 zur Brückensanierung - Kenntnis genommen
+- TOP 2.1.4: MiQua.LVR-Jüdisches Museum im Archäologischen Quartier Köln - Mitteilung über die Kostenfortschreibung gemäß § 25 Absatz 1 Nr. 2 der Kommunalen Haushaltsverordnung (KOMHVO) in Verbindung mit § - Kenntnis genommen
+- TOP 2.2: Mitteilungen zu gleichstellungsrelevanten Themen
+- TOP 3: Anfragen (§ 4 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 3.1: Anfrage der AfD-Fraktion betreffend "Nicht operativ tätige Beteiligungsgesellschaften und deren Liquidation" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 08.06.2026 - Kenntnis genommen
+- TOP 3.2: Anfrage FDP/KSG-Fraktion betreffend "Sachstand StEK Wohnen – Mobilisierung von Wohnbauflächen" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.08.2026 - Kenntnis genommen
+- TOP 3.3: Anfrage FDP/KSG-Fraktion betreffend "Sachstand zur Umsetzung des Ratsbeschlusses zu den Hallen 75–77 in Kalk" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.08.2026 - Kenntnis genommen
+- TOP 3.4: Anfrage der Volt-Fraktion betreffend "Hitzeschutz für vulnerable Personengruppen im Kontext städtischer Verantwortung der Stadt Köln" - vertagt
+- TOP 3.5: Anfrage der AfD-Fraktion betreffend "Durchführung des Christopher Street Days (CSD) in Köln" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 10.08.2026 - Kenntnis genommen
+- TOP 3.6: Anfrage der AfD-Fraktion betreffend "Projekte, Beiräte und Gutachten - was lässt sich die Stadt Köln ein „de-kolonialisiertes“ Straßennetz kosten?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 10.08.2026 - Kenntnis genommen
+- TOP 4: Anträge (§ 3 der Geschäftsordnung des Rates und der Bezirksvertretungen)
+- TOP 4.1: Antrag der Fraktionen Bündnis 90/Die Grünen, CDU, SPD und Volt betreffend "Auslegung der Vorgaben zur Genehmigung für Flächen der Außengastronomie" - geändert beschlossen
+- TOP 4.2: Antrag der FDP/KSG-Fraktion betreffend "Nachtarbeit bei den Bauarbeiten an der Deutzer Brücke und der Mindener Straße" - geändert beschlossen
+- TOP 4.3: Antrag der Gruppe Die PARTEI betreffend "Aussetzung der verkürzten Sperrzeit für die Außengastronomie am Brüsseler Platz" - endgültig zurückgezogen
+- TOP 4.4: Antrag der Fraktionen CDU und Volt betreffend "Sicherung der Krankheitspräventions- und Genesungsmaßnahmen der Stadt Köln - Pakt ÖGD Stellen" - geändert beschlossen
+- TOP 4.5: Antrag der FDP/KSG-Fraktion betreffend "KI-gestütztes Brückenmonitoring zur frühzeitigen Schadenserkennung" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.6: Antrag der Fraktionen CDU und FDP/KSG betreffend "Verkehrschaos in der Innenstadt beenden / Trankgasse vollständig und unverzüglich öffnen" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD und Volt - ungeändert beschlossen
+- TOP 4.7: Antrag der Volt-Fraktion betreffend "Digital unterstützte Parkraumkontrolle – Einsatz von Scan-Fahrzeugen" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 4.8: Antrag der CDU-Fraktion in der BV Chorweiler gem. § 3 i.V.m. § 44 der Geschäftsordnung des Rates betreffend „Neuordnung der Fraktionsräume im Stadtbezirk Chorweiler“ - geändert beschlossen
+- TOP 5: Eil- und Dringlichkeitsentscheidungen (§ 60 Gemeindeordnung NRW)
+- TOP 5.1: Sanierung und Optimierung des Fotoarchivs und der Depotflächen auf der Ebene 5.0 im Rautenstrauch-Joest-Museum - geändert beschlossen
+- TOP 5.2: Tiefgarage am Dom - Betonsanierung Bauteile A, B, C, D - ungeändert beschlossen
+- TOP 6: Allgemeine Vorlagen
+- TOP 7: Mündliche Anfragen
