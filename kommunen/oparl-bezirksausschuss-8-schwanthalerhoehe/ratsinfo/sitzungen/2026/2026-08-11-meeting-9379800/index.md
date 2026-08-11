@@ -1,0 +1,104 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Umgestaltung der Schwanthalerstraße zu einer autofreien Straße
+- TOP 4.2.: Wöchentliche Lärmbelästigung Am Schneckenplatz durch die BladeNight
+- TOP 4.3.: Defekte und unbrauchbare Absperrpfosten Ben-Chorin-Straße
+- TOP 4.4.: Baumpflanzung und Begrünung Fäustlestraße
+- TOP 4.5.: Nächtliche Lärmbelästigung am Gollierplatz
+- TOP 4.6.: Gewerbliche Outdoor-Trainings im Hans-Dürrmeier-Weg / Heimeranstraße 39
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ridlerstraße 31
+- TOP 6.2.2.: Bauvorhaben Westendstraße 161
+- TOP 6.2.3.: Bauvorhaben Landsberger Straße 19
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.3.: Bebauungsplan mit Grünordnung Nr. 2208 - Hauptzollamt Sitzungsvorlage Nr. 26-32 / V 00795
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Münchner Ferienpass 2026/2027 und Münchner Familienpass 2027 - Information zur Neuerungen
+- TOP 7.3.2.: Dienstanweisung Inklusion
+- TOP 7.3.3.: Aktivitäten von AKIM im Stadtbezirk 8 in 2025
+- TOP 7.3.4.: Sauberkeit auf Spielplätzen (Jugendversammlung Antrag 11)
+- TOP 7.3.5.: Sperrung des Spielplatzes an der Theresienhöhe / Schwanthalerstraße aufgrund von Rattenbefall
+- TOP 7.3.6.: Rückbau der Sprungböcke am Quartiersplatz Theresienhöhe
+- TOP 7.3.7.: Protokoll Anwohnenden-Gespräch zu den Munich Urban Celebrations (MUCs) am 29.06.2026
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Ruhestörung bei den Anwohner*innen durch die Blade Night
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Parkstraßenfest am 05.09.2026
+- TOP 8.2.2.: Tag des offenen Denkmals - Oldtimer-Schau Platz Am Bavariapark am 13.09.2026
+- TOP 8.2.3.: Böllerschüsse zum Oktoberfest am 19.09.2026
+- TOP 8.2.4.: Stellplatz für Filmfahrzeuge während des Oktoberfestes
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Anzahl der Veranstaltungen auf der Theresienwiese
+- TOP 8.3.2.: Übermittlung personenbezogener Daten im Rahmen des Anhörungsrechts bei Veranstaltung
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Verstärkte Kontrolle und Ahndung von Verkehrsverstößen während des Oktoberfestes in den angrenzenden Wohngebieten
+- TOP 9.1.2.: (E) BV-Empfehlungen zur Schnaderböckstraße
+- TOP 9.1.3.: (E) Errichtung von Bänken und Radabstellplätzen in allen Kreuzungsbereichen der Bergmannstraße
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Baumfällung Ridlerstraße 75
+- TOP 9.2.2.: Baumfällung Gollierstraße 45 - 45c
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Geplante Seismikmessungen im Rahmen des Forschungsprojektes GIGA-M
+- TOP 9.3.2.: Wanderbaumallee auf dem MK2-Gelände - Ganghoferstr. 47
+- TOP 9.3.3.: Zebrastreifen an der Trappentreustraße Ecke Gollierstraße (Jugendversammlung Antrag 9)
+- TOP 9.3.4.: Anordnung von Tempo 30 an der östlichen und westlichen einbahngeregelten Nebenfahrbahn Theresienhöhe
+- TOP 9.3.5.: Einrichtung von Zebrastreifen an der Kreuzung Tulbeckstraße / Bergmannstraße
+- TOP 9.3.6.: Meldeliste Bauvorhaben SWM
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative "Strandkorb. Laden für neue Perspektiven" Konzert und Vernissage "Schau und hör genau hin" am 12.11.2026 640,00 Euro, Az.: 0262.100-8-0496
+- TOP 10.1.2.: (E) Stadtbezirksbudget Init. "Westendzeltlager" Westendzeltlager - Diesjähriges Thema: Next level WZL - Game on! vom 01. -07.08.2026 1.059,95€; Az. 0262.100-8-0497
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Sofortmaßnahmen für mehr Hitzeschutz am Quartiersplatz Theresienhöhe (Bahndeckel)
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.1.1.: (E) + (U) Auffrischung der Bürgerversammlungen durch Bier- und Getränkeausschank
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Anhörung zur Änderung der BA-Satzung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Städtische Weihnachtsbäume in den Stadtbezirken
+- TOP 12.3.2.: Verwendung des Münchner Kindls im Rahmen ehrenamtlicher Tätigkeit
+- TOP 12.3.3.: Oktoberfest 2026; Reservierung in der Ratsboxe für den 02.10.2026, 17:00 Uhr
+- TOP 12.3.4.: Queeres Leben in München: Sicherheit - Schutz - Solidarität und der städtische Glossar zum Thema LGBTIQ*
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 4.8.: Drogenkonsum, aggressives Verhalten und Baumfrevel im Bavariapark
+- TOP 4.7.: Radstreifen Heimeranplatz entlang der Garmischer Straße zum Radweg südlich der Bahngleise
+- TOP 6.2.4.: Mobilfunk - Suchkreismitteilung
+- TOP 7.2.1.: Ausschreibung "Ran an die Stadtteil-Koffer!" für den Einsatz in einem Stadtteil 2027 - Bewerbung durch den Stadtbezirk 8 und Bereitstellung der Budgetmittel für die Abschlussveranstaltung von € 6.500,-
+- TOP 8.2.5.: Marktveranstaltung "Weihnachtszauber am Bavariapark auf dem Platz am Bavariapark" vom 20.11.26 – 22.12.26
+- TOP 9.3.7.: Abendrunde des RKU mit den Bezirksausschüssen am 28.10.2026
+- TOP 2.1.: Max-Hirschberg-Weg; Beschilderung als Gehweg mit Freigabe für gegenläufigen Radverkehr sowie Elektrokleinstfahrzeuge frei
