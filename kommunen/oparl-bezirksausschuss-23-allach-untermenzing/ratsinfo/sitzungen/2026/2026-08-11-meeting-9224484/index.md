@@ -1,0 +1,64 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-08-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224484
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224484
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Vandalismus - Lärmbelästigung im Bereich des Grünstreifen Theodor-Fischer-Straße / Kiesweg
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Kultur und Budget
+- TOP 3.2: Familie, Bildung und Sport
+- TOP 3.3: Mobilität
+- TOP 3.4: Planung und Bau
+- TOP 3.5: Umwelt und Soziales
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 5.: Anträge
+- TOP 5.1.: Aufklärung des Fischsterbens in den Kiesseen am Paul-Ehrlich-Weg (vertagt aus 07/26)
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Stadtbezirksbudget: wohlBEDACHT e.V. - Verschattung des Außenbereichs der Begegnungsstätte / Tagespflege Kesselhaus, 4.000,00 Euro, Az.: 0262.100-23-0277
+- TOP 7.: Anhörungen
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Schreiben Mobilitätsreferat vom 31.07.26: Mehr Rad im Viertel - Aktionen am Oertelplatz
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.2: Direktorium
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.11: Sozialreferat
+- TOP 9.12: Stadtkämmerei
+- TOP 9.13: Sonstiges
+- TOP 9.14: Bereits weitergeleitete Anliegen
+- TOP 9.14.1.: Sirenengeheul in der Eversbuschstraße Antwort KVR vom 30.07.26
+- TOP 9.14.2.: Sperrung des Dirtparks in der Goteboldstraße
+- TOP 9.14.3.: Bauvorhaben in der Herbigstr. 31-33
+- TOP 9.14.4.: Rückschnitt der Uferböschung an der Würmbrücke an der Kreuzung Behring-/Nigglstraße
+- TOP 9.14.5.: Mehr Sicherheit in der Allacher Straße Antwort PI44 vom 04.08.26
+- TOP 9.14.6.: Weiterführung des Gehwegs an der Tiefgarageneinfahrt des EVERS
+- TOP 9.14.7.: Dauerparker Eversbuschstraße 37
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 11.: Nichtöffentlicher Teil
+- TOP 2.2.2.: Geschwindigkeitsüberwachung wegen akuter Gefährdung spielender und reisender Kinder in der Kleselstraße (Tempo-30-Zone)
+- TOP 2.1.1.: Antrag auf Prüfung des Baus einer 3-fach Turnhalle an der Grundschule an der Manzostraße, Antrag zur Prüfung einer Erweiterung der Grundschule an der Manzostraße zu neuem Schulzentrum
+- TOP 2.1.2.: Abstellen von E-Roller / E-Bikes auf dem Gehsteig in der Gotelboldstr. 45
