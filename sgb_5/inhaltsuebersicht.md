@@ -99,3 +99,4 @@
 | Fünfzehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 403 bis 428 |
 Anlage 1 (zu § 135d)
 Anlage 2 (zu § 307 Absatz 1 Satz 3)
+Anlage 3 (zu § 129 Absatz 5f Satz 1)
