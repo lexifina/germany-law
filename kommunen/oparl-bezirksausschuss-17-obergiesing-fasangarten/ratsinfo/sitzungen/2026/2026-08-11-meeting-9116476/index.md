@@ -1,0 +1,114 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9116476
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9116476
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Beauftragte* Lokale Wirtschaft
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.10.1.: Cincinnatistr. 2
+- TOP 3.10.2.: St.-Martin-Str. 4
+- TOP 3.10.3.: Bodelschwinghstr. 14
+- TOP 3.11: Bericht der Seniorenvertretung
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget Jonglieren in München e.V. 2x Feuer- und Akrobatikshow am 07.11.2026 900,00€; Az. 0262.100-17-0548
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Martin-Luther-Str. 20 - Nutzungsänderung eines Bürogebäudes in ein Schüler- und Studentenwohnheim mit ergänzender Vereinsnutzung für Frauen (Fristverlängerung bis 17.09.2026 abgelehnt)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Anbringung eines Zebrastreifens an der Ecke Traunsteiner Straße/ Alzstraße
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anfrage wegen Austausch einer Lichtsignalanlage (LSA)- Standort St.-Bonifatius-/ Tegernseer Landstr.
+- TOP 6.3.3.2.: Werbeanlage - Stettnerstr. 38
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/Grünanlage hier: Anhörungsverfahren für VA in Grünanlage, hier "ParkJam" am 12.09.2026 (Frist 24.08.2026)
+- TOP 6.5.3.2.: Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/Grünanlage hier: Ois Giasing (Frist bis 30.08.2026)
+- TOP 6.5.3.3.: Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/Grünanlage hier: Anhörungsverfahren für VA in Grünanlagen, hier "Marionettentheater Mariposa" von 08-12.10.2026 im Weißenseepark (Frist 29.08.2026)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 3.10.4.: Kiesmüllerstr. 4
+- TOP 3.10.5.: Plecherstr. 2
+- TOP 1.2.1.: Nachtrag TOP 3.10.4 Kiesmüllerstr. 4 Hinweis: Stellungnahme leider nur bis 11.09.2026 möglich
+- TOP 1.2.2.: Nachtrag zu TOP 3.10.5 Plecherstr. 2 Hinweis: Stellungnahme leider nur bis 10.09.2026 möglich
+- TOP 1.2.3.: Nachtrag zu Top 5.1.2 (E) Stadtbezirksbudget Init. "Weißensee Parkjam" Weißensee Parkjam am 12.09.2026 2.550,00€; Az. 0262.100-17-0547
+- TOP 1.2.4.: Nachtrag zu TOP 5.1.3 E) Stadtbezirksbudget Wir in Giesing e.V. Giesing is a feeling von August - Dezember 2026 7.950,00€; Az. 0262.100-17-0546
+- TOP 5.1.2.: (E) Stadtbezirksbudget Init. "Weißensee Parkjam" Weißensee Parkjam am 12.09.2026 2.550,00€; Az. 0262.100-17-0547
+- TOP 5.1.3.: (E) Stadtbezirksbudget Wir in Giesing e.V. Giesing is a feeling von August - Dezember 2026 7.950,00€; Az. 0262.100-17-0546
