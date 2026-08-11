@@ -1,0 +1,105 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2026-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9398662
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9398662
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Bekenntnis der Landeshauptstadt München zum Standort FC Teutonia e. V.
+- TOP 6.2.: KI-Unterstützung für die BA-Arbeit – Datenschutzkonform und freiwillig
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM- Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Bauliste KW27, KW28, KW29, KW30
+- TOP 2.1.2.: WEB-Liste 01. - 15.07.2026
+- TOP 2.1.3.: Kaulbachstr. 31a, Sanierung des denkmalgeschützten Bestandsgebäudes "Berchmanskolleg" sowie Nutzungsänderung in Büronutzungen in den Geschossen EG bis 3.OG, Erweiterung des Untergeschosses, Anbau eines Personenaufzugs, Errichtung von Gauben
+- TOP 2.1.4.: Dachauer Str. 35, Dachanhebung zur Erweiterung zweier Wohnungen im DG
+- TOP 2.1.5.: Steinheilstr.5, Umnutzung einer Druckerei zu Einzelhandel (EG, UG)
+- TOP 2.1.6.: Schwindstr. 28, Umbau und Instandsetzung, Umwandlung der Garagenstellplätze in Wohnraum, des Rückgebäudes in der Schwindstraße 28
+- TOP 2.1.7.: Brienner Str. 24, Umbau eines Bürogebäudes, Abbruch und Neubau eines Innen Hofdaches und Einbau von 6 Dachfenstern an der Südfassade
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2002a Arnulfstraße (südlich) zwischen Querbahnsteig Starnberger Flügelbahnhof und dem nördlichen Vorplatz auf Flurstück 6856/97 Gemarkung München Sektion IV - Starnberger Flügelbahnhof - - Satzungsbeschluss - Stadtbezirk 02 -- Ludwigsvorstadt-Isarvorstadt
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bitte um Radabstellanlagen vor / neben / nah bei Circus Krone
+- TOP 1.1.2.: Partymeile Maxvorstadt (Schelling-/Türkenstraße)
+- TOP 1.1.3.: Bladenight - unzumutbare Lärmbelastung Ecke Luisenstraße/ Theresienstraße gegen 22.00 - ….open End?
+- TOP 1.1.4.: Begrünung Augustenstraße
+- TOP 1.1.5.: Beschwerde Wahlwerbung + Parkplatzverschwendung
+- TOP 1.1.6.: Bürgeranliegen an den BA 3 Maxvorstadt: Zunahme der nächtlichen Lärmbelastung (Schellingstra-ße/Luisenstraße)
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung | Bez. 1 & 3 - Bauernmarktmeile am 27.09.26 Odeonsplatz & Ludwigstraße, Frist: 04.09.26
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.5.: WG: Anhörung (Bez. 3) Konzertveranstaltung von "David Garret" am 21.08.2026 auf dem Königsplatz - Frist: 03.08.2026
+- TOP 3.6.: Eilentscheid: WG: Anhörung (Bez. 3) Konzertveranstaltung von „Nick Cave & the bad seeds“ am 23.08.2026 auf dem Königsplatz – Frist: 03.08.2026
+- TOP 3.7.: Eilentscheid: WG: Anhörung Frist: 07.08.2026, Temporäre Kunstaktion "Ausstellung Gregor Hildebrandt. Ein Raum mit zwei Türen" Grünanlage Maximilianspl. im Zeitraum 16.09.-14.11.2026; Bez. 3
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Faust auf die Fresse" Faust auf die Fresse - ein feministisches Sportfest vom 01.10. - 04.10.2026 4.525,50 Euro, Az.: 0262.100-3-0684
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "U-Bahn-Galerie" Flyer U-Bahn-Galerie vom 01.09.2026 - 31.08.2027 760,00 Euro, Az.: 0262.100-3-0690
+- TOP 2.2.: (E) Stadtbezirksbudget Inklusionat e.V. Workshop "Blind Date - Polka Dots" vom 01.09. - 31.12.2026 1.496,25 Euro, Az.: 0262.100-3-0691
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.1.1.: Bauprojekt Theresienstraße 132
+- TOP 2.1.8.: Schwindstr.9, ABBRUCH - Neubau eines Büro- und Wohngebäudes
+- TOP 2.1.9.: Schönfeldstr. 14, ABBRUCH - Abbruch einer Wohnanlage (Vorder- und Rückgebäude) mit Gewerbeeinheit und einer
+- TOP 2.1.10.: Heßstr.49, VGB: Aufstockung eines Wohnhauses, Anbau von Balkonen, Anbau eines Perso-nenaufzuges und Anbringen von Wärmedämmung RGB: Neubau eines Wohnhauses im In-nenhof mit zwei Wohneinheiten
+- TOP 2.4.2.: Anhörung VA öffentlicher Verkehrsgrund (Stadtbezirke 1,3,12); Zamanand / Corso Leopold am 12./13.09.26 (Aufbau in Fußgängerbereichen teils ab 11.09.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 02.09.26
+- TOP 2.4.3.: 2.4.3 Anhörung (Bez. 3) Konzertveranstaltung von „Pawsa“ der PULSE GmbH am 29.08.2026 auf dem Königsplatz – Frist: 12.08.2026
+- TOP 2.1.1.: (E) Einrichtung einer neuen Tempo 30 Zone in der Theresienstraße zwischen Amalienstraße und Türkenstraße
