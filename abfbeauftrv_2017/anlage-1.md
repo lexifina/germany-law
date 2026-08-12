@@ -24,7 +24,7 @@ I. Kenntnisse des Abfallrechts und der Abfalltechnik
 3. die weiteren abfallrechtlichen Gesetze, insbesondere
   a) das Elektro- und Elektronikgerätegesetz,
   b) Kapitel VIII der Verordnung (EU) 2023/1542 und das Batterierecht-Durchführungsgesetz vom 30. September 2025 (BGBl. 2025 I Nr. 233),
-  c) das Verpackungsgesetz,
+  c) das Verpackungsrecht-Durchführungsgesetz,
 4. das Recht der Abfallverbringung,
 5. die für die Abfallwirtschaft einschlägigen EU-rechtlichen Grundlagen,
 6. die für die Abfallwirtschaft einschlägigen inter- und supranationalen Übereinkommen,

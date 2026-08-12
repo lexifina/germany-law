@@ -5,7 +5,7 @@
 | Lebensmittelbehälter (Anlage 1 Nummer 1) | X | X | X | X | X |
 | Tüten und Folienverpackungen (Anlage 1 Nummer 2) | X | X | X | X | X |
 | Getränkebehälter (Anlage 1 Nummer 3) | X | X | X | X | X |
-| nach § 31 des Verpackungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3) | X | X | X | X | X |
+| nach § 46 des Verpackungsrecht-Durchführungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3) | X | X | X | X | X |
 | Getränkebecher (Anlage 1 Nummer 4) | X | X | X | X | X |
 | leichte Kunststofftragetaschen (Anlage 1 Nummer 5) | X | X | X | X | X |
 | Feuchttücher (Anlage 1 Nummer 6) |  | X | X | X | X |
