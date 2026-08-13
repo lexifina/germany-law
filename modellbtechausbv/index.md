@@ -16,5 +16,5 @@
 - [§ 13 Gewichtungs- und Bestehensregelung in der Fachrichtung Anschauung](0013.md)
 - [§ 14 Mündliche Ergänzungsprüfung](0014.md)
 - [§ 15 Bestehende Berufsausbildungsverhältnisse](0015.md)
-- [§ 16 Inkrafttreten, Außerkrafttreten](0016.md)
+- [§ 16 Außerkrafttreten](0016.md)
 - [Anlage (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin](anlage.md)
