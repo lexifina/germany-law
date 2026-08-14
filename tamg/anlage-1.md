@@ -1,7 +1,7 @@
 # Anlage 1 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)Einteilung der Nutzungsarten
 
 | 1 | 2 | 3 | 4 |
-| LaufendeNummer | Nutzungsart | Verringerungdes EinsatzesantibiotischwirksamerArzneimittelbei Tieren | TierärztlicheMitteilungüber dieArzneimittel-verwendung |
+| Laufende Nummer | Nutzungsart | Verringerung des Einsatzes antibiotisch wirksamer Arzneimittel bei Tieren | Tierärztliche Mitteilung über die Arzneimittel- verwendung |
 | 1. | Rinder (Bos taurus) |
 | 1.1 | Rinder, die der Milcherzeugung dienen, ab der ersten Abkalbung | X | X |
 | 1.2 | nicht auf dem Tierhaltungsbetrieb geborene Kälber ab der Einstallung im aufnehmenden Betrieb bis zu einem Alter von 12 Monaten | X | X |

@@ -6,48 +6,38 @@ Allgemeine Bestimmungen
 | § 2 | Begriffsbestimmungen |
 | § 3 | Anwendungsbereich |
 Abschnitt 2
-Tierarzneimittel im
-Anwendungsbereich der Verordnung (EU) 2019/6
+Tierarzneimittel im Anwendungsbereich der Verordnung (EU) 2019/6
 Unterabschnitt 1
-Freistellung von der
-Zulassungspflicht von Tierarzneimitteln
-für bestimmte Heimtiere, Kennzeichnung
-und Packungsbeilage sowie Widerruf der Freistellung
+Freistellung von der Zulassungspflicht von Tierarzneimitteln für bestimmte Heimtiere, Kennzeichnung und Packungsbeilage sowie Widerruf der Freistellung
 | § 4 | Freistellung von Tierarzneimitteln für bestimmte Heimtiere von der Pflicht zur Zulassung |
 | § 5 | Kennzeichnung und Packungsbeilage freigestellter Tierarzneimittel |
 | § 6 | Widerruf der Freistellung von Tierarzneimitteln |
 Unterabschnitt 2
-Besondere Anforderungen
-an die Primärverpackung, die
-äußere Umhüllung und die Packungsbeilage
+Besondere Anforderungen an die Primärverpackung, die äußere Umhüllung
+und die Packungsbeilage
 | § 7 | Kennzeichnung und Packungsbeilage von nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 zulassungspflichtigen Tierarzneimitteln |
 | § 8 | Packungsbeilage in Papierform |
 Unterabschnitt 3
 Durchführungsvorschriften für die Zulassung
 | § 9 | Durchführungsvorschriften für die Zulassung von Tierarzneimitteln; Verordnungsermächtigungen |
 Unterabschnitt 4
-Ergänzende Vorschriften für
-klinische Prüfungen und Rückstandsprüfungen
+Ergänzende Vorschriften für klinische Prüfungen und Rückstandsprüfungen
 | § 10 | Genehmigung von Anträgen zur Durchführung einer klinischen Prüfung und einer Rückstandsprüfung |
 | § 11 | Verordnungsermächtigung zur Gewährleistung der ordnungsgemäßen Durchführung einer klinischen Prüfung |
 Unterabschnitt 5
-Übermittlung von
-Informationen an die Produktdatenbank
+Übermittlung von Informationen an die Produktdatenbank
 | § 12 | Übermittlung von Informationen an die Produktdatenbank; Verordnungsermächtigung |
 Unterabschnitt 6
-Ergänzende Vorschriften
-für homöopathische Tierarzneimittel
+Ergänzende Vorschriften für homöopathische Tierarzneimittel
 | § 13 | Registrierung, Kennzeichnung und Packungsbeilage homöopathischer Tierarzneimittel; Verordnungsermächtigung |
 Unterabschnitt 7
-Ergänzende Vorschriften
-für die Herstellungserlaubnis
+Ergänzende Vorschriften für die Herstellungserlaubnis
 | § 14 | Ausnahmen von der Herstellungserlaubnis |
 | § 15 | Ergänzende Vorschriften zur Erteilung der Herstellungserlaubnis |
 | § 16 | Import, Herstellung von und Handel mit Wirkstoffen; Verordnungsermächtigung |
 | § 17 | Nachweis über die erforderliche Sachkunde der für die Herstellung und die Chargenfreigabe verantwortlichen sachkundigen Person; Verordnungsermächtigung |
 Unterabschnitt 8
-Ergänzende Vorschriften
-für die Großhandelsvertriebserlaubnis
+Ergänzende Vorschriften für die Großhandelsvertriebserlaubnis
 | § 18 | Ergänzende Vorschriften zur Erteilung der Großhandelsvertriebserlaubnis |
 | § 19 | Verordnungsermächtigung zur Regelung der Benennung einer verantwortlichen Person |
 | § 20 | Verordnungsermächtigung zur Regelung von Ausnahmen von der Großhandelsvertriebserlaubnis |
@@ -55,14 +45,11 @@ Unterabschnitt 9
 Parallelhandel mit Tierarzneimitteln
 | § 21 | Verordnungsermächtigung zur Regelung des Parallelhandels mit Tierarzneimitteln |
 Abschnitt 3
-Anforderungen an
-Tierarzneimittel außerhalb des
-Anwendungsbereiches der Verordnung (EU) 2019/6
-und an veterinärmedizintechnische Produkte
+Anforderungen an Tierarzneimittel außerhalb des Anwendungsbereiches der
+Verordnung (EU) 2019/6 und an veterinärmedizintechnische Produkte
 Unterabschnitt 1
-Zulassung von Tierarzneimitteln außerhalb
-des Anwendungsbereiches der Verordnung (EU) 2019/6
-und von veterinärmedizintechnischen Produkten; Verbringen
+Zulassung von Tierarzneimitteln außerhalb des Anwendungsbereiches der
+Verordnung (EU) 2019/6 und von veterinärmedizintechnischen Produkten; Verbringen
 | § 22 | Verfahren der Zulassung |
 | § 23 | Klinische Prüfungen |
 | § 24 | Einstufung |
@@ -105,8 +92,7 @@ Kategorisierung
 | § 40 | Kategorisierung; Verordnungsermächtigung |
 | § 41 | Zuordnung zu den einzelnen Kategorien der Verkaufsabgrenzung |
 Unterabschnitt 3
-Abgabe, Bezug und Anwendung
-von Arzneimitteln und veterinärmedizintechnischen Produkten
+Abgabe, Bezug und Anwendung von Arzneimitteln und veterinärmedizintechnischen Produkten
 | § 42 | Grundsatz |
 | § 43 | Apothekenpflicht |
 | § 44 | Tierärztliches Dispensierrecht |
@@ -120,14 +106,11 @@ von Arzneimitteln und veterinärmedizintechnischen Produkten
 | § 51 | Befugnisse tierärztlicher Bildungsstätten |
 | § 52 | Verordnungsermächtigungen zur Regelung von Verfahrensvorschriften auf Grundlage der Verordnung (EU) 2019/6 |
 Unterabschnitt 4
-Kennzeichnung,
-Packungsbeilage, Packungsgrößen und Preise
+Kennzeichnung, Packungsbeilage, Packungsgrößen und Preise
 | § 53 | Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise |
 Unterabschnitt 5
-Vorschriften zur Verringerung
-der Behandlung mit antibiotisch
-wirksamen Arzneimitteln und zu tierärztlichen
-Mitteilungen über die Arzneimittelverwendung
+Vorschriften zur Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln
+und zu tierärztlichen Mitteilungen über die Arzneimittelverwendung
 | § 54 | Nutzungsarten |
 | § 55 | Mitteilungen über Tierhaltungen |
 | § 56 | Tierärztliche Mitteilungen über Arzneimittelverwendung |
@@ -137,8 +120,7 @@ Mitteilungen über die Arzneimittelverwendung
 | § 60 | Resistenzmonitoring |
 | § 61 | Verordnungsermächtigungen |
 Unterabschnitt 6
-Vorschriften zu tierärztlichen Mitteilungen über die Anwendung
-antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
+Vorschriften zu tierärztlichen Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
 | § 61a | Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578 |
 | § 61b | Verarbeitung und Übermittlung von nach § 61a erhobenen Daten |
 Unterabschnitt 7
@@ -165,8 +147,7 @@ Unterabschnitt 9
 | § 76a | Mitwirkung der Zollbehörden |
 | § 77 | Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können |
 Unterabschnitt 10
-Sondervorschriften für
-Bundeswehr, Bundespolizei, Bereitschaftspolizei
+Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei
 | § 78 | Anwendung und Vollzug des Gesetzes; Verordnungsermächtigung |
 Unterabschnitt 11
 Allgemeine Anzeigepflicht

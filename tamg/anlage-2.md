@@ -12,7 +12,7 @@
   Mitteilung, keine antibiotisch wirksamen Arzneimittel angewendet zu haben,
 6. Angabe des Halbjahres, in dem die Tierbewegung erfolgt ist (§ 55 Absatz 2 Satz 1),
 7. Angaben nach § 56 Absatz 1 Satz 1 Nummer 1 bis 8 und Satz 2:
-  a) die Angaben nach Nummer 4 bis 6 und 9 des Anhangs II der Verordnung (EU) 2022/209 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+  a) die Angaben nach Nummer 4 bis 6 und 9 des Anhangs II der Verordnung (EU) 2022/209 in der Fassung vom 16. Februar 2022 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
   b) pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder des behandelnden Tierarztes oder des Namens der Praxis und der Praxisanschrift,
   c) das Datum der Verschreibung, der ersten Anwendung oder das Abgabedatum des Arzneimittels,
   d) die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel,

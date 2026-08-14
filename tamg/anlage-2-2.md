@@ -1,0 +1,28 @@
+# Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
+
+1. Pseudonymisierte Angabe der Registriernummer des Tierhaltungsbetriebs (§ 55 Absatz 1 Satz 2 Nummer 3),
+2. Angabe der Nutzungsart (§ 55 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Spalte 3),
+3. Angabe der Anzahl der gehaltenen Tiere (§ 57 Absatz 1 Satz 3 Nummer 1),
+4. Angaben nach § 55 Absatz 2 Satz 1 Nummer 1 bis 3:
+  für jedes Kalenderjahr die Anzahl der Tiere der jeweiligen Tierart, die
+  a) in jedem Kalenderjahr zu Beginn im Betrieb gehalten worden sind,
+  b) im Verlauf eines jeden Kalenderjahres in den Betrieb aufgenommen worden sind, mit Angabe des Datums der Aufnahme der Tiere,
+  c) im Verlauf eines jeden Kalenderjahres aus dem Betrieb abgegeben worden sind, mit Angabe des Datums der Abgabe der Tiere,
+5. Angaben nach § 55 Absatz 3:
+  Mitteilung, keine antibiotisch wirksamen Arzneimittel angewendet zu haben,
+6. Angabe des Kalenderjahres, in dem die Tierbewegung erfolgt ist (§ 55 Absatz 2 Satz 1),
+7. Angaben nach § 56 Absatz 1 Satz 1 Nummer 1 bis 8 und Satz 2:
+  a) die Angaben nach Nummer 4 bis 6 und 9 des Anhangs II der Verordnung (EU) 2022/209 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+  b) pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder des behandelnden Tierarztes oder des Namens der Praxis und der Praxisanschrift,
+  c) das Datum der Verschreibung, der ersten Anwendung oder das Abgabedatum des Arzneimittels,
+  d) die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel,
+  e) die Nutzungsart der behandelten Tiere,
+  f) die Anzahl der behandelten Tiere,
+  g) die Anzahl der Behandlungstage und
+  h) die pseudonymisierten Angaben der Registriernummer des Betriebes, in dem die behandelten Tiere gehalten werden,
+8. Angabe der von der zuständigen Behörde für jedes Kalenderjahr ermittelten betrieblichen jährlichen Therapiehäufigkeit, bezogen auf den einzelnen Tierhaltungsbetrieb unter pseudonymisierter Angabe des Betriebs (§ 57 Absatz 1),
+9. Angaben nach § 61a Absatz 2 Satz 1 und 2:
+  a) pseudonymisierte Angabe des Namens der behandelnden Tierärztin oder des behandelnden Tierarztes oder des Namens der Praxis und der Praxisanschrift,
+  b) die Angaben nach den Nummern 4 bis 6 und 9 des Anhangs II zu der Verordnung (EU) 2022/209 in der Fassung vom 16. Februar 2022 zum verschriebenen, angewendeten oder abgegebenen Arzneimittel,
+  c) die insgesamt verschriebene, angewendete oder abgegebene Menge dieser Arzneimittel und
+  d) die jeweilige Tierart der behandelten Tiere.

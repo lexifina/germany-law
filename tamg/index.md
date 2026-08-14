@@ -131,9 +131,13 @@
 
 - [§ 54 Nutzungsarten](0054.md)
 - [§ 55 Mitteilungen über Tierhaltungen](0055.md)
+- [§ 55 Mitteilungen über Tierhaltungen](0055-2.md)
 - [§ 56 Tierärztliche Mitteilungen über Arzneimittelverwendung](0056.md)
+- [§ 56 Tierärztliche Mitteilungen über Arzneimittelverwendung](0056-2.md)
 - [§ 57 Ermittlung der Therapiehäufigkeit](0057.md)
+- [§ 57 Ermittlung der Therapiehäufigkeit](0057-2.md)
 - [§ 58 Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln](0058.md)
+- [§ 58 Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln](0058-2.md)
 - [§ 59 Verarbeitung und Übermittlung von Daten](0059.md)
 - [§ 60 Resistenzmonitoring](0060.md)
 - [§ 61 Verordnungsermächtigungen](0061.md)
@@ -141,6 +145,7 @@
 ### Unterabschnitt 6 Vorschriften zu tierärztlichen Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578
 
 - [§ 61a Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578](0061a.md)
+- [§ 61a Tierärztliche Mitteilungen über die Anwendung antimikrobiell wirksamer Arzneimittel nach der Delegierten Verordnung (EU) 2021/578](0061a-2.md)
 - [§ 61b Verarbeitung und Übermittlung von nach § 61a erhobenen Daten](0061b.md)
 
 ### Unterabschnitt 7 Sicherung und Kontrolle der Qualität
@@ -164,7 +169,7 @@
 - [§ 72 Durchführung der Überwachung](0072.md)
 - [§ 73 Probenahme](0073.md)
 - [§ 74 Duldungs-, Mitwirkungs- und Übermittlungspflichten](0074.md)
-- [§ 75 Probenahme bei Tierarzneimitteln und veterinärmedizintechnischen Produkten, die unter Verwendung von Fernkommunikationsmitteln angeboten werden](0075.md)
+- [§ 75 Probenahme bei Tierarzneimitteln und veterinärmedizintechnischen Produkten,die unter Verwendung von Fernkommunikationsmitteln angeboten werden](0075.md)
 - [§ 76 Maßnahmen der zuständigen Behörden](0076.md)
 - [§ 76a Mitwirkung der Zollbehörden](0076a.md)
 - [§ 77 Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können](0077.md)
@@ -201,7 +206,8 @@
 - [§ 93 Weitere Anwendung von Vorschriften](0093.md)
 - [§ 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln und zur Änderung weiterer Vorschriften](0094.md)
 - [§ 95 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes](0095.md)
-- [§ 95a Übergangsvorschriften aus Anlass des Gesetzes zur Änderung des Tiergesundheitsgesetzes, des Tierarzneimittelgesetzes und des Tiergesundheitsrechtlichen Bußgeldgesetzes](0095a.md)
+- [§ 95a Übergangsvorschriften aus Anlass des Gesetzes zur Änderung des Tiergesundheitsgesetzes,des Tierarzneimittelgesetzes und des Tiergesundheitsrechtlichen Bußgeldgesetzes](0095a.md)
 - [§ 96 Evaluierung](0096.md)
 - [Anlage 1 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)Einteilung der Nutzungsarten](anlage-1.md)
 - [Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2.md)
+- [Anlage 2 (zu § 57 Absatz 3 Satz 3)Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten](anlage-2-2.md)
