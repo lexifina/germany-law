@@ -1,0 +1,6 @@
+### Abschnitt 3 Unbegleitete ausländische Kinder und Jugendliche
+# § 133a Verteilung von unbegleiteten ausländischen Kindern und Jugendlichen
+(1) Zuständig für die Verteilung von unbegleiteten ausländischen Kindern und Jugendlichen nach § 42b SGB VIII ist der Landesbeauftragte.
+(2) Die Verteilung nach § 42b Abs. 3 SGB VIII erfolgt innerhalb des Freistaates Bayern entsprechend dem Verteilungsschlüssel nach § 3 Abs. 1, 2 und § 29 DVAsyl.
+(3) Der Landesbeauftragte kann aus Gründen des Kindeswohls oder aus sonstigen humanitären Gründen von vergleichbarem Gewicht auch nach einer bereits erfolgten Verteilentscheidung und nach Ablauf eines Monats seit Beginn der vorläufigen Inobhutnahme die örtliche Zuständigkeit eines anderen Trägers der öffentlichen Jugendhilfe empfehlen. Die Zuständigkeit für die Gewährung von Leistungen nach dem Achten Buch Sozialgesetzbuch folgt der Empfehlung des Landesbeauftragten nach Satz 1 und ist insoweit verbindlich. § 9 Abs. 2 Satz 1 DVAsyl gilt entsprechend.
+(4) Ein örtlicher Träger der öffentlichen Jugendhilfe, dem unbegleitete ausländische Kinder und Jugendliche, die vor dem 1. November 2015 in den Geltungsbereich des Grundgesetzes eingereist sind, durch den Landesbeauftragten zugewiesen wurden, bleibt zuständig, soweit nicht ein anderer örtlicher Träger der öffentlichen Jugendhilfe die Zuständigkeit übernimmt.

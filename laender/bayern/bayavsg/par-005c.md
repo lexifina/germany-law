@@ -1,0 +1,2 @@
+# § 5c Erstattungspflichtige Kosten
+Das Landesprüfungsamt für Sozialversicherung ermittelt die Höhe der ihm entstandenen Kosten und stellt die von den Erstattungspflichtigen zu tragenden Erstattungsbeträge fest. Die zu erstattenden Kosten umfassen die tatsächlichen Personal- und Sachausgaben des Landesprüfungsamts für Sozialversicherung einschließlich der Personalnebenkosten des jeweiligen Haushaltsjahres und einen Versorgungszuschlag in Höhe von 40 v. H. der ruhegehaltsfähigen Bestandteile der tatsächlich verausgabten Dienstbezüge seiner Beamten.

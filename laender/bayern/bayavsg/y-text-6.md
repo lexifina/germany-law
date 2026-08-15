@@ -1,0 +1,1 @@
+14. Art. 5 Abs. 5 Satz 1 des Gesetzes zur Ausführung der Sozialgesetze (AGSG) vom 8. Dezember 2006 (GVBl S. 942, BayRS 86-7-A), zuletzt geändert durch § 8 des Gesetzes vom 22. Juli 2008 (GVBl S. 479),

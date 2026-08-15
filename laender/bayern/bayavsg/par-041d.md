@@ -1,0 +1,3 @@
+# § 41d Abweichende Bestimmungen
+(1) Abweichend von § 35 Abs. 3 Satz 2 sind die beteiligten Organisationen die Mitgliedsverbände der in § 41b Abs. 1 genannten Gruppen und die Landesarbeitsgemeinschaft Selbsthilfe von Menschen mit Behinderungen und chronischer Erkrankung und ihrer Angehörigen in Bayern e. V. (LAGS).
+(2) Die Mindestgebühr nach § 40f Abs. 1 Satz 2 ermäßigt sich auf 200 €, wenn im Zeitpunkt der Antragsrücknahme das Ruhen des Verfahrens angeordnet war. Abweichend von § 40f Abs. 2 Satz 1 wird die Entschädigung nach § 40e Abs. 2 von der Partei getragen, die die Hinzuziehung beantragt hat.

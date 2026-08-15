@@ -1,0 +1,4 @@
+# § 40e Entschädigung
+(1) Nur das vorsitzende Mitglied und dessen Stellvertreter erhalten eine Reisekostenvergütung nach den Vorschriften des Bayerischen Reisekostengesetzes wie ein Ehrenbeamter. Als Entschädigung für den sonstigen Zeit- und Arbeitsaufwand wird eine Fallpauschale von 400 € gewährt. Dies gilt auch für den Fall, dass ein Erörterungstermin gemäß § 40b Abs. 6 zur einvernehmlichen Verfahrensbeendigung (Vergleich) führt. Die Fallpauschale ermäßigt sich bei Antragsrücknahme oder Erledigung auf sonstige Weise auf 200 €. Wird die Schiedsstelle an einem gerichtlichen Verfahren beteiligt, wird eine zusätzliche Fallpauschale von 200 € gewährt.
+(2) Zeugen sowie Sachverständige, die von der Schiedsstelle hinzugezogen worden sind, erhalten eine Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
+(3) Ansprüche nach den Abs. 1 und 2 sind bei der Geschäftsstelle geltend zu machen.
