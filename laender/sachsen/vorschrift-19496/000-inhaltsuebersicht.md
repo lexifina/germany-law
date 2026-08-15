@@ -41,6 +41,7 @@ Abschnitt 2 Studieninhalte, Prüfungsinhalte, Prüfungsumfang
 § 36 Polnisch
 § 37 Evangelische Religion
 § 38 Katholische Religion
+§ 38a Sonderpädagogische Förderung
 § 39 Sorbisch
 § 40 Sport
 § 41 Tschechisch
@@ -70,6 +71,7 @@ Abschnitt 2 Studieninhalte, Prüfungsinhalte, Prüfungsumfang
 § 62 Evangelische Religion
 § 63 Katholische Religion
 § 64 Russisch
+§ 64a Sonderpädagogische Förderung
 § 65 Sorbisch
 § 66 Spanisch
 § 67 Sport
