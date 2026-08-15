@@ -20,6 +20,7 @@ Abschnitt 3 Schulpraktische Ausbildung
 § 16 Schulpraktische Prüfung
 § 17 Qualifizierungszeugnis
 Abschnitt 4 Feststellung der Lehrbefähigung
+Unterabschnitt 1 Feststellungsverfahren für Fachlehrkräfte
 § 18 Ziel des Feststellungsverfahrens
 § 19 Zulassungsvoraussetzungen
 § 20 Zulassungsverfahren
@@ -27,10 +28,22 @@ Abschnitt 4 Feststellung der Lehrbefähigung
 § 22 Schulleiterbeurteilung
 § 23 Bekanntgabe und Überprüfung der Schulleiterbeurteilung, Wiederholung des Feststellungsverfahrens
 § 24 Qualifizierungsnachweis
+Unterabschnitt 2 Feststellungsverfahren für Seiteneinsteigerinnen und Seiteneinsteiger
+§ 25 Ziel des Feststellungsverfahrens
+§ 26 Zulassungsvoraussetzungen
+§ 27 Zulassungsverfahren
+§ 28 Bestandteile des Feststellungsverfahrens
+§ 29 Prüfungskommission
+§ 30 Kolloquium
+§ 31 Komplexprüfung
+§ 32 Bestehen des Feststellungsverfahrens
+§ 33 Wiederholung des Feststellungsverfahrens
+§ 34 Qualifizierungsnachweis
 Abschnitt 5 Qualifizierungsfolge
-§ 25 Abschluss der berufsbegleitenden Qualifizierung
-§ 26 Qualifizierung für die Laufbahngruppe 2, zweite Einstiegsebene
-§ 27 Qualifizierung für die Laufbahngruppe 2, erste Einstiegsebene
-§ 28 Feststellung des Qualifizierungsabschlusses und Benachrichtigung
+§ 35 Abschluss der berufsbegleitenden Qualifizierung
+§ 36 Qualifizierung für die Laufbahngruppe 2, zweite Einstiegsebene
+§ 37 Qualifizierung für die Laufbahngruppe 2, erste Einstiegsebene
+§ 38 Feststellung des Qualifizierungsabschlusses und Benachrichtigung
 Abschnitt 6 Übergangs- und Schlussbestimmungen
-§ 29 Übergangsregelungen
+§ 39 Berufsbegleitende Qualifizierungsmaßnahmen
+§ 40 Feststellungsverfahren
