@@ -1,0 +1,11 @@
+# TOP 3.: Neufassung der Satzung über die Betreuung von Kindern in den Tageseinrichtungen der Gemeinde Ehringshausen b) Kostenbeitragssatzung zur Satzung über die Benutzung der Tageseinrichtungen für Kinder
+
+- Sitzung: Sozial-, Kultur- und Sportausschuss (2. Sitzung/19.WP) (2026-08-17)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/10947
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/consultation/2671
+- Beschluss (Datei): Beschlußtext (Neufassung der 
+Satzung über die Betreuung von Kindern in den Tageseinrichtungen der Gemeinde Ehringshausen 
+b) Kostenbeitragssatzung zur Satzung über die Benutzung der Tageseinrichtungen für Kinder) https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVCZni_CG2UJT8IdRvYAy2yHlXDiagHjQFIXuHBfftah/Beschlusstext_VL-134-2026_1._Ergaenzung_-oeffentlich-_Sozial--_Kultur-_und_Sportausschuss_17.08.2026.pdf
