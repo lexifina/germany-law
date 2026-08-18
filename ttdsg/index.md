@@ -26,6 +26,7 @@
 - [§ 11 Einzelverbindungsnachweis](0011.md)
 - [§ 12 Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten](0012.md)
 - [§ 13 Standortdaten](0013.md)
+- [§ 13a Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023](0013a.md)
 
 ### Kapitel 3 Mitteilen ankommender Verbindungen, Rufnummernanzeige und -unterdrückung, automatische Anrufweiterschaltung
 
@@ -49,6 +50,7 @@
 - [§ 22 Auskunftsverfahren bei Bestandsdaten](0022.md)
 - [§ 23 Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten](0023.md)
 - [§ 24 Auskunftsverfahren bei Nutzungsdaten](0024.md)
+- [§ 24a Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023](0024a.md)
 
 ### Kapitel 2 Endeinrichtungen
 

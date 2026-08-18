@@ -14,33 +14,39 @@
 - [§ 5 Gemeinsame Verantwortlichkeit von Diensteanbieter und Adressat](0005.md)
 - [§ 6 Zentrale Behörde](0006.md)
 
-## Teil 3 (zukünftig in Kraft)
+## Teil 3 Durchführung der Verordnung (EU) 2023/1543
 
 
-### Kapitel 1 (zukünftig in Kraft)
+### Kapitel 1 Allgemeine Vorschriften
 
-- [§ 7 (zukünftig in Kraft)](0007.md)
+- [§ 7 Anwendbarkeit anderer Verfahrens- und Zuständigkeitsvorschriften](0007.md)
 
-### Kapitel 2 (zukünftig in Kraft)
+### Kapitel 2 Europäische Herausgabe- und Sicherungsanordnungen
 
-- [(XXXX) §§ 8 bis 12 (zukünftig in Kraft)](xxxx-8-bis-12.md)
+- [§ 8 Datenkategorien bei ausgehenden Anordnungen](0008.md)
+- [§ 9 Verfahren bei Europäischen Herausgabeanordnungen betreffend Teilnehmer- und Identifizierungsdaten](0009.md)
+- [§ 10 Verfahren bei Europäischen Herausgabeanordnungen betreffend Verkehrs- und Inhaltsdaten](0010.md)
+- [§ 11 Zuständige Vollstreckungsbehörde](0011.md)
+- [§ 12 Statistikpflichten](0012.md)
 
-### Kapitel 3 (zukünftig in Kraft)
+### Kapitel 3 Rechtsschutz
 
 
-#### Abschnitt 1 (zukünftig in Kraft)
+#### Abschnitt 1 Rechtsbehelfe gegen ausgehende Anordnungen
 
-- [(XXXX) §§ 13 und 14 (zukünftig in Kraft)](xxxx-13-und-14.md)
+- [§ 13 Anwendbare Vorschriften](0013.md)
+- [§ 14 Gerichtliche Entscheidung](0014.md)
 
-#### Abschnitt 2 (zukünftig in Kraft)
+#### Abschnitt 2 Verfahren bei einander widersprechenden Verpflichtungen
 
-- [(XXXX) §§ 15 und 16 (zukünftig in Kraft)](xxxx-15-und-16.md)
+- [§ 15 Gerichtliches Verfahren](0015.md)
+- [§ 16 Gerichtliche Entscheidung](0016.md)
 
-#### Abschnitt 3 (zukünftig in Kraft)
+#### Abschnitt 3 Rechtsbehelfe gegen Entscheidungen im Vollstreckungsverfahren
 
-- [§ 17 (zukünftig in Kraft)](0017.md)
+- [§ 17 Anwendbarkeit des Gesetzes über Ordnungswidrigkeiten](0017.md)
 
 ## Teil 4 Bußgeldvorschriften und Einschränkung eines Grundrechts
 
 - [§ 18 Bußgeldvorschriften](0018.md)
-- [§ 19 (zukünftig in Kraft)](0019.md)
+- [§ 19 Einschränkung eines Grundrechts](0019.md)

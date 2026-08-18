@@ -22,6 +22,7 @@ Verkehrsdaten, Standortdaten
 | § 11 | Einzelverbindungsnachweis |
 | § 12 | Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten |
 | § 13 | Standortdaten |
+| § 13a | Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023 |
 Kapitel 3
 Mitteilen ankommender
 Verbindungen, Rufnummernanzeige und
@@ -47,6 +48,7 @@ des Jugendschutzes und zur Auskunftserteilung
 | § 22 | Auskunftsverfahren bei Bestandsdaten |
 | § 23 | Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten |
 | § 24 | Auskunftsverfahren bei Nutzungsdaten |
+| § 24a | Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023 |
 Kapitel 2
 Endeinrichtungen
 | § 25 | Schutz der Privatsphäre bei Endeinrichtungen |

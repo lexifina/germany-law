@@ -11,31 +11,31 @@ Umsetzung der Richtlinie (EU) 2023/1544
 | § 5 | Gemeinsame Verantwortlichkeit von Diensteanbieter und Adressat |
 | § 6 | Zentrale Behörde |
 Teil 3
-(zukünftig in Kraft)
+Durchführung der Verordnung (EU) 2023/1543
 Kapitel 1
-(zukünftig in Kraft)
-| § 7 | (zukünftig in Kraft) |
+Allgemeine Vorschriften
+| § 7 | Anwendbarkeit anderer Verfahrens- und Zuständigkeitsvorschriften |
 Kapitel 2
-(zukünftig in Kraft)
-| § 8 | (zukünftig in Kraft) |
-| § 9 | (zukünftig in Kraft) |
-| § 10 | (zukünftig in Kraft) |
-| § 11 | (zukünftig in Kraft) |
-| § 12 | (zukünftig in Kraft) |
+Europäische Herausgabe- und Sicherungsanordnungen
+| § 8 | Datenkategorien bei ausgehenden Anordnungen |
+| § 9 | Verfahren bei Europäischen Herausgabeanordnungen betreffend Teilnehmer- und Identifizierungsdaten |
+| § 10 | Verfahren bei Europäischen Herausgabeanordnungen betreffend Verkehrs- und Inhaltsdaten |
+| § 11 | Zuständige Vollstreckungsbehörde |
+| § 12 | Statistikpflichten |
 Kapitel 3
-(zukünftig in Kraft)
+Rechtsschutz
 Abschnitt 1
-(zukünftig in Kraft)
-| § 13 | (zukünftig in Kraft) |
-| § 14 | (zukünftig in Kraft) |
+Rechtsbehelfe gegen ausgehende Anordnungen
+| § 13 | Anwendbare Vorschriften |
+| § 14 | Gerichtliche Entscheidung |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 15 | (zukünftig in Kraft) |
-| § 16 | (zukünftig in Kraft) |
+Verfahren bei einander widersprechenden Verpflichtungen
+| § 15 | Gerichtliches Verfahren |
+| § 16 | Gerichtliche Entscheidung |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 17 | (zukünftig in Kraft) |
+Rechtsbehelfe gegen Entscheidungen im Vollstreckungsverfahren
+| § 17 | Anwendbarkeit des Gesetzes über Ordnungswidrigkeiten |
 Teil 4
 Bußgeldvorschriften und Einschränkung eines Grundrechts
 | § 18 | Bußgeldvorschriften |
-| § 19 | (zukünftig in Kraft) |
+| § 19 | Einschränkung eines Grundrechts |
