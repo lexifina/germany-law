@@ -140,9 +140,10 @@ I. Schlüsselzahlen der Europäischen Union
 | 130 | 80 | Nur für Inhaber einer Fahrerlaubnis für dreirädrige Kraftfahrzeuge der Klasse A, die das 24. Lebensjahr noch nicht vollendet haben |
 | 131 | 81 | Nur für Inhaber einer Fahrerlaubnis für zweirädrige Krafträder der Klasse A, die das 21. Lebensjahr noch nicht vollendet haben |
 | 132 |  | (weggefallen) |
-| 133 | 95 | Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz über die Grundqualifikation und Weiterbildung der Kraftfahrerinnen und Kraftfahrer bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)] |
+| 133 | 95 | Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)] |
 | 134 | 96 | Fahrzeugkombinationen aus Fahrzeugen der Klasse B und einem Anhänger mit einer zulässigen Gesamtmasse von mehr als 750 kg, sofern die zulässige Gesamtmasse einer derartigen Kombination mehr als 3 500 kg, jedoch nicht mehr als 4 250 kg beträgt. |
 | 135 | 97 | Berechtigt nicht zum Führen eines Fahrzeugs der Klasse C1, das in den Geltungsbereich der Verordnung (EWG) Nr. 3821/85 des Rates fällt |
+| 136 | 99.01 | Sonderausfertigung, nur für die Dauer des vorübergehenden Schutzes gültig (Ersatz für verlorenen oder gestohlenen ukrainischen Führerschein) |
 Ia. Äquivalenz für entfallene Schlüsselzahlen der Europäischen Union
 | Lfd. Nr. | Entfallene Schlüsselzahl | Bei Ausstellung eines neuen Führerscheins einzutragende Schlüsselzahl |
 | 1 | 05.01 | Nur bei Tageslicht | 61 |

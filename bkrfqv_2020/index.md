@@ -13,6 +13,4 @@
 - [§ 11 Übergangsvorschriften](0011.md)
 - [Anlage 1 (zu § 1 Absatz 2 Satz 2, § 2 Absatz 2 Satz 2, § 4 Absatz 1 Satz 1)Liste der Kenntnisbereiche](anlage-1.md)
 - [Anlage 2 (zu § 1 Absatz 2 Satz 1)Prüfungen zum Erwerb der Grundqualifikation](anlage-2.md)
-- [Anlage 3 (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation](anlage-3.md)
-- [Anlage 4 (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3)Musterbescheinigung über die Teilnahme an einer Weiterbildung](anlage-4.md)
-- [Anlage 5 (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises](anlage-5.md)
+- [Anlage 3 (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises](anlage-3.md)

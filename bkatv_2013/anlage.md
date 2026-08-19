@@ -473,14 +473,13 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 168 | Führerschein oder Bescheinigung oder die Übersetzung des ausländischen Führerscheins nicht mitgeführt | § 75 Nummer 4 i. V. m. den dort genannten Vorschriften | 10 € |
 | 168a | Führerscheinverlust nicht unverzüglich angezeigt und sich kein Ersatzdokument ausstellen lassen | § 75 Nummer 4 | 10 € |
 |  | Einschränkung der Fahrerlaubnis |  |  |
-| 169 | Einer vollziehbaren Auflage nicht nachgekommen | § 10 Absatz 2 Satz 4 § 23 Absatz 2 Satz 1 § 28 Absatz 1 Satz 2 § 46 Absatz 2 § 74 Absatz 3 § 75 Nummer 9, 14, 15 | 25 € |
+| 169 | Einer vollziehbaren Auflage nicht nachgekommen | § 10 Absatz 1 Nummer 5, 7 bis 9 § 23 Absatz 2 Satz 1 § 28 Absatz 1 Satz 2 § 29 Absatz 1 Satz 6 § 46 Absatz 2 § 74 Absatz 3 § 75 Nummer 9 | 25 € |
 |  | Ablieferung und Vorlage des Führerscheins |  |  |
 | 170 | Einer Pflicht zur Ablieferung oder zur Vorlage eines Führerscheins nicht oder nicht rechtzeitig nachgekommen | § 75 Nummer 10 i. V. m. den dort genannten Vorschriften | 25 € |
 |  | Fahrerlaubnis zur Fahrgastbeförderung |  |  |
 | 171 | Ohne erforderliche Fahrerlaubnis zur Fahrgastbeförderung einen oder mehrere Fahrgäste in einem in § 48 Absatz 1 FeV genannten Fahrzeug befördert | § 48 Absatz 1 § 75 Nummer 12 | 75 € |
-| 172 | Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 FeV genannten Fahrzeug angeordnet oder zugelassen, obwohl der Fahrzeugführer die erforderliche Fahrerlaubnis zur Fahrgastbeförderung nicht besaß | § 48 Absatz 8 § 75 Nummer 12 | 75 € |
-|  | Ortskenntnisse bei Fahrgastbeförderung |  |  |
-| 173 | Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 i. V. m. § 48 Absatz 4 Nummer 7 FeV genannten Fahrzeug angeordnet oder zugelassen, obwohl der Fahrzeugführer die erforderlichen Ortskenntnisse nicht nachgewiesen hat | § 48 Absatz 8 § 75 Nummer 12 | 35 € |
+| 172 | Als Halter die Fahrgastbeförderung in einem in § 48 Absatz 1 FeV genannten Fahrzeug angeordnet oder zugelassen, obwohl der Fahrzeugführer die erforderliche Fahrerlaubnis zur Fahrgastbeförderung nicht besaß | § 48 Absatz 7 § 75 Nummer 12 | 75 € |
+| 173 | (weggefallen) |  |  |
 | Lfd. Nr. | Tatbestand | Fahrzeug-Zulassungs- verordnung(FZV) | Regelsatz in Euro (€), Fahrverbot in Monaten |
 |  | c) Fahrzeug-Zulassungsverordnung |  |  |
 | Mitführen von Fahrzeugpapieren |  |  |

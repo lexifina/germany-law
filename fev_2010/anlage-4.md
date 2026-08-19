@@ -1,4 +1,4 @@
-# Anlage 4 (zu den §§ 11, 13 und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
+# Anlage 4 (zu den §§ 11, 13, 13a und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
 
 Vorbemerkung
 1. Die nachstehende Aufstellung enthält häufiger vorkommende Erkrankungen und Mängel, die die Eignung zum Führen von Kraftfahrzeugen längere Zeit beeinträchtigen oder aufheben können. Nicht aufgenommen sind Erkrankungen, die seltener vorkommen oder nur kurzzeitig andauern (z. B. grippale Infekte, akute infektiöse Magen-/Darmstörungen, Migräne, Heuschnupfen, Asthma).
@@ -7,7 +7,7 @@ Vorbemerkung
 | Krankheiten, Mängel | Eignung oder bedingte Eignung | Beschränkungen/Auflagen bei bedingter Eignung |
 | Klassen A, A1, A2 B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF | Klassen A, A1, A2 B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF |
 | 1. | Mangelndes Sehvermögen siehe Anlage 6 |  |  |  |  |
-| 2. | hochgradige Schwerhörigkeit (Hörverlust von 60 % und mehr), ein- oder beidseitig sowie Gehörlosigkeit, ein- oder beidseitig | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | – | Fachärztliche Eignungsuntersuchung. Regelmäßige ärztliche Kontrollen. Vorherige Bewährung von drei Jahren Fahrpraxis auf Kfz der Klasse B. Bei Vorliegen einer hochgradigen Hörstörung muss – soweit möglich – die Versorgung und das Tragen einer adäquaten Hörhilfe nach dem aktuellen Stand der medizinisch-technisch und audiologisch-technischen Kenntnisse erfolgen. |
+| 2. | hochgradige Schwerhörigkeit (Hörverlust von 60 % und mehr), ein- oder beidseitig sowie Gehörlosigkeit, ein- oder beidseitig | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | – | Fachärztliche Eignungsuntersuchung. Regelmäßige ärztliche Kontrollen. Vorherige Bewährung von drei Jahren Fahrpraxis auf Kfz der Klasse B. |
 | 2.1 | (weggefallen) |  |  |  |  |
 | 2.2 | (weggefallen) |  |  |  |  |
 | 2.3 | (weggefallen) |  |  |  |  |
@@ -45,7 +45,7 @@ Vorbemerkung
 | 6.1 | Erkrankungen und Folgen von Verletzungen des Rückenmarks | ja abhängig von der Symptomatik | nein | bei fortschreitendem Verlauf Nachuntersuchungen | – |
 | 6.2 | Erkrankungen der neuromuskulären Peripherie | ja abhängig von der Symptomatik | nein | bei fortschreitendem Verlauf Nachuntersuchungen | – |
 | 6.3 | Parkinsonsche Krankheit | ja bei leichten Fällen und erfolgreicher Therapie | nein | Nachuntersuchungen in Abständen von ein, zwei und vier Jahren | – |
-| 6.4 | Kreislaufabhängige Störungen der Hirntätigkeit | ja nach erfolgreicher Therapie und Abklingen des akuten Ereignisses ohne Rückfallgefahr | nein | Nachuntersuchungen in Abständen von ein, zwei und vier Jahren | – |
+| 6.4 | Hirngefäßerkrankungen | ja nach erfolgter Therapie und Abklingendes akuten Ereignisses ohne Rückfallgefahr | ja nach erfolgter Therapie und Abklingendes akuten Ereignisses ohne Rückfallgefahr | Nachunter- suchungen | (ggf. fach-ärztliche) Nachunter- suchungen |
 | 6.5 | Zustände nach Hirnverletzungen und Hirnoperationen, angeborene und frühkindliche erworbene Hirnschäden |  |  |  |  |
 | 6.5.1 | Schädelhirnverletzungen oder Hirnoperationen ohne Substanzschäden | ja in der Regel nach drei Monaten | ja in der Regel nach drei Monaten | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung |
 | 6.5.2 | Substanzschäden durch Verletzungen oder Operationen | ja unter Berücksichtigung von Störungen der Motorik, chron.-hirnorganischer Psychosyndrome und hirnorganischer Wesensänderungen | ja unter Berücksichtigung von Störungen der Motorik, chron.-hirnorganischer Psychosyndrome und hirnorganischer Wesensänderungen | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung |

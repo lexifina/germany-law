@@ -47,7 +47,9 @@
   i) Kroatisch,
   j) Spanisch,
   k) Türkisch,
-  l) Hocharabisch.
+  l) Hocharabisch,
+  m) Kurmandschi oder
+  n) Ukrainisch.
 1.4 (weggefallen)
 2. Praktische Prüfung
   Einzelheiten der praktischen Prüfung ergeben sich auch aus der Prüfungsrichtlinie für die praktische Fahrerlaubnisprüfung in der jeweils geltenden Fassung, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemacht wird.
@@ -254,7 +256,7 @@
   Prüfungsfahrzeuge der Klassen B, C, C1, D und D1 müssen mit akustisch oder optisch kontrollierbaren Einrichtungen zur Betätigung der Pedale (Doppelbedienungseinrichtungen) ausgerüstet sein.
   Prüfungsfahrzeuge der Klasse B müssen ferner mit einem zusätzlichen Innenspiegel sowie mit zwei rechten Außenspiegeln, gegebenenfalls in integrierter Form, oder einem gleichwertigen Außenspiegel ausgerüstet sein, um dem Fahrlehrer eine ausreichende Sicht nach hinten zu ermöglichen. Die Außenspiegel können durch andere zugelassene Einrichtungen für indirekte Sicht ersetzt werden.
   Prüfungsfahrzeuge der Klassen BE, C, C1, D und D1 müssen mit je einem zusätzlichen rechten und linken Außenspiegel ausgestattet sein, soweit die Spiegel für den Fahrer dem Fahrlehrer keine ausreichende Sicht nach hinten ermöglichen. Die Außenspiegel können durch andere zugelassene Einrichtungen für indirekte Sicht ersetzt werden.
-2.2.17 Die Kennzeichnung der zu Prüfungsfahrten verwendeten Kraftfahrzeuge als Schulfahrzeuge (§ 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz vom 2. Januar 2018 (BGBl. I S. 2)) muss entfernt sein. Alle vom Fahrzeughersteller lieferbaren Ausstattungen und Systeme sind grundsätzlich unter Berücksichtigung der Richtlinie nach Nummer 2 zugelassen. Dies gilt auch für den nachträglichen Einbau gleicher oder ähnlicher Produkte. Bei Prüfungsfahrzeugen, die über Systeme verfügen, die die Längs- und Querführung des Fahrzeugs in einem spezifischen Anwendungsfall aktiv und kontinuierlich übernehmen können, entscheidet der amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr über den Einsatz dieser Systeme.
+2.2.17 Die Kennzeichnung der zu Prüfungsfahrten verwendeten Kraftfahrzeuge als Schulfahrzeuge (§ 5 Absatz 4 der Durchführungsverordnung zum Fahrlehrergesetz vom 2. Januar 2018 (BGBl. I S. 2)) muss entfernt sein. Alle vom Fahrzeughersteller lieferbaren Ausstattungen und Systeme sind grundsätzlich unter Berücksichtigung der Richtlinie nach Nummer 2 zugelassen. Dies gilt auch für den nachträglichen Einbau gleicher oder ähnlicher Produkte. Bei einem Prüfungsfahrzeug, das über Systeme verfügt, die die Längsführung, Querführung oder die Längs- und Querführung des Fahrzeugs in einem spezifischen Anwendungsfall aktiv und kontinuierlich übernehmen können, entscheidet der amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr über den Einsatz dieser Systeme.
 2.2.18 Bei Prüfungen der Klasse A, A1, A2 und AM dürfen nur Fahrzeuge verwendet werden, für die eine Helmtragepflicht besteht.
 2.2.19 Prüfungsfahrzeuge für Bewerber mit körperlicher Behinderung
   Soll aufgrund einer körperlichen Behinderung die Fahrerlaubnis nur für bestimmte Fahrzeugarten oder nur für angepasste Fahrzeuge erteilt werden, so ist die Prüfung unter Berücksichtigung der wesentlichen Anforderungen auf einem solchen Fahrzeug durchzuführen.
@@ -280,7 +282,7 @@
   | Klasse AM | 55 Minuten | 30 Minuten |
   | Klasse T | 70 Minuten | 35 Minuten, |
   falls der Bewerber nicht schon vorher gezeigt hat, dass er den Anforderungen der Prüfung nicht gewachsen ist.
-  Bei Prüfungen, die ausschließlich der Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen mit Automatikgetriebe (§ 17a Absatz 2) oder der Austragung der Schlüsselzahl 197 (§ 17a Absatz 4) dienen, verkürzt sich die Dauer der praktischen Prüfung um 10 Minuten. Bei der Aufhebung einer Beschränkung in den Klassen C1, C1E, C, CE, D1, D1E, D oder DE umfasst die Prüfung den Prüfungsstoff nach Nummer 2.1.1, 2.1.4 und 2.1.5.
+  Bei Prüfungen, die ausschließlich der Aufhebung der Beschränkung einer Fahrerlaubnis auf das Führen von Kraftfahrzeugen mit Automatikgetriebe (§ 17a Absatz 2) oder der Austragung der Schlüsselzahl 197 (§ 17a Absatz 4) dienen, verkürzt sich die Dauer der praktischen Prüfung um 10 Minuten. Bei der Aufhebung einer Beschränkung in den Klassen C1, C1E, C, CE, D1, D1E, D oder DE umfasst die Prüfung den Prüfungsstoff nach den Nummern 2.1.1, 2.1.4, 2.1.5 und 2.1.6.
 2.4 Prüfungsstrecke
   Etwa die Hälfte der Fahrzeit soll für Prüfungsstrecken außerhalb geschlossener Ortschaften, möglichst auch unter Einschluss der Autobahnen oder Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelstreifen oder sonstige bauliche Einrichtungen getrennt sind und mindestens zwei Fahrstreifen je Richtung haben, verwendet werden. Abweichend hiervon sind Prüfungen für die Klasse AM überwiegend innerhalb geschlossener Ortschaften durchzuführen. Die Prüfung für die Klasse T kann auch an Orten durchgeführt werden, die nicht Prüforte im Sinn von § 17 Absatz 4 sind.
 2.5 Bewertung der Prüfung

@@ -18,10 +18,10 @@
 1.5 Besteht eine fortschreitende Augenkrankheit, ist eine regelmäßige augenärztliche Untersuchung und Beratung erforderlich.
 2. Klassen C, C1, CE, C1E, D, D1, DE, D1E und der Fahrerlaubnis zur Fahrgastbeförderung (§ 12 Absatz 6, § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2)
   Bewerber um die Erteilung oder Verlängerung der Fahrerlaubnis müssen die nachfolgenden Mindestanforderungen an das Sehvermögen erfüllen:
-2.1 Untersuchung durch einen Augenarzt, einen Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“, einen Arzt mit der Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes oder einen anderen Arzt der öffentlichen Verwaltung.
+2.1 Untersuchung durch einen Augenarzt, einen Arzt mit der Gebietsbezeichnung „Arbeitsmedizin“, einen Arzt mit der Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes, einen anderen Arzt der öffentlichen Verwaltung oder einen Augenoptikerbetrieb nach § 67 Absatz 4.
   Über die Untersuchung ist eine Bescheinigung gemäß dem Muster dieser Anlage zu erstellen.
 2.1.1 Zentrale Tagessehschärfe
-  Feststellung unter Einhaltung der DIN 58220, Ausgabe Januar 1997.
+  Feststellung unter Einhaltung der DIN 58220 Teil 6, Ausgabe April 2021.
   Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert werden. Dabei dürfen folgende Sehschärfenwerte nicht unterschritten werden: Sehschärfe auf jedem Auge 0,8 und beidäugig 1,0.
   Die Korrektur mit Gläsern von mehr als plus 8,0 Dioptrien (sphärisches Äquivalent) ist nicht zulässig; dies gilt nicht für intraokulare Linsen oder Kontaktlinsen.
 2.1.2 Übrige Sehfunktionen
@@ -90,13 +90,17 @@ Art der Zweifel:
   ___________________, den ___________________
   | __________________________________________ Unterschrift des Sehtesters |  |
 Muster
-Bescheinigung über die ärztliche Untersuchung
+Bescheinigung über die Untersuchung des Arztes oder eines Augenoptikerbetriebs
 (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 – Vorderseite –
 Teil 1 (verbleibt beim Arzt)
-1. Angaben über den untersuchenden Arzt
+1. Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb
   Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung, Anschrift
+1.1 Angaben über den untersuchenden Arzt
+  Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung, Anschrift oder
+1.2 Angaben über den untersuchenden Augenoptikerbetrieb
+  Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung durchführenden Augenoptikers.
 2. Personalien des Bewerbers
   | Familienname, Vornamen: .......... |
   | Tag der Geburt: .......... |
@@ -118,32 +122,39 @@ Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der Fahrerlaubn
 – Rückseite –
 (weggefallen)
 Muster
-Bescheinigung über die ärztliche Untersuchung
-(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)
-von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+Bescheinigung über die Untersuchung des Arztes oder eines Augenoptikerbetriebs
+(Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung)
+von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE oder D1E oder der Fahrerlaubnis zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 Teil 2 (dem Bewerber auszuhändigen)
-Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung, Anschrift
-| Familienname, Vornamen des Bewerbers: .......... |
-| Tag der Geburt: .......... |
-| Ort der Geburt: .......... |
-| Wohnort: .......... |
-| Straße/Hausnummer: .......... |
-| Nummer des Personalausweises: .......... |
-| Untersuchungsbefund vom .......... über |
-| – Zentrale Tagessehschärfe nach DIN 58220 |
-| – Farbensehen |
-| – Kontrast- oder Dämmerungssehen |
-| – Gesichtsfeld |
-| – Stereosehen |
+1. Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb
+1.1. Angaben über den untersuchenden Arzt
+  Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung, Anschrift oder
+1.2. Angaben über den untersuchenden Augenoptikerbetrieb
+  Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung durchführenden Augenoptikers
+2. Personalien des Bewerbers
+  Familienname, Vornamen des Bewerbers:
+  Tag der Geburt:
+  Ort der Geburt:
+  Wohnort:
+  Straße/Hausnummer:
+  Nummer des Personalausweises:
+3. | Untersuchungsbefund vom über | |
+  – Zentrale Tagessehschärfe nach DIN 58220
+  – Farbensehen
+  – Kontrast- oder Dämmerungssehen
+  – Gesichtsfeld
+  – Stereosehen
 Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die in Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung geforderten Anforderungen
-⃞ erreicht, ohne Sehhilfe
-⃞ erreicht, mit Sehhilfe
-⃞ nicht erreicht
+⎕ erreicht, ohne Sehhilfe
+⎕ erreicht, mit Sehhilfe
+⎕ nicht erreicht
 Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung ist erforderlich:
-| ⃞ ja | ⃞ nein |
+| ⎕ ja | ⎕ nein |
 Das Zeugnis ist zwei Jahre gültig.
 Die Identität des Untersuchten wurde geprüft.
-| .........., den |  | .......... Stempel und Unterschrift des Arztes mit den oben stehenden beruflichen Angaben |
+| , den |  | Stempel und Unterschrift des Arztes mit den oben stehenden beruflichen Angaben |
+|  |  | oder |
+|  |  | Stempel des Augenoptikerbetriebs und Unterschrift des die Untersuchung durchführenden und bescheinigenden Augenoptikers |
 Muster
 Zeugnis über die augenärztliche Untersuchung
 (Anlage 6 Nummer 2.2 der Fahrerlaubnis-Verordnung)

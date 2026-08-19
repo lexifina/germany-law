@@ -1,4 +1,4 @@
-# Anlage 8a (zu § 22 Absatz 4 Satz 7)
+# Anlage 8a (zu § 22 Absatz 4 Satz 6)
 
 Muster des Vorläufigen Nachweises der Fahrerlaubnis (VNF)
 Vorbemerkungen

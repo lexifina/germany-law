@@ -1,32 +1,32 @@
-# Anlage 3 (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
+# Anlage 3 (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
 
-I. Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
-  | Kopfbogen der Ausbildungsstätte | ________________________________________________________, den |  | _____________________________________ |
-  |  | Ort |  | Datum |
-  Bescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation gemäß § 4 des Berufskraftfahrerqualifikationsgesetzes (BKrFQG) in Verbindung mit
-  |  |  |  |  |  |  |  |
-  |  | § 2 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* |  | § 2 Absatz 9 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* – Quereinsteiger |  | § 3 der Berufskraftfahrer- qualifikationsverordnung(BKrFQV)* – Umsteiger |  |
-  |  |  |  |  |  |  |  |
-  |  | Güterverkehr* |  |
-  |  | Personenkraftverkehr* |  |
-  Herr/Frau
-  | _____________________________________________________________, |  | geb. am: ________________________ in ____________________________ |
-  | Vorname, Name |  |  |
-  |  |  |  |
-  | ___________________________________________________________________________________________________________________________________ |
-  | Wohnanschrift |
-  | hat in der Zeit vom _______________________________________________ |  | bis ____________________________________________________________ |
-  | mit einer Dauer von 140 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation teilgenommen. Der/Die o. g. Teilnehmer/in hat an sämtlichen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, die den Fahrerlaubnisklassen C1, C1E, C, CE (bei Grundqualifikation im Güterkraftverkehr)* bzw. D1, D1E, D, DE (bei Grundqualifikation im Personenkraftverkehr)* zugeordnet sind.* |
-  | mit einer Dauer von 96 Unterrichtseinheiten inkl. 10 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Quereinsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche nicht Gegenstand der Prüfung gemäß § 4 der Berufszugangsverordnung für den Straßenpersonenverkehr* oder nach § 5 der Berufszugangsverordnung für den Güterkraftverkehr* sind.* |
-  | mit einer Dauer von 35 Unterrichtseinheiten inkl. 2,5 Fahr-Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur beschleunigten Grundqualifikation für Umsteiger teilgenommen. Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2 Absatz 2 BKrFQV teilgenommen, welche die Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.* |
-  |  |  |  |  |  |
-  | Unterschrift Ausbildungsstätte** Stempel |  |  |
-II. Anmerkungen zur Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
-  1. Anwendungshinweise:
-    * Nichtzutreffendes bitte streichen
-    ** Die Unterschrift des Ausbilders/der Ausbilderin hat eigenhändig im Original zu erfolgen. Die eigenhändige Unterschrift der zur Vertretung der Ausbildungsstätte berechtigten Person kann durch eine bildhafte Wiedergabe der Unterschrift ersetzt werden (§ 11 Absatz 4 Satz 4 und 5 BKrFQV), sofern der Unterricht nicht ausschließlich von dieser Person durchgeführt wurde.
-  2. Verteiler:
-    Original – Teilnehmer/in
-    Kopie – Ausbildungsstätte
-  3. Angabe zur Ausbildungsstätte:
-    Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung einzutragen.
+1. Vorbemerkungen
+  Fahrerqualifizierungsnachweise werden als Kunststoffkarten nach Anhang II der Richtlinie (EU) 2022/2561 in der Fassung vom 14. Dezember 2022 hergestellt und im Auftrag der nach Landesrecht zuständigen Behörde durch den vom Kraftfahrt-Bundesamt bestimmten und zertifizierten Hersteller zentral gefertigt. Hersteller ist die Bundesdruckerei GmbH. Die Herstellung, Personalisierung und Lieferung der Fahrerqualifizierungsnachweise erfolgt auf der Grundlage eines Rahmenvertrages zwischen dem Kraftfahrt-Bundesamt und der Bundesdruckerei GmbH. Näheres wird durch Verwaltungsvorschrift geregelt.
+2. Beschreibung des Fahrerqualifizierungsnachweises
+  a) Seite 1 (Vorderseite)
+    Seite 1 enthält:
+    aa) Die Bezeichnung „FAHRERQUALIFIZIERUNGSNACHWEIS“ sowie deren Wiederholung in den Sprachen der Mitgliedstaaten der Europäischen Union als blaufarbener Unterdruck auf dem Fahrerqualifizierungsnachweis.
+    bb) Die Aufschrift „BUNDESREPUBLIK DEUTSCHLAND“ sowie das Zeichen der Europäischen Union (zwölf goldene Sterne in einem blauen Rechteck), in welches das Nationalitätszeichen D eingefügt ist.
+    cc) Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner Fahrerlaubnis entsprechend der auf dem Fahrerqualifizierungsnachweis aufgebrachten Nummerierung. Die Nummern 4d (andere Nummer als die Führerscheinnummer), 8 (Wohnort) und 11 (Angaben zum Verwaltungsverfahren) sind nicht vorhanden, da die Angaben nach Maßgabe der Richtlinie (EU) 2022/2561 in der Fassung vom 14. Dezember 2022 fakultativ sind und im deutschen Fahrerqualifizierungsnachweis nicht ausgewiesen werden.
+      1. Name des Inhabers
+      2. Vorname des Inhabers
+      3. Geburtsdatum und Geburtsort des Inhabers
+      4a. Ausstellungsdatum
+      4b. Ablaufdatum
+      4c. Name der Ausstellungsbehörde
+      5a. Führerscheinnummer
+      5b. Seriennummer des Fahrerqualifizierungsnachweises, die sich aus „FQN“ als festem Wert, aus dem Behördenschlüssel der nach Landesrecht zuständigen Behörde, aus einer laufenden Nummer, aus einer Prüfziffer und aus einer Ausfertigungskennziffer des Fahrerqualifizierungsnachweises zusammensetzt.
+      6. Lichtbild des Inhabers
+      7. Unterschrift des Inhabers
+      9. Fahrerlaubnisklassen, für die der Fahrer die Grundqualifikations- und Weiterbildungsverpflichtung erfüllt.
+  b) Seite 2 (Rückseite)
+    Seite 2 enthält:
+    aa) Folgende Daten zur Qualifizierung des Inhabers entsprechend der auf dem Fahrerqualifizierungsnachweis aufgebrachten Nummerierung:
+      9. Fahrerlaubnisklassen, für die der Fahrer die Grundqualifikations- und Weiterbildungsverpflichtung erfüllt. Klassen, für die die Qualifizierungsverpflichtung nicht erfüllt wurde, werden durch einen Strich entwertet.
+      10. die Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-Verordnung.
+    bb) Die Erläuterungen zum Inhalt der Felder 1 bis 4c, 5 bis 7 sowie 9 und 10.
+3. Muster des Fahrerqualifizierungsnachweises
+  Vorderseite
+  [Bild: bgbl1_2020_j2905-1_0010.jpg]
+  Rückseite
+  [Bild: bgbl1_2020_j2905-1_0020.jpg]
