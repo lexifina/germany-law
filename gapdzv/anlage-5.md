@@ -22,7 +22,7 @@
   b) mindestens 5 der in Anhang 1 in Gruppe A und mindestens 5 der in Anhang 1 in Gruppe B aufgeführten Arten bestehen.
 1.2.6 Eine Fläche kann in dem Jahr, das auf das erste Antragsjahr folgt, ohne erneute Aussaat wieder beantragt werden, wenn bei der Aussaat eine Mischung nach Nummer 1.2.5 Buchstabe b verwendet wurde.
 1.2.7 Die Aussaat hat bis zum 15. Mai des jeweiligen Antragsjahres zu erfolgen. Im Fall der Nummer 1.2.6 ist der 15. Mai des ersten Antragsjahres spätester Aussaattermin. Eine Nachsaat ist zulässig, wenn die erste Aussaat unzureichend aufgegangen ist.
-1.2.8 Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung erlaubt, wenn dieser die Aussaat oder die Pflanzung einer Folgekultur folgt, die nicht vor Ablauf des Antragsjahres zu einer Ernte führt. Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist und begünstigungsfähig war.
+1.2.8 Ab dem 1. September des Antragsjahres ist eine Bodenbearbeitung erlaubt, wenn dieser die Aussaat oder die Pflanzung einer Folgekultur folgt, die nicht vor Ablauf des Antragsjahres zu einer Ernte führt. Satz 1 gilt nur, wenn der Blühstreifen oder die Blühfläche bereits in dem dem Antragsjahr vorhergehenden Jahr im Rahmen der Öko-Regelung nach Nummer 1.2 als Blühstreifen oder Blühfläche beantragt worden ist und begünstigungsfähig war. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses sind erst ab dem 1. September des zweiten aufeinanderfolgenden Antragsjahres zulässig.
 1.3 § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes
 1.3.1 Für begünstigungsfähige Blühstreifen oder -flächen in förderfähigen Dauerkulturen gelten die Voraussetzungen der Nummern 1.2.4 bis 1.2.8 entsprechend.
 1.4 § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
@@ -70,7 +70,7 @@
   Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst. Bei Anwendung des Berechnungsschlüssels ist die Kategorie Kälber von Damwild und Rotwild jeweils von der angegebenen RGV für die Kategorie Damwild und Rotwild mitumfasst.
 4.3 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist nur in dem Umfang erlaubt, der dem Dunganfall von höchstens 1,4 RGV je Hektar förderfähiges Dauergrünland des Betriebs entspricht.
 4.4 Pflanzenschutzmittel dürfen nicht angewendet werden. Die nach Landesrecht zuständige Behörde kann im Einzelfall auf Antrag Ausnahmen zulassen.
-4.5 Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung durch höhere Gewalt oder außergewöhnliche Umstände kann die nach Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
+4.5 Dauergrünlandflächen des Betriebs dürfen im Antragsjahr nicht gepflügt werden. Zur Wiederherstellung der Grasnarbe nach einer Zerstörung durch höhere Gewalt oder außergewöhnliche Umstände sowie zur naturschutzfachlichen Aufwertung kann die nach Landesrecht zuständige Behörde im Einzelfall auf Antrag Ausnahmen zulassen.
 5. Zu § 20 Absatz 1 Nummer 5 des GAP-Direktzahlungen-Gesetzes
 5.1 Begünstigungsfähig sind förderfähige Dauergrünlandflächen, auf denen das Vorkommen von mindestens vier Pflanzenarten aus der vom Belegenheitsland der Fläche auf Grund von § 17 Absatz 3 geregelten Liste der Kennarten oder Kennartengruppe des artenreichen Grünlands mittels der dort dafür festgelegten Methode nachgewiesen wird.
 6. Zu § 20 Absatz 1 Nummer 6 des GAP-Direktzahlungen-Gesetzes
@@ -88,11 +88,10 @@
   a) ausschließlich Wirkstoffe enthalten, die als Wirkstoff mit geringem Risiko genehmigt sind nach Artikel 22 der Verordnung (EG) Nr. 1107/2009,
   b) für die ökologische Landwirtschaft zugelassen sind.
 7. Zu § 20 Absatz 1 Nummer 7 des GAP-Direktzahlungen-Gesetzes
-7.1 Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die in Gebieten nach Nummer 7.3 liegen, die die Voraussetzungen der Nummer 7.2 erfüllen und unter Nummer 7.4 fallen.
+7.1 Begünstigungsfähig sind förderfähige landwirtschaftliche Flächen, die in Gebieten nach Nummer 7.3 liegen und die die Voraussetzungen der Nummer 7.2 erfüllen.
 7.2 Im Antragsjahr dürfen
   a) weder zusätzliche Entwässerungsmaßnahmen noch eine Instandsetzung bestehender Anlagen zur Absenkung von Grundwasser oder zur Drainage durchgeführt werden, sowie
   b) keine Auffüllungen, Aufschüttungen oder Abgrabungen vorgenommen werden, es sei denn, es handelt sich um eine von einer für Naturschutz zuständigen Behörde genehmigte, angeordnete oder durchgeführte Maßnahme.
 7.3 Die Gebiete nach Nummer 7.1 sind die Gebiete, die
   a) in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen sind oder
   b) nach Artikel 4 Absatz 1 der Richtlinie 2009/147/EG als Schutzgebiet ausgewiesen sind.
-7.4 Förderfähige landwirtschaftliche Flächen, bei denen rechtliche Vorgaben mindestens einer der Maßnahmen nach Nummer 7.2 nicht entgegenstehen, sind begünstigungsfähig.
