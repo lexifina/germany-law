@@ -1,0 +1,8 @@
+# TOP 4: Stand Verfügungsmittel/ Investpauschale 2026 nach Aufhebung der Haushaltsperre
+
+- Sitzung: 23. Sitzung des Ortschaftsrates Weixdorf (2026-08-24)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/242397
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/71157
