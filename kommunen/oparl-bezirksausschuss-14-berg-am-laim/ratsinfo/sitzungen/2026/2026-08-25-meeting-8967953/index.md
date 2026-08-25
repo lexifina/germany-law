@@ -1,0 +1,77 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-08-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8967953
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8967953
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 28.07.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 28.07.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Mülltonnen mit Handöffnung an der Kreuzung Virgilstraße/ Kreillerstraße sowie zwei Mülltonnen auf der Hansjakobstraße (Kreuzung Bertschstraße und Roßsteinstraße) wegen massiver Vermüllung aufstellen
+- TOP 2.2.: (E) Weiterführung des Radwegs über die Kreuzung Baumkirchner Straße / Berg-am-Laim-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 3.1.1.: Haager Str. 4 - Neubau eines Gewerbehofs (Werkstätten) und Technologiezentrums (Büros) mit Gastronomie (Teilkonzession) und Mittelgarage im Untergeschoss
+- TOP 3.1.2.: Sonnwendjochstr. 39 - ÄNDERUNGSANTRAG zu -1.23-2026-7760-32 - Neubau einer Wohnanlage bestehend aus 3 MFH mit insges. 12 WE und Tiefgarage (Sonnwendjochstr. 39 / Waldstr. 16)
+- TOP 3.1.3.: Ringbergstr. - Neubau eines Mehrfamilienhauses - VORBESCHEID
+- TOP 3.1.4.: Buchbacher Str. 10 - Neubau eines Mehrfamilienhauses mit 40 Wohneinheiten und einer Tiefgarage mit 32 Stellplätzen
+- TOP 3.1.5.: Rofanstr. 34 - Neubau 2 Mehrfamilienhäuser mit je 5 WE und eine Tiefgarage mit 10 STPL
+- TOP 3.1.6.: St.-Veit-Str. 73 - Neubau eines Doppelhauses mit Carport: Hier Haus 1
+- TOP 3.1.7.: St.-Veit-Str. 73 - Neubau eines Doppelhauses mit Carport: Hier Haus 2
+- TOP 3.1.8.: Kranzhornstr. 9 - Neubau eines Mehrfamilienhauses mit Tiefgarage und eines Doppelhauses
+- TOP 3.1.9.: Inhousevergabe städtischer Grundstücke Nähe August-Everding-Str. bzw. Nähe Grafinger Str.; Anhörung des Kommunalreferats
+- TOP 3.1.10.: Benehmensverfahren Truderinger Str. 191; Anhörung des Referats für Stadtplanung und Bauordnung, Frist bis zum 01.09.2026
+- TOP 3.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 3.2.1.: Realisierung eines Mobilfunkstandortes; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 3.2.2.: Anbringen von Gefahrzeichen in der Echardinger Str.; Anhörung des Mobilitätsreferat
+- TOP 3.2.3.: Haltverbot für Fußverkehrssicherheit in der Truderinger Str. 217-219, Frist bis zum 27.08.2026; Anhörung des Mobilitätsreferat
+- TOP 3.2.4.: Haltverbot in der Helmut-Dietl-Str., Frist bis zum 11.09.2026; Anhörung des Mobilitätsreferat
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 3.5.: Bereich Budget und Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. 39. Herbstausstellung der Künstlergilde Berg am Laim vom 06.-15.11.2026 903,75€; Az. 0262.100-14-0515
+- TOP 3.5.2.: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Straße München e.V. Erweiterung der Schulbibliothek vom 15.09.-30.10.2026 215,70€; Az. 0262.100-14-0516
+- TOP 3.5.3.: (E) Stadtbezirksbudget Maibaumverein Berg am Laim e.V. Prüfung Standsicherheit Maibaum Berg am Laim am 04.09.2026 946,50€; Az. 0262.100-14-0517
+- TOP 3.5.4.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01.2027 - 31.12.2027 6.680,00€; Az. 0262.100-14-0518
+- TOP 3.5.5.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St. Martins-Feier mit Umzug am 15.11.2026 637,50 Euro, Az.: 0262.100-14-0519
+- TOP 3.5.6.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. Bürgerfest in Berg am Laim am 13.09.2026 1.300,00 Euro, Az.: 0262.100-14-0520
+- TOP 3.5.7.: Änderung der BA-Satzung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“; Anhörung des Direktoriums
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Haager Str. 4
+- TOP 3.6.2.: Anzinger Str. 3
+- TOP 3.6.3.: Sonnwendjochstr. 39
+- TOP 3.6.4.: Buchbacher Str. 10
+- TOP 3.6.5.: Rofanstr. 34
+- TOP 3.6.6.: St.-Veit-Str. 73, Hier Haus 1
+- TOP 3.6.7.: St.-Veit-Str. 73, Hier Haus 2
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 4.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 4.5.: Bereich Budget und Organisation
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 5.1.2: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren und Familie
+- TOP 5.1.5: Bereich Budget und Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
