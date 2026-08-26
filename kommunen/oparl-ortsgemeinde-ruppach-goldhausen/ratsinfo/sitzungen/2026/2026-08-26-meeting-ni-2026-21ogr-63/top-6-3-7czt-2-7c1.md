@@ -1,0 +1,7 @@
+# TOP 6: Finale Planung Urnengrabfeld Friedhof Ruppach
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Ruppach-Goldhausen (2026-08-26)
+- Körperschaft: Ortsgemeinde Ruppach-Goldhausen
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2026-21OGR-63%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-21OGR-63%7Czt_2%7C1
