@@ -1,0 +1,52 @@
+# Gemeindevertretung der Gemeinde Aarbergen (5. Sitzung)
+
+- Körperschaft: Gemeinde Aarbergen
+- Beginn: 2026-08-27T20:00:00+02:00
+- Ende: 2026-08-27T20:44:00+02:00
+- Ort: Bürgerhaus, Rückershausen, , 65326 Aarbergen, Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/tops/?__=UGhVM0hpd2NXNFdFcExjZdmkaAfcogWPPTFju0eGX8g
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/2111
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeindevertretung der Gemeinde Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTPmlWL1BuUCDU4ireXZxNsoW5mi9mwYTnEiX3dIPdKV/Bekanntmachung_Gemeindevertretung_der_Gemeinde_Aarbergen_27.08.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeindevertretung der Gemeinde Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUpk55yvaD2Zl8CSCNe-YdCNM75VDFdfaKF-XGmnlYmB/Oeffentliche_Niederschrift_Gemeindevertretung_der_Gemeinde_Aarbergen_27.08.2026.pdf
+
+## Tagesordnung
+
+- TOP 1.: Mitteilungen aus der Verwaltung
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Kindertagesstätten / Schulen
+- TOP 1.3: Feuerwehrwesen / Öffentliche Sicherheit
+- TOP 1.3.1: Waldbrandsaison 2026
+- TOP 1.3.2: Ordnungspolizei / Ordnungsamt
+- TOP 1.4: Bau- und Infrastrukturmaßnahmen
+- TOP 1.4.1: DGH Michelbach – Sachstand
+- TOP 1.4.2: Feuerwehr Kettenbach – Sachstand
+- TOP 1.4.3: EKVO – Michelbach
+- TOP 1.4.4: Kläranlage Michelbach – Sachstand
+- TOP 1.4.5: Schieberkreuze
+- TOP 1.4.6: Wasserwerk / Prozessleitsystem
+- TOP 1.4.7: Wasserampel
+- TOP 1.4.8: Neuer Bauhof
+- TOP 1.4.9: Baugebiet „Im Winkel“
+- TOP 1.4.10: Arrondierungsflächen
+- TOP 1.5: Förderprogramme / Zuwendungen
+- TOP 1.5.1: Mehrzweckhalle Hausen über Aar
+- TOP 1.5.2: „Zukunft Dorfmitte 2026 – gemeinsam gestalten“
+- TOP 1.5.3: Auszeichnung Digitallotsen
+- TOP 1.6: Veranstaltungen und Termine
+- TOP 1.7: Sonstige Mitteilungen der Verwaltung
+- TOP 1.7.1: Personalressourcen im Bauamt
+- TOP 1.7.2: Akteneinsicht Kistenschreinerei
+- TOP 1.7.3: Schlusswort
+- TOP 2.: Anfragen
+- TOP 2.1: Anfrage der Bürgerliste vom 03.06.2026 - Stellenausschreibungen Fachbereich 2 - Bauamt
+- TOP 3.: Vorlagen der Verwaltung
+- TOP 3.1: Maßnahmen und Mittelverschiebung zur Ertüchtigung des Verbindungsweg Kirchstraße; Spülrohrbohrung - Einstimmig angenommen, 0 Enthaltung(en)
+- TOP 3.2: Bauleitplanung der Gemeinde Aarbergen, OT Rückershausen Bebauungsplan „Adventure-Golfplatz“, 1. Änderung u. Erweiterung hier: - Aufstellungsbeschluss gem. § 2 (1) BauGB - Verfahrensdurchführung gem. §§ 3 u. 4 BauGB - Umweltprüfung gem. § 2 (4) BauGB - Änderung des Flächennutzungsplanes im Parallelverfahren gem. § 8 (3) BauGB - 23 Ja-Stimme(n), 3 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 3.3: Neubesetzung im Ortsgericht Michelbach - Einstimmig angenommen, 0 Enthaltung(en)
+- TOP 3.4: Wahl eines Mitgliedes der Gemeindevertretung nach § 72 HGO für die Kommission für Erneuerbare Energien der Gemeinde Aarbergen - 28 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 3.5: Zustimmung zur Satzungsänderung der Stiftung "Passavant-Werke Michelbacher Hütte" - Einstimmig angenommen, 0 Enthaltung(en)
+- TOP 4: Anträge
+- TOP 4.1: Gemeinsamer Antrag der Fraktionen - Sicherung des ärztlichen Bereitschaftsdienstes in der Region - Schließung der Zentrale in Bad Schwalbach verhindern
