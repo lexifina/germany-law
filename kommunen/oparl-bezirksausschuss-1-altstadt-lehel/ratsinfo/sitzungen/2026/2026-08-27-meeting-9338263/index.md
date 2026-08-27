@@ -1,0 +1,131 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-08-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9338263
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9338263
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Anhörung zur BA-Satzungsänderung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“, Frist: 30.09.2026
+- TOP 4.2.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung; Frist: 30.09.2026
+- TOP 4.3.: Anhörung der Bezirksausschüsse zu Änderungen der Bezirksausschuss-Satzung – Einführung eines verpflichtenden Tierschutzbeauftragten; Frist: 30.09.2026
+- TOP 4.4.: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung; Frist: 30.09.2026
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Änderung Sitzungstermin September 2027
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen + Infrastruktur
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Dringende Bitte um Unterstützung Verstoß gegen Stiftungszweck und Untätigkeit bei Nachbarschaftsterror durch Münchner Wohnen – Herrnstraße 36
+- TOP 1.2.: Bürger*innenanliegen: Schutz eines Baumes Frauenplatz
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Liebherrstr. Ferienwohnungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Prinzregentenstr. 1 Sanierung Haus der Kunst und Neugestaltung der Außenanlagen; Frist: 31.08.2026
+- TOP 3.1.2.: Rumfordstr. 39 Nutzungsänderung einer best. Gewerbeeinheit von Büro zu Einzelhandel mit untergeordneter Verköstigung (To-Go-Konzept für Proteinshakes und funktionale Getränke); Frist: 21.09.2026
+- TOP 3.1.3.: Marienplatz 28 Neukonzeption der Mietfläche im UG bis zum 2. OG des Geschäftshauses Marienpl. 28, zum Betrieb eines FLAGSHIP STORES, Änderung der Fassade im Erdgeschoss; Frist: 21.09.2026
+- TOP 3.1.4.: Sendlinger Str. 11 Umnutzung Bürofläche 2.OG in 2 Ferienwohnungen im Sinne § 13 a der BauNVO, keine Änderung an der Gebäudehülle, keinen Eingriff in statische Bauteile; Frist: 21.09.2026
+- TOP 3.1.5.: St.-Anna-Str. 25 Abbruch des Bestands und Neuerrichtung eines Wohngebäudes mit Laden und Atelier - ÄNDERUNGSANTRAG zu 1.2-2019-15574-21 hier: Umnutzung einer Einheit EG + OG1 zu Büronutzung; Frist: 21.09.2026
+- TOP 3.1.6.: Utzschneiderstr. 7 Sanierung und Erneuerung Steildach; Frist: 21.09.2026
+- TOP 3.1.7.: Gewürzmühlstr. 8 ÄNDERUNGSANTRAG zu 1.1-2023-17488-21 Umbau und Modernisierung Verwaltungsgebäude : (Gewürzmühlstr 8 / Sternstr. 3 / Thierschstr. 48) hier: Änderung Freiflächengestaltung; Frist: 21.09.2026
+- TOP 3.1.8.: Platzl 8 Umbau und Nutzungsänderung eines Gastronomiebetriebs in EG und KG; Frist: 21.09.2026
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag Widenmayerstr. 32, Frist: 25.09.2026
+- TOP 3.3: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP C: Mobilität und öffentlicher Raum + Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Aufstellung einer öffentlichen Sitzbank Heiliggeiststr. Viktualienmarkt
+- TOP 1.2.: Bürger*innenanliegen: Fahrradstellplätze Sattlerstraße/Färbergraben
+- TOP 1.3.: Bürger*innenanliegen: präventive Prüfung des Zufahrtsschutzes am Marienplatz
+- TOP 1.4.: Bürger*innenanliegen: Reitmorstraßenverkehr
+- TOP 1.5.: Bürger*innenanliegen Verkehrsführung und Ampelschaltung im Bereich Gasteig – Ludwigsbrücke – Isartor
+- TOP 1.6.: Bürger*innenanliegen: Kreuzung Bayrisches Bauministerium - Fahrradunfall
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Radwege in der Frauenstraße
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen –Zusammenarbeit mit dem Referat für Klima- und Umweltschutz (RKU)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP D: Kultur, Soziales, Bildung + Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball in Altstadt-Lehel, Bezirk 01 vom 01.01. -31.12.2027 6.680,00€; Az. 0262.100-1-0469
+- TOP 2.1.2.: (E) Stadtbezirksbudget Init. szenische Lesung Erich Kästner -Gesang zwischen Stühlen vom 22. -30.01.2027 7.000,00€; Az. 0262.100-1-0470
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "Cycling Theaterperformance" Cycling mit Charlotte Salomon - eine sportliche Theaterperformance am 02.10.2026 5.000,00€; Az. 0262.100-1-0472
+- TOP 2.1.4.: (E) Stadtbezirksbudget Seniorpartner in School -Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 2.000,00€; Az. 0262.100-1-0471
+- TOP 2.1.5.: (E) Stadtbezirksbudget Bühne für Demokratie e.V. „True Warriors“ im Werkraum der Münchner Kammerspiele am 03.10.2026 1.500,00€; Az. 0262.100-1-0468
+- TOP 2.2: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Aktionstag: Da Sein Für München -Marienplatz, Rosenstr, Rindermarkt, Kaufinger, Neuhauser Str. am 10.10.2026 (Termin: 18.09.2026)
+- TOP 3.2.: Münchner Feuerzangenbowle – vom 23.11.2026 bis 06.01.2027 (Termin: 28.09.2026)
+- TOP 3.3.: Prinzenpaarproklamation Würmesia am 11.11.2026 (Termin: 30.09.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP E: Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen: Anhaltende Störungen, Sicherheits- und Hygieneprobleme am Rossmarkt, in der Nähe des Kommunalreferats
+- TOP 1.2.: Bürger*innenanliegen: Beschwerde wegen massiver Lärmbelästigung durch die Veranstaltung Kulturstrand am Vater-Rhein-Brunnen
+- TOP 1.3.: Bürger*innenanliegen: Beschwerde über Lärmbelästigung durch den Kulturstrand am Vater-Rhein-Brunnen
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Westenriederstr. 13: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Neuhauser Str. 2: Erweiterung Warenauslagen
+- TOP 3: Anhörungen
+- TOP 3.1.: Bauernmarktmeile am 27.09.26 Odeonsplatz & Ludwigstraße (Termin: 04.09.2026)
+- TOP 3.2.: Sendlinger-Tor-Platz – Kreativmarkt vom 24.09.- 27.09.2026 (Termin: 04.09.2026)
+- TOP 3.3.: Zamanand / Corso Leopold am 12./13.09.26 (Aufbau in Fußgängerbereichen teils ab 11.09.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) (Termin: 02.09.2026)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen + Infrastruktur
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Bauvorhaben Ländstr. 6, Antwortschreiben Lokalbaukommission
+- TOP B 4.4.: Bürger*innenanliegen: Baumneupflanzungen am Isartorplatz und Bewässerungsmanagement
+- TOP B 4.5.: Bürger*innenanliegen: Zerwirkgewölbes in der Ledererstraße
+- TOP B 4.6.: Gefahrbaumfällung Viktualienmarkt
+- TOP B 4.7.: Bürger*innenanliegen Josephspitalstr. 1, TOP 2026.06 C 1.7, Antwortschreiben
+- TOP B 4.8.: Spitzeiche am Frauenplatz
+- TOP B 4.9.: Gefahrenbaumfällung: Schule Oettingenstraße 78
+- TOP B 4.10.: Seismikmessungen zur Erkundung der tiefen Geothermie – Information zur Anpassung des Zeitplans
+- TOP C 4: Unterrichtungen - Mobilität, öffentlicher Raum + Umwelt
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Bänke Sankt Anna Platz: hier Antrag Aschenbecher, Antwortschreiben
+- TOP C 4.3.: Antrag Fraktion Bündnis 90/ Die Grünen: Grüne Abbiegepfeile für den Radverkehr an signalisierten Kreuzungen in der Altstadt und im Lehel
+- TOP C 4.4.: Sicherheitspoller in der Burgstraße 8, Stellungnahme Baureferat
+- TOP C 4.5.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP C 4.6.: Stationsbasiertes Carsharing und Bikesharing-Angebot „MyRadl“, Information für BAs
+- TOP C 4.7.: Ausnahmezulassung gem. § 7 Abs. 2 der Geräte- und Maschinenlärmschutzverordnung / Jahresgenehmigung
+- TOP C 4.8.: Bürger*innenanliegen Antrag auf geschützten Gehweg Müllerstraße 46-50, um das „absolute Halteverbot“ durchzusetzen, Antwortschreiben
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Bildung + Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Probleme beim Verfahren zur Erteilung der Aufenthaltserlaubnis
+- TOP E 4: Unterrichtungen - Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP E 4.1.: Gaststättenfortführungen
+- TOP E 4.2.: Veranstaltungsgenehmigungen
