@@ -1,5 +1,4 @@
-# Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an
-die Sonderorganisationen der Vereinten Nationen
+# Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1](0001.md)

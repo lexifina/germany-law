@@ -9,5 +9,5 @@
 - [§ 6 Protokollierung](0006.md)
 - [§ 7 Einsichtnahme in die Protokolldaten, Auskünfte](0007.md)
 - [§ 8 Mitteilung der bundeseinheitlichen Wirtschaftsnummer für Unternehmen](0008.md)
-- [§ 9 Inkrafttreten](0009.md)
+- [§ 9 Weitere Datenübermittlung durch die Registerbehörde](0009.md)
 - [Schlussformel](schlussformel.md)
