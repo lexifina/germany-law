@@ -1,6 +1,4 @@
-# Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik
-Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen
-Staatsgrenze
+# Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze
 
 - [Art 1](art-1.md)
 - [Art 2](art-2.md)
