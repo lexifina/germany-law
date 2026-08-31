@@ -1,0 +1,52 @@
+# 39. Sitzung in der IX. Wahlperiode der Vorlagen zur Kenntnisnahme
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-08-31T00:00:00+02:00
+- Ende: 2026-08-31T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6326
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6326
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Neuer Wirtschaftspreis für Lichtenberg Bezug DS Nr. 2122/VI - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2: Reform des Preises „Lichtenberger Unternehmen des Jahres“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3: Grafenauer Weg für Kinder sicher machen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4: Buddhistische Grabstätte in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5: Schulneubau am Standort Weißenseer Weg 76 priorisieren und Planung beschleunigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Jelbi-Station für Neu-Hohenschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7: Dieses Mal richtigmachen: Transparente Kommunikation beim Schulneubau Rheinpfalzallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Miniwälder auch in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9: Sicher Ankommen am Seniorenheim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Bebauungsplan Ostkreuz mit Leben füllen und geplanten Wohnraum umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Ersatz für die JFE Linse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12: Leerstehende Wohnhäuser in der Andernacher Straße/Ecke Königswinterstraße und Ehrenfels-straße/Ecke Loreleystraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13: Mülleimer in der Hauptstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Panchina Rossa - eine rote Parkbank als Mahnmal für Femizide und Gewalt an Frauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15: Gutspark Falkenberg aufwerten: Pflege, Barrierearmut und Sanierung des Gutsteichs sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16: Grundschule an der Schleizer Straße sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17: Ferdinand-Schultze-Straße 71 für eine Schulerweiterung der Grundschule Schleizer Straße sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18: Neue Räume für die Tiertafel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19: Bürger*innenhaushaltsvorschlag umsetzen – endlich wirksame Verkehrsberuhigung im Quartier Lindenhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 20: Baufertigstellungsanzeigen in die Liste der aktuellen Bauvorhaben aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 21: Unterstützung der Initiative "Alkoholfreie Kasse" im Bezirk Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 22: Leitbaken gegen Überfahren der Verkehrsinsel an der Rhinstraße / Landsberger Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 23: 100 Jahre Plattenbauweise in Deutschland - mit Zwischenbericht zur Kenntnis genommen
+- TOP 24: Dorfkate in Falkenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 25: Mülleimer zwischen Rummelsburg und Ostkreuz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 26: Gesicherter Überweg zwischen Elsa-Neumann-Schule und Phönix-Schule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 27: Versetzung bzw. zusätzlicher Fußgängerüberweg an der Dorfstraße in Falkenberg (nahe "Tierheim Berlin/Dorfstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 28: Investitionen anschieben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 29: Vom Bretterzaun ins Internet: Bauinformationen per QR-Code zugänglich machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 30: Grünen Gleisbogen mit naturnahen Kleingärten gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 31: Verkehrssicherheit jetzt - Mehr Verkehrssicherheit für die Kreuzung Marksburgstraße/Lisztstraße/Sangeallee aus dem Sondervermögen finanzieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 32: Integrierte Entwicklung des Verkehrsraums Ostkreuz bezirksübergreifend planen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 33: Bestätigung des Bedarfes an Grundschulplätzen in der Schulplanungsregion 2: Hohenschönhausen Süd (Alt-Hohenschönhausen) für Bauvorhaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 34: Unterzeichnungder Fortschreibung der "Zielvereinbarung zur gesamtstädtischen Steuerung der Öffentlichen Bibliotheken" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 35: Frauengesundheitsbericht Lichtenberg 2026 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 36: Entscheidung über die Zulässigkeit des Bürgerbegehrens unter der Überschrift „Erhalt der Trabrennbahn Karlshorst als ein Sondergebiet mit Zweckbestimmung Grün-, Sport-, Kultur- und Freizeitnutzung ohne Wohn- und Gewerbeflächen" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 37: Bebauungsplan 11-47a-1 VE – Umstellung auf Angebotsbebauungsplan sowie Änderung der Planungsziele Arbeitstitel: Köpenicker Chaussee 15-19 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 38: Erstellung und Veröffentlichung des Energieberichts Gebäude 2024 - zur Kenntnis genommen (Beratungsfolge beendet)
