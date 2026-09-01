@@ -1,0 +1,1 @@
+Auf Grund des Art 50 Abs. 4 des Bayerischen Beamtenversorgungsgesetzes (BayBeamtVG) vom 5. August 2010 (GVBl S. 410, 528, ber. S. 764, BayRS 2033-1-1-F) erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
