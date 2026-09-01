@@ -25,15 +25,19 @@ Steuersachen
 - [§ 3e Erlaubnis zum partiellen Zugang](0003e.md)
 - [§ 3f Untersagung des partiellen Zugangs](0003f.md)
 - [§ 3g Elektronisches Verzeichnis der partiell zugelassenen Personen](0003g.md)
-- [§ 4 Befugnis zu beschränkter Hilfeleistung in Steuersachen](0004.md)
+- [§ 4 Lohnsteuerhilfevereine](0004.md)
+- [§ 4a Vereine von Land- und Forstwirten](0004a.md)
+- [§ 4b Berufs- und Interessenvereinigungen; genossenschaftliche Prüfungsverbände und Treuhandstellen](0004b.md)
+- [§ 4c Öffentliche und öffentlich anerkannte Stellen; Notare; Patentanwälte](0004c.md)
+- [§ 4d Spediteure; sonstige Zollvertreter](0004d.md)
+- [§ 4e Nebenleistungen](0004e.md)
 
 #### Dritter Unterabschnitt Verbot und
 Untersagung
 
 - [§ 5 Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen](0005.md)
-- [§ 6 Ausnahmen vom Verbot der unbefugten Hilfeleistung in
-Steuersachen](0006.md)
-- [§ 7 Untersagung der Hilfeleistung in Steuersachen](0007.md)
+- [§ 6 Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen](0006.md)
+- [§ 7 Untersagung der Hilfeleistung in Steuersachen; Verordnungsermächtigung](0007.md)
 
 #### Vierter Unterabschnitt Sonstige Vorschriften
 
@@ -49,39 +53,37 @@ Steuersachen](0006.md)
 ### Zweiter Abschnitt Lohnsteuerhilfevereine
 
 
-#### Erster Unterabschnitt Aufgaben
+#### Erster Unterabschnitt Anerkennung und allgemeine Anforderungen
 
-- [§ 13 Zweck und Tätigkeitsbereich](0013.md)
+- [§ 13 Tätigkeit](0013.md)
+- [§ 14 Anerkennung](0014.md)
+- [§ 15 Anerkennungsverfahren; Bezeichnung; Gebühr](0015.md)
+- [§ 16 Erlöschen, Rücknahme und Widerruf der Anerkennung](0016.md)
+- [§ 17 Abwicklung schwebender Steuersachen](0017.md)
+- [§ 18 Satzung des Lohnsteuerhilfevereins](0018.md)
+- [§ 19 Beratungsstellen](0019.md)
+- [§ 20 Leitung einer Beratungsstelle](0020.md)
+- [§ 21 Vertreterversammlung](0021.md)
 
-#### Zweiter Unterabschnitt Anerkennung
+#### Zweiter Unterabschnitt Pflichten
 
-- [§ 14 Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit](0014.md)
-- [§ 15 Anerkennungsbehörde, Satzung](0015.md)
-- [§ 16 Gebühren für die Anerkennung](0016.md)
-- [§ 17 Urkunde](0017.md)
-- [§ 18 Bezeichnung "Lohnsteuerhilfeverein"](0018.md)
-- [§ 19 Erlöschen der Anerkennung](0019.md)
-- [§ 20 Rücknahme und Widerruf der Anerkennung](0020.md)
+- [§ 22 Allgemeine Pflichten der Lohnsteuerhilfevereine](0022.md)
+- [§ 23 Aufzeichnungs- und Aufbewahrungspflichten](0023.md)
+- [§ 24 Mitteilungspflichten; Verzeichnisauszug](0024.md)
+- [§ 25 Haftpflichtversicherung; Haftungsausschluss](0025.md)
+- [§ 26 Geschäftsprüfung](0026.md)
 
-#### Dritter Unterabschnitt Pflichten
+#### Dritter Unterabschnitt Aufsicht
 
-- [§ 21 Aufzeichnungspflicht](0021.md)
-- [§ 22 Geschäftsprüfung](0022.md)
-- [§ 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen](0023.md)
-- [§ 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11](0024.md)
-- [§ 25 Haftungsausschluss, Haftpflichtversicherung](0025.md)
-- [§ 26 Allgemeine Pflichten der Lohnsteuerhilfevereine](0026.md)
+- [§ 27 Zuständige Aufsichtsbehörde](0027.md)
+- [§ 28 Pflicht zum Erscheinen vor der Aufsichtsbehörde](0028.md)
+- [§ 28a Befugnisse der Aufsichtsbehörde](0028a.md)
+- [§ 29 Unterrichtung über Mitgliederversammlungen und Teilnahme der Aufsichtsbehörde](0029.md)
+- [§ 30 Elektronisches Verzeichnis der Lohnsteuerhilfevereine](0030.md)
 
-#### Vierter Unterabschnitt Aufsicht
+#### Vierter Unterabschnitt Verordnungsermächtigung
 
-- [§ 27 Aufsichtsbehörde](0027.md)
-- [§ 28 Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde](0028.md)
-- [§ 29 Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen](0029.md)
-- [§ 30 Verzeichnis der Lohnsteuerhilfevereine](0030.md)
-
-#### Fünfter Unterabschnitt Verordnungsermächtigung
-
-- [§ 31 Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine](0031.md)
+- [§ 31 Durchführung der Vorschriften über die Lohnsteuerhilfevereine; Verordnungsermächtigung](0031.md)
 
 ## Zweiter Teil Steuerberaterordnung
 
@@ -336,20 +338,9 @@ Berufsgerichtsbarkeit anzuwendende Vorschriften
 
 ## Dritter Teil Zwangsmittel, Ordnungswidrigkeiten
 
-
-### Erster Abschnitt Vollstreckung wegen
-Handlungen und Unterlassungen
-
 - [§ 159 Zwangsmittel](0159.md)
-
-### Zweiter Abschnitt Ordnungswidrigkeiten
-
-- [§ 160 Unbefugte Hilfeleistung in Steuersachen](0160.md)
-- [§ 161 Schutz der Bezeichnungen "Steuerberatungsgesellschaft",
-"Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"](0161.md)
-- [§ 162 Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten](0162.md)
-- [§ 163 Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient](0163.md)
-- [§ 164 Verfahren](0164.md)
+- [§ 160 Bußgeldvorschriften](0160.md)
+- [(XXXX) §§ 161 bis 164 (weggefallen)](xxxx-161-bis-164.md)
 
 ## Vierter Teil Schlussvorschriften
 
@@ -360,5 +351,5 @@ Handlungen und Unterlassungen
 - [§ 166 Fortgeltung bisheriger Vorschriften](0166.md)
 - [§ 167 Freie und Hansestadt Hamburg](0167.md)
 - [§ 168 Inkrafttreten des Gesetzes](0168.md)
-- [Anlage 1 (zu § 86 Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
+- [Anlage 1 (zu § 85a Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen](anlage-1.md)
 - [Anlage 2 (zu § 146 Satz 1)Gebührenverzeichnis](anlage-2.md)

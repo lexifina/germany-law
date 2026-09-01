@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 86 Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+# Anlage 1 (zu § 85a Absatz 3a Satz 1)Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
 
 I. Begriffsbestimmungen
 Im Rahmen dieser Anlage bezeichnen die Begriffe
@@ -7,7 +7,7 @@ Im Rahmen dieser Anlage bezeichnen die Begriffe
 3. „geschützte Berufsbezeichnung“ eine Form der Reglementierung eines Berufs, bei der die Verwendung einer Bezeichnung bei der Ausübung einer beruflichen Tätigkeit oder einer Gruppe von beruflichen Tätigkeiten auf Grund von Rechts- oder Verwaltungsvorschriften unmittelbar oder mittelbar an den Besitz einer bestimmten Berufsqualifikation gebunden ist und bei der bei einer missbräuchlichen Verwendung der Bezeichnung Sanktionen verhängt werden;
 4. „vorbehaltene Tätigkeit“ eine Form der Reglementierung eines Berufs, bei der der Zugang zu einer beruflichen Tätigkeit oder einer Gruppe von beruflichen Tätigkeiten auf Grund von Rechts- oder Verwaltungsvorschriften unmittelbar oder mittelbar Angehörigen eines reglementierten Berufs vorbehalten wird, die eine bestimmte Berufsqualifikation besitzen, und zwar auch dann, wenn diese Tätigkeit mit anderen reglementierten Berufen geteilt wird.
 II. Zu prüfende Kriterien
-Eine Vorschrift im Sinne des § 86 Absatz 3 Satz 3
+Eine Vorschrift im Sinne des § 85a Absatz 3 Satz 3
 1. darf weder eine direkte noch eine indirekte Diskriminierung auf Grund der Staatsangehörigkeit oder des Wohnsitzes darstellen;
 2. muss durch zwingende Ziele des Allgemeininteresses objektiv gerechtfertigt sein; während Gründe, die rein wirtschaftlicher oder verwaltungstechnischer Natur sind, hierbei ausscheiden, kommen insbesondere in Betracht
   a) die öffentliche Sicherheit und Ordnung,

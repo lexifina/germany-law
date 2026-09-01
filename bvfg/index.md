@@ -40,7 +40,7 @@
 ## Fünfter Abschnitt Namensführung, Beratung
 
 - [§ 94 Familiennamen und Vornamen](0094.md)
-- [§ 95 Unentgeltliche Beratung](0095.md)
+- [§ 95 (weggefallen)](0095.md)
 
 ## Sechster Abschnitt Kultur, Forschung und Statistik
 

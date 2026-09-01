@@ -240,7 +240,7 @@ der Herstellung der Einheit Deutschlands
 ### Art 99 Ermächtigungen
 
 
-### Art 100
+### Art 100 Besondere Aufzeichnungspflichten
 
 
 ### Art 101 Übergangsvorschrift zum Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union

@@ -19,12 +19,17 @@ Befugnis
 | § 3e | Erlaubnis zum partiellen Zugang |
 | § 3f | Untersagung des partiellen Zugangs |
 | § 3g | Elektronisches Verzeichnis der partiell zugelassenen Personen |
-| § 4 | Befugnis zu beschränkter Hilfeleistung in Steuersachen |
+| § 4 | Lohnsteuerhilfevereine |
+| § 4a | Vereine von Land- und Forstwirten |
+| § 4b | Berufs- und Interessenvereinigungen; genossenschaftliche Prüfungsverbände und Treuhandstellen |
+| § 4c | Öffentliche und öffentlich anerkannte Stellen; Notare; Patentanwälte |
+| § 4d | Spediteure; sonstige Zollvertreter |
+| § 4e | Nebenleistungen |
 Dritter Unterabschnitt
 Verbot und Untersagung
 | § 5 | Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen |
 | § 6 | Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen |
-| § 7 | Untersagung der Hilfeleistung in Steuersachen |
+| § 7 | Untersagung der Hilfeleistung in Steuersachen; Verordnungsermächtigung |
 Vierter Unterabschnitt
 Sonstige Vorschriften
 | § 8 | Werbung |
@@ -38,34 +43,33 @@ Sonstige Vorschriften
 Zweiter Abschnitt
 Lohnsteuerhilfevereine
 Erster Unterabschnitt
-Aufgaben
-| § 13 | Zweck und Tätigkeitsbereich |
+Anerkennung und allgemeine Anforderungen
+| § 13 | Tätigkeit |
+| § 14 | Anerkennung |
+| § 15 | Anerkennungsverfahren; Bezeichnung; Gebühr |
+| § 16 | Erlöschen, Rücknahme und Widerruf der Anerkennung |
+| § 17 | Abwicklung schwebender Steuersachen |
+| § 18 | Satzung des Lohnsteuerhilfevereins |
+| § 19 | Beratungsstellen |
+| § 20 | Leitung einer Beratungsstelle |
+| § 21 | Vertreterversammlung |
 Zweiter Unterabschnitt
-Anerkennung
-| § 14 | Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit |
-| § 15 | Anerkennungsbehörde, Satzung |
-| § 16 | Gebühren für die Anerkennung |
-| § 17 | Urkunde |
-| § 18 | Bezeichnung „Lohnsteuerhilfeverein“ |
-| § 19 | Erlöschen der Anerkennung |
-| § 20 | Rücknahme und Widerruf der Anerkennung |
-Dritter Unterabschnitt
 Pflichten
-| § 21 | Aufzeichnungspflicht |
-| § 22 | Geschäftsprüfung |
-| § 23 | Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen |
-| § 24 | Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 |
-| § 25 | Haftungsausschluss, Haftpflichtversicherung |
-| § 26 | Allgemeine Pflichten der Lohnsteuerhilfevereine |
-Vierter Unterabschnitt
+| § 22 | Allgemeine Pflichten der Lohnsteuerhilfevereine |
+| § 23 | Aufzeichnungs- und Aufbewahrungspflichten |
+| § 24 | Mitteilungspflichten; Verzeichnisauszug |
+| § 25 | Haftpflichtversicherung; Haftungsausschluss |
+| § 26 | Geschäftsprüfung |
+Dritter Unterabschnitt
 Aufsicht
-| § 27 | Aufsichtsbehörde |
-| § 28 | Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde |
-| § 29 | Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen |
-| § 30 | Verzeichnis der Lohnsteuerhilfevereine |
-Fünfter Unterabschnitt
+| § 27 | Zuständige Aufsichtsbehörde |
+| § 28 | Pflicht zum Erscheinen vor der Aufsichtsbehörde |
+| § 28a | Befugnisse der Aufsichtsbehörde |
+| § 29 | Unterrichtung über Mitgliederversammlungen und Teilnahme der Aufsichtsbehörde |
+| § 30 | Elektronisches Verzeichnis der Lohnsteuerhilfevereine |
+Vierter Unterabschnitt
 Verordnungsermächtigung
-| § 31 | Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine |
+| § 31 | Durchführung der Vorschriften über die Lohnsteuerhilfevereine; Verordnungsermächtigung |
 Zweiter Teil
 Steuerberaterordnung
 Erster Abschnitt
@@ -297,13 +301,9 @@ Erster Abschnitt
 Vollstreckung wegen
 Handlungen und Unterlassungen
 | § 159 | Zwangsmittel |
-Zweiter Abschnitt
-Ordnungswidrigkeiten
-| § 160 | Unbefugte Hilfeleistung in Steuersachen |
-| § 161 | Schutz der Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“ und „Landwirtschaftliche Buchstelle“ |
-| § 162 | Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten |
-| § 163 | Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient |
-| § 164 | Verfahren |
+| § 160 | Bußgeldvorschriften |
+| §§ 161 bis 164 | (weggefallen) |
+|  |  |
 Vierter Teil
 Schlussvorschriften
 | § 164a | Verwaltungsverfahren und finanzgerichtliches Verfahren |
