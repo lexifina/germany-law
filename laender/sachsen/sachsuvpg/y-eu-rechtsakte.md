@@ -1,0 +1,4 @@
+EU-Rechtsakte
+1. Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie (EU) 2025/1237 vom 17. Juni 2025 (ABl. L 1237 S. 1 vom 24.6.2025) geändert worden ist
+2. Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die zuletzt durch die Verordnung (EU) 2019/1010 vom 5. Juni 2019 (ABl. L 170 S. 115 vom 25.6.2019) geändert worden ist
+3. Richtlinie 2012/18/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012 zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen, zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG des Rates (ABl. L 197 vom 24.7.2012, S. 1)
