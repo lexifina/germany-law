@@ -1,0 +1,3 @@
+# Art 1
+
+Die durch Notenwechsel vom 9. März 2026 und 21. Mai 2026 geschlossene Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Entwicklungsprogramm der Vereinten Nationen über die Anwendung des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen auf das Entwicklungsprogramm der Vereinten Nationen, einschließlich seines Repräsentationsbüros in Bonn, seines Satellitenbüros in Berlin sowie anderer möglicher künftiger Satellitenbüros innerhalb Deutschlands, wird hiermit in Kraft gesetzt. Der Notenwechsel wird mit einer amtlichen deutschen Übersetzung nachstehend veröffentlicht.
