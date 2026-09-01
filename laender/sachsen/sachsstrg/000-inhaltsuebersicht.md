@@ -4,13 +4,14 @@ Erster Teil Allgemeine Bestimmungen
 § 1 Geltungsbereich
 § 2 Öffentliche Straßen
 § 3 Einteilung der öffentlichen Straßen
-§ 4 Straßenverzeichnisse und Straßennummern
+§ 4 Straßenverzeichnisse, Straßennummern, Bestandsverzeichnisse
 § 5 Ortsdurchfahrten
 § 6 Widmung
 § 6a Widmung bei außergewöhnlichen Ereignissen
 § 7 Umstufung
 § 8 Einziehung
 § 9 Straßenbaulast
+§ 9a Duldungspflichten im Interesse der unerheblichen baulichen Umgestaltung und der Unterhaltung
 § 10 Hoheitsverwaltung, bautechnische Sicherheit
 2. Abschnitt Eigentum an öffentlichen Straßen
 § 11 Wechsel der Straßenbaulast
@@ -52,7 +53,7 @@ Erster Teil Allgemeine Bestimmungen
 § 41 Einstellung des Planfeststellungsverfahrens
 § 42 Vorzeitige Besitzeinweisung
 § 42a Vertreter des Eigentümers
-§ 43 Enteignung
+§ 43 Enteignung, Entschädigung
 Zweiter Teil Straßenbaulastträger, Aufsicht und Zuständigkeit
 § 44 Träger der Straßenbaulast
 § 45 Straßenbaulast Dritter
@@ -69,8 +70,8 @@ Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 § 54 Bestandsverzeichnisse
 § 55 (aufgehoben)
 § 56 (aufgehoben)
-§ 57 (aufgehoben)
+§ 57 Einstandspflicht (Übergangsvorschrift zu § 11 Absatz 4)
 § 58 Sondernutzung
-§ 59 (aufgehoben)
-§ 60 (aufgehoben)
+§ 59 Kreuzungsrechtlicher Vorteilsausgleich (Übergangsvorschrift zu § 30 Absatz 3 Satz 2)
+§ 60 Planfeststellung (Übergangsvorschrift zu § 39 Absatz 1)
 § 61 Schlussbestimmungen
