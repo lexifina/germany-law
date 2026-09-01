@@ -1,0 +1,1 @@
+Auf Grund des Art. 86a Abs. 5 Satz 1 des Bayerischen Beamtengesetzes (BayBG) in der Fassung der Bekanntmachung vom 27. August 1998 (GVBl S. 702, BayRS 2030-1-1-F), zuletzt geändert durch § 1 des Gesetzes vom 8. Dezember 2006 (GVBl S. 987), erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:

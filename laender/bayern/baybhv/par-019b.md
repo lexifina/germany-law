@@ -1,0 +1,2 @@
+# § 19b Gebärdensprachdolmetscherinnen oder Gebärdensprachdolmetscher
+Sind auf Grund einer Hörbehinderung bei der Durchführung von ärztlichen Untersuchungen und sonstigen medizinischen Maßnahmen die Leistungen einer Gebärdensprachdolmetscherin oder eines Gebärdensprachdolmetschers erforderlich, sind die in entsprechender Anwendung des § 9 Abs. 5 und 6 sowie der §§ 5 und 6 Abs. 1 des Justizvergütungs- und -entschädigungsgesetzes sich ergebenden Vergütungen beihilfefähig.
