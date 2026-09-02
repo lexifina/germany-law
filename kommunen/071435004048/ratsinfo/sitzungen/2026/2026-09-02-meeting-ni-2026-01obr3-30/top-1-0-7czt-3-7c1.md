@@ -1,0 +1,7 @@
+# TOP 1: Zuschussanträge für gemeinnützige Maßnahmen und Anschaffungen
+
+- Sitzung: Sitzung des Ortsbeirates Eschelbach (2026-09-02)
+- Körperschaft: Stadt Montabaur
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2026-01OBR3-30%7Czt_3%7C1
+- Beschluss (Datei): Beschluss - Top 1 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-01OBR3-30%7Czt_3%7C1
