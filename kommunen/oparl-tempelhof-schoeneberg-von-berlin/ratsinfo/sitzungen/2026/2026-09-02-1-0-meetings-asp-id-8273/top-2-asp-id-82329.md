@@ -1,0 +1,6 @@
+# TOP 2: Genehmigung vorliegender Protokolle (56. Sitzung Freigabe durch AV)
+
+- Sitzung: 57. öffentliche Sitzung des Hauptausschusses (2026-09-02)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=82329
