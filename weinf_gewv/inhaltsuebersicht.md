@@ -9,7 +9,7 @@ Förderung von Maßnahmen
 | § 3 | Zuständige Stellen |
 | § 4 | Antragsverfahren |
 | § 5 | Antragsinhalt |
-| § 6 | Auswahlverfahren |
+| § 6 | Auswahlverfahren; Subdelegation |
 | § 7 | Vorschusszahlungen und Sicherheitsleistungen |
 | § 8 | Förderfähigkeit von maßnahmenbezogenen Kosten |
 | § 9 | Förderfähigkeit von Personalkosten |
@@ -28,22 +28,19 @@ Abschnitt 4
 Kontrollen
 | § 19 | Allgemeines |
 | § 20 | Verwaltungskontrollen |
-| § 21 | Inhalt der Vor-Ort-Kontrollen |
-| § 22 | Vor-Ort-Kontrollen |
-| § 23 | Kontrollsatz und Stichprobenerhebung für Vor-Ort-Kontrollen |
-| § 24 | Auswahl der Kontrollstichprobe |
-| § 25 | Vor-Ort-Kontrollen bei Umstrukturierung und Umstellung von Rebflächen |
-| § 26 | Kontrollen zur Einhaltung der Zweckbindung |
-| § 27 | Berichte über Vor-Ort-Kontrollen |
-| § 28 | Kontrollierte Personen |
+| § 21 | Vor-Ort-Kontrollen |
+| § 22 | Verwaltungs- und Vor-Ort-Kontrollen bei der Maßnahme nach § 1 Absatz 2 Nummer 1, 3 und 9 |
+| § 23 | Kontrollen zur Einhaltung der Zweckbindung |
+| § 24 | Berichte über Vor-Ort-Kontrollen |
+| § 25 | Kontrollierte Personen |
 Abschnitt 5
 Sanktionen
-| § 29 | Kürzung von Förderbeträgen |
-| § 30 | Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1 |
-| § 31 | Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten |
-| § 32 | Verzicht auf Sanktionen |
-| § 33 | Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen |
-| § 34 | Rückforderung zu Unrecht gezahlter Beträge |
+| § 26 | Kürzung von Förderbeträgen |
+| § 27 | Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1 |
+| § 28 | Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten |
+| § 29 | Verzicht auf Sanktionen |
+| § 30 | Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen |
+| § 31 | Rückforderung zu Unrecht gezahlter Beträge |
 Abschnitt 6
 Schlussbestimmungen
-| § 35 | Muster, Vordrucke |
+| § 32 | Muster, Vordrucke |

@@ -50,9 +50,6 @@
 | § 31 | Weine für religiöse Zwecke |
 | § 32 | Angabe von Weinarten; Reifeangaben |
 | § 32a | Classic |
-| § 32b | Erstes Gewächs und Großes Gewächs |
-| § 32c | Weitere Bestimmungen für Classic |
-| § 32d | Abweichungen; Ausnahmen |
 | § 33 | Liebfrau(en)milch; Hock |
 | § 33a | Verwendung bestimmter Behältnisse |
 | § 34 | Riesling-Hochgewächs; Der Neue; primeur |
@@ -74,7 +71,7 @@
 | § 46 | Angabe des Alkoholgehalts bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails |
 | § 46a | Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt |
 | § 46b | Zutaten, die allergische oder andere Unverträglichkeitsreaktionen auslösen können |
-| § 47 | Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein |
+| § 47 | (weggefallen) |
 | § 48 | (weggefallen) |
 | § 49 | Art der Aufmachung |
 | § 50 | Angabe des Loses |

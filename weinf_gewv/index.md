@@ -11,9 +11,8 @@
 - [§ 2 Begünstigte](0002.md)
 - [§ 3 Zuständige Stellen](0003.md)
 - [§ 4 Antragsverfahren](0004.md)
-- [§ 5 Auswahlverfahren](0005.md)
-- [§ 5 (doppelt)Antragsinhalt](0005-2.md)
-- [§ 6 Auswahlverfahren](0006.md)
+- [§ 5 Antragsinhalt](0005.md)
+- [§ 6 Auswahlverfahren; Subdelegation](0006.md)
 - [§ 7 Vorschusszahlungen und Sicherheitsleistungen](0007.md)
 - [§ 8 Förderfähigkeit von maßnahmenbezogenen Kosten](0008.md)
 - [§ 9 Förderfähigkeit von Personalkosten](0009.md)
@@ -34,24 +33,21 @@
 
 - [§ 19 Allgemeines](0019.md)
 - [§ 20 Verwaltungskontrollen](0020.md)
-- [§ 21 Inhalt der Vor-Ort-Kontrollen](0021.md)
-- [§ 22 Vor-Ort-Kontrollen](0022.md)
-- [§ 23 Kontrollsatz und Stichprobenerhebung für Vor-Ort-Kontrollen](0023.md)
-- [§ 24 Auswahl der Kontrollstichprobe](0024.md)
-- [§ 25 Verwaltungs- und Vor-Ort-Kontrollen bei Umstrukturierung und Umstellung von Rebflächen](0025.md)
-- [§ 26 Kontrollen zur Einhaltung der Zweckbindung](0026.md)
-- [§ 27 Berichte über Vor-Ort-Kontrollen](0027.md)
-- [§ 28 Kontrollierte Personen](0028.md)
+- [§ 21 Vor-Ort-Kontrollen](0021.md)
+- [§ 22 Verwaltungs- und Vor-Ort-Kontrollen bei der Maßnahme nach § 1 Absatz 2 Nummer 1, 3 und 9](0022.md)
+- [§ 23 Kontrollen zur Einhaltung der Zweckbindung](0023.md)
+- [§ 24 Berichte über Vor-Ort-Kontrollen](0024.md)
+- [§ 25 Kontrollierte Person](0025.md)
 
 ## Abschnitt 5 Sanktionen
 
-- [§ 29 Kürzung von Förderbeträgen](0029.md)
-- [§ 30 Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1](0030.md)
-- [§ 31 Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten](0031.md)
-- [§ 32 Verzicht auf Sanktionen](0032.md)
-- [§ 33 Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen](0033.md)
-- [§ 34 Rückforderung zu Unrecht gezahlter Beträge](0034.md)
+- [§ 26 Kürzung von Förderbeträgen](0026.md)
+- [§ 27 Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1](0027.md)
+- [§ 28 Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten](0028.md)
+- [§ 29 Verzicht auf Sanktionen](0029.md)
+- [§ 30 Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen](0030.md)
+- [§ 31 Rückforderung zu Unrecht gezahlter Beträge](0031.md)
 
 ## Abschnitt 6 Schlussbestimmungen
 
-- [§ 35 Muster, Vordrucke](0035.md)
+- [§ 32 Muster, Vordrucke](0032.md)
