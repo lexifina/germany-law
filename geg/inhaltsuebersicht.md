@@ -34,7 +34,7 @@ Nichtwohngebäude
 | § 18 | Gesamtenergiebedarf |
 | § 19 | Baulicher Wärmeschutz |
 Abschnitt 3
-Berechnungsgrundlagen und -verfahren
+Hybsgrundlagen und -verfahren
 | § 20 | Berechnung des Jahres-Primärenergiebedarfs eines Wohngebäudes |
 | § 21 | Berechnung des Jahres-Primärenergiebedarfs eines Nichtwohngebäudes |
 | § 22 | Primärenergiefaktoren |
