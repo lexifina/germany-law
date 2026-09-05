@@ -37,6 +37,6 @@
 4.17 Während des Transports ist die Einfüllöffnung der Pfannen mit einem Deckel dicht zu verschließen.
 Anhang
 Bild 1
-[Bild: bgbl1_2023_j02270_0010.jpg]
+[Bild: bgbl1_2026_j02420_0010.jpg]
 Bild 2
-[Bild: bgbl1_2023_j02270_0020.jpg]
+[Bild: bgbl1_2026_j02420_0020.jpg]

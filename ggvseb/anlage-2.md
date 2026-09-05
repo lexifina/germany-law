@@ -29,11 +29,8 @@
   a) Die in den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID genannten Regelungen bzw. Sicherheitsvorschriften sind auch für die innerstaatliche Beförderung zu beachten.
   b) Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Niebüll und Westerland (Sylt) ist abweichend von den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID die Gefahrgutbeförderung in Reisezügen unter Beachtung der nachfolgenden Bestimmungen erlaubt:
     aa) Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
-      | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstücken in gedeckten und bedeckten Straßenfahrzeugen |
-      | a) | Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig, | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
-      | b) | Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig, |
-      | c) | Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und |
-      | d) | Gefahrgüter der Klasse 9, Verpackungsgruppe II und III |
+      | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstückenin gedeckten und bedeckten Straßenfahrzeugen |
+      | a)Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,b)Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig,c)Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig undd)Gefahrgüter der Klasse 9, Verpackungsgruppe II und III | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
     bb) Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
     cc) Zwischenwagen oder Elemente einer fest gekuppelten Einheit:
       Erfolgt die Beförderung mit einzeln gekuppelten Güterwagen, ist zwischen den Güterwagen, auf denen mit gefährlichen Gütern beladene Straßenfahrzeuge verladen sind, und den übrigen Güterwagen, auf denen sich Personenkraftfahrzeuge oder mit Fahrgästen besetzte Busse befinden, mindestens ein unbeladener Güterwagen oder ein Güterwagen, der nur mit Straßenfahrzeugen ohne gefährliches Gut beladen ist, zu befördern.
@@ -69,7 +66,7 @@
   Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 35 kPa (0,35 Bar) gefordert wird.
   Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
 Stoffliste Nummer 1:
-| UN- Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
+| UN-Nummer | Klasse undKlassifizierungscode | Verpackungs-gruppe | Benennung und Beschreibung |
 | 1114 | 3, F1 | II | BENZEN |
 | 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
 | 1143 | 6.1, TF1 | I | CROTONALDEHYD, STABILISIERT |
@@ -113,7 +110,7 @@ Stoffliste Nummer 1:
 Stofflisten Nummer 2 bis 4
 (weggefallen)
 Stoffliste Nummer 5:
-| UN-Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
+| UN-Nummer | Klasse undKlassifizierungscode | Verpackungs-gruppe | Benennung und Beschreibung |
 | 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
 | 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
 | 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |
