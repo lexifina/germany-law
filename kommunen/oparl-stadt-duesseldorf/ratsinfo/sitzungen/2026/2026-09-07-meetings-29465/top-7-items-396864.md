@@ -1,0 +1,8 @@
+# TOP 7: Bebauungsplan-Entwurf Nr. 01/025 - Hans-Böckler-Straße 39
+
+- Sitzung: Ausschuss für Wohnungswesen und Modernisierung (2026-09-07)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/396864
+- Ergebnis: Empfehlung mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/140761
