@@ -1,0 +1,6 @@
+# TOP 5: Bericht der Verwaltung (15 Minuten)
+
+- Sitzung: 60. (öffentliche) Sitzung des Jugendhilfeausschusses ENTFÄLLT (2026-09-08)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=73899
