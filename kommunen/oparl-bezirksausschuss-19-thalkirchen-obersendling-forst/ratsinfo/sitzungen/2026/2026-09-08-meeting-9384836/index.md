@@ -1,0 +1,76 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-09-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384836
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384836
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 04.08.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Satzungsänderung Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 2.4.: (A) Satzungsänderung: Einführung eines Tierschutzbeauftragten als Pflichtbeauftragte in die BA-Satzung
+- TOP 2.5.: (A) Satzungsänderung: Anpassung der BA-Satzung an die neue Baumschutzverordnung
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball! Mädchenfußball im Bezirk 19 Fürstenried-Solln vom 01.01. -31.12.2027 6.680,00€; Az. 0262.100-19-0644
+- TOP 3.3.: (E) Stadtbezirksbudget Pianistenclub e. V. 20 Finger, 88 Tasten - Klavierabend mit drei Klavierduos am 19.11.2026 1.706,74€; Az. 0262.100-19-0645
+- TOP 3.4.: (E) Stadtbezirksbudget Monstergirls GbR - Initiative Ausstellungspark Spät rechts einschlafen am 24.09.2026 1.800,00€; Az. 0262.100-19-0646
+- TOP 3.5.: (E) Stadtbezirksbudget Helferkreis "Miteinander leben in Forstenried" Sommerfest am 25.09.2026 1.465,89€; Az. 0262.100-19-0648
+- TOP 3.6.: (E) Stadtbezirksbudget amanda - für Mädchen und junge Frauen, VfpI e.V. Internationaler Mädchentag, Marienplatz am 08.10.2026, Rotes Zimmer Schuljahr 26/27, Stadtteilfeste 640,62€; Az. 0262.100-19-0642
+- TOP 3.7.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 8.000,00€; Az. 0262.100-19-0649
+- TOP 3.8.: (E) Stadtbezirksbudget Gründungsinitiative Bühnenherz - Theater für alle Jugendtheaterprojekt vom 30.09.2026 -21.07.2027 9.226,00€; Az. 0262.100-19-0651
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Bäume pflanzen in der westlichen Hofbrunnstraße
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verbesserung der Sichtbeziehungen am Fußgängerüberweg Baierbrunner Straße
+- TOP 5.2.: (E) Sammelbeschluss offene Bürgerversammlungsempfehlungen – BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP 5.3.: (A) Abstimmung neues Radverkehrsnetz für München – IR IV
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Aufhebung eines Haltverbotes in der Leo-Graetz-Straße
+- TOP 5.5.: (A) Sanierung und Modernisierung der P+R-Anlage Aidenbachstraße; Tram-Westtangente
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: Hofmannstraße 61
+- TOP 6.2.2: Geisenbrunner Straße 76, Haus 1
+- TOP 6.2.3: Geisenbrunner Straße 76, Haus 2
+- TOP 6.2.4: Geisenbrunner Straße 76, Haus 3
+- TOP 6.2.5: Kistlerhofstraße 237
+- TOP 6.2.6: Knöpflerstraße 17
+- TOP 6.3.: (A) Benehmensverfahren Boschetsrieder Str. 13 - 17
+- TOP 6.4.: (A) Stadtratsantrag Nr. 20-26 A 06304: Schutz langjähriger Mieterinnen in Fürstenried West
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: Kriegerdenkmal Forstenried
+- TOP 8.2.: (U) Standplatz eines Marionettentheaters Forstenrieder Allee
+- TOP 8.3.: (A) Verlängerung einer bestehenden Unterkunft für Geflüchtete an dem Standort Forstenrieder Allee 246 (Flst.Nr. 494/0, Gemarkung Forstenried)
+- TOP 8.4.: Ruhestörung im Wohngebiet Allgäuer Straße / Kemptener Straße
+- TOP 8.5.: (Antrag) Ein Bürgerbüro muss im 19. Stadtbezirk bleiben
+- TOP 8.6.: (Anfrage) Wohnungssituation im BA 19
+- TOP 9: Verschiedenes
+- TOP 4.4.: (A) Beschlussvorlage "Öffentliche Grünflächen Hofmann Höfe, Bedarfs- und Konzeptgenehmigung", Sitzungsvorlage Nr. 26-32 / V 01222
+- TOP 6.2.7: Leutstettener Straße 63, Haus 1
+- TOP 6.2.8: Leutstettener Straße 63, Haus 2
+- TOP 6.2.9: Springerstraße 3
+- TOP 8.1.2: Stadtteilwoche Sendling – Obersendling
+- TOP 8.7.: (U) Gaststättenfortführung: Zentralländstraße
+- TOP 8.8.: (A) Veranstaltung: Marathon München (und diverse Neben-Wettbewerbe) am 11.10.2026 im gesamten Münchner Stadtgebiet
+- TOP 8.9.: (U) Lagerplatz für Glasfaserausbau an der Liesl-Karlstadt-Straße
