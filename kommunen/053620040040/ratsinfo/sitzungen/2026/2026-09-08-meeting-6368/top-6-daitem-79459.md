@@ -1,0 +1,6 @@
+# TOP 6.: Bericht des Jugendrats
+
+- Sitzung: Jugendhilfeausschuss (4. Sitzung) (2026-09-08)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/79459
