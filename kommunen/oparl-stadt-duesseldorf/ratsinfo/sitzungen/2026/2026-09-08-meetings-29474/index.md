@@ -1,0 +1,71 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-08T17:00:00+02:00
+- Ende: 2026-09-08T21:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29474
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29474
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00595763.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00595763.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00595763.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 1.1: Zulassung von Vertretungen betroffener Bevölkerungsgruppen (Vertretung des Behindertenrates) gem. § 58 Abs. 3 GO NRW - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift der öffentlichen Sitzung vom 19.05.2026 - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift der öffentlichen Sitzung vom 30.06.2026 - einstimmig beschlossen
+- TOP 3: Anfragen und Anregungen aus der Bürgerschaft - zur Kenntnis genommen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Austausch mit Oberbürgermeister Dr. Stephan Keller
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Ausführungs- und Finanzierungsbeschluss zum Neubau der Rettungswache 24 an der Völklinger Straße – Feuerwehrorganisatorische Maßnahmen I (FOM I) - einstimmig beschlossen
+- TOP 6.2: Streckenbezogene Reduzierung der zulässigen Höchstgeschwindigkeit auf 30km/h in der Ellerstraße zwischen Höhenstraße und Stahlstraße - einstimmig beschlossen
+- TOP 6.3: Errichtung der Mobilitätsstation „Erftplatz“ - einstimmig beschlossen
+- TOP 6.4: Stadtbezirksnetz für den Ausbau von Mobilitätsstationen im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 7: Bau- und Planungsangelegenheiten
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Umgestaltung Kinderspielplatz Ulenbergstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses – - abweichend beschlossen
+- TOP 7.5: Umgestaltung Kinderspielplatz Ständehausanlage - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses – - einstimmig beschlossen
+- TOP 8: Bezirklicher Bauunterhalt und Zuschüsse
+- TOP 8.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - Haushalt 2026 Liste A Schulen - einstimmig beschlossen
+- TOP 8.2: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 8.3: Information über beschlossene Zuschüsse - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Notanlaufpunkte im Stadtbezirk 3 – Planung, Kommunikation und Einbindung der Bevölkerung (Anfrage Bündnis 90/Die Grünen) - zur Kenntnis genommen
+- TOP 9.1.2: Verbesserung der Beleuchtung und Prüfung intelligenter Sicherheitstechnik in Angsträumen des Stadtbezirks 3 (Anfrage Hr. Pennekamp FDP) - zur Kenntnis genommen
+- TOP 9.1.3: Entwicklung der Parkplatzsituation im Stadtbezirk 3 (Anfrage AfD-Fraktion) - vertagt
+- TOP 9.1.4: Abgestellte Einkaufswagen im Stadtbezirk 3 (Anfrage Dr. Graeßner - Bezirksbürgermeister) - zur Kenntnis genommen
+- TOP 9.1.5: Bußgelder für falsch geparkte E-Scooter (Anfrage Fraktion SPD/Volt) - vertagt
+- TOP 9.1.6: Ladezonen im Stadtbezirk 3 (Anfrage Fraktion SPD/Volt) - zur Kenntnis genommen
+- TOP 9.1.7: Wann geht es Auf’m Hennekamp 70 weiter? (Anfrage Fraktion SPD/Volt) - zur Kenntnis genommen
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Anfrage zur Veranstaltung „Rock gegen Rechts“ (Anfrage AfD-Fraktion) - vertagt
+- TOP 9.2.2: Anfrage zu Verwaltungsvorgängen und zum Umfeld des Gehry-Ensembles am Neuen Zollhof (Anfrage AfD-Fraktion) - vertagt
+- TOP 9.2.3: Drogenszene und Belastungen des öffentlichen Raums im Bereich Heinz-Schmöle-Straße/Atrium (Anfrage Fr. Blinova AfD-Fraktion) - zur Kenntnis genommen
+- TOP 9.2.4: Schulstraßen-Konzept und Walking Bus zur Verbesserung der Schulwegsicherheit im Stadtbezirk 3 (Anfrage Fraktion Bündnis90/Die Grünen) - vertagt
+- TOP 9.2.5: Nächtliches Tempo 30 auf der Corneliusstraße aus Lärm- und Gesundheitsschutzgründen (Anfrage Fraktion Bündnis 90/Die Grünen) - vertagt
+- TOP 10: Anträge
+- TOP 10.1: Klimaangepasste Aufenthaltsqualität im öffentlichen Raum –Pilotprojekt zur schattenspendenden Stadtbegrünung (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.2: Prüfantrag: Bessere Erschließung der Fleher und Volmerswerther Felder (Antrag Fraktion Bündnis 90/Die Grünen, CDU-Fraktion) - einstimmig beschlossen
+- TOP 10.3: Prüfantrag: Errichtung einer nahezu autofreien Brunnenstraße zwischen April - Oktober 2027 im Rahmen eines Modellversuchs „autofreies Sommersemester“ (Antrag Fraktion Die Linke) - abweichend beschlossen
+- TOP 10.4: Prüfantrag: Errichtung einer autofreien Friedrichstraße an Wochenenden zwischen April - Oktober 2027 im Rahmen eines Modellversuchs „autofreies Sommersemester“ (Antrag Fraktion Die Linke) - mehrheitlich abgelehnt
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Aufstellung von Pollern zur Abbindung des Aderkirchwegs zum Südring in Richtung Neuss als priorisierte Maßnahme - zur Kenntnis genommen
+- TOP 11.2: Keine Glascontainer neben dem Radweg auf der Oberbilker Allee - zur Kenntnis genommen
+- TOP 11.3: Sanierung 3x3-Sportfeld im Sonnenpark und Einrichtung Jugendtreffpunkt - zur Kenntnis genommen
+- TOP 11.4: Sportangebot für Jugendliche im Sternwartpark prüfen - zur Kenntnis genommen
+- TOP 11.5: Prüfantrag - Einrichtung eines Fußgängerüberwegs (Zebrastreifen) an der Volmers-werther Straße auf der Höhe der KiTa Viehfahrtsweg 2 - zur Kenntnis genommen
+- TOP 11.6: Ampelpärchen der Vielfalt an Fußgängerampeln im Bereich der Heinrich Heine-Allee und Königsallee - zur Kenntnis genommen
+- TOP 11.7: Zügige Neuvermietung von Kurhaus und Bootshaus im Volksgarten - zur Kenntnis genommen
+- TOP 11.8: Sitzungstermine 2027 - zur Kenntnis genommen
+- TOP 11.9: Beschlusskontrolle 1. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
