@@ -1,0 +1,8 @@
+# TOP 8: Ausführungs- und Finanzierungsbeschluss zum Neubau der Rettungswache 50 in Kombination mit dem Gerätehaus der Freiwilligen Feuerwehr in Kalkum an der Kalkumer Schloßallee - Feuerwehrorganisatorische Maßnahmen I (FOM I)
+
+- Sitzung: Bauausschuss (2026-09-08)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/396830
+- Ergebnis: passieren lassen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/140918
