@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Zivilsenat-10"
 aktenzeichen: "X ZR 6/25"
 decided: "2026-09-08"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2025/X_ZR___6-25.html"
 corpus_doc_id: "rss:801386"
 cites_law: ["germany/bund/acts/bgb/0126.md", "germany/bund/acts/bgb/0518.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0138.md", "germany/bund/acts/zpo/0416.md", "germany/bund/acts/zpo/0440.md", "germany/bund/acts/zpo/0544.md"]
