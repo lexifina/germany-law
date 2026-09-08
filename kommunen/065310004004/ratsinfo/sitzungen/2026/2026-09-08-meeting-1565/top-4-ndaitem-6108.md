@@ -1,0 +1,6 @@
+# TOP 4.: Bericht über die Arbeit der Jugendpflege im Jahr 2025 durch die Jugendpflegerin Laura Jäger
+
+- Sitzung: Gemeindevertretung (3. Sitzung) (2026-09-08)
+- Körperschaft: Gemeinde Fernwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/agendaitem/6108
