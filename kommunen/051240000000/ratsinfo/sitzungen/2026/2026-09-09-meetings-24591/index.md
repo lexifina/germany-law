@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-09-09T18:30:00+02:00
+- Ende: 2026-09-09T20:36:00+02:00
+- Ort: Rathaus Elberfeld, Raum 202, Neumarkt 10, 42103 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/39
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24591
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369323.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369949.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bericht aus dem Beirat für Menschen mit Behinderung
+- TOP 3: Bericht aus dem Jugendrat
+- TOP 4: Zukunftsplanung Wall mit Bericht durch die Verwaltung
+- TOP 5: Bürgerantrag gemäß § 24 GO NRW, Tempo 30 Augustastraße - vertagen
+- TOP 6: Benennung Kosakenweg
+- TOP 7: Veranstaltung SpielZimmer im Rahmen der Europäischen Mobilitätswoche in der Zimmerstraße am 20.09.2026 - ungeändert beschlossen
+- TOP 8: Veranstaltung "Kinderrechtetag 2026" am 18.09.2026 auf dem Laurentiusplatz - ungeändert beschlossen
+- TOP 9: Veranstaltung "Familienfest 125 Jahre Schwebebahn" am 19.09.2026 am Döppersberg - ungeändert beschlossen
+- TOP 10: Optimierung der Radverkehrsanbindung vom Hauptbahnhof zur Bergischen Universität Wuppertal - ungeändert beschlossen
+- TOP 11: Projektstand Kooperationsmaßnahme Unser Elberfeld - Entgegennahme ohne Beschluss
+- TOP 12: Baumfällungen Herbst 2026 - Entgegennahme ohne Beschluss
+- TOP 13: „Sicherheit und Konfliktmanagement im öffentlichen Raum“ - Entgegennahme ohne Beschluss
+- TOP 14: Bericht der Verwaltung zum Prüfaufrag zu Bekämpfung potentieller Angsträume- hier Gebiet Kluse - Entgegennahme ohne Beschluss
+- TOP 15: Sachstandsbericht zu den Vorlagen VO/0187/26 und VO/0142/26; Situation im Wupperpark-Ost und Identifizierung alternativer Standorte - Entgegennahme ohne Beschluss
+- TOP 16: Anträge
+- TOP 16.1: Absenkung des Bürgersteigs an der Ecke Markgrafenstraße / Unterer Grifflenberg - Antrag der Fraktion Bündnis90/ Die Grünen - ungeändert beschlossen
+- TOP 16.2: Reduzierung der Rasen- und Grünflächenmahd im Stadtgebiet Elberfeld - Antrag der Fraktion Die Linke - vertagen
+- TOP 16.3: Umstellung der städtischen Grünflächen im Elberfelder Stadtgebiet auf standortgerechte, heimische und hitzeangepasste Wildpflanzen - Antrag der Fraktion Die Linke - vertagen
+- TOP 16.4: Attraktivierung des Spielplatzes im Von-der-Heydt-Park: Ergänzung von Spiel-, Sport- und Bewegungsangeboten für ältere Kinder und Jugendliche (inkl. Prüfauftrag Minitore) - Antrag der CDU Fraktion - geändert beschlossen
+- TOP 17: Anfragen
+- TOP 17.1: Verkehrssituation Augustastraße – Maßnahmen zur Verkehrsberuhigung - Große Anfrage der SPD Fraktion - Entgegennahme ohne Beschluss
+- TOP 17.1.1: Verkehrssituation Augustastraße Antwort der Fachverwaltung - Entgegennahme ohne Beschluss
+- TOP 17.2: Grundstück an der Diemeltreppe - Große Anfrage der CDU Fraktion - Entgegennahme ohne Beschluss
+- TOP 17.2.1: Antwort auf die Große Anfrage der CDU Fraktion: Grundstück an der Diemeltreppe - Entgegennahme ohne Beschluss
+- TOP 17.3: Entwicklung der Breuer-Höfe am Laurentiusplatz - Große Anfrage der Fraktion Bündnis90/ Die Grünen - Entgegennahme ohne Beschluss
+- TOP 17.3.1: Große Anfrage Bündnis 90 Die Grünen - Entgegennahme ohne Beschluss
+- TOP 17.4: Kurzzeitvermietung und Zweckentfremdung von Wohnraum in Elberfeld - Große Anfrage der SPD Fraktion - Entgegennahme ohne Beschluss
+- TOP 17.4.1: Antwort auf die Große Anfrage der SPD in der BV Elberfeld - Entgegennahme ohne Beschluss
+- TOP 17.5: Spielgeräte „Memories“ auf dem Von-der-Heydt-Platz - Große Anfrage der SPD Fraktion
+- TOP 17.6: Antwort auf Anfragen der SPD: Spielgeräte "Memories" auf dem Von-der-Heydt-Platz
+- TOP 17.7: Sachstand Umsetzung der Anträge & Beantwortung der Anfragen in der BV Elberfeld - Große Anfrage der Fraktion Die Linke - Entgegennahme ohne Beschluss
+- TOP 17.7.1: Große Anfrage der Fraktion Die Linke: Sachstand Umsetzung der Anträge & Beantwortung der Anfragen in der BV Elberfeld - Entgegennahme ohne Beschluss
+- TOP 17.7.2: Antwort auf Anfragen der Fraktion Die Linke: Sachstand Umsetzung der Anträge und Beantwortung der Anfragen in der BV Elberfeld - Entgegennahme ohne Beschluss
+- TOP 18: Freie Mittel
+- TOP 18.1: Antrag des Kindertheaters "Knicklicht" e.V.
+- TOP 18.2: Antrag der Gesamtschule Else Lasker-Schüler
