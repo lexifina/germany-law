@@ -5,6 +5,7 @@
 - [§ 2 Verteilung](0002.md)
 - [§ 3 Förderbereiche und Fördervoraussetzungen](0003.md)
 - [§ 4 Förderzeitraum](0004.md)
+- [§ 4a Mittelverwendung zur Erbringung von Eigenanteilen und bei Doppelförderungsverboten](0004a.md)
 - [§ 5 Sicherstellung der zweckentsprechenden Mittelverwendung](0005.md)
 - [§ 6 Berichtspflichten der Länder](0006.md)
 - [§ 7 Bewirtschaftung](0007.md)
