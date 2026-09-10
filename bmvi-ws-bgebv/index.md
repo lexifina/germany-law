@@ -7,4 +7,3 @@
 - [§ 4 Übergangsvorschrift](0004.md)
 - [§ 5 Inkrafttreten](0005.md)
 - [Anlage (zu § 2)Gebühren- und Auslagenverzeichnis](anlage.md)
-- [Anlage (zu § 2)Gebühren- und Auslagenverzeichnis](anlage-2.md)
