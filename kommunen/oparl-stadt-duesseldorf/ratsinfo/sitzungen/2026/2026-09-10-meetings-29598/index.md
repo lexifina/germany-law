@@ -1,0 +1,55 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-10T18:00:00+02:00
+- Ende: 2026-09-10T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29598
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29598
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 10.09.20226 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596839.pdf
+- Ergebnisprotokoll: NachtragsTO 10.09.20226 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596839.pdf
+- Wortprotokoll: NachtragsTO 10.09.20226 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596839.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 gemäß § 22 Geschäftsordnung des Rates für bis zum 27.08.2026 eingegangene Fragen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift vom 02.07.2026 - einstimmig beschlossen
+- TOP 4: Vorstellung Bauprojekt Gumbertstraße 153 - Bericht
+- TOP 5: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau einer Kindertageseinrichtung am Kuthsweg 43" - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2026 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2026 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Sachstand zur Kontaktaufnahme mit den Eigentümern des Objekts Ecke Gumbertstraße 172 / Alt-Eller (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 14: Fahrradbügel im Stadtbezirk 8 (Anfrage Fraktion Liste Zukunft 08) - beantwortet
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Verkehrssicherheit an der Ampelanlage Sandträgerweg / Striegauer Weg – geplante Grünsignalisierung prioritär umsetzen (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 24: Erhalt/Rettung des großen Ahorns auf dem Grundstück Drosselstraße 14 - zur Kenntnis genommen
+- TOP 25: Ampelschaltung an der Kreuzung Gerresheimer Landstraße / Dellestraße - zur Kenntnis genommen
+- TOP 26: Leerstand Wohnraum - zur Kenntnis genommen
+- TOP 27: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: GAT-Auswertung am Kreuzburger Weg - zur Kenntnis genommen
+- TOP 29: GAT-Auswertung Großer Torfbruch - zur Kenntnis genommen
+- TOP 30: Bepflanzung Mittelstreifen Vennhauser Allee - zur Kenntnis genommen
+- TOP 31: Versuchsweise Anpassung der Ampelschaltung an der Haltestelle Eller Forst - zur Kenntnis genommen
+- TOP 32: Umbau und Signalisierung Einmündung An der Schützenwiese / Königsberger Straße - zur Kenntnis genommen
+- TOP 33: Am Strasserfeld / Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 34: Prüfung einer sicheren Einleitung des Radverkehrs auf die Glashüttenstraße im Bereich Kreuzung Vennhauser Allee / Rothenbergstraße - zur Kenntnis genommen
+- TOP 35: Optimierung der Steuerung von Bahnübergängen am Kamper Weg / Ellerkirchstraße - zur Kenntnis genommen
+- TOP 36: Sachstand und Umsetzung von Beschlüssen der Bezirksvertretung 8 aus den Jahren 2024 bis 2027 - zur Kenntnis genommen
+- TOP 37: Einmündung Kissinger Straße / Ludwigstraße - zur Kenntnis genommen
+- TOP 38: Gedenkstätte Höherweg - zur Kenntnis genommen
