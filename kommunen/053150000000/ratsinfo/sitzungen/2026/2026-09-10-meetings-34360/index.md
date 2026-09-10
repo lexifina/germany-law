@@ -1,0 +1,55 @@
+# 3. Sitzung der Stadtarbeitsgemeinschaft Queerpolitik
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-10T17:00:00+02:00
+- Ende: 2026-09-10T18:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/186
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34360
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34360
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorträge
+- TOP 1.1: Vorstellung der Initiative für Eltern und Angehörige queerer Kinder - Kenntnis genommen
+- TOP 1.2: ColognePride 2026 - Herausforderungen und Erfolge - Kenntnis genommen
+- TOP 2: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 2.1: Anfrage zur Bewertung der Lebenslage obdachloser und wohnungsloser queerer Menschen in Köln - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: Anfrage zur Auswirkung der olympischen Geschlechtertests
+- TOP -: Beantwortung einer schriftlichen Anfrage von SCHLAU Köln e.V. in der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik am 28.05.2026 zum olympischen Geschlechtertests - Kenntnis genommen
+- TOP 2.3: Anfrage zur Versorgungssituation im Konsummuster Chemsex und zu sexualisiertem Substanzkonsum in Köln und der Region
+- TOP -: Beantwortung einer schriftlichen Anfrage der Aidshilfe Köln aus der Sitzung des ASGS vom 11.06.2026 (AN/0785/2026) betreffend "Versorgungssituation im Konsummuster Chemsex und sexualisiertem Substanzkonsum" - Kenntnis genommen
+- TOP 2.4: Anfrage zur Gesundheitsversorgung von trans* Personen
+- TOP -: Beantwortung einer schriftlichen Anfrage von Schlau Köln e.V. aus der Sitzung der Stadt AG Queerpolitik vom 28.05.2026 (AN/0798/2026) betreffend "Versorgung von trans* Personen" - Kenntnis genommen
+- TOP 2.5: Anfrage zum Umgang mit trans* Personen in und durch die Verwaltung der Stadt Köln
+- TOP -: Beantwortung einer Anfrage zum Umgang mit trans* Personen in und durch die Verwaltung der Stadt Köln - Kenntnis genommen
+- TOP 3: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 3.1: Antrag an das Budget der StadtAG Queerpolitik - Vernetzungstreffen der Stadt AG Queerpolitik mit Vertreter*innen weiterer queerer Organisationen sowie Gäst*innen aus Politik und Stadtgesellschaft - ungeändert beschlossen
+- TOP 3.2: Stellungnahme "Queere Lebenslagen unter Druck. Dringender Handlungsbedarf in Köln" zur Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* für Köln - ungeändert beschlossen
+- TOP 3.3: Stellungnahme zum Controlling-Bericht: LSBTI-Aktionsplan - ungeändert beschlossen
+- TOP 3.4: Antrag zu einer neuen Anfrage durch den sachkundigen Einwohners Oliver Schubert im Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren - ungeändert beschlossen
+- TOP 4: Trans
+- TOP 5: LSBTI Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 7: Diversity und gleichstellungsrelevante Themen
+- TOP 7.1: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 7.2: Bestandsaufnahme zur Umsetzung der Istanbul Konvention - Kenntnis genommen
+- TOP 7.3: Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) innerhalb der Mitarbeitendenschaft im Rahmen des Diversity Managements sowie der Interkulturellen Öffnung der Stadt Köln - Kenntnis genommen
+- TOP 8: Bericht der Fachstelle LSBTI
+- TOP 8.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Sonderauswertung der Studie zu Lebenslagen und Erfahrungen von LSBTIQ* „Queer durch NRW“ für Köln - Kenntnis genommen
+- TOP 9.2: In Vielfalt durch Vielfalt - Strukturanalyse kulturelle Teilhabe in den städtischen Kulturinstitutionen - Kenntnis genommen
+- TOP 9.3: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 9.4: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 9.5: Bericht der Behindertenbeauftragten der Stadt Köln 03/2026 - Kenntnis genommen
+- TOP 9.6: Mündlicher Bericht aus dem Arbeitskreis "Queeres Museum" - Kenntnis genommen
+- TOP 9.7: Mündlicher Bericht zum "Kölner Queer March" - Kenntnis genommen
+- TOP 9.8: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Ewigkeitsfinanzierung bestimmter Projekte beenden, Aktenzeichen 125/26 - Kenntnis genommen
+- TOP 9.9: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 9.10: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 11: Neue Anfragen
+- TOP 12: Verschiedenes
