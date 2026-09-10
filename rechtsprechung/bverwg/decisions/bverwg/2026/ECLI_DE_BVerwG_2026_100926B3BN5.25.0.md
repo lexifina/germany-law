@@ -1,0 +1,61 @@
+---
+ecli: "ECLI:DE:BVerwG:2026:100926B3BN5.25.0"
+court: "Bundesverwaltungsgericht"
+aktenzeichen: "3 BN 5.25"
+decided: "2026-09-10"
+typ: "Beschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/WBRE202600584.xml"
+neuris_doknr: "WBRE202600584"
+---
+
+# Bundesverwaltungsgericht, 3 BN 5.25 vom 2026-09-10
+
+## Tenor
+
+Das Urteil des Oberverwaltungsgerichts Mecklenburg-Vorpommern vom 19. Februar 2025 wird aufgehoben.
+
+Die Sache wird zur anderweitigen Verhandlung und Entscheidung an das Oberverwaltungsgericht zurückverwiesen.
+
+Die Entscheidung über die Kosten bleibt der Schlussentscheidung vorbehalten.
+
+Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 20 000 € festgesetzt.
+
+## Gründe
+
+I
+
+1 Die Antragsteller wenden sich gegen § 5 Abs. 1 Satz 1 der Corona-Landesverordnung Mecklenburg-Vorpommern (Corona-LVO M-V) vom 23. April 2021 (GVOBl. M-V S. 381) in der bis zum 27. Mai 2021 geltenden Fassung (im Folgenden: Corona-LVO M-V). Nach dieser Vorschrift waren alle Reisen in das Gebiet des Landes Mecklenburg-Vorpommern untersagt, soweit die folgenden Absätze der Vorschrift nichts anderes bestimmten. Die Regelung galt ab dem 24. April 2021 (vgl. § 16 Abs. 1 Corona-LVO M-V).
+
+2 Die Antragsteller hatten in dieser Zeit ihren Erstwohnsitz in Berlin und einen Zweitwohnsitz in einem Einfamilienhaus mit Einliegerwohnung auf Rügen, deren Eigentümer die Antragsteller zu 1 und 2 sind.
+
+3 Am 17. Mai 2021 haben die Antragsteller einen Normenkontrollantrag gegen § 5 Abs. 1 Satz 1 Corona-LVO M-V gestellt, den sie nach dem Außerkrafttreten der Vorschrift auf einen Fortsetzungsfeststellungsantrag umgestellt haben. Sie hätten beabsichtigt, aufgrund des in Berlin schulfreien Brückentags am 14. Mai 2021 ein verlängertes Wochenende vom 13. bis 16. Mai 2021 sowie das Pfingstwochenende vom 21. bis 24. Mai 2021 in ihrer Nebenwohnung zu verbringen, um sich zu erholen, notwendige Gartenarbeiten durchzuführen sowie die noch nicht fertiggestellte Einliegerwohnung für die Vermietung vorzubereiten und aus dem Home-Office ihrer beruflichen Tätigkeit nachzugehen. Die geplanten Aufenthalte in ihrer Nebenwohnung seien wegen der angegriffenen Verordnungsregelung, durch die ihnen Reisen nach Mecklenburg-Vorpommern untersagt worden seien, nicht möglich gewesen.
+
+4 Das Oberverwaltungsgericht hat den Normenkontrollantrag mit Urteil vom 19. Februar 2025 abgelehnt. Das Begehren der Antragsteller sei dahin auszulegen, dass sich der Antrag gegen § 5 Abs. 1 Satz 1 Corona-LVO M-V in den Fassungen der Dritten und der Vierten Änderungsverordnung vom 12. Mai 2021 bzw. 18. Mai 2021 richte. Der Antrag sei unzulässig. Die Antragsteller hätten kein berechtigtes Interesse an der nachträglichen Feststellung, dass die angegriffene Rechtsvorschrift unwirksam gewesen sei. Ein Feststellungsinteresse sei insbesondere nicht im Hinblick auf mit der angegriffenen Vorschrift verbundene Eingriffe in Grundrechte der Antragsteller zu bejahen. Zwar gebiete das Grundrecht auf effektiven Rechtsschutz aus Art. 19 Abs. 4 GG die Möglichkeit einer gerichtlichen Klärung in Fällen gewichtiger, aber in zeitlicher Hinsicht überholter Grundrechtseingriffe, wenn sich die direkte Belastung durch den angegriffenen Hoheitsakt nach dem typischen Verfahrensablauf auf eine Zeitspanne beschränke, in welcher der Betroffene eine gerichtliche Hauptsacheentscheidung kaum erlangen könne. Ein solcher gewichtiger oder schwerwiegender Grundrechtseingriff liege jedoch im Fall der Antragsteller nicht vor. In der Rechtsprechung des Bundesverwaltungsgerichts sei anerkannt, dass eine die nachträgliche Klärung der Rechtmäßigkeit einer außer Kraft getretenen Verordnungsregelung rechtfertigende Beeinträchtigung von grundrechtlichen Freiheiten darin bestehen könne, dass ein erheblicher Eingriff in die Gestaltung des Alltags- und Privatlebens erfolgt sei. Eine solche Erheblichkeit hätten die Antragsteller aber nicht hinreichend dargelegt. Es fehle ein konkreter Vortrag beispielsweise zum Umfang der Maßnahmen, die die Antragsteller zu 1 und 2 in ihrer Einliegerwohnung hätten vornehmen wollen oder müssen, und zur Bedeutung einer zeitnahen Vermietung der Wohnung für ihre persönliche oder wirtschaftliche Situation. Ebenso pauschal sei das Vorbringen der Antragsteller zu ihren Reiseplanungen geblieben. Zudem könnten nur die Wochenenden ab der Stellung des Normenkontrollantrags Berücksichtigung finden. Danach sei es den Antragstellern lediglich nicht möglich gewesen, ihre Nebenwohnung am Pfingstwochenende vom 21. bis 24. Mai 2021 aufzusuchen. Angesichts dieses kurzen Zeitraums von vier Tagen hätten die mit § 5 Abs. 1 Satz 1 Corona-LVO M-V verbundenen Eingriffe in Grundrechte der Antragsteller nicht ein Gewicht gehabt, das ein Feststellungsinteresse begründe.
+
+5 Das Oberverwaltungsgericht hat die Revision gegen sein Urteil nicht zugelassen. Hiergegen wenden sich die Antragsteller mit ihren auf § 132 Abs. 2 Nr. 1, 2 und 3 VwGO gestützten Beschwerden.
+
+II
+
+6 Die Beschwerden haben Erfolg. Die Revision ist zuzulassen, weil ein Verfahrensmangel im Sinne des § 132 Abs. 2 Nr. 3 VwGO geltend gemacht ist und vorliegt, auf dem die Entscheidung beruhen kann (1.). Das führt zur Aufhebung des angefochtenen Urteils und Zurückverweisung der Sache an das Oberverwaltungsgericht (2.). Eine Prüfung der weiteren geltend gemachten Zulassungsgründe kann unterbleiben (3.).
+
+7 1. Entgegen der Annahme des Oberverwaltungsgerichts haben die Antragsteller ein berechtigtes Interesse an der Feststellung, dass die nach Antragstellung außer Kraft getretene Rechtsvorschrift des § 5 Abs. 1 Satz 1 Corona-LVO M-V unwirksam gewesen ist. Das Oberverwaltungsgericht hat die prozessrechtlichen Anforderungen an dieses Interesse verkannt. Darin liegt ein Verfahrensmangel im Sinne von § 132 Abs. 2 Nr. 3 VwGO (vgl. BVerwG, Beschlüsse vom 20. Dezember 2017 - 6 B 14.17 - NVwZ 2018, 739 Rn. 11, vom 5. Januar 2024 - 3 BN 2.23 - juris Rn. 5, vom 19. Januar 2024 - 3 BN 4.23 - juris Rn. 11 und vom 18. Dezember 2025 - 7 B 9.25 - NVwZ 2026, 257 Rn. 11, jeweils m. w. N.).
+
+8 a) § 47 Abs. 2 Satz 1 VwGO geht vom Regelfall einer noch gültigen Norm als Gegenstand des Normenkontrollverfahrens aus (vgl. BVerwG, Beschluss vom 28. Juli 2022 - 3 BN 8.21 - juris Rn. 6). Ist die Norm während der Anhängigkeit des Normenkontrollverfahrens außer Kraft getreten, bleibt der Antrag zulässig, wenn der Antragsteller weiterhin geltend machen kann, durch die Rechtsvorschrift oder ihre Anwendung in seinen Rechten verletzt zu sein. Darüber hinaus muss er ein berechtigtes Interesse an der Feststellung haben, dass die Rechtsvorschrift unwirksam war (BVerwG, Urteil vom 19. Februar 2025 - 3 CN 5.23 - ​BVerwGE 185, 1 Rn. 11 m. w. N.).
+
+9 b) Diese Voraussetzungen liegen hier vor.
+
+10 aa) Die Antragsteller haben den Normenkontrollantrag während der Geltungsdauer der angegriffenen Verordnungsregelung gestellt. Davon ist auch das Oberverwaltungsgericht auf der Grundlage seiner Annahme ausgegangen, Gegenstand des Normenkontrollverfahrens sei nur § 5 Corona-LVO M-V in den Fassungen der Dritten und der Vierten Änderung der Verordnung. Die gegen diese Annahme gerichteten Zulassungsrügen sind nicht entscheidungserheblich.
+
+11 bb) Nach dem Außerkrafttreten der angegriffenen Rechtsvorschrift können die Antragsteller weiterhin geltend machen, durch sie in ihren Rechten verletzt worden zu sein. Nach ihrem Vortrag erscheint es möglich, dass sie durch die Regelung in § 5 Abs. 1 Satz 1 Corona-LVO M-V jedenfalls in ihrem Recht auf freie Entfaltung der Persönlichkeit (Art. 2 Abs. 1 GG) verletzt worden sind. Nach § 5 Abs. 1 Satz 1 Corona-LVO M-V waren alle Reisen in das Gebiet des Landes Mecklenburg-Vorpommern untersagt, soweit die folgenden Absätze der Vorschrift nichts anderes bestimmten. Für Personen mit Nebenwohnsitz in Mecklenburg-Vorpommern, die - wie die Antragsteller - ihren Hauptwohnsitz nicht in Mecklenburg-Vorpommern oder im Amt Neuhaus hatten, endete das Verbot von Reisen nach Mecklenburg-Vorpommern mit Ablauf des 27. Mai 2021. Die Antragsteller haben vorgetragen, im Geltungszeitraum der angegriffenen Regelung beabsichtigt zu haben, an ihren Zweitwohnsitz zu reisen und dort ein verlängertes Wochenende zu verbringen (u. a. vom 21. bis 24. Mai 2021). Die Voraussetzungen einer Ausnahme von dem Verbot nach § 5 Abs. 2 ff. Corona-LVO M-V in der bis zum 27. Mai 2021 geltenden Fassung lagen, wie das Oberverwaltungsgericht festgestellt hat, hinsichtlich der Antragsteller und der von ihnen geplanten Reise(n) nicht vor (UA S. 21).
+
+12 cc) Die Antragsteller haben ein berechtigtes Interesse an einer nachträglichen gerichtlichen Klärung der Rechtmäßigkeit der angegriffenen Verordnungsregelung (vgl. dazu BVerwG, Urteil vom 22. November 2022 - 3 CN 1.21 - BVerwGE 177, 60 Rn. 13 f.; Beschlüsse vom 5. Januar 2024 - 3 BN 2.23 - juris Rn. 10 ff. und vom 19. Januar 2024 - 3 BN 4.23 - juris Rn. 16 ff., jeweils m. w. N.). Innerhalb der Geltungsdauer der Vorschrift war Rechtsschutz im Hauptsacheverfahren nicht zu erlangen. Die Antragsteller machen zudem Beeinträchtigungen jedenfalls ihrer grundrechtlichen Freiheiten aus Art. 2 Abs. 1 GG geltend, die ein Gewicht haben, das die nachträgliche Klärung der Rechtmäßigkeit der Verordnungsregelung rechtfertigt. Das Verbot, sich zu Erholungszwecken an ihren Nebenwohnsitz zu begeben, hat erheblich in die Gestaltung des Privatlebens der Antragsteller eingegriffen. Für die Gewichtung des durch die angegriffene Regelung bewirkten Grundrechtseingriffs ist - anders als vom Oberverwaltungsgericht angenommen - nicht allein zu berücksichtigen, dass den Antragstellern nicht möglich war, über das (Pfingst-)Wochenende vom 21. bis 24. Mai 2021 zu ihrer Nebenwohnung zu verreisen. Das gilt unabhängig davon, ob das Oberverwaltungsgericht das Antragsbegehren der Antragsteller im Wege der Auslegung auf § 5 Corona-LVO M-V in den Fassungen der Dritten und der Vierten Änderung der Verordnung beschränken durfte. Reisen in die Nebenwohnung waren den Antragstellern seit dem 24. April 2021 untersagt gewesen und damit für insgesamt knapp fünf Wochen nicht möglich (zur Berücksichtigung vorangehender Regelungen vgl. BVerfG, Beschluss vom 19. November 2021 - 1 BvR 781/21 u. a. - BVerfGE 159, 223 Rn. 223; BVerwG, Urteil vom 22. November 2022 ​- 3 CN 1.21 - BVerwGE 177, 60 Rn. 79 und Beschluss vom 5. Januar 2024 - 3 BN 2.23 - juris Rn. 13). Die Antragsteller haben im Übrigen geltend gemacht, dass ihnen aufgrund der angegriffenen Verordnungsregelung auch die geplante Reise an ihren Nebenwohnsitz vom 13. bis 16. Mai 2021 nicht möglich war.
+
+13 Soweit das Oberverwaltungsgericht angenommen hat, die Antragsteller hätten die Erheblichkeit des Grundrechtseingriffs nicht dargelegt, weil der Vortrag zu ihren Reiseplanungen pauschal geblieben sei, hat es die Anforderungen an die Darlegung eines Feststellungsinteresses überspannt. Die Antragsteller haben den Zeitpunkt und den Anlass der beabsichtigten Reisen konkretisiert. Welcher weiteren Angaben zu den Reiseplanungen es bedurft haben sollte, hat das Oberverwaltungsgericht nicht ausgeführt. Dafür ist auch nichts ersichtlich. Da bereits das Verbot, sich zu Erholungszwecken an ihren Nebenwohnsitz zu begeben, ein berechtigtes Interesse der Antragsteller an der nachträglichen Klärung der Rechtmäßigkeit der angegriffenen Verordnung begründet, kommt es insoweit auf ihren Vortrag zur Einliegerwohnung nicht an.
+
+14 c) Das angefochtene Urteil kann auf dem dargestellten Verfahrensfehler beruhen. Einen anderen Grund für die Verneinung der Zulässigkeit des Normenkontrollantrags hat das Oberverwaltungsgericht nicht angeführt.
+
+15 2. Der Senat macht im Interesse der Verfahrensbeschleunigung von der Befugnis nach § 133 Abs. 6 VwGO Gebrauch, das angefochtene Urteil aufzuheben und den Rechtsstreit zur anderweitigen Verhandlung und Entscheidung an das Oberverwaltungsgericht zurückzuverweisen.
+
+16 3. Auf die weiteren Rügen der Antragsteller, die sich sämtlich gegen die Verneinung eines berechtigten Interesses an der nachträglichen Klärung der Rechtmäßigkeit der angegriffenen Verordnung richten, kommt es damit nicht entscheidungserheblich an.
+
+17 Die Streitwertfestsetzung beruht auf § 47 Abs. 1 und 3, § 39 Abs. 1 und § 52 Abs. 1 GKG.
