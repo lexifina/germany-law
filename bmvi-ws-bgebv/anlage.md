@@ -25,7 +25,7 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 12 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme von Wasser | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 844 |
 | 13 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 1 055 |
 | 14 | Strom- und schifffahrtspolizeiliche Genehmigung für das Einbringen fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 211 – 2 110 |
-| 15 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme und das anschließende Einbringen fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 1 055 – 2 813 |
+| 15 | Strom- und schifffahrtspolizeiliche Genehmigung für die Entnahme und das anschließende Einbringen fester Stoffe | § 31 Absatz 1 Nummer 1 WaStrG |  | 351 – 2 813 |
 | 16 | Strom- und schifffahrtspolizeiliche Genehmigung für eine Wasserinjektionsbaggerung | § 31 Absatz 1 Nummer 1 WaStrG |  | 351 – 2 110 |
 | 17 | Strom- und schifffahrtspolizeiliche Genehmigung für das Einleiten von Wasser | § 31 Absatz 1 Nummer 1 WaStrG |  | 140 – 703 |
 | 18 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Freizeitschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 351 – 2 110 |
@@ -35,7 +35,7 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 22 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Berufsschifffahrt | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 4 220 |
 | 23 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootseinsatzstelle | § 31 Absatz 1 Nummer 2 WaStrG |  | 703 – 4 220 |
 | 24 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 055 – 5 626 |
-| 25 | Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 3 516 – 14 066 |
+| 25 | Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau, die Grundsanierung und den Rückbau einer Brücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 2 110 – 14 066 |
 | 26 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 703 – 5 626 |
 | 27 | Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an bestehenden Anlagen | § 31 Absatz 1 Nummer 2 WaStrG |  | 281 – 2 813 |
 | 28 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Rohrbrücke | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 5 626 |
@@ -52,8 +52,8 @@ Leistungen auf dem Gebiet des Aus- und Neubaus von Bundeswasserstraßen und der 
 | 39 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Wasserbauwerken | § 31 Absatz 1 Nummer 2 WaStrG |  | 562 – 5 626 |
 | 40 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Tunnels | § 31 Absatz 1 Nummer 2 WaStrG |  | 3 516 – 14 066 |
 | 41 | Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Seilbahn | § 31 Absatz 1 Nummer 2 WaStrG |  | 1 688 – 5 626 |
-| 42 | Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens | § 34 Absatz 2 Satz 2 WaStrG |  | 246 – 844 |
-| 43 | Nachträgliche Entscheidungen zu Genehmigungen | § 31 Absatz 2 Nummer 1, Absatz 2 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG |  | 140 – 2 813 |
+| 42 | Genehmigung zum Setzen oder Betreiben eines Schifffahrtszeichens | § 34 Absatz 2 Satz 2 WaStrG |  | 246 – 2 813 |
+| 43 | Nachträgliche Entscheidungen zu Genehmigungen | § 31 Absatz 1 Nummer 1, Absatz 1 Nummer 2, § 34 Absatz 2 Satz 2 WaStrG |  | 140 – 2 813 |
 | 44 | Schriftliche Einzelgenehmigung für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | § 3 Absatz 1 Nummer 1 WaStrBAV § 2 Absatz 1 StrandSchutzwerkSicherungsV § 2 Absatz 1 DünenSchV § 12 Schleusenbetriebsverordnung |  | 70,30 – 562 |
 | 45 | Allgemeine Genehmigung für bestimmte Personengruppen für die Benutzung von Betriebsanlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes | § 3 Absatz 1 Nummer 2 WaStrBAV |  | 457 – 1 055 |
 | 46 | Fertigung eines feststellenden Verwaltungsaktes |  |  | nach Zeitaufwand |
@@ -515,7 +515,7 @@ Vorbemerkungen
 | 130 | Feststellung über das Vorliegen der Anforderungen an (neue) verantwortliche Personen im Rahmen von deren Bestellung nach demWindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 56 Absatz 4 WindSeeG | 433 |
 | 131 | Vollziehung der Übertragung des Planfeststellungsbeschlusses oder der Plangenehmigung auf einen anderen Inhaber/Betreiber nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | § 56 Absatz 5 WindSeeG | 123 |
 | 132 | Aufnahme, Änderung oder Ergänzung von Nebenbestimmungen eines Planfeststellungsbeschlusses, einer Plangenehmigung, einer Anordnung oder eines sonstigen Bescheides nach dem WindSeeG in der bis zum 31.12.2022 geltenden Fassung | §§ 35, 36 VwVfG i. V. m. § 74 Absatz 2 VwVfG | 6 488 – 14 752 |
-| 133 | Ausstellung einer Haftungsbescheinigung | § 2 Absatz 2 und 4 ÖlSG § 5 Absatz 2, 6, § 8 Absatz 2 SeeVersNachwG § 4 Absatz 1 ÖlPflichtVersBeschV § 4 Absatz 1 und 2 SeeVersnachwV | 118 |
+| 133 | Ausstellung einer Haftungs- oder Pflichtversicherungsbescheinigung | § 2 Absatz 2 und § 4 Absatz 1 ÖlSG § 5 Absatz 2 sowie § 8 Absatz 2 SeeVersNachwG § 2 Absatz 2 und § 6 HNSG § 4 Absatz 1 ÖlPflichtVersBeschV § 4 Absatz 1 und 2 SeeVersNachwV § 3 Absatz 1 HNSPflichtVersBeschV | 118 |
 | 134 | Genehmigung von Plänen zur Gefahrenabwehr auf dem Schiff | § 7 Absatz 2 SeeEigensichV | 218 – 1 042 |
 | 135 | Genehmigung von Änderungen von Plänen zur Gefahrenabwehr auf dem Schiff | § 7 Absatz 4 Satz 2 SeeEigensichV | 50 – 999 |
 | 136 | Genehmigung eines Zusatzes zum Plan zur Gefahrenabwehr auf dem Schiff im Hinblick auf den Einsatz von privatem Wachpersonal | § 7 Absatz 2a SeeEigensichV | 322 |
@@ -686,6 +686,7 @@ Gebühren und Auslagen
 | C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Besetzung von Schiffen nach Schiffsbesetzungsverordnung und STCW-Übereinkommen |
 | 3201 | Erteilung des Schiffsbesatzungszeugnisses | § 8 Absatz 1 SchBesV | 59,85 |
 | 3202 | Zulassung von Lehrgängen nach STCW 95 Regel A-VI/1, A-VI/2,A-VI/3 und nach Anlage 1a, Teil 3, Kapitel 11 SchSV | § 3 Absatz 4 SeeBV i. V. m. STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 sowie Anlage 1a, Teil 3, Kapitel 11,Regel 3 SchSV | nach Zeitaufwand |
+| 3203 | Genehmigung für Abweichungen von den Nationalitätenvorgaben zur Schiffsbesetzung inkl. Verlängerung um maximal 54 Monate | § 4 SchBesV§ 5 SchBesV | 219 |
 | IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und Planprüfung |
 | 4001 | Schiffsbezogene Besichtigungen, Audits, Inspektionen und Beurteilungen auf Antrag | § 9 Absatz 1 und 3 SchSV | nach Zeitaufwand |
 | 4031 | Planprüfung auf Antrag im Zusammenhang mit Neubauten oder Umbauten, die nicht von einer anerkannten Klassifikationsgesellschaft durchgeführt werden | § 9 Absatz 1 und 3 SchSV | nach Zeitaufwand |
