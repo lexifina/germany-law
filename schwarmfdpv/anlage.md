@@ -51,3 +51,5 @@ Prüfungsfeststellungen:
 | 30 | Weitere Feststellungen, die für die Beurteilung der Ordnungsmäßigkeit der erbrachten Schwarmfinanzierungsdienstleistungen von Bedeutung und nicht durch die Nummern 1 bis 29 abgedeckt sind | ja/nein: |  |
 |  | Erläuterungen zu Nummer 30: |
 | 31 | Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung: |
+| 32 | Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554 |  |  |  |
+|  | Erläuterungen zu Nummer 32: |

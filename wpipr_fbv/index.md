@@ -28,7 +28,7 @@
 - [§ 12 Angemessenheit und Zweckdienlichkeit der Regelungen für die Unternehmensführung](0012.md)
 - [§ 13 Hinweisgebersystem](0013.md)
 - [§ 14 Vergütungssysteme](0014.md)
-- [§ 15 IT-Systeme](0015.md)
+- [§ 15 Berücksichtigung der Informations- und Kommunikationstechnologie des Wertpapierinstituts bei der Prüfung](0015.md)
 - [§ 16 Sanierungsplanung](0016.md)
 - [§ 17 Vorgaben für das Handelsbuch](0017.md)
 
@@ -75,7 +75,7 @@
 ## Abschnitt 8 Datenübersicht und Schlussvorschriften
 
 - [§ 40 Datenübersicht](0040.md)
-- [§ 41 Inkrafttreten](0041.md)
+- [§ 41 Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554](0041.md)
 - [Anlage 1 (zu § 40)](anlage-1.md)
 - [Anlage 2 (zu § 40)](anlage-2.md)
 - [Anlage 3 (zu §§ 27, 40)](anlage-3.md)

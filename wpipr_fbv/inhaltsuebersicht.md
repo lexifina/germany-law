@@ -22,7 +22,7 @@ Risikomanagement, Geschäftsorganisation und Handelsbuch
 | § 12 | Angemessenheit und Zweckdienlichkeit der Regelungen für die Unternehmensführung |
 | § 13 | Hinweisgebersystem |
 | § 14 | Vergütungssysteme |
-| § 15 | IT-Systeme |
+| § 15 | Berücksichtigung der Informations- und Kommunikationstechnologie des Wertpapierinstituts bei der Prüfung |
 | § 16 | Sanierungsplanung |
 | § 17 | Vorgaben für das Handelsbuch |
 Unterabschnitt 2
@@ -62,7 +62,7 @@ Angaben zu Wertpapierinstitutsgruppen und Finanzkonglomeraten
 Abschnitt 8
 Datenübersicht und Schlussvorschriften
 | § 40 | Datenübersicht |
-| § 41 | Inkrafttreten |
+| § 41 | Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554 |
 | Anlage 1 | Datenübersicht für Kleine und Mittlere Wertpapierinstitute |
 | Anlage 2 | Datenübersicht für Kleine und Mittlere Wertpapierinstitute, die Bereiche auf ein anderes Unternehmen ausgelagert haben |
 | Anlage 3 | Erfassungsbogen nach § 27 WpIPrüfbV |

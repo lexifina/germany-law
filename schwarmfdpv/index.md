@@ -21,6 +21,7 @@
 
 - [§ 10 Umfang der Berichterstattung](0010.md)
 - [§ 11 Darstellung der Schwarmfinanzierungsdienstleistung und Pflichten](0011.md)
+- [§ 11a Berücksichtigung der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters bei der Prüfung](0011a.md)
 - [§ 12 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte](0012.md)
 - [§ 13 Verweisungen auf frühere Prüfungsberichte](0013.md)
 - [§ 14 Bei der letzten Prüfung festgestellte Mängel](0014.md)
@@ -33,5 +34,5 @@
 
 ## Abschnitt 4 Schlussvorschriften
 
-- [§ 21 Inkrafttreten](0021.md)
+- [§ 21 Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554](0021.md)
 - [Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1](anlage.md)
