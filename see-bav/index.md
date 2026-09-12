@@ -29,7 +29,7 @@
 - [§ 16 Prüfungsausschüsse](0016.md)
 - [§ 17 Zusammensetzung und Berufung eines Prüfungsausschusses](0017.md)
 - [§ 18 Vorsitz, Beschlussfähigkeit, Abstimmung des Prüfungsausschusses](0018.md)
-- [§ 19 Anmeldung zur Abschlussprüfung](0019.md)
+- [§ 19 Prüfungstermin und Zulassung](0019.md)
 - [§ 20 Zulassung zur Abschlussprüfung Teil 2 in besonderen Fällen](0020.md)
 - [§ 21 Prüfungsaufgaben](0021.md)
 - [§ 22 Nichtöffentlichkeit der Abschlussprüfungen](0022.md)
