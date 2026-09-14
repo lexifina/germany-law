@@ -1,0 +1,177 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-09-14T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9709054
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9709054
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokolle der Sitzung vom 03.08.2026
+- TOP 1.2.: Benennung von Beauftragten für queere Menschen
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1: Anstehende Bürgeranfragen
+- TOP 2.1.1.: Ehrenamtliche Unterstützung für Sauberkeitsaktionen in Sendling
+- TOP 2.1.2.: Antrag auf Fahrrad- oder Lastenradabstellplätze in der Daiserstraße 2 Ecke Lindwurmstraße 205
+- TOP 2.1.3.: Anhaltender Lärm am Flaucher / Isar
+- TOP 2.1.4.: Antrag auf Messung und Überprüfung der Lärm- und Schadstoffbelastung an der Brudermühlstraße (Bereich Westportal)
+- TOP 2.1.5.: Abstellmöglichkeit auch für E-Roller an der MyRadl-Abstellanlage am Herzog-Ernst-Platz
+- TOP 2.1.6.: Überprüfung der Verkehrssicherheit und Verdeutlichung der Verkehrsführung – Meindlstraße / Albert-Roßhaupter-Straße und Margaretenstraße / Hansastraße
+- TOP 2.1.7.: Gefahrenstelle Bushaltestelle; Begegnungsverkehr zwischen Fahrgästen und Radverkehr
+- TOP 2.1.8.: Gefahrenstelle Radweg in Thalkirchen
+- TOP 2.2: Bearbeitete Bürgeranfragen
+- TOP 2.2.1.: Sammelbeschwerde von 12 Wohneinheiten – Bitte um dringende Überprüfung der Ersatzhaltestelle X6 in der Oberländerstraße 3
+- TOP 2.2.2.: Nachfrage bzgl. Antrag vom 13.09.2025 (TOP 5.1.5 von 09/25) zur Verbesserung der Verkehrssicherheit in der Brudermühlstraße zwischen Thalkirchner Straße und Schäftlarnstraße
+- TOP 2.2.3.: Antwort KVR: Nicht angeleinter Hund am Harras
+- TOP 2.2.4.: Entscheidung über Fallstr. 38 / Parklizenzgebiet Mittersendling
+- TOP 2.2.5.: Antwort PLAN: Baustelle in der Wackersbergerstraße
+- TOP 2.2.6.: Anhaltende Lärmbelästigung durch den HC Wacker
+- TOP 2.2.7.: Anhaltende Verletzung der Ruhezeiten in der Gaißacher Straße 23 - 29
+- TOP 2.2.8.: Antwort PI15: Mutproben am S-Bahnhof Mittersendling
+- TOP 2.2.9.: Bank in der Lindenschmitstraße / Danklstraße
+- TOP 2.2.10.: Antwort PLAN: Baumfällungen auf dem Grundstück des Tannengarten
+- TOP 2.2.11.: Antwort KVR: Gewerbliche Situation um die Pfeuferstraße Ecke Johannes-Timm-Straße
+- TOP 2.2.12.: Antwort MOR: Halteverbotsschilder für das Stadtjugendamt
+- TOP 2.2.13.: Antwortschreiben Mobilitätsreferat - Nächtlicher Schwerlastverkehr
+- TOP 2.2.14.: Unverhältnismäßige Vollsperrung des Fuß- und Radwegs zwischen Demleitnerstraße und Wackersberger Straße
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 4.: Berichte der BA-Vorsitzenden/des BA-Vorstands, Berichte v. Beauftragten (max. 2 Min Redezeit)
+- TOP 4.1.: Bericht von Philip Fickel, Mieterbeirat
+- TOP 5.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Stadtbezirksbudget animato münchner orchester e.V. „Konzert in der Himmelfahrtskirche in Sendling am 30.01.2027 vom 24.09.2026 - 28.02.2027“ 855,00 € / AZ: 0262.100-6-0646
+- TOP 5.1.2.: (E) Stadtbezirksbudget Selbstorganisierte Impro-Theatergruppe "Southbound Impro" „Southbound Impro: Improtheater für und mit Ludwigsvorstadt, Isarvorstadt, Sendling vom 15.09.2026 - 04.06.2027“ 900,00 € / AZ: 0262.100-6-0645
+- TOP 5.1.3.: (E) Stadtbezirksbudget BIKU gGmbH „Mädchen an den Ball/ Mädchenfußball im Bezirk 6 Sendling vom 01.01.2027 - 31.12.2027“ 6.680,00 € / AZ: 0262.100-6-0644
+- TOP 5.1.4.: (E) Stadtbezirksbudget SC München Süd e.V. „Ausstattung neu sanierte Sportanlage vom 01.10.2026 - 15.10.2026“ 2.320,23 € / AZ: 0262.100-6-0647
+- TOP 5.1.5.: Bestellung einer Städtischen Leistung zur Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk Sendling (Die Grünen & SPD)
+- TOP 5.2.: Anhörungen
+- TOP 5.2.1.: Schreiben des KVR vom 09.07.2026 / Übermittlung personenbezogener Daten an die Bezirksausschüsse im Rahmen ihres Anhörungsrechts bei Veranstaltungen: hier: Stellungnahmen der Bezirksausschüsse
+- TOP 5.2.2.: Schreiben des Direktoriums vom 20.08.2026 / Anpassung der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung; Reduzierung der Schutzgrenze für Gehölze von einem Stammumfang von bisher 80 cm auf 60 cm
+- TOP 5.2.3.: Schreiben des Direktoriums vom 20.08.2026 / Änderungen der Bezirksausschuss-Satzung – Einführung eines verpflichtenden Tierschutzbeauftragten
+- TOP 5.2.4.: Schreiben des Direktoriums vom 20.08.2026 / Einführung von Beauftragten für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 5.3.: Anträge
+- TOP 5.4.: Unterrichtungen
+- TOP 5.4.1.: Verwendungsnachweise: - We Won´t Shut Up! Festival 2026 - Southbound Improtheater - Woher die Kraft kam
+- TOP 5.4.2.: MünchenBudget 2026: Vorschläge für den 6. Stadtbezirk
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Mobilität
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.2.1.: Fahrrad- und Lastenradabstellplatz vor dem Wohnhaus in der Lindenschmitstraße 29a
+- TOP 6.3.: Anträge
+- TOP 6.3.1.: Das Mobilitätsreferat stellt dem Bezirksausschuss die Auswertung der Verkehrs- und Geschwindigkeitsmessungen der Jahre 2024 – 2026 in Sendling zur Verfügung (SPD-Antrag)
+- TOP 6.3.2.: Bessere Ausstattung der Haltestellen des Schienenersatzverkehrs (SPD-Antrag)
+- TOP 6.4.: Unterrichtungen
+- TOP 6.4.1.: Antrag Seniorenvertretung Erstellen einer zusätzlichen Fahrrad-Abstellmöglichkeit am Resi-Huber-Platz
+- TOP 6.4.2.: Fernwärmeprojekte SWM - Fernwärmeprojekt Gaißacher Straße
+- TOP 6.4.3.: Parklizenzgebiet “Karwendelstraße“ – Halteverbote und Parkregelungen
+- TOP 6.4.4.: Poller Straßenecke Kidler-/ Oberländerstraße
+- TOP 6.4.5.: E-Ladestationen in der Implerstraße
+- TOP 6.4.6.: Südbahnhof für München weitere Antwort zum BA-Antrag Nr. 20-26 / B 08606
+- TOP 6.4.7.: Piktogramm und Schilder: Stemmerhof / Jägerwirtstraße
+- TOP 6.4.8.: Anfrage zu Bewohnerparkgebiet um die Urbanstraße
+- TOP 6.4.9.: Taktung des Schienenersatzverkehrs X6 & Zebrastreifen Albert-Roßhaupter-Straße
+- TOP 6.4.10.: Tempo 30 im Bereich der Wackersberger Straße, Reutberger Straße, Thalkirchner Straße
+- TOP 6.4.11.: Rückbau eines provisorischen Straßenüberganges vor der Brudermühlstraße 53-55
+- TOP 6.4.12.: Arbeiten im Straßenraum; Gotzinger Straße 46-56, Oberländerstraße 1-3a, Thalkirchner Straße 130, Gotzinger Platz 4-6; Verlegung Fernwärmeanschluss– Erweiterung um die Bauphase 2 neu
+- TOP 6.4.13.: Geplante Streichung der Buslinie X30 der MVG
+- TOP 6.4.14.: Update U3/U6: Sanierung Poccistraße und Goetheplatz – mehr als die Hälfte der ersten Bauphase geschafft
+- TOP 6.4.15.: Stationsbasiertes Carsharing und Bikesharing-Angebot „MyRadl“ – Information für BAs
+- TOP 6.4.16.: Bitte um verstärkte Geschwindigkeitskontrollen und Prüfung weiterer Maßnahmen in der Radlkoferstraße Mailverlauf zwischen Bürger und MOR, Bürgeranliegen TOP 2.21 aus 08/26 betreffend
+- TOP 6.4.17.: Optimierung der Platzverhältnisse an den SEV-Haltestellen - Implerstraße / Oberländerstraße
+- TOP 6.4.18.: Verkehrssituation Interims-Gasteig - Optimierung Beleuchtung Schäftlarnstraße; BA-Antrag Nr. 20-26 / B 06473
+- TOP 6.4.19.: Parksituation Fahrräder vor Wachstation am Flaucher
+- TOP 6.4.20.: Verkehrsberuhigung Lindenschmitstraße
+- TOP 6.4.21.: Falsch abmarkierte „Geteilte Abstellfläche“ am Harras wird entfernt und an der richtigen Stelle abmarkiert
+- TOP 6.4.22.: Antwortschreiben Mobilitätsreferat - Oberländer- / Gotzinger Straße - Beibehaltung der temporären Verkehrsführung als Dauerlösung
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Öffentlicher Raum, Begrünung und Gewerbe
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Pfeuferstr. 32 I Frist: 16.09.2026 Fällungsantrag vom 18.06.2026
+- TOP 7.2.2.: Leipartstr. 10 I Frist: 16.09.2026 Fällungsantrag vom 28.07.2026
+- TOP 7.2.3.: Valleystr. 23 | Frist 18.09.2026 Fällantrag vom 11.08.2026
+- TOP 7.2.4.: Schäftlarnstr. 15 | Frist 18.09.2026 Fällantrag vom 26.08.2026
+- TOP 7.3.: Anträge
+- TOP 7.3.1.: Baum-Pflanzungen auf der Stemmerwiese
+- TOP 7.4.: Unterrichtungen
+- TOP 7.4.1.: Unveränderte Gaststättenfortführungen
+- TOP 7.4.2.: Installation eines festen Bodenschach-Feldes mit Spielfiguren zwischen Valley- u. Implerpark
+- TOP 7.4.3.: Resilienz der Stadt München stärken: Baum-Biodiversität im Straßenraum
+- TOP 7.4.4.: Fahrradabstellplätze an der Implerstraße 23 und Wiederbegrünung entlang der Implerstraße 29
+- TOP 7.4.5.: Tauben am Herzog-Ernst-Platz
+- TOP 7.4.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Nächtliches Mähen des Straßenbegleitgrüns 2026
+- TOP 7.4.7.: Lindwurmstraße 110 - Müllproblematik
+- TOP 7.4.8.: Lärmbelästigung HC Wacker Demleitnerstraße 4
+- TOP 7.4.9.: Sperrung des Spielturms und Rutsche am Spielplatz Valleyplatz aufgrund von Sanierungsbedarf
+- TOP 7.4.10.: Antwort KVR - Städtisches Taubenhaus am Harras
+- TOP 7.5.: Sonstiges
+- TOP 7.5.1.: Drehgenehmigungen
+- TOP 7.5.2.: Erlaubnisbescheide Veranstaltungen
+- TOP 7.5.3.: Versammlungen unter freiem Himmel
+- TOP 8.: Unterausschuss Soziales, Bildung und Kultur
+- TOP 8.1.: Entscheidungen
+- TOP 8.1.1.: Damit die Zukunft unserer Kinder sicherer wird. Eine Wanderausstellung zu sexualisierter Gewalt, K.O.-Tropfen und Konsens.
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Anfrage für Gedenktermine im Umfeld des 09.11.2026
+- TOP 8.2.2.: Sendlinger Bergweihnacht (Christkindlmarkt) Am Harras vom 20.11.2026 bis 23.12.2026
+- TOP 8.3.: Anträge
+- TOP 8.4.: Unterrichtungen
+- TOP 8.4.1.: Generalsanierung MVHS Stadtbereichszentrum Süd und Stadtbibliothek Sendling am Harras
+- TOP 8.4.2.: Übersicht aller Kindertageseinrichtungen in Sendling
+- TOP 8.4.3.: Bezirksübergreifende Veranstaltung in Grünanlagen; Zirkus Pumpernudl 28.07.2026 - 18.10.2026
+- TOP 8.4.4.: Unterstützung für das H-Team in Sendling
+- TOP 8.4.5.: AKIM Stellungnahme zur Bürgeranfrage bezüglich der Situation am Quartiersplatz
+- TOP 8.4.6.: Sendling feiert 2027 150 Jahre Eingemeindung
+- TOP 8.5.: Sonstiges
+- TOP 9.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 9.1.: Entscheidungen
+- TOP 9.1.1.: (E) Toilette und Fahrradstellplätze am Spielplatz am Flaucher
+- TOP 9.1.1.1: Ortstermin mit dem Gartenbau am Flaucherspielplatz - Toilette
+- TOP 9.2.: Anhörungen
+- TOP 9.3.: Anträge
+- TOP 9.3.1.: Die Stadt München, genauer das Amt für Wohnen und Migration, unterstützt die Mieter*innen der Anwesen Wackersberger Str. 33 & 35 und Implerstr. 62 vor Verdrängung, vor überhöhten Mieten und möglichen Verstößen gegen die Erhaltungssatzung! (SPD-Antrag)
+- TOP 7.3.2.: Anfrage an die LBK zur Gestaltung und Pflege des Rewe-Parks und Vertragsverhandlungen mit den Bauherren (Die Grünen / SPD-Fraktion)
+- TOP 9.4.: Unterrichtungen
+- TOP 9.4.1.: Seismikmessungen zur Erkundung der tiefen Geothermie – Information zur Anpassung des Zeitplans
+- TOP 9.4.2.: Verbot gewerblich betriebener Vermietung von möblierten Kleinwohnungen Empfehlung der Bürgerversammlung des Stadtbezirkes 06 – Sendling vom 20.11.2025
+- TOP 9.4.3.: Rückbau eines provisorischen Straßenüberganges vor der Brudermühlstraße 53-55 Antwort des BAU auf Bürger*innenanliegen
+- TOP 9.4.4.: Antwort des PLAN zur Fallstraße 38
+- TOP 9.4.5.: Verschiebung Fertigstellung der Außenanlagen FC Wacker
+- TOP 9.4.6.: Antwort des PLAN zur Matthias-Mayer-Str. 5
+- TOP 9.4.7.: Antwort des PLAN - Lärmbelästigung Bauvorhaben Freisportanlage Wackersbergerstr.
+- TOP 9.4.8.: Erneute Forderung: Lindenschmitstr. 25: Baugenehmigung zurücknehmen
+- TOP 9.5.: Sonstiges
+- TOP 10.: Verschiedenes / Sonstiges
+- TOP 10.1: Entscheidungen
+- TOP 10.2.: Anhörungen
+- TOP 10.2.1.: Themenabfrage zu der Bürgerversammlung im Stadtbezirk 06
+- TOP 10.3.: Anträge
+- TOP 10.4.: Unterrichtungen
+- TOP 10.5.: Sonstiges
+- TOP 10.5.1.: Wahrung des Öffentlichkeitsgrundsatzes bei Unterausschusssitzungen BA-Antrag Nr. 26-32 / B 00080 des Bezirksausschusses des Stadtbezirkes 7 – Sendling-Westpark vom 30.06.2026 Sicherstellung des uneingeschränkten Zugangs aller Mandatsträger*innen zum Sitzungsort BA-Antrag Nr. 26-32 / B 00081 des Bezirksausschusses des Stadtbezirkes 7 – Sendling-Westpark vom 30.06.2026
+- TOP 2.1.9.: Sommerfest einer Partei am Gotzinger Platz
+- TOP 2.1.10.: Verkehrssicherheit Roter Turm Platz
+- TOP 2.2.15.: Geschwindigkeitsüberwachung in der Radlkoferstraße
+- TOP 2.2.16.: Antwortschreiben Baureferat - Flauchersteg - gefährlicher Abgang zum Kiesstrand nach der Treppe
+- TOP 2.2.17.: Antwortschreiben Baureferat - Rückbau eines provisorischen Straßenüberganges vor der Brudermühlstraße 53-55
+- TOP 2.2.18.: Parkplätze Untersendling
+- TOP 2.2.19.: Antwort der Bezirksinspektion: Müll in der Aberlestraße
+- TOP 2.2.20.: Antwort KVR: Verkehr in Sendling
+- TOP 5.4.3.: Verwendungsnachweise
+- TOP 6.4.23.: Personenbezogenen Sonderparkplatzes Oberländerstraße 28
+- TOP 6.4.24.: Antwort MOR: Verkehrssicherheit auf der Brudermühlbrücke für Fahrradfahrer und Fußgänger
+- TOP 7.2.5.: Plinganserstr. 18 - 18b | Frist 18.09.2026 Fällantrag vom 03.09.2026
+- TOP 7.3.3.: „Vergrämung“ der Mauereidechsen auf dem Gelände der Großmarkthalle (SPD-Antrag)
+- TOP 7.4.11.: Antwort Gartenbau - Mahd-Rhythmus Sendling
+- TOP 8.4.7.: Stadtteilwoche Sendling – Obersendling 2032
+- TOP 8.4.8.: Handout Kulturprojekt Sendling
+- TOP 9.3.2.: Errichtung einer festen Toilettenanlage im Umfeld des Seidenspinner Spielplatzes am Flaucher (Die Grünen-Antrag)
+- TOP 9.4.9.: (U) Überprüfung einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 06 (Sendling)
+- TOP 9.5.1.: Besuch der Großmarkthalle mit Werksleitung
