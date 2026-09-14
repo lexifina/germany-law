@@ -1,0 +1,7 @@
+# TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Partnerschaftskomitees Europäische Nachbarn (2026-09-14)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/48026
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
