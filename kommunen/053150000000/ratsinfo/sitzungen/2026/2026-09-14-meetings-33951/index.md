@@ -1,0 +1,93 @@
+# 7.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-14T17:00:00+02:00
+- Ende: 2026-09-14T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33951
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33951
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines Mitgliedes der Bezirksvertretung gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: B Hitzeschutz
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Fußgängerüberweg Herler Straße - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ Die Grünen aus der Sitzung der Bezirksvertretung Mülheim vom 03.02.2025 (AN/0088/2025) betreffend „Fehlende durchgehende Fußwege im Bezirk“ - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der Anfrage AN/1033/2026 der Fraktion Bündnis 90/Die Grünen bezüglich des Zustands der Schultoiletten im Bezirk Mülheim - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Verwarnungen der Fahrzeuge vor privaten Garagen- und Stellplatzflächen an der Marthastraße 9 – 11 in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.2.2: Ein Verkehrskonzept für die Stegerwaldsiedlung - Kenntnis genommen
+- TOP 7.2.3: Entwicklung eines sozialen Brennpunktes in der Dorfheidestraße, Köln-Dünnwald - Kenntnis genommen
+- TOP 7.2.4: Ausweitung von Graffitikunst im Bezirk Mülheim - Kenntnis genommen
+- TOP 7.2.5: Müllbeseitigung im öffentlichen Raum - Kenntnis genommen
+- TOP 7.2.6: Hitzeschutz für Kinder und Beschäftigte in Kölner Kitas - Kenntnis genommen
+- TOP 7.2.7: Warum tut die Stadt nichts, um die Situation in der Buchholzstraße zu verbessern ? - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: zurückgezogen
+- TOP 8.1.1.1: zurückgezogen
+- TOP 8.1.2: Prüfauftrag zur Einrichtung fest installierter Hängematten in Parks im Stadtbezirk Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.3: Aufstellen von Mülleimern an den drei Bänken entlang des Faulbachs (Höhe Buchheimer Ring) und am “Parkeingang” Amselstraße (neben der Kirche - Hausnummer 22) - ungeändert beschlossen
+- TOP 8.1.4: Endlich das Gefahrenpotential für Fahrradfahrende in Höhe der Esso Tankstelle am Bergischen Ring reduzieren - ungeändert beschlossen
+- TOP 8.1.5: Überprüfung der Erforderlichkeit und gegebenenfalls Nachpflanzungen schattenspendender Bäume auf Spielplätzen im Bezirk Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.6: Zusätzliche Abstellmöglichkeiten und Neuordnung der Fahrradstellplätze im Bereich Buchheimer Straße und Durchgang zum Clevischen Ring - ungeändert beschlossen
+- TOP 8.1.7: Lückenschluss: Tempo 30 auf der Mielenforster Straße in Dellbrück - ungeändert beschlossen
+- TOP 8.1.8: Hitzeschutzort Genovevahof erhalten - ungeändert beschlossen
+- TOP 8.1.9: Bepflanzung Mittelstreifen Herler Ring - ungeändert beschlossen
+- TOP 8.1.10: Hitzeschutzaktionsplan für den Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 8.1.11: Wiederherstellung der Beleuchtung des Weges von der Egonstraße zum RTHC-Bootshaus in Stammheim - ungeändert beschlossen
+- TOP 8.1.12: Verbesserung der Löschwasserversorgung in der Dellbrücker Heide zum Schutz der Einsatzkräfte und der geschützten Flora und Fauna - ungeändert empfohlen
+- TOP 8.1.13: Erhaltung Kooperationsspielhaus Depot 2 und Carlsgarten: Versprechen halten, politische Beschlüsse umsetzen, rechtsrheinische Kulturstandorte sichern! - vertagt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Projekt „Überprüfung der Kölner Straßennamen auf Zusammenhänge mit Kolonialismus oder Nationalsozialismus“ - ungeändert beschlossen
+- TOP 9.1.2: Baubeschluss für die Instandsetzung der Fahrbahn- und Radwegeoberfläche Thuleweg zwischen Sigwinstraße und Glockenblumenweg - ungeändert beschlossen
+- TOP 9.1.3: Beratung des Haushaltsplanentwurfs für den Haushalt 2027/ 2028 einschließlich der mittelfristigen Finanzplanung bis 2031 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Mülheim gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP -: Anpassung der Festsetzung der bezirksbezogenen Haushaltsmittel für den Bezirk Köln-Mülheim TOP 9.1.4 - endgültig abgelehnt
+- TOP -: Vorschlag zu TOP 9.1.3 der BV-Sitzung am 14.9.2026 – Beratung des Haushaltsplanentwurfs / Vorlage Nr. 2341/2026 - geändert beschlossen
+- TOP 9.1.4: Haushaltsplan 2027/2028 hier: Veranschlagung der bezirksorientierten Mittel 2027/2028 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.5: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 9.1.6: Stadtklima-/Stadtverschönerungsprogramm 2026 im Stadtbezirk Mülheim - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: "Köln baut bezahlbar | Wohnen für alle" - ungeändert empfohlen
+- TOP 9.2.2: 297. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.3: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert empfohlen
+- TOP 9.2.4: Zoobrücke Los D, Los Z1 - Spannungsrisskorrosion - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 10.2.5: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Anwohnerparken Buchholzstraße, Aktenzeichen 18/24 - Kenntnis genommen
+- TOP 10.2.7: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Grüne Bögen Elisabeth-Breuer-Straße, Aktenzeichen 81/26 - Kenntnis genommen
+- TOP 10.2.8: Mitteilung nach § 24 GO NRW - Sicherer Schulweg auf der Herler Straße – Tempo 30 bis zur Alten Wipperfürther Straße, Aktenzeichen 41/26 - vertagt
+- TOP 10.2.9: EHAP Plus Projekt 'INKA - In Köln Ankommen' Jahresbericht 2025 - Kenntnis genommen
+- TOP 10.2.10: Niederschrift zur 22. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 19.05.2026 - Kenntnis genommen
+- TOP 10.2.11: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Grillen und Zufahrten Mülheimer Stadtgarten, Aktenzeichen 90/26 - Kenntnis genommen
+- TOP 10.2.12: Piktogrammkette für den Radverkehr – Erfahrungsbericht und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.13: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Errichtung einer Geschwindigkeitsbeschränkung auf 30 km/h entlang der Mielenforster Straße, Aktenzeichen 12/26 - Kenntnis genommen
+- TOP 10.2.14: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 10.2.15: Niederschrift zur 12.Sitzung der Ständigen Jury Mülheimer Süden - Kenntnis genommen
+- TOP 10.2.16: Bürgerhaus MüZe, Berliner Straße 77 in Köln-Mülheim - Information zum anstehenden Interessensbekundungsverfahren für eine langfristige Trägerschaft - Kenntnis genommen
+- TOP 10.2.17: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 10.2.18: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.19: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 10.2.20: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Eingezäunte Hundewiese in Köln-Mülheim, Aktenzeichen 155/26 - Kenntnis genommen
+- TOP 10.2.21: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - vertagt
+- TOP 10.3: Bemerkungen zur Niederschrift
