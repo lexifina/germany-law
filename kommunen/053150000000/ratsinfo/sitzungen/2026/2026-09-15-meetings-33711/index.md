@@ -1,0 +1,101 @@
+# 7. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-15T17:02:00+02:00
+- Ende: 2026-09-15T19:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33711
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33711
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Austausch mit dem Beigeordneten Egerer (Dezernat III)
+- TOP -: B - Sachstand Porz Mitte
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach §24 GO - "Brückenverbreiterung und Pavillon auf der Brücke über die Hauptstraße in Porz", Aktenzeichen 179/26 - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Brückenverbreiterung und Pavillion auf der Brücke Hauptstraße" - vertagt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Beratung des Haushaltsplanentwurfs 2027/2028 einschließlich der Finanzplanung bis 2031 und der sonstigen Anlagen - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, SPD und Bündnis90/DieGrünenVolt "Beratung des Haushaltsplanentwurfs 2027/2028" - ungeändert beschlossen
+- TOP 6.2: Haushaltsplan 2027/2028 - Veranschlagung der bezirksorientierten Haushaltsmittel - ungeändert beschlossen
+- TOP 6.3: Integriertes Stadtentwicklungskonzept Porz-Mitte - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlungen des Beirates zur Hauptstraße Porz-Mitte, Beschlussvorlage 2160/2026" - vertagt
+- TOP 6.4: Förderung des Brauchtums in den Veedeln - Sicherung der Durchführung der Veedelszüge im Stadtbezirk Porz - Mittelvergabe Session 2026/2027 - ungeändert beschlossen
+- TOP 6.5: Baubeschluss für die Durchführung von straßenbaulichen Anpassungs- und Instandsetzungsmaßnahmen an sechs Knotenpunkten entlang der Heidestraße in Köln-Porz - ungeändert beschlossen
+- TOP 6.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 6.7: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz-Mitte - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: "Köln baut bezahlbar | Wohnen für alle" - mit Änderungen empfohlen
+- TOP 7.2: Satzung über die abweichende Herstellung der Erschließungsanlage Poller Kirchweg von Am Schnellert bis Müllergasse in Köln-Poll - ungeändert empfohlen
+- TOP 7.3: Zügigkeitserweiterung der Friedrich-List-Schule, Gemeinschaftsgrundschule, Breitenbachstraße 2, 51149 Köln-Gremberghoven, zum Schuljahr 2027/28 - vertagt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Bestellung eines neuen Mitglieds für den Beirat der Forensischen Klinik Köln Porz für die Ratsperiode 2025 bis 2030 - ungeändert empfohlen
+- TOP 7.5: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert empfohlen
+- TOP 7.6: Infrastrukturmaßnahmen im Stadtbahnnetz der KVB im Herbst 2026 - hier: Betriebskonzepte und Ersatzverkehrsleistungen für baubedingte Betriebsanpassungen - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion "Offene Anträge und Anfragen - Controllingverfahren" - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion "Reparaturen Gleiskörper KVB-Linie 7, Siegburger Str. in Poll" - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktion Bündnis90/DieGrünenVolt "Aufwertung des Platzes Langeler Berg / Hintergasse" - vertagt
+- TOP 8.4: Antrag der CDU-Fraktion "Ansprechperson für die Bezirksvertretung Porz aus dem Dezernat Mobilität"
+- TOP 8.5: Antrag der SPD-Fraktion "Konsequenzen aus der Sperrung der Stadtbahnlinie Baumaßnahmen bündeln und Ersatzverkehr verbessern - ungeändert beschlossen
+- TOP 8.6: Antrag der Fraktion Bündnis90/DieGrünenVolt "Übergang Schmittgasse / An der Wielermaar" - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion "Sachstandsbericht zum Ausbau der Frankfurter Straße einschließlich ÖPNV" - Sache ist erledigt
+- TOP 8.8: Antrag der SPD-Fraktion "Parken auf der Sperrzone Siegburger Straße im Bereich Marktplatz, Verlagerung Taxistand, Umgestaltung Siegburger Straße im Rahmen des Mobilitätskonzeptes Deutzer Hafen" - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktion Bündnis90/DieGrünenVolt "Container für Pizzakartons am Parkplatz Mühlenstraße" - geändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion "Wiese Am Blauen Stein langfristig als Grünfläche sichern und ökologisch aufwerten" - ungeändert beschlossen
+- TOP 8.11: Antrag der Fraktionen CDU, SPD und Bündnis90/DieGrünenVolt "Benennung Wiesenfestplatz Porz-Langel" - ungeändert beschlossen
+- TOP 8.12: Antrag der SPD-Fraktion "Umgestaltung und Entsiegelung des Platzes der Kulturen" - vertagt
+- TOP 8.13: Antrag der SPD-Fraktion "Neue Bundeswohnungsbaugesellschaft als Chance für Porz nutzen" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Anfrage der AfD-Fraktion "Reizgas-Attacke Wilhelm-Busch-Realschule" - vertagt
+- TOP 9.1.2: Anfrage der SPD-Fraktion "Treppe Ohmstr./Kaiserstr." - vertagt
+- TOP 9.1.3: Anfrage der Fraktion Bündnis 90/Die Grünen "Frankfurter Straße 210, Porz-Wahn" - vertagt
+- TOP 9.1.4: Beantwortung einer Anfrage der CDU-Fraktion "Kreuzung Grengeler Mauspfad/Hirschgraben/Porzer Weg in Porz Eil" - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Kreuzung Grengeler Mauspfad/Hirschgraben/Porzer Weg in Porz Eil" - Sache ist erledigt
+- TOP 9.1.5: Anfrage der CDU-Fraktion "Parkplatzsituation in Porz-Finkenberg" - vertagt
+- TOP 9.1.6: Anfrage der SPD-Fraktion "Sachstand Offene Schulhöfe im Stadtbezirk Porz" - vertagt
+- TOP 9.1.7: Anfrage der CDU-Fraktion "Fußgängerzone Porz" - vertagt
+- TOP 9.1.8: Anfrage der SPD-Fraktion "Ankauf Grundstück Urbacher Weg für Schulbau" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1053/2026 der SPD-Fraktion bezüglich des Ankaufs des Grundstücks Urbacher Weg für einen Schulbau - Kenntnis genommen
+- TOP 9.1.9: Anfrage der AfD-Fraktion "Liegenschaft Sankt-Anno-Str. 18, 51147 Köln‘‘ - vertagt
+- TOP 9.1.10: Anfrage der AfD-Fraktion "‘Verkehrsbehinderungen in der Ortsdurchfahrt Porz-Langel ‘‘ hier: Sandbergstraße, 51143 Kö - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion aus der Sitzung der Bezirksvertretung Porz vom 23.06.2026 betreffend "Verkehrsbehinderung in der Ortsddurchfahrt Porz-Langel" (AN/1091/2026) - Kenntnis genommen
+- TOP 9.1.11: Anfrage der Fraktion Bündnis 90/Die Grünen/Volt "E-Scooter im Stadtbezirk Porz" - vertagt
+- TOP 9.1.12: Anfrage der CDU-Fraktion "Ausbau der Frankfurter Straße, Hochkreuz, Steinstraße usw. in Porz-Eil und Gremberghoven" - vertagt
+- TOP 9.1.13: Anfrage der SPD-Fraktion "Weitere Verwendung ehemals militärischer Liegenschaften im Stadtbezirk Porz" - vertagt
+- TOP 9.1.14: Anfrage der SPD-Fraktion "Verkehrskonzept für Köln-Porz-Gremberghoven" - vertagt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion "Wochenmarkt in Porz-Mitte" - vertagt
+- TOP 9.2.2: Anfrage der CDU-Fraktion "Gerüst an der GGS Heideschule" - vertagt
+- TOP 9.2.3: Anfrage der SPD-Fraktion "Hallenbad Porz-Wahn" - vertagt
+- TOP 9.2.4: Anfrage der SPD-Fraktion "Eingezäunte Grünfläche im Umfeld der Pestalozzischule in Wahnheide" - vertagt
+- TOP 9.2.5: Anfrage der SPD-Fraktion "Westhovener Aue - Sondierungsarbeiten, beschädigte Wege und Schutz des Gewässers" - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Mitteilung des Bezirksbürgermeisters über die Sitzung des Kulturbeirates Porz am 08.09.2026 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 10.2.2: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 10.2.3: Beantwortung einer Anfrage der Fraktionen CDU, SPD und BÜNDNIS 90/DIE GRÜNEN und Volt aus der Sitzung der Bezirksvertretung Porz vom 23.04.2026 (AN 0640/2026) betreffend "Winterbeleuchtung Porz Mitte" - Kenntnis genommen
+- TOP 10.2.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Regionalhalts für die Linien RE 8 und/oder RB 27 am Haltepunkt Köln-Steinstraße, Aktenzeichen 14/26 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Wendefläche Altenberger Straße, Köln-Porz, Aktenzeichen 112/26 - Kenntnis genommen
+- TOP 10.2.6: Urbacher Weg 19 - Kenntnis genommen
+- TOP 10.2.7: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 10.2.8: Sachstandsbericht der Integriertes Stadtentwicklungskonzept Porz-Mitte zum 31.12.2025 (1036/2026) - Kenntnis genommen
+- TOP 10.2.9: Zwischenstand zum bezirklichen Kinder- und Jugendbeteiligungsformat Veedels-Check unter dem Titel: „HEY Porz- Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 10.2.10: Sachstandbericht zum Integrierten Stadtentwicklungskonzept Porz-Mitte zum 31.12.2025 (1036/2026) - Kenntnis genommen
+- TOP 10.2.11: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 10.2.12: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.13: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.14: Beantwortung einer Anfrage der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen und Volt aus der Sitzung vom 20.04.2026 (AN/0941/2026) betreffend "Kippengullis an der KVB-Haltestelle Porz-Markt" - Kenntnis genommen
+- TOP 10.2.15: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Campus Köln Ost, Aktenzeichen 120/26 - Kenntnis genommen
+- TOP 10.2.16: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
