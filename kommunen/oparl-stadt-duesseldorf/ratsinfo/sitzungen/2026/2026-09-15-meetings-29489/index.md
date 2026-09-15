@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-15T17:00:00+02:00
+- Ende: 2026-09-15T19:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29489
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29489
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 5 am 30. Juni 2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Rückblick und Austausch zur Premiere der Eventfläche Open Air Park
+- TOP 5: Berichterstattung zum Thema Kanalsanierung Alte Landstraße
+- TOP -: Verwaltungsvorlagen
+- TOP 6: Tempolimit "30" Heltorfer Schloßallee, 40489 Düsseldorf - einstimmig beschlossen
+- TOP 7: Ausführungs- und Finanzierungsbeschluss zum Neubau der Rettungswache 50 in Kombination mit dem Gerätehaus der Freiwilligen Feuerwehr in Kalkum an der Kalkumer Schloßallee - Feuerwehrorganisatorische Maßnahmen I (FOM I) - Empfehlung einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - abweichend beschlossen
+- TOP 16: Öffentliche Beleuchtung – Erneuerung gasbetriebene Beleuchtung (Standsicherheitsmaßnahmen 2026) in Stockum - einstimmig beschlossen
+- TOP 17: Zuschuss an den Angermunder Tennisclub e. V. - einstimmig beschlossen
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2026 (Liste B), Restaurierung der Büste Maria Theresia im Lantz'schen Park - mehrheitlich abgelehnt
+- TOP 19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2026 (Liste B), Maßnahmen an diversen Kita-Einrichtungen - einstimmig beschlossen
+- TOP -: Anfragen aus vorheriger Sitzung*
+- TOP 20: Illegale Rennen und erhebliche Geschwindigkeitsüberschreitungen auf der B8n in den Nacht- und frühen Morgenstunden - beantwortet
+- TOP 21: Schloss Kalkum: Was unternimmt die Stadt für den Erhalt und Nachnutzung des Denkmals? - beantwortet
+- TOP 22: Wird das Schloss Kalkum und der dazu gehörige Park weiter verfallen oder wird das Schloss Kalkum bald umgebaut? - beantwortet
+- TOP 23: Gullys im Stadtbezirk 5 müssen mehrfach im Jahr gesäubert und regelmäßig überprüft werden, um Überflutungen auf Straßen, in Unterführungen und in Keller zu vermeiden. - beantwortet
+- TOP -: Neue Anfragen
+- TOP 24: Zusammenlegung der Haltestellen Nordpark/Aquazoo und Messe Ost/Stockumer Kirchstraße - vertagt
+- TOP 25: Verspätungen der Rheinbahn während des Konzertes im Open Air Park am 10.07.26 - beantwortet
+- TOP 26: Müllanhänger auf dem Parkplatz am Aquazoo - beantwortet
+- TOP 27: Wann wird die Radleitroute weiter gebaut? - vertagt
+- TOP 28: Wie weit ist die Planung zur Geothermie für den Düsseldorfer Norden? - beantwortet
+- TOP 29: Wie weit ist die kommunale Wärmeplanung für den Düsseldorfer Norden? - beantwortet
+- TOP -: Anträge
+- TOP 30: GAT für Messdaten zur Verkehrsbelastung Angermunder Straße (zwischen den Kreisverkehren) - einstimmig beschlossen
+- TOP 31: Verkehrssicherheit an der Ausfahrt der „Ladenzeile Sültenfuß“ in Stockum erhöhen - einstimmig beschlossen
+- TOP 32: Parksituation in Düsseldorf-Stockum – Ausweitung des Anwohnerparkens - einstimmig beschlossen
+- TOP 33: Parksituation in Angermund – kurzfristige Maßnahmen gegen zunehmenden Parkdruck durch Flughafenparker - einstimmig beschlossen
+- TOP 34: Ausweitung der Tempo-30-Regelung auf der Kalkumer Schloßallee an der Bushaltestelle vor dem Theodor-Fliedner-Gymnasium - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 35: Sitzungstermine der Bezirksvertretung 5 im Jahr 2027 - zur Kenntnis genommen
+- TOP 36: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2026 - zur Kenntnis genommen
+- TOP 38: Verschiedenes
