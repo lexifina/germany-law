@@ -1,0 +1,109 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379862
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379862
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Radstreifen Heimeranplatz entlang der Garmischer Straße zum Radweg südlich der Bahngleise
+- TOP 4.2.: Massive nächtliche Lärmbelästigung durch verschiedene Gaststätten in der Parkstraße
+- TOP 4.3.: Gewerbliche Outdoor-Trainings im Hans-Dürrmeier-Weg / Heimeranstraße 39
+- TOP 4.4.: Wöchentliche Lärmbelästigung Am Schneckenplatz durch die BladeNight
+- TOP 4.5.: Pilotprojekt zur quartiersbasierten Kaffeesatz-Sammlung im Westend
+- TOP 4.6.: U-Bahnstation Schwanthalerhöhe; Gefahrenstelle an der Bushaltestelle im Begegnungsverkehr zwischen Fahrgästen und Radverkehr
+- TOP 4.7.: Temporäre Einbahnregelung für die Schrenkstraße während dem Oktoberfest
+- TOP 4.8.: U-Bahnstation Schwanthalerhöhe; Gefahrenstelle an der Bushaltestelle im Begegnungsverkehr zwischen Fahrgästen und Radverkehr
+- TOP 4.9.: Baumfällung Westendstraße 136
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Sachstand Pachtvertrag Zirkuswiese - Wiedervorlage
+- TOP 6.3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Schaffung von mehr Trainingsmöglichkeiten im öffentlichen Raum (Jugendversammlung Antrag 3)
+- TOP 7.3.2.: Beleuchtung von Spielplätzen (Jugendversammlung Antrag 10)
+- TOP 7.3.3.: Save the date Eröffnung Wärterhäuschen am 15.10.2026
+- TOP 7.3.4.: Vorstellung GSR-Projekt Stadtraummonitor
+- TOP 7.3.5.: Verbesserungen auf den Sportflächen am Georg-Freundorfer-Platz (Jugendversammlung Antrag 4)
+- TOP 7.3.6.: Zaunbauarbeiten am Bolzplatz Georg-Freundorfer-Platz von 13.09 – 30.09.2026
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Ruhestörung bei den Anwohner*innen durch die Blade Night
+- TOP 8.1.2.: (E) + (U) Graffitiprojekt mit Schulen in Unterführung Donnersbergerbrücke
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Marktveranstaltung "Weihnachtszauber am Bavariapark auf dem Platz am Bavariapark" vom 20.11.26 – 22.12.26
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Versammlung Landsberger Straße 110 am 28.08.2026
+- TOP 8.3.2.: "Wiesngarten 2026" (Pop Up Biergarten während der Wiesn) auf der Alten Circuswiese, Theresienhöhe 7 vom 19.09. bis 04.10.2026
+- TOP 8.3.3.: Versammlung Georg-Freundorfer-Platz von 07.09.26 - 13.09.26
+- TOP 8.3.4.: Versammlung Stöpsel Trappentreustraße 11.09.2026
+- TOP 8.3.5.: Versammlung Landsberger Str. 110 am 04.09.2026
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Fußgängersicherheit an der Kreuzung Westendstraße / Trappentreustraße West
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen – Zusammenarbeit mit dem Referat für Klima- und Umweltschutz
+- TOP 9.2.2.: Ladezone Kazmairstraße 44
+- TOP 9.2.3.: Parklizenzgebiet „Westend“; Parkplätze unter der Donnersbergerbrücke nördlich der Landsberger Straße
+- TOP 9.2.4.: Baumfällung Theresienhöhe 26 - 28
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Abendrunde des RKU mit den Bezirksausschüssen am 28.10.2026
+- TOP 9.3.2.: Schadstofftechnische Probesanierungsarbeiten auf der Hackerbrücke
+- TOP 9.3.3.: Einrichtung eines Mülleimers im Umfeld der Guldeinschule an der Trappentreustraße
+- TOP 9.3.4.: Verbesserung der Aufenthaltsqualität an der Kazmairstraße Ecke Ligsalzstraße (Jugendversammlung Antrag 1)
+- TOP 9.3.5.: Shared-Mobility-Entwicklungen: Start des stationsbasierten Carsharings und des Bikesharing-Angebots „MyRadl“ in München
+- TOP 9.3.6.: Arbeiten an der Donnersbergerbrücke - Brückenkappen und Bushaltestellen
+- TOP 9.3.7.: Hinweistafel zur Verdeutlichung des Durchfahrtverbots am Stöpsel Trappentreustraße
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Initiative "Strandkorb. Laden für neue Perspektiven" Konzert und Vernissage "Schau und hör genau hin" am 12.11.2026 640,00 Euro, Az.: 0262.100-8-0496
+- TOP 10.1.2.: (E) Stadtbezirksbudget Teatro Subversum Als Rumi Nezahualcóyotl begegnete vom 11. -25.10.2026 4.860,00€; Az. 0262.100-8-0499
+- TOP 10.1.3.: (E) Stadtbezirksbudget Init. "Ausstellung im Westend" So also ist es gewesen vom 11. -13.12.2026 1.000,00€; Az. 0262.100-8-0498
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.3.1.: Aufstellung Restbudgetmittel und Budgetanträge BA8 bis Quartal 3-2026
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Sofortmaßnahmen für mehr Hitzeschutz am Quartiersplatz Theresienhöhe (Bahndeckel)
+- TOP 11.2.: Änderung der BA-Satzung "Beauftragter gegen Extremismus"
+- TOP 11.3.: Anfrage: Welche Auswirkungen wird der Prozess der AG Zukunftssicherung auf soziale Angebote in unserem Stadtteil Schwanthalerhöhe / Westend haben?
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 12.2.2.: Änderungen der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung; Reduzierung der Schutzgrenze für Gehölze von einem Stammumfang von bisher 80 cm auf 60 cm
+- TOP 12.2.3.: Änderungen der Bezirksausschuss-Satzung – Einführung eines verpflichtenden Tierschutzbeauftragten
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: BA-Informationsschreiben Nr. 06/2026; Umgang mit Spenden / Zuwendungen, Annahme von Geschenken
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 4.10.: Baumpflanzungen Fäustlestraße
+- TOP 4.11.: Dauerbaustelle Schießstätt- / Schwanthalerstraße, Wertstoffcontainer Schießstättstr 8 und Wiesn-Containerabbau
+- TOP 4.12.: Toilettenanlage Kinderspielplatz am Gollierplatz
+- TOP 6.3.3.: Meldelisten Bauvorhaben
+- TOP 7.3.7.: Sperrung des Spielplatzes an der Theresienhöhe aufgrund von Rattenbefall
+- TOP 8.3.6.: Gedenken an das Oktoberfest-Attentat vom 26. September 1980
+- TOP 4.13.: Theresienhöhe: Massive Einschränkung des Parkraums durch zahlreiche Halteverbote
+- TOP 6.2.1.: Werbeanlage Theresienhöhe / Hans-Fischer-Straße
+- TOP 8.3.7.: Versammlung Landsberger Str. 110 am 17.09.2026
+- TOP 2.1.: Fernwärmeanschluss Fäustlestraße
