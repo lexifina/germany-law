@@ -1,0 +1,88 @@
+# Sitzung des Ausschusses für Chancengerechtigkeit und Integration
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-15T15:00:00+02:00
+- Ende: 2026-09-15T17:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/193
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34214
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34214
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der Anfrage AN/0592/2026 aus dem Ausschuss für Chancengerechtigkeit und Integration zum Thema Unbegleitete Minderjährige Geflüchtete - Kenntnis genommen
+- TOP 3.2: Beantwortung einer Anfrage zur kultursensiblen Senior*innenberatung - Kenntnis genommen
+- TOP 3.3: Beantwortung einer schriftlichen Anfrage (AN/0593/2026) der Grün-Offene Liste Migration Köln (GOL) betreffend "Herkunftssprachlicher Unterricht (HSU) - Bedarf und Inklusion" - Kenntnis genommen
+- TOP 3.4: Beantwortung einer Anfrage (AN/0839/2026) von Pinar Wege und Sigita Gelbach, SPD-Liste zum Thema: Arbeitsmarkt- und Teilhabechancen geflüchteter Frauen in Köln – Qualifizierung, Kinderbetreuung und kultursensible Begleitung - Kenntnis genommen
+- TOP 3.5: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen vom 23.07.2026 im Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren betreffend Nutzungsgebühren-Rückständen nach der Satzungsänderung 2024 - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zum Thema Erlass von Säumniszuschlägen gegenüber Geflüchteten – Sachstand und Handlungsbedarf
+- TOP 4.2: Mehrsprachigkeit bei Ämtern
+- TOP 4.3: Passbeschaffung bei jungen Geflüchteten aus Afghanistan
+- TOP 4.4: Anfrage zu offenen Forderungen bezüglich Nutzungsgebühren
+- TOP 4.5: Anfrage zu den Antisemitismusvorwürfen im Zusammenhang mit dem Rautenstrauch-Joest-Museum – Bitte um Stellungnahme
+- TOP 4.6: Anfrage zum Thema Kommunikationsstrategie der Stadt Köln angesichts rechter Angriffe auf das Kölner Bleiberechtsprogramm und zur Prüfung eines Faktenchecks durch das Presseamt
+- TOP 4.7: Anfrage zum aktuellen Stand des Museum Selma am Standort Köln-Kalk
+- TOP 4.8: Anfrage zum Thema Erreichbarkeit des Standesamtes im Bezug auf Sicherstellung religionskonformer Bestattungen:
+- TOP 4.9: Anfrage zum Thema Aufklärung neu ankommender Geflüchteter über Gefahren am Rhein
+- TOP 4.10: Anfrage zum Thema Umsetzung der Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von bilingualen Gruppen in Kindertageseinrichtungen in Köln
+- TOP 4.11: Anfrage zur „Sachstandaufklärung“ zur Beantwortung der Anfrage AN/0518/2020 – Sucht und Migration – Psychiatrische und psychotherapeutische Versorgung von Migranten und Migrantinnen in Kölner Kliniken, LVR-Kliniken
+- TOP 4.12: Anfrage zum Fall Pedro Corona
+- TOP 4.13: Sachstand zur Umbenenung Gustav-Nachtigal-Straße
+- TOP 5: Mitteilungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Information zu den Neuen Leitlinien zur Unterbringung und Betreuung Geflüchteter - Kenntnis genommen
+- TOP 5.3: "Masterplan Kommunale Sicherheit (MaKoS)": Umsetzungsstand des AVR-Beschlusses vom 19. Mai 2025 - Kenntnis genommen
+- TOP 5.4: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 5.5: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - Kenntnis genommen
+- TOP 5.6: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 02/2026 - Kenntnis genommen
+- TOP 5.7: In Vielfalt durch Vielfalt - Strukturanalyse kulturelle Teilhabe in den städtischen Kulturinstitutionen - Kenntnis genommen
+- TOP 5.8: Abgleich der Bevölkerungsvorausberechnung mit dem tatsächlichen Bevölkerungsbestand: Wenig Abweichung auf gesamtstädtischer Ebene - Kenntnis genommen
+- TOP 5.9: Arbeitsmarkt Köln - Rückblick 2025, bisherige Entwicklung und Ausblick 2026: Trotz schwacher Konjunktur stabile Beschäftigung am Kölner Arbeitsmarkt - Kenntnis genommen
+- TOP 5.10: Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) innerhalb der Mitarbeitendenschaft im Rahmen des Diversity Managements sowie der Interkulturellen Öffnung der Stadt Köln - Kenntnis genommen
+- TOP 5.11: Arbeitsbericht Auszugsmanagement 2025 - Kenntnis genommen
+- TOP 5.12: Jahresbericht Koordination Gewaltschutz in Kölner Unterbringungseinrichtungen für Geflüchtete für den Zeitraum 1. Januar - 31. Dezember 2025 - Kenntnis genommen
+- TOP 5.13: Bevölkerungsbewegungen in Köln 2025: Wanderungsplus trotz des Rückgangs der internationalen Zuzüge - Kenntnis genommen
+- TOP 5.14: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 5.15: Bericht des Büros für Diversity Management 01/2026 - Kenntnis genommen
+- TOP 5.16: Jahresbericht "Willkommen und Ankommen in Köln" 2025 - Kenntnis genommen
+- TOP 5.17: Sachstandsbericht Projekte gegen Rassismus und für Demokratie und Akzeptanz 2023 und 2024 - Kenntnis genommen
+- TOP 5.18: Sachbericht 2025 des Kölner Netzwerks Arbeits- und Erwerbslosenberatung zum Förderprogramm BOREA - Kenntnis genommen
+- TOP 5.19: Sachbericht für das Jahr 2025 zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 5.20: Tätigkeitsbericht zum Integrationslots*innen-Projekt für das Jahr 2025 - Kenntnis genommen
+- TOP 5.21: Jahresbericht der Ombudsstelle 2025 - Kenntnis genommen
+- TOP 5.22: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 5.23: EHAP Plus Projekt 'INKA - In Köln Ankommen' Jahresbericht 2025 - Kenntnis genommen
+- TOP 5.24: Neugeborene Kinder und ihre Mütter in Köln - Strukturen und Trends 2000 bis 2025 - Kenntnis genommen
+- TOP 5.25: Gedenkstele auf dem Platz im Afrika-Viertel: Festlegung des Ortes und des Themas - Kenntnis genommen
+- TOP 5.26: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 5.27: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 5.28: Aktionsplan Mehrsprachigkeit für städtische Kindertageseinrichtungen - Kenntnis genommen
+- TOP 5.29: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 5.30: Erfolgte Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - Kenntnis genommen
+- TOP 5.31: Neue Belegungsvereinbarung für geförderte Wohnungen in Köln ab dem 01. Januar 2027 - Kenntnis genommen
+- TOP 5.32: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und § 10, Abs. 1 - vertagt
+- TOP 6.2: Änderungsantrag zu „Änderungsantrag zur Prüfung der Änderung der Geschäftsordnung Präambel und §10, Abs. 1“ - vertagt
+- TOP 6.3: Änderungsantrag zum Antrag AN/1387/2025 - Änderung der Geschäftsordnung - vertagt
+- TOP 6.4: Antrag zur Unterstützung der Resolution des Kölner Barcamps „Flucht und Migration – Ja zu Migration" und Weiterleitung an den Rat der Stadt Köln - ungeändert beschlossen
+- TOP -: Beratung des Haushaltsplanentwurfs 2027/2028
+- TOP 6.5: Zusatzantrag zum Haushaltsplanentwurf 2027/28 zum Thema Streichung der Antirassismus-/Antidiskriminierungsarbeit und Mittel für Antirassismustraining - ungeändert beschlossen
+- TOP 6.6: Zusatzantrag zur Prüfung der vollständigen Streichung der Mittel zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz aus dem Haushaltsplanentwurf 2027/2028 - ungeändert beschlossen
+- TOP 6.7: Zusatzantrag zum Haushaltsplanentwurf 2027/28 - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Änderung der Geschäftsordnung des Integrationsrates der Stadt Köln anlässlich der Umbenennung des Integrationsrates in „Ausschuss für Chancengerechtigkeit und Integration“ - vertagt
+- TOP 8.2: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert beschlossen
+- TOP 8.3: Mitwirkung des Ausschusses für Chancengerechtigkeit und Integration in der Steuerungsgruppe des Kölner Netzwerks Bürgerengagement - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
