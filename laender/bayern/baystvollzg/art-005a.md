@@ -1,0 +1,3 @@
+# Art. 5a Opferbezogene Vollzugsgestaltung
+(1) Die Belange der Opfer sind bei der Gestaltung des Vollzugs, insbesondere bei vollzugsöffnenden Maßnahmen sowie bei der Eingliederung und Entlassung der Gefangenen, zu berücksichtigen. Dem Schutzinteresse gefährdeter Dritter ist Rechnung zu tragen.
+(2) Die Einsicht der Gefangenen in ihre Verantwortung für die Tat, insbesondere für die beim Opfer verschuldeten Tatfolgen, soll geweckt werden. Die Gefangenen sind anzuhalten, den durch die Straftat verursachten Schaden wiedergutzumachen, und hierbei beratend zu unterstützen. Die Durchführung eines Täter-Opfer-Ausgleichs ist in geeigneten Fällen anzustreben.

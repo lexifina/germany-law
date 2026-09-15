@@ -1,0 +1,2 @@
+# Art. 46a Entschädigung für entgangenes Arbeitsentgelt
+Nehmen Gefangene während ihrer regulären Beschäftigungszeit an im Vollzugsplan festgelegten sozialtherapeutischen, psychotherapeutischen oder psychiatrischen Behandlungsmaßnahmen oder anderen Einzel- oder Gruppenbehandlungsmaßnahmen teil, erhalten sie für die Dauer des Ausfalls der Beschäftigung im Umfang von bis zu sechs Behandlungsstunden pro Woche in Höhe der ihnen dadurch entgehenden Vergütung eine Ausbildungsbeihilfe.
