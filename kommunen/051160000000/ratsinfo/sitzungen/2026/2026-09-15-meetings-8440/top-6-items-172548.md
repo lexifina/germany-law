@@ -1,0 +1,8 @@
+# TOP 6: Straßenbenennung in Lürrip, Gebiet "REME Los 1"
+
+- Sitzung: Bezirksvertretung Ost (2026-09-15)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/172548
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/39192
