@@ -1,0 +1,1 @@
+# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen sowie zu Ausgleichs-, Qualifizierungs-, Seiten- und Quereinstiegsmaßnahmen im Land Bremen (KapVO) vom 1. September 2026
