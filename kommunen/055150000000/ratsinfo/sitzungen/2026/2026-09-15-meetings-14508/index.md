@@ -1,0 +1,57 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-09-15T17:02:00+02:00
+- Ende: 2026-09-15T19:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14508
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14508
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589481.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Kumulative Jahresbelastung der Wohnbevölkerung im Bereich Schloss durch Veranstaltungen
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anregungen des Jugendrates an die Bezirksvertretung Münster-Mitte
+- TOP 5.1: Ampelschaltungen optimieren und grüne Pfeile stärker einsetzen - einstimmig beschlossen
+- TOP 6: Entscheidungen
+- TOP 6.1: Zuschüsse an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-Mitte - einstimmig beschlossen
+- TOP 6.2: Georgskommende – Gehwegausbau vor den Häusern Nr. 7-14 - vertagt
+- TOP 6.3: Holsteiner Straße zwischen Piusallee und Schnorrenburg - Rückbau des Hochbordradweges - Planungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 6.4: Geh- und Radwegeverbindung auf der ehemaligen Gleistrasse zwischen der Kanalstraße und dem Haltepunkt Münster Zentrum Nord - Planungsbeschluss Straßenbau - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Innenstadt stärken: Umgestaltung von Domplatz/-quartier - Umsetzung Außenbeleuchtung St. Paulus Dom - einstimmig beschlossen
+- TOP 7.2: Bericht zur Wohnbaulandentwicklung 2024 - 2025 Fortschreibung des Baulandprogramms 2026 - 2035 - einstimmig beschlossen
+- TOP 7.3: 42. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 7.4: 72. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 7.5: ÖPNV-Achse Warendorfer Straße: Verstetigung der Umweltspur - einstimmig beschlossen
+- TOP 7.6: VR1 Piusallee - Holsteiner Str. bis Hoher Heckenweg - Baubeschluss Straßenbau - vertagt
+- TOP 7.7: ÖPNV-Hochleistungsachse Weseler Straße: Einrichtung einer Busspur zwischen Geiststraße und Moltkestraße - mehrheitlich beschlossen
+- TOP 7.8: Neubrückenstraße 25-27 – Ersatzneubau einer Hochwasser-Schutzwand entlang der Münsterschen Aa - einstimmig beschlossen
+- TOP 7.9: Veloroute 12 Münster-Telgte - Teilabschnitt Niedersachsenring/Ostmarkstraße - Bohlweg bis Dieckstraße - von der Tagesordnung abgesetzt
+- TOP 7.10: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 7.11: Lambertibrunnen Baubeschluss zur Sanierung - einstimmig beschlossen
+- TOP 8: Berichte
+- TOP 8.1: 1. Fortschreibung Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 8.2: Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung („Bauturbo“) – Erster Erfahrungsbericht - zur Kenntnis genommen
+- TOP 8.3: Umgang mit Beschlüssen der Unfallkomission - zur Kenntnis genommen
+- TOP 8.4: Integriertes Parkraumkonzept - Zwischenbericht zum Umsetzungsstand - zur Kenntnis genommen
+- TOP 8.5: Kindertagesbetreuungsbericht 2025 / 2026 - zur Kenntnis genommen
+- TOP 9: Anregungen/Anträge und Anfragen
+- TOP 9.1: Frauenstraße als Tor zur Altstadt jetzt umgestalten - mehrheitlich beschlossen
+- TOP 9.2: Den Apostelgarten jetzt zum kühlen Aufenthaltsort machen - mehrheitlich beschlossen
+- TOP 9.3: Entfernung aufgegebener Fahrräder und konsequente Umsetzung des Integrierten Parkraumkonzepts - einstimmig beschlossen
+- TOP 10: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 10.1: Weitere Querungshilfe auf der Boeselagerstraße - Stellungnahme zur Kenntnis genommen
+- TOP 10.2: Spiel-, Freizeit- und Bewegungsangebote im Bereich der Innenstadt - Stellungnahme zur Kenntnis genommen
+- TOP 10.3: Kurzfristig Maßnahmen gegen untragbare Verunreinigungen im Umfeld des Hauptbahnhofs ergreifen - Stellungnahme zur Kenntnis genommen
+- TOP 11: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 12: Verschiedenes
