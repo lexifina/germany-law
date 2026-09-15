@@ -1,0 +1,36 @@
+# Verfassungsgerichtshof NRW, Beschluss vom 15.09.2026, VerfGH 102/25.VB-1
+
+- Gericht: Verfassungsgerichtshof NRW
+- Entscheidungsdatum: 2026-09-15
+- Aktenzeichen: VerfGH 102/25.VB-1
+- Spruchkörper: Kammer
+- Entscheidungsart: Beschluss
+- ECLI: ECLI:DE:VFGHNRW:2026:0915.VERFGH102.25VB1.00
+- Rechtskraft: rechtskräftig
+- Quelle: https://nrwe.justiz.nrw.de/ovgs/vgh_nrw/j2026/VerfGH_102_25_VB_1_Beschluss_20260915.html (NRWE, Rechtsprechungsdatenbank der Gerichte in Nordrhein-Westfalen)
+
+---
+
+## Tenor
+
+Vizepräsident Prof. Dr. Heusch ist von der Ausübung seines Richteramtes nicht ausgeschlossen.
+
+Das Ablehnungsgesuch gegen den Vizepräsidenten Prof. Dr. Heusch wird als unzulässig zurückgewiesen.
+
+Die Verfassungsbeschwerde wird als unzulässig zurückgewiesen.
+
+## Entscheidungstext
+
+[1] G r ü n d e :
+
+[2] 1 Vizepräsident Prof. Dr. Heusch ist von der Ausübung seines Richteramtes nicht ausgeschlossen, weil keiner der gesetzlichen Ausschlussgründe des § 14 Abs. 1 VerfGHG vorliegt. Insbesondere folgt aus dem als Präsident des Verwaltungsgerichts verantworteten Schreiben des Richters vom 23. September 2025 - 1402/E II. 5 kein solcher Ausschlussgrund. Dieses Schreiben war Gegenstand der Verfassungsbeschwerde im Verfahren VerfGH 75/25.VB-2, an deren Entscheidung Vizepräsident Prof. Dr. Heusch wegen Vorbefassung gemäß § 14 Abs. 1 Buchst. b) VerfGHG nicht mitgewirkt hat. Weshalb dieser Ausschlussgrund auch im hiesigen Verfahren anzunehmen sein sollte, wird weder nachvollziehbar vorgebracht noch ist dies sonst ersichtlich.
+
+[3] 2. Das Ablehnungsgesuch gegen den Vizepräsidenten Prof. Dr. Heusch ist offensichtlich unzulässig.
+
+[4] Bei offensichtlicher Unzulässigkeit bedarf es keiner dienstlichen Stellungnahme des abgelehnten Richters nach § 15 Abs. 2 Satz 2 VerfGHG, der auch bei der Entscheidung über das offensichtlich unzulässige Ablehnungsgesuch nicht ausgeschlossen ist (vgl. VerfGH NRW, Beschluss vom 30. Juni 2026 - VerfGH 82/26.VB-3, juris, Rn. 2).
+
+[5] Das Ablehnungsgesuch ist offensichtlich unzulässig, weil das Vorbringen des Beschwerdeführers zur Begründung der Besorgnis der Befangenheit keine greifbaren Anhaltspunkte enthält. Soweit es überhaupt nachvollziehbar ist, beruht es im Wesentlichen auf spekulativen und nicht durch greifbare tatsächliche Anhaltspunkte unterlegte Vorwürfe. Dies gilt insbesondere auch für die Unterstellung eines kollusiven Zusammenwirkens mit weiteren Angehörigen der Verwaltungsgerichtsbarkeit zu Lasten des Beschwerdeführers. Mit dem unter 1. genannten Schreiben vom 23. September 2025 lässt sich eine Besorgnis der Befangenheit ebenfalls nicht einmal im Ansatz begründen.
+
+[6] 3. Die Verfassungsbeschwerde wird gemäß § 58 Abs. 2 Satz 1, § 59 Abs. 2 Satz 1 VerfGHG durch die Kammer als unzulässig zurückgewiesen, weil der Beschwerdeführer die Möglichkeit der Verletzung in einem seiner in der Landesverfassung enthaltenen Rechte nicht hinreichend aufgezeigt hat (vgl. § 18 Abs. 1 Satz 2 Halbs. 1, § 55 Abs. 1 Satz 1 und Abs. 4 VerfGHG).
+
+[7] 4. Der Beschwerdeführer wird für zukünftig eingehende Verfassungsbeschwerden darauf hingewiesen, dass im Falle der Unzulässigkeit oder offensichtlichen Unbegründetheit der Verfassungsbeschwerde nach Maßgabe des § 58 Abs. 3 VerfGHG die Anforderung eines Vorschusses und die Auferlegung einer Gebühr von bis zu 1.000 Euro in Betracht kommen.
