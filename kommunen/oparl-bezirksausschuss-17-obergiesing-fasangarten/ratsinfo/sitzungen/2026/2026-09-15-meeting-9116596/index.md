@@ -1,0 +1,194 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9116596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9116596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen; Freundliche Bitte um Ergänzung von Babyschaukeln im Agfa-Park (Obergiesing) (FF UA FSA)
+- TOP 2.1.2.2.: Bürgeranliegen; Gefahrenstelle Spixstr. und weitere Anliegen (FF UA MuV)
+- TOP 2.1.2.3.: Bürgeranliegen; Antrag auf Installation von Fahrradständern (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen; Baumvergiftung an der Haltestelle Tegernseer Landstraße (FF UA Umwelt)
+- TOP 2.1.2.5.: Bürgeranliegen; Verschmutzte Park Anlage in der Valepp Str. durch Hundekot (FF UA Umwelt)
+- TOP 2.1.2.6.: Bürgeranliegen: Frühzeitiger Kehrmaschineneinsatz am Tegernseer Platz - besondere Belastung im Sommer (FF UA Umwelt)
+- TOP 2.1.2.7.: Bürgeranliegen: Verbesserung des Stadtbilds (FF UA Umwelt)
+- TOP 2.1.2.8.: Bürgeranliegen; Prüfung einer Lärmminderung am Spielplatz Hohenschwangauplatz (FF UA FSA)
+- TOP 2.1.2.9.: Bürgeranliegen; Anregung zur klimagerechten Umgestaltung des Baumplatzes an der Werner-Schlierf-Straße (FF UA Umwelt)
+- TOP 2.1.2.10.: Bürgeranliegen; Unübersichtliche Engstelle an der Fahrradrampe S-Bahnhof Fasangarten – Bitte um Sicherheitsprüfung (FF UA MuV)
+- TOP 2.1.2.11.: Bürgeranliegen; Alkoholverbot am Giesinger Bahnhofplatz (FF UA FSA)
+- TOP 2.1.2.12.: Bürgeranliegen; Feldmüllerstraße – Unzumutbare Verkehrssituation für Anwohner in Giesing (FF UA MuV)
+- TOP 2.1.2.13.: Bürgeranliegen; Zugspitzplatzerl und der nächtliche Wahnsinn (FF UA FSA+ UA Umwelt)
+- TOP 2.1.2.14.: Bürgeranliegen; Nachtbaustelle McGraw Graben; Umleitung über die Oberfläche McGraw Kaserne (FF UA MuV)
+- TOP 2.1.2.15.: Bürgeranliegen; Anfrage zur Mülleimer Aufstellung und Verkehrssicherheit entlang der Tegernseer Landstraße (FF MuV +UA Umwelt)
+- TOP 2.1.2.16.: Bürgeranliegen; Vorschläge: Ella Lingens Platz (FF UA Umwelt und UA BPW)
+- TOP 2.1.2.17.: Bürgeranliegen; Antrag auf Einrichtung einer Anfahrts- und Kurzhaltezone vor dem Kindergarten in der Simsseestraße 16 (FF UA MuV)
+- TOP 2.1.2.18.: Bürgeranliegen; Anfrage Verbesserung der Querung St. Martin Straße Höhe Hohenwaldeckstraße / S-Bahn (FF UA MuV)
+- TOP 2.1.2.19.: Bürgeranliegen; Geschwindigkeitsüberschreitung auf der Minnewitstraße (FF UA MuV)
+- TOP 2.1.2.20.: Bürgeranliegen; Antrag auf zusätzliche Fahrradstellplätze am St-Martins-Platz (FF UA MuV)
+- TOP 2.1.2.21.: Bürgeranliegen; Gehweg an der Wirtstraße 19 eingeschränkt möglich (FF UA Umwelt)
+- TOP 2.1.2.22.: Bürgeranliegen; Geplanter Verkauf der Wohnanlage Chiemgaustraße / Scharfreiterstraße – Bitte um Unterstützung im Erhaltungssatzungsgebiet (FF UA BPW)
+- TOP 2.1.2.23.: Bürgeranliegen; Ruhestörung tagsüber durch Ampel-Auffindungssignal in der Deisenhofener Str (FF UA MuV)
+- TOP 2.1.2.24.: Bürgeranliegen: Kronepark / Grünstreifen Am Bergsteig (FF UA Umwelt)
+- TOP 2.1.2.25.: Bürgeranliegen: Baustelle am Alpenplatz / neues Traffohaus (FF UA MuV)
+- TOP 2.1.2.26.: Bürgeranliegen; Lärmbelästigung Parkbank Fockensteinstraße (FF Umwelt)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Beauftragte* Lokale Wirtschaft
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10: Bericht der Seniorenvertretung
+- TOP 3.11: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.11.1.: Hohenschwangaustr. 16
+- TOP 3.11.2.: Bodelschwinghstr. 25
+- TOP 3.11.3.: Schwanseestr. 22
+- TOP 3.11.4.: Walchenseepl. 8
+- TOP 3.11.5.: Perlacher Str. 93 - 95
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Anfrage: Welche Auswirkungen wird der Prozess der AG Zukunftssicherung auf soziale Angebote in unserem Stadtteil haben?
+- TOP 4.2.: Verkehrssicherheit für alle in der Waldmünchner Straße
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (FF UA Kultur) Perlacher Feuerwehrverein e.V. Wasserspender ab 07.09.2026 1.973,94€; Az. 0262.100-17-0550
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA FSA) Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 6.000,00€; Az. 0262.100-17-0551
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.2.1.: Bestellung: Familien- und Ferienpässe für das Schuljahr 2026/2027 (Zweiter Beschluss)
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Projektzeitraum verlängert BA 17-0528 Wen Do Kurses, 103er KJR
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Hohenschwangaustraße 16 und 18 Neubau einer Wohnanlage mit ca. 72 WE und Tiefgarage (Hohenschwangaustr. 16-18 / Hohenschwangaupl.) - VORBESCHEID
+- TOP 6.1.3.2.: Schwanseestr. 22 - Neubau einer Wohnanlage (224 WE) und TG ( 101 Stpl.) mit Mobilitätskonzept (MF = 0,5)
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Antwortschreiben; Sanierung amerikanische Siedlung
+- TOP 6.1.4.2.: Keine Anwendung des sog. Bauturbos nach § 246e BauGB bei der geplanten Nachverdichtung der ehem. Amisiedlung am Perlacher Forst (Zwischennachricht)
+- TOP 6.1.4.3.: Überprüfung
+- TOP 6.1.4.4.: Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2024-2025
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung Scharfreiterplatz a) Chiemgaustr. 88 b) Oberaudorfer Str. 7
+- TOP 6.1.4.6.: Vollzug der Erhaltungssatzung Trauchberg- / Forggenseestraße a) Schlierseestr. 56 b) Weißenseestr. 48
+- TOP 6.1.4.7.: Vollzug der Erhaltungssatzung Tegernseer Landstraße a) Warngauer Str. 3 b) Warngauer Str. 7 c) Rotwandstr. 18
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.3.1.: Anhörung zur BA-Satzungsänderung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: Entscheidung gem. Vollmacht des Oberbürgermeister vom 09.04.2018 über Standortgenehmigung von Parkscheinautomaten im Lizenzgebiet Scharfreiterplatz
+- TOP 6.3.2.2.: Entscheidung gem. Vollmacht des Oberbürgermeister vom 09.04.2018 über Standortgenehmigung von Parkscheinautomaten im Lizenzgebiet Mangfallplatz
+- TOP 6.3.2.3.: (E) Verkehrsberuhigung und Sicherheitsmaßnahmen im Bereich Scharfreiterplatz – Stadelheimer Straße
+- TOP 6.3.2.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung - hier: Weißensee Campus - Einrichtung der Fußgängerüberwege (Schulbauoffensive SBO) - Projekt-Nr.: 5816
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: Giesinger Berg, Knoten Ichostraße, Silberhornstraße, Martin-Luther-Straße Verkehrsfreigabe nach Umbau
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Plangenehmigung: Rückbau der Weichen 425 und 1440 samt Lückenschluss und Rückbau Gleis 405 Bahnhof Giesing
+- TOP 6.3.4.2.: Antwortschreiben auf ein Bürgeranliegen; Tempo 30 / St.-Martin-Straße im Bereich Ostfriedhof
+- TOP 6.3.4.3.: Antwortschreiben auf ein Bürgeranliegen; Gefahrenstelle Spixstraße
+- TOP 6.3.4.4.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der Straßenverkehrs-Ordnung (StVO) hier: Arbeiten im Straßenraum; Plecherstraße 2-4; Plecherstraße 3; St.-Martin-Straße 26-30 mit Seite Plecherstraße
+- TOP 6.3.4.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: In der Martin-Luther-Straße, Westseite wird auf Höhe der Lutherkirche das Zeichen 254 StVO („Verbot für Radverkehr“) entfernt.
+- TOP 6.3.4.6.: Antwortschreiben auf ein Bürgeranliegen; Solarstrom auf den Dächern
+- TOP 6.3.4.7.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: Schwanseestaße, Ecke Wallbergstraße, Z.272
+- TOP 6.3.4.8.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: Fasangartenstraße, Höhe Kreisverkehr, Beschilderungen, Fahrbahnmarkierungen
+- TOP 6.3.4.9.: Antwortschreiben auf ein Bürgeranliegen; Konvexer Verkehrsspiegel Balanstraße, Am Giesinger Feld
+- TOP 6.3.4.10.: Antwortschreiben auf ein Bürgeranliegen; Ichostraße während der Umbauphase
+- TOP 6.3.4.11.: Antwortschreiben auf ein Bürgeranliegen; Gefahrensituation am Giesinger Berg (Bürgeranliegen + Antwortschreiben)
+- TOP 6.3.4.12.: Antwortschreiben auf ein Bürgeranliegen; Einrichtung einer geeigneten Lieferzone Valeppstraße
+- TOP 6.3.4.13.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9, § 46 Straßenverkehrs-Ordnung (StVO) und des Art. 21 des Bayerischen Straßen- und Wegegesetzes (BayStrWG) hier: Arbeitsstelle im Straßenraum, Änderung/Ergänzung des Bescheids vom 05.06.2026 Verlängerung Arbeiten im Straßenraum Alzstr. 28 Seite Hohenschwangauplatz ab 03.08.20226 bis 30.09.2026
+- TOP 6.3.4.14.: Antwortschreiben auf ein Bürgeranliegen; Schlechter Straßenzustand Fasangartenstr / Ecke Balanstr.
+- TOP 6.3.4.15.: Antwortschreiben; Wiederherstellung des beschädigten Lichtmastes an der Ausfahrt Fasangarten
+- TOP 6.3.4.16.: Antwortschreiben auf ein Bürgeranliegen; Fahrrad-Abstellplatz Wirtstraße 38
+- TOP 6.3.4.17.: Shared-Mobility-Entwicklungen: Start des stationsbasierten Carsharings und des Bikesharing-Angebots „MyRadl“ in München
+- TOP 6.3.4.18.: Antrag BA 16; Schmaler Geh- und Radweg unter der Giesinger Brücke über die Chiemgaustraße
+- TOP 6.3.4.19.: Antwortschreiben auf ein Bürgeranliegen; Anwohnerparkplätze sollen geschaffen werden am Fasangarten (Wikingerstraße, Leifstraße, Pennstraße, Cinicinattistraße)
+- TOP 6.3.4.20.: Expressbus X220 und Radwegverbindung Grünwalder Stadion - Unterhaching
+- TOP 6.3.4.21.: Antwortschreiben auf ein Bürgeranliegen: Parksituation vor der SSW - Gefährdung von Teilhabe und Inklusion
+- TOP 6.3.4.22.: Antrag: Bus 220 Taktverbesserung
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Anhörung zur BA-Satzungsänderung hier: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 6.4.3.2.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Informationsschreiben des Kreisverwaltungsreferats zum Taubenmanagement
+- TOP 6.4.4.2.: Antwortschreiben auf ein Bürgeranliegen; Brunnen am Walchenseeplatz
+- TOP 6.4.4.3.: Stand der Umsetzung der Wärmeplanung im Stadtbezirk Obergiesing–Fasangarten
+- TOP 6.4.4.4.: Antwortschreiben auf ein Bürgeranliegen; Lärmbelästigung Wertstoffcontainer Scharfreiterplatz
+- TOP 6.4.4.5.: Antwortschreiben auf ein Bürgeranliegen; Beklagenswerter Zustand St. Quirin Platz
+- TOP 6.4.4.6.: Antwortschreiben auf ein Bürgeranliegen; Baumfällungen am St. Quirin Platz
+- TOP 6.4.4.7.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV hier: Deisenhofener Str. (Kreuzung Raintaler Str. bis Heimgartenstr.) und Herzogstandstr. (Kesselbergstraße bis Deisenhofener Str.); Fahrbahnsanierung
+- TOP 6.4.4.8.: Plecherstr. 2 erhält 2 Ersatzpflanzungen
+- TOP 6.4.4.9.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV hier: Fasangartenstraße 106-114 einschließlich des Kreuzungsbereichs mit der Balanstraße; Fahrbahnsanierung
+- TOP 6.4.4.10.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV hier: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Fahrleitung Tram
+- TOP 6.4.4.11.: Antwortschreiben auf ein Bürgeranliegen; Gescheiterte Baumpflanzung in der Werinherstr.
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/ Grünfläche hier: Weißenseepark "Night-Fußball" am 25.09.2026 (Frist: 14.09.26, Fristverlängerung bis 16.09.2026)
+- TOP 6.5.3.2.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichen Verkehrsgrund/ Grünfläche hier: Grünspitz "Giesing is a feeling am 27.09.2026 (Frist: 24.09.2026)
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Genehmigung von Veranstaltungen; a) Spendenlauf des Asam Gymnasiums im Weißenseepark am 10.07.2026 b) Giesinger Kirchplatzfest vom 10.-12.07.2026 c) Kleinfeldfußballturnier im Louisoder-Spielplatz am 11.07.2026 d) Sommerfest des Grünen Ortsverbandes im Grünspitz am 19.07.2026 (Ersatz 26.07.2026) e) Mitbringdinner Grünspitz am 20.09.2026
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen – Zusammenarbeit mit dem Referat für Klima- und Umweltschutz
+- TOP 7.2.2.: Anhörung zur BA-Satzungsänderung / Tierschutzbeauftragte
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Dienstanweisung zur Förderung der Inklusion von Menschen mit Behinderungen (DA Inklusion)
+- TOP 7.3.2.: München Budget 2026: Vorschläge für den BA 17
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA- Sitzungstermine im September
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.2.1.: Nachtrag TOP 2.1.2.27 Bürgeranliegen: Einstellung Wertstoffmobil (FF UA Umwelt)
+- TOP 2.1.2.27.: Bürgeranliegen: Einstellung Wertstoffmobil (FF UA Umwelt)
+- TOP 1.2.2.: Nachtrag TOP 6.3.5.1 Antrag: Prüfung der Verkehrssicherheit an der Kreuzung Scharfreiterplatz / Scharfreiterstraße / Hohenschwangauplatz
+- TOP 6.3.5.1.: Antrag: Prüfung der Verkehrssicherheit an der Kreuzung Scharfreiterplatz / Scharfreiterstraße / Hohenschwangauplatz
