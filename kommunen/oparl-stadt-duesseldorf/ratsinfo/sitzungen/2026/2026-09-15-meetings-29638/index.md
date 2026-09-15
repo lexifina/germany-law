@@ -1,0 +1,87 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-15T16:00:00+02:00
+- Ende: 2026-09-15T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29638
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29638
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596389.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596389.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596389.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen
+- TOP 3: Genehmigung der Niederschrift SI-BV2/005/2026 Ö/NÖ vom 07.07.2026
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Dorotheenstraße 90, 90a, 90b, 92 – Genehmigung nach § 173 BauGB - mehrheitlich beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Brehmstraße 27, Eisstadion - Erneuerung des Gummimattenbelags im Bereich des Kiosks und der Fahrwege - einstimmig beschlossen
+- TOP 4.4: Windscheidstraße 18, Bezirkssportanlage Düsseltal - Modernisierung der WC-Bereiche Herren - einstimmig beschlossen
+- TOP 4.5: Windscheidstraße 18, Bezirkssportanlage Düsseltal - Modernisierung der WC-Bereiche Damen - einstimmig beschlossen
+- TOP 4.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2026 (Liste B) - mehrheitlich beschlossen
+- TOP 4.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 2 - Haushalt 2026 Liste A Schulen 2121101/52415200 - einstimmig beschlossen
+- TOP 4.8: Reduzierung der Fahrbahn Einmündung Vennhauser Straße - Bereitstellung von Haushaltsmitteln - mehrheitlich beschlossen
+- TOP 4.9: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für PLOPP! Schulprogramm - einstimmig beschlossen
+- TOP 4.10: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für ein Wandbild "Hexe von der Kö" - mehrheitlich beschlossen
+- TOP 4.11: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag von düsseltauben e.V. - einstimmig beschlossen
+- TOP 4.12: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag von Kabawil e.V. - einstimmig beschlossen
+- TOP 4.13: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag von 40 Grad Urban Art e.V. - mehrheitlich beschlossen
+- TOP 4.14: Zulassung einer Vertretung einer betroffenen Bevölkerungsgruppe gemäß § 58 Abs. 3 Gemeindeordnung NRW - Behindertenrat - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Bedarfsampel an der Kreuzung Metrostraße / Ecke Walter-Eucken-Straße - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 5.4: Bericht zum Umsetzungsstand der beschlossenen Maßnahmen rund um das Drogenhilfezentrum - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 5.5: City-Bike-Station vor dem Gebäude Graf-Recke-Straße 79 - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 5.6: Standort der geplanten Düsselbike-Station an der Graf-Recke-Straße 79 - Antrag der AFD-Fraktion - mehrheitlich abgelehnt
+- TOP 5.7: Mülleimer rund um den Kreisverkehr Höherweg/Ecke Albertstraße - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 5.8: Sauberkeit und Aufenthaltsqualität am Kreisverkehr Höherweg / Albertstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - zurückgezogen
+- TOP 5.9: Eine Bank für die ehemalige Skatecke im Zoopark - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 5.10: Parken Engelbertstraße - Antrag der Fraktion Die Linke - zurückgezogen
+- TOP 5.11: Pflanzung weiterer Bäume im Stadtwerkepark - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 5.12: Fahrradständer auf der Brehmstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - abweichend beschlossen
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Baustelle Hinz & Kunz - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Stadtwerke-Areal - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 6.5: Müllverbrennungsanlage - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 7: Anfragen zur aktuellen Sitzung
+- TOP 7.1: Müll Höherweg/Ecke Albertstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.2: Reinigungsintervalle rund um das Drogenhilfezentrum an der Flurstraße - Anfrage der CDU-Fraktion - beantwortet
+- TOP 7.3: Fernwärme - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 7.4: Hoffeldstraße 71 - Anfrage der Fraktion Die Linke - vertagt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.13: Ungenutzte städtische Gebäude im Stadtbezirk 2 - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.14: Leerstand des Wohnhauses Achenbachstraße 78 und diesbezügliche ordnungspolitische Maßnahmen - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 7.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.19: Erneuerung der Eisenbahnbrücke Ronsdorfer Straße - Anfrage der AFD-Fraktion - vertagt
+- TOP 7.20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Anbringung von Haltelinien auf Fahrradweg vor ÖPNV-Haltestellen - Beschluss der Bezirksvertretung 2, Vorlage BV2/143/2026 - zur Kenntnis genommen
+- TOP 8.2: Entsiegelung des Mittelstreifens Höherweg zwischen Kettwiger und Ruhrtalstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/059/2026 - zur Kenntnis genommen
+- TOP 8.3: Beleuchtung am Spielplatz Binnenstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/168/2026 - zur Kenntnis genommen
+- TOP 8.4: Instandsetzung des Bolzplatzes an der Eduard-Schloemann-Straße 55 - Beschluss der Bezirksvertretung 2, Vorlage BV2/170/2026 - zur Kenntnis genommen
+- TOP 8.5: Fahrradständer auf der Degerstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/162/2026 - zur Kenntnis genommen
+- TOP 8.6: Fahrradständer auf der Ostendorfstraße bei der Einmündung Maurenbrecherstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/163/2026 - zur Kenntnis genommen
+- TOP 8.7: Müllentsorgung auf dem Hermannplatz - Beschluss der Bezirksvertretung 2, Vorlage BV2/164/2026 - zur Kenntnis genommen
+- TOP 8.8: Beleuchtung für den Parcours-Trainingsplatz und dem 3x3 Basketballplatz an der Luise-Rainer-Straße - Beschluss der Bezirksvertretung 2, Vorlage BV2/172/2026 - zur Kenntnis genommen
+- TOP 8.9: Sitzungstermine 2027 - zur Kenntnis genommen
