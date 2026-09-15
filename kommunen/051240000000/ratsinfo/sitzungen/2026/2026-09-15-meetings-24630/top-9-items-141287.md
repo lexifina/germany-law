@@ -1,0 +1,8 @@
+# TOP 9: Waldeckstraße - Einrichtung einer Radverkehrsanlage im Zuge der Straßensanierung, Vorlage VO/0611/26
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr (2026-09-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/141287
+- Ergebnis: geändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/68418
