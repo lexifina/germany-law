@@ -1,0 +1,64 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-09-16T17:00:00+02:00
+- Ende: 2026-09-16T23:59:59+02:00
+- Ort: Rathaus
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000444
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000444
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=1553654&DOCTYP=190&OTYP=41&ANNOTS=1
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 20.05.2026 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 17.06.2026 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Bestellung einer stellvertretenden Schriftführung - ungeändert beschlossen
+- TOP 6: Haushaltssperre 2026 - ungeändert beschlossen
+- TOP 7: Entwurf des Gesamtabschlusses der Stadt Aachen zum 31.12.2022 - ungeändert beschlossen
+- TOP 8: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 8.1: Bereitstellung außerplanmäßiger Haushaltsmittel für das Projekt "Ablösung Schulkontogegenblatt (SKGB)" - ungeändert beschlossen
+- TOP 8.2: GGS Richterich; Erweiterungsbaumaßnahme mit Mensa
+- TOP 8.2.1: GGS Richterich; Erweiterungsbaumaßnahme mit Mensa - Ergänzungsvorlage - ungeändert beschlossen
+- TOP 8.3: KGS Beeckstraße; Abriss Aula und Neubau eines 3-geschossigen Ersatzbaus
+- TOP 8.3.1: KGS Beeckstraße; Abriss Aula und Neubau eines 3-geschossigen Ersatzbaus - Ergänzungsvorlage - geändert beschlossen
+- TOP 8.4: Förderantrag für das Projekt „SchulwegPlus“ im Rahmen der Förderlinie „Junge Generation Fahrrad“ Bereitstellung außerplanmäßiger Mittel - vertagt
+- TOP 9: Einrichtung von zwei halben Stellen für Erzieher*innen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 10: Ausschreibung der Stelle der*des Beigeordneten für Stadtentwicklung und Mobilität - ungeändert beschlossen
+- TOP 11: Verändertes Vorgehen der Verwaltung bei der Roteinfärbung von Radverkehrsanlagen - ungeändert beschlossen
+- TOP 12: Integriertes Stadtentwicklungskonzept "Zukunft Forst" - vertagt
+- TOP 13: Ratsantrag 042/19 der Fraktionen CDU, Grüne, SPD, Linke, Volt, FDP: "Entwicklung des Flurstücks Christus unser Friede" - vertagt
+- TOP 14: Beschlussvorlage zum Förderprogramm „Energetische Sanierung kommunaler Gebäude“ für das Rheinische Revier - ungeändert beschlossen
+- TOP 15: Regiotram Aachen Infrastrukturgesellschaft mbH: Abschluss der Konsortialvereinbarung - ungeändert beschlossen
+- TOP 16: Grundsatzbeschluss zur Neuordnung der SPNV-Aufgabenträgerschaft in NRW, zur Gründung der Schiene NRW AöR und zur Umstrukturierung des Zweckverbandes go.Rheinland - ungeändert beschlossen
+- TOP 16.1: Grundsatzbeschluss zur Neuordnung der SPNV-Aufgabenträgerschaft in NRW, zur Gründung der Schiene NRW AöR und zur Umstrukturierung des Zweckverbandes go.Rheinland - Ergänzungsvorlage - zur Kenntnis genommen
+- TOP 17: Erfahrungsbericht zur Vergabepraxis - zur Kenntnis genommen
+- TOP 18: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen - ungeändert beschlossen
+- TOP 19: Anfragen:
+- TOP 19.1: Ratsanfragen - zur Kenntnis genommen
+- TOP 19.2: Stellungnahmen der Verwaltung zu Anfragen - zur Kenntnis genommen
+- TOP 20: Ratsanträge - ungeändert beschlossen
+- TOP 21: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 21.1: Umbesetzungsantrag der AfD-Fraktion vom 08.09.2026 - ungeändert beschlossen
+- TOP 21.2: Umbesetzungsantrag der FDP-Ratsgruppe vom 14.09.2026 - ungeändert beschlossen
+- TOP 21.3: Umbesetzungsantrag der Fraktion DIE LINKE vom 15.09.2026 - ungeändert beschlossen
+- TOP 21.4: Gemeinsamer Umbesetzungsantrag der Fraktionen von CDU, SPD, DIE LINKE sowie der Ratsgruppen von Volt, FDP und UP vom 15.09.2026: Wahl von sachkundigen Einwohnern in Ausschüsse - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
