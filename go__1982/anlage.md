@@ -2816,7 +2816,7 @@ Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von
 | 4211 | Ethanol, photometrisch | 150 | 17,10 |
 | 4212 | Exogene Gifte, dünnschichtchromatographisches Screening, qualitativ oder semiquantitativ | 250 | 28,50 |
 | 4213 | Identifikation von exogenen Giften mittels aufwendiger Dünnschichtchromatographie mit standardkorrigierten Rf-Werten, je Untersuchung | 360 | 41,04 |
-| 4114 | Lithium | 60 | 6,84 |
+| 4214 | Lithium | 60 | 6,84 |
 | 19. Antikörper gegen Bakterienantigene |  |  |
 Allgemeine Bestimmung
 Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.
