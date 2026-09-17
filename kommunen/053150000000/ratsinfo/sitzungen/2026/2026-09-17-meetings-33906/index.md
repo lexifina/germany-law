@@ -1,0 +1,109 @@
+# 7. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-17T16:10:00+02:00
+- Ende: 2026-09-17T21:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33906
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33906
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verabschiedung der Jugendvertreterin Ghadeer Al-Sadoon - abgesetzt für diese Sitzung
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohnerfrage - Fragen zur Nettobilanz der Stadtbäume im Bezirk - Sache ist erledigt
+- TOP -: Beantwortung einer Einwohneranfrage (1007/2026) betreffend Fragen zur Nettobilanz der Stadtbäume im Bezirk Innenstadt - Kenntnis genommen
+- TOP 1.2: Einwohneranfrage, Verkehrssituation Hildeboldplatz / Im Klapperhof, Stadtbezirk 1 (Innenstadt) - vertagt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: "Köln baut bezahlbar | Wohnen für alle" - ungeändert empfohlen
+- TOP -: Änderungsantrag zu TOP 3.1 - "Beschluss einer zeitlich begrenzten Anpassung von städtischen Vorgaben zur Baukostenreduzierung im Wohnungsbau", Änderungsantrag B90/Die Grünen - endgültig abgelehnt
+- TOP 3.2: Drehung Einbahnstraße Trankgassenwerft südlich der Bastei - endgültig zurückgezogen
+- TOP 3.3: Errichtung einer City-Light-Säule (CLS) an dem Standort Neumarkt ggü. Nr. 1 - vertagt
+- TOP 3.4: Bedarfsfeststellungsbeschluss zur Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße, der "Mikrosimulation Luxemburger Straße", und einer Verkehrszählung zur Aktualisierung der Datenbasis - ungeändert empfohlen
+- TOP 3.5: Kapazitätserweiterung auf den Linien 4, 13 und 18 - Baubeschluss für die Brandschutzsanierung der unterirdischen Stadtbahnhaltestellen Neumarkt und Appellhofplatz - ungeändert empfohlen
+- TOP 3.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 3.7: Energetische Sanierung des Quäker Nachbarschaftsheimes, Kreutzer Straße 5 - 9, 50672 Köln - ungeändert empfohlen
+- TOP 3.8: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert empfohlen
+- TOP 3.9: Haushaltsplan 2027/2028 hier: Veranschlagung der bezirksorientierten Mittel 2027/2028 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen - geändert beschlossen
+- TOP 3.10: Beratung des Haushaltsplan-Entwurfs 2027/2028 einschließlich der Finanzplanung bis 2031 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Innenstadt gem. § 37 Abs. 4 GO NRW - geändert beschlossen
+- TOP -: Gem. Änderungsantrag zu TOP 3.10 - Beratung des Haushaltsplan-Entwurfs 2027/2028 (2422/2026), gem. Änderungsantrag B90/Die Grünen, Die Linke, SPD und Volt - geändert beschlossen
+- TOP -: Änderungsantrag zum Änderungsantrag AN/1486/2026 zu Top 3.10 Beratung des Haushaltsplan-Entwurfs 2027/28, Änderungsantrag CDU - endgültig abgelehnt
+- TOP 3.11: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt, 2026 Teil 2 - ungeändert beschlossen
+- TOP 3.12: Vergabe Stadtklima- und Stadtverschönerungsmittel 2026 im Stadtbezirk Innenstadt, Restmittel - ungeändert beschlossen
+- TOP 3.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.14: Weihnachtsmarkt auf dem Chlodwigplatz 2026 - geändert beschlossen
+- TOP 3.15: Infrastrukturmaßnahmen im Stadtbahnnetz der KVB im Herbst 2026 - hier: Betriebskonzepte und Ersatzverkehrsleistungen für baubedingte Betriebsanpassungen - ungeändert empfohlen
+- TOP 3.16: Zoobrücke Los D, Los Z1 - Spannungsrisskorrosion - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe nach § 24 GO– „Zwei Behindertenparkplätze für den Laurenzplatz“, Aktenzeichen 33/2026 B - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe nach § 24 GO - Anpassung des Bebauungsplans im Bereich Alter Markt zur Ermöglichung von Außengastronomie - vertagt
+- TOP 4.3: Antrag nach § 24 GO - Bebauungsplan für das Stadtgartenviertel, Aktenzeichen 49/26 - vertagt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Maßnahmenpaket Severinstraße, gem. Antrag SPD und Volt - endgültig abgelehnt
+- TOP -: Ergänzungsantrag zu TOP 5.1.1 Maßnahmenpaket Severinstraße (AN/0082/2026), Ergänzungsantrag CDU - endgültig abgelehnt
+- TOP 5.1.2: Antrag zur Neuordnung des Parkraums und zur Prüfung einer Quartiersgarage in Köln-Deutz, gem. Antrag SPD und CDU - endgültig abgelehnt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Kostenfreies Parken für Elektrofahrzeuge in der Kölner Innenstadt, Antrag CDU - geändert beschlossen
+- TOP 5.2.2: Lutherkirche, Antrag der SPD - endgültig abgelehnt
+- TOP 5.2.3: Grinding (Abschleifen) von Kopfsteinpflaster, Antrag der SPD - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 5.2.3 Grinding (Abschleifen) von Kopfsteinpflaster (AN/1325/2026), Änderungsantrag B90/Die Grünen - Sache ist erledigt
+- TOP 5.2.4: Umsetzung der kurzfristigen Ziele zur Straßenraumgestaltung der Deutzer Freiheit Antrag der SPD - geändert beschlossen
+- TOP 5.2.5: Sicherheit, Sauberkeit und Hilfsangebote an den Bahnbögen am Eigelstein, gem. Dringlichkeitsantrag CDU, B90/Die Grünen, SPD und FDP - ungeändert beschlossen
+- TOP 5.2.6: Dringlichkeitsantrag Trankgassenwerft und Leystapel, Dringlichkeitsantrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.7: Vorgaben für das Auswahlverfahren für E-Scooter Verleihsysteme, Dringlichkeitsantrag B90/Die Grünen - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP -: Einnahmeentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens (AN/0640/2025) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.1.3: Umfang und Ursachen kampfmittelbedingter Baumfällungen, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der BV Innenstadt vom 29.01.2026 (AN/0170/2026) betreffend "Umfang und Ursachen kampfmittelbedingter Baumfällungen" - Kenntnis genommen
+- TOP -: Beantwortung einer Nachfrage aus der Sitzung der Bezirksvertretung Innenstadt vom 25.06.2026 zur Beantwortung betreffend "Umfang und Ursachen kampfmittelbedingter Baumfällungen" (1140/2026) - Kenntnis genommen
+- TOP 6.1.4: Vermeidungsstrategien und Handlungsspielräume bei kampfmittelbedingten Baumfällungen, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP -: Beantwortung der schriflichen Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Handlungsspielräume bei kampfmittelbedingten Baumfällungen" (AN/0173/2026) - Kenntnis genommen
+- TOP 6.1.5: Großformatige Werbung in der Innenstadt, Anfrage Die Linke - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke zur Sitzung der Bezirksvertretung Innenstadt am 12.03.2026 (AN/0374/2026) betreffend großformatige Werbung in der Innenstadt - Kenntnis genommen
+- TOP 6.1.6: Dringende Sanierung und Neustart für die Bastei, Anfrage CDU - vertagt
+- TOP -: Beantwortung der Anfrage AN/0448/2026: Dringende Sanierung und Neustart für die Bastei - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 6.1.7: Update Brüsseler Platz, Anfrage CDU - vertagt
+- TOP 6.1.8: Sachstand Weiterführung der Kita Karl-Korn-Straße, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Regelung der Zufahrt auf den Roncalliplatz und zum Dom-Hotel, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2.2: Rechtmäßigkeit der Parkplatzstreichungen in der Kölner Innenstadt, Anfrage CDU - vertagt
+- TOP 6.2.3: Fehlende Zahlen zum Nettoverlust von Bäumen und fehlendes Fäll- und Pflanzreporting, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2.4: Illegale Farbsprühereien in der Kölner Innenstadt, Anfrage CDU - verwiesen in nachfolgende Gremien
+- TOP 6.2.5: Taubenverschmutzung an Plätzen und Brücken; Anfrage CDU - vertagt
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Köln.Gestaltet. Öffentliche Räume - Strategie zur Entwicklung des Öffentlichen Raums. - Kenntnis genommen
+- TOP 8.2: Zielvereinbarungen 2026 - Bürgerhaus Stollwerck, Bürgerzentrum Deutz, Bürgerzentrum Alte Feuerwache und Quäker Nachbarschaftsheim - Kenntnis genommen
+- TOP 8.3: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 8.4: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 8.5: Beantwortung einer mündlichen Anfrage der Bezirksbürgermeisterin Cazier aus der Sitzung Bezirksvertretung Innenstadt vom 25.06.2026 betreffend „Einrichtung von Schulstraßen im Kölner Stadtgebiet“ (Vorlagen-Nr.: 2002/2025) - Kenntnis genommen
+- TOP 8.6: Antworten der Verwaltung zur Aktuellen Stunde aus der Sitzung vom 07.05.2026 betreffend "Innenstadt-Parkplätze erhalten - Lebensrealitäten anerkennen" (AN/0772/2026) - Kenntnis genommen
+- TOP 8.7: Ergebnisse der Workshops zur Deutzer Freiheit - Kenntnis genommen
+- TOP 8.8: Errichtung und Betrieb eines Suchthilfezentrums am Perlengraben: Sachstand zur Umsetzung des Ratsbeschlusses - Kenntnis genommen
+- TOP 8.9: Niederschrift zur 22. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 19.05.2026 - Kenntnis genommen
+- TOP 8.10: Mitteilung zu den Bürgereingaben nach § 24 GO NRW - "Einrichten einer musikfreien Zone in der gesamten Schilder-, Krebsgasse, am Neumarkt bis zur Apostelnkirche" und "Saisonales Straßenmusik-Konzept in der Altstadt (Kölner Kultursommer)", Az.: 56/26 - vertagt
+- TOP 8.11: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Anpassung verkehrlicher Maßnahmen Eumeniusstraße (Deutz) – Auffahrt Östlicher Zubringer, Aktenzeichen 24/26 - Kenntnis genommen
+- TOP 8.12: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 8.13: Niederschrift zur 23. Sitzung des Gestaltungsbeirates in der Wahlperiode 2023/2029 am 23.06.2026 - Kenntnis genommen
+- TOP 8.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Umgestaltung und Entsiegelung des Terrassenbereichs im Rheinpark Köln, Aktenzeichen 113/26 - Kenntnis genommen
+- TOP 8.15: Straßenbaumaßnahme „Achterstraße“ - Kenntnis genommen
+- TOP 8.16: Planfeststellungsbeschluss für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke - PFA 1.1" in Köln-Altstadt/Nord (Innenstadt) - Kenntnis genommen
+- TOP 8.17: Stellungnahme zu einem schriftlichen Antrag der Fraktion B90 Die Grünen aus der Sitzung der Bezirksvertretung Innenstadt vom 07.05.2026 (AN/0685/2026) betreffend "Schutz kritischer Infrastruktur: Tunnel und Gleise des Hauptbahnhofs". - Kenntnis genommen
+- TOP 8.18: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 8.19: Beantwortung einer schriftl. Anfrage der Fraktion Bündnis 90 / Die Grünen - Kenntnis genommen
+- TOP 8.20: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 8.21: Sachstandsberichte - Kenntnis genommen
+- TOP 8.22: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 8.23: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssituation Bahnhaltestelle KölnMesse, Aktenzeichen 132/25 - Kenntnis genommen
+- TOP 8.24: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 8.25: Aktueller Stand zum E-Scooter-Sharingangebot und geplantes neues Zulassungsverfahren für 2027 der Stadt Köln - Kenntnis genommen
+- TOP 8.26: Hohenzollernbrücke/Gullivertunnel - Kenntnis genommen
