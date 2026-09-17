@@ -1,0 +1,108 @@
+# 6. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-17T15:35:00+02:00
+- Ende: 2026-09-17T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34215
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34215
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer sachkundiger Einwohner*innen und neuer stellvertretender sachkundiger Einwohner*innen nach § 53 Abs. 4 der Gemeindeordnung NRW und nach § 22 ff der Hauptsatzung der Stadt Köln - Sache ist erledigt
+- TOP 1: Mündlicher Bericht des Beigeordneten für Soziales, Gesundheit und Wohnen - Kenntnis genommen
+- TOP 2: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 3: Gleichstellungsrelevante Themen
+- TOP 3.1: Bestandsaufnahme zur Umsetzung der Istanbul Konvention - Kenntnis genommen
+- TOP 4: Integration und Vielfalt
+- TOP 4.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 4.1.1: Stellungnahme und Empfehlung der Stadtarbeitsgemeinschaft Behindertenpolitik zu Vorlage 1309/2026 ´Köln baut bezahlbar` - Kenntnis genommen
+- TOP 4.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 4.2.1: Bericht der Behindertenbeauftragten der Stadt Köln 03/2026 - Kenntnis genommen
+- TOP 4.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 4.3.1: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 4.3.2: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 4.3.3: EHAP Plus Projekt 'INKA - In Köln Ankommen' Jahresbericht 2025 - Kenntnis genommen
+- TOP 4.3.4: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 4.3.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 4.3.6: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 4.3.7: Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) innerhalb der Mitarbeitendenschaft im Rahmen des Diversity Managements sowie der Interkulturellen Öffnung der Stadt Köln - Kenntnis genommen
+- TOP 5: Aktuelle Situation von Geflüchteten in Köln
+- TOP 5.1: Jahresbericht der Ombudsstelle 2025 - Kenntnis genommen
+- TOP 5.2: Jahresbericht Koordination Gewaltschutz in Kölner Unterbringungseinrichtungen für Geflüchtete für den Zeitraum 1. Januar - 31. Dezember 2025 - Kenntnis genommen
+- TOP 5.3: Arbeitsbericht Auszugsmanagement 2025 - Kenntnis genommen
+- TOP 5.4: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 6: Arbeit
+- TOP 6.1: Jobcenter Köln
+- TOP 6.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 6.2: Arbeitsmarktförderung
+- TOP 7: Wohnen
+- TOP 7.1: Neue Belegungsvereinbarung für geförderte Wohnungen in Köln ab dem 01. Januar 2027 - Kenntnis genommen
+- TOP 8: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 9: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1: Förderung von Selbsthilfegruppen im Sozialbereich für das Jahr 2026 - ungeändert beschlossen
+- TOP 9.2: LSBTI-Förderprogramm: Freigabe und Verteilung der Mittel 2026 - ungeändert beschlossen
+- TOP 10: Ausschussempfehlungen an den Rat
+- TOP 10.1: Energetische Sanierung des Quäker Nachbarschaftsheimes, Kreutzer Straße 5 - 9, 50672 Köln - ungeändert empfohlen
+- TOP 10.2: Entwicklung eines Integrierten Stadtentwicklungskonzeptes "Kalk-Mitte" - ungeändert empfohlen
+- TOP 10.3: Benennung von (stellvertretenden) Mitgliedern für die Kommunale Gesundheitskonferenz Köln durch den Rat der Stadt Köln - ungeändert empfohlen
+- TOP 10.4: Zuschussgewährung für die Verbraucherzentrale NRW über die Verbraucherberatungsstelle Köln - ohne Votum behandelt
+- TOP 11: Ausschussempfehlungen an andere Ausschüsse
+- TOP 12: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12.1: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 12.1.1: Pflichtaufgaben im Dezernat V und ihre Auswirkungen auf den städtischen Haushalt - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0624/2026 betreffend "Pflichtaufgaben im Dezernat V und ihre Auswirkungen auf den städtischen Haushalt" der SPD Fraktion vom 20.06.2026 - Kenntnis genommen
+- TOP 12.1.2: Einsätze von Feuerwehr und Rettungsdienst bei psychiatrischen Notfällen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion zu Einsätzen von Feuerwehr und Rettungsdienst bei psychiatrischen Notfällen - Kenntnis genommen
+- TOP 12.1.3: Unterstützung der Initiative „Stille Stunde“ - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fratktion aus der Sitzung des ASGS vom 11.06.2026 (AN/0886/2026) betreffend Stille Stunde - Kenntnis genommen
+- TOP 12.1.4: Kultursensible Senior*innenberatung - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage zur kultursensiblen Senior*innenberatung - Kenntnis genommen
+- TOP 12.1.5: Wie sind die Hintergründe zu der fragwürdigen Vergabepraxis von Fiktionsaufenthaltsbescheinigungen an kriminellen Bosnier? - vertagt
+- TOP -: Beantwortung einer Anfrage aus dem Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren betreffen " Wie sind die Hintergründe zu der fragwürdigen Vergabepraxis von Fiktionsaufenthaltsbescheinigungen an kriminellen Bosnier?" (AN/0881/2026) - vertagt
+- TOP 12.1.6: Beantwortung einer mündlichen Anfrage von Paul Intveen aus der Sitzung des ASGS am 11.06.2026 betreffend "Gesundheitsregion KölnNord" - Kenntnis genommen
+- TOP 12.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 12.2.1: Beantwortung einer schriftlichen Anfrage von Tobias Thulke aus der Sitzung der StadtAG Behindertenpolitik vom 26.05.2026 zu TOP 5.1 betreffemd "Novellierung des PsychKG NRW 2026" - Kenntnis genommen
+- TOP 12.2.2: Beantwortung einer schriftlichen Anfrage der Aidshilfe Köln aus der Sitzung der Stadtarbeitsgemeinschaft Querpolitik vom 28.05.2026 (AN/0785/2026) betreffend "Versorgungssituation im Konsummuster Chemsex und sexualisiertem Substanzkonsum" - Kenntnis genommen
+- TOP 12.2.3: Beantwortung einer schriftlichen Anfrage von Schlau Köln e.V. aus der Sitzung der Stadt AG Queerpolitik vom 28.05.2026 (AN/0798/2026) betreffend "Versorgung von trans* Personen" - Kenntnis genommen
+- TOP 12.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.5: Beantwortung einer Anfrage (AN/0839/2026) von Pinar Wege und Sigita Gelbach, SPD-Liste zum Thema: Arbeitsmarkt- und Teilhabechancen geflüchteter Frauen in Köln – Qualifizierung, Kinderbetreuung und kultursensible Begleitung - Kenntnis genommen
+- TOP 12.2.6: Beantwortung einer Anfrage zum Umgang mit trans* Personen in und durch die Verwaltung der Stadt Köln - Kenntnis genommen
+- TOP 12.3: Aktuelle Anfragen und Beantwortungen
+- TOP 12.3.1: Wartezeiten auf das Bürgergeld (jetzt: Grundsicherungsgeld) - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion Die Linke vom 07.07.2026 für die Sitzung des Ausschusses für Soziales, Gesundheit, Seniorinnen und Senioren am 17.09.2026 betreffend der Wartezeit auf Bürger- bzw. Grundsicherungsgeld (AN/1218/2026 - Kenntnis genommen
+- TOP 12.3.2: Nutzungsgebühren-Rückstände nach der Satzungsänderung 2024 - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90 / Die Grünen vom 23.07.2026 im Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren betreffend Nutzungsgebühren-Rückständen nach der Satzungsänderung 2024 - Kenntnis genommen
+- TOP 12.3.3: Auswirkung der Bewirtschaftungsverfügung für die Förderungen im Dezernat V? - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren vom 17.09.2026 (AN/1246/2026 - Auswirkung der Bewirtschaftungsverfügung für die Förderungen im Dezernat V) - Kenntnis genommen
+- TOP 12.3.4: Umgang mit Sozialleistungsmissbrauch im Zusammenhang mit der Arbeitnehmerfreizügigkeit - vertagt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren vom 17.09.2026 (AN/1245/2026) betreffend „Umgang mit Sozialleistungsmissbrauch im Zusammenhang mit der Arbeitnehm - vertagt
+- TOP 12.3.5: Kosten und Qualität von Einfachhotels als Art der Unterbringung obdachloser Menschen - vertagt
+- TOP 12.3.6: Versorgungsamt der Stadt Köln: Wartezeiten für Feststellung des Grades der Behinderung - vertagt
+- TOP 12.3.7: Geschlechtersensible Toilettensituation - vertagt
+- TOP 12.3.8: Sachstand zum Zukunftsmodell der Kliniken der Stadt Köln gGmbH - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1397/2026: Zukunftsmodell der Kliniken der Stadt Köln gGmbH - Kenntnis genommen
+- TOP 12.3.9: Versorgung von Menschen mit ME/CFS in Köln - vertagt
+- TOP 12.3.10: Weiterentwicklung der Qualitätsstandards der Senior*innenarbeit - vertagt
+- TOP 13: Mündliche Anfragen aus aktuellem Anlass
+- TOP 14: Mitteilungen
+- TOP 14.1: Sachstandsbericht zum Köln-Pass - Kenntnis genommen
+- TOP 14.2: Jahresbericht 2025 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 14.3: Jahresbericht 2025 der Verbraucherberatungsstelle Köln und der Verbraucherberatung im Quartier - Kenntnis genommen
+- TOP 14.4: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 14.5: Zielvereinbarungen 2026 Bürgerhäuser/Bürgerzentren (Zusammenfassung) - Kenntnis genommen
+- TOP 14.6: Errichtung und Betrieb eines Suchthilfezentrums am Perlengraben: Sachstand zur Umsetzung des Ratsbeschlusses - Kenntnis genommen
+- TOP 14.7: Sachstand zur Umsetzung der gpaNRW-Empfehlungen im Bereich des Öffentlichen Gesundheitsdienstes - Kenntnis genommen
+- TOP 14.8: Versorgungssituation von HIV-Patient*innen - Kenntnis genommen
+- TOP 14.9: Kooperationsprojekt FöSeGAN - Ergebnisse eines partizipativen Projekts zur Weiterentwicklung kommunaler Gesundheitsangebote für Anbieter sexueller Dienstleistungen - Kenntnis genommen
+- TOP 14.10: Sachstand des Angebots "Plan 27" - Kenntnis genommen
+- TOP 14.11: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - vertagt
+- TOP 14.12: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - vertagt
+- TOP 14.13: GRÜNGÜRTEL Parkstadt Süd, hier: Öffentlichkeitsbeteiligung im Rahmen der Entwurfsplanung - Kenntnis genommen
+- TOP 14.14: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 14.15: Neugeborene Kinder und ihre Mütter in Köln - Strukturen und Trends 2000 bis 2025 - Kenntnis genommen
+- TOP 14.16: Stadtteilmütter in Köln-Mülheim - Kenntnis genommen
+- TOP 14.17: Gesundheitsschutz bei klimabedingten Extremwetterereignissen - Prävention und Maßnahmen durch das Gesundheitsamt bei extremer Hitze - Kenntnis genommen
