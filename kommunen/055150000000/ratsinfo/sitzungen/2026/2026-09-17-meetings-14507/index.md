@@ -1,0 +1,62 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-09-17T17:03:00+02:00
+- Ende: 2026-09-17T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14507
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14507
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit - Korrigierte Fassung https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00589673.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anregungen des Jugendrates an die Bezirksvertretung Münster-West
+- TOP 3.1: Verbesserungen für den Fahrradverkehr im Westen
+- TOP 4: Anliegen des Jugendrates
+- TOP 5: Anfragen
+- TOP 5.1: Öffentlicher Telefonstandort Dingbängerweg 71 - Sind die letzten Cent gefallen? - zur Kenntnis genommen
+- TOP 5.2: Containerstandort an der Plettendorfstraße (Nienberge) - eingebracht
+- TOP 5.3: Sanierung des Brunnens an der Michaelkirche - eingebracht
+- TOP 6: Berichte
+- TOP 6.1: 1. Fortschreibung Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 6.2: 4. Änderung des Bebauungsplans Nr. 144 - Kenntnisnahme des Entwurfs zur Veröffentlichung [Erweiterung Zentralklinikum] - zur Kenntnis genommen
+- TOP 6.3: 1. Änderung des Bebauungsplans Nr. 579 - Entwurf zur Veröffentlichung - zur Kenntnis genommen
+- TOP 6.4: Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung („Bauturbo“) – Erster Erfahrungsbericht - zur Kenntnis genommen
+- TOP 6.5: Umgang mit Beschlüssen der Unfallkomission - zur Kenntnis genommen
+- TOP 6.6: Kindertagesbetreuungsbericht 2025 / 2026 - zur Kenntnis genommen
+- TOP 7: Entscheidungen
+- TOP 7.1: Überarbeitung der Richtlinien für die Gewährung von Zuschüssen an Vereine, Verbände sowie sonstige Vereinigungen, Institutionen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 8: Anhörungen
+- TOP 8.1: Bericht zur Wohnbaulandentwicklung 2024 - 2025 Fortschreibung des Baulandprogramms 2026 - 2035 - einstimmig beschlossen
+- TOP 8.2: Bebauungsplan Nr. 388 - 3. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 8.3: Trägervergabe Paulushof - einstimmig beschlossen
+- TOP 8.4: Kommunale Sportförderung: Zuschuss für Baumaßnahmen gemäß Sportförderrichtlinie der Stadt Münster - einstimmig beschlossen
+- TOP 8.5: Budget zum Ausbau und Erhalt der Sportstätteninfrastruktur (ohne Turn- und Sporthallen sowie Großinvestitionen, z.B. Verlagerung von Sportanlagen), Maßnahmen in 2027 - einstimmig beschlossen
+- TOP 8.6: Zuwendungsantrag zum Bundesprogramm „Sanierung kommunaler Sportstätten“ (Förderrunde SKS I) für das Projekt „Sanierung und Erweiterung der Bezirkssportanlage Tilbecker Straße in Münster“ - einstimmig beschlossen
+- TOP 9: Neue Anregungen/Anträge
+- TOP 9.1: Nachfolgenutzung Feuerwehrhaus Albachten - Seniorenwohnen - eingebracht
+- TOP 9.2: Entfernung der Halteverbotsschilder gegenüber dem ehemaligen Standort des Feuerwehrgerätehauses an der Plettendorfstraße/Ecke Kurneystraße - eingebracht
+- TOP 9.3: Eine Kinder- und Jugendarztpraxis für Albachten - zur Kenntnis genommen
+- TOP 9.4: "Roxels Mitte soll schöner werden" - Verbesserung der Aufenthaltsqualität + Verbesserung Verkehrssicherheit + Teil-Sanierung Pantaleonplatz - einstimmig geändert beschlossen
+- TOP 9.5: Eine Boulebahn für Albachten - mehrheitlich abgelehnt
+- TOP 9.6: Reduktion der Geschwindigkeit Weseler Straße/Höhe Marga-Spiegel-Straße - eingebracht
+- TOP 9.7: Öffentlicher Trinkwasserbrunnen Ortsmitte Gievenbeck - eingebracht
+- TOP 9.8: Lärmbelastung und mögliche Maßnahmen im südöstliche Albachten - eingebracht
+- TOP 9.9: Blumenampeln für Mecklenbeck - mehrheitlich abgelehnt
+- TOP 9.10: Bäume für den Festplatz in Gievenbeck - einstimmig beschlossen
+- TOP 10: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 10.1: Durchführung einer Verkehrszählung auf dem Dingbängerweg zwischen Mecklenbecker Straße/Weseler Straße und Fritz-Stricker-Straße - zur Kenntnis genommen
+- TOP 10.2: Ausweitung der Halteverbotszone am Rüschhausweg - zur Kenntnis genommen
+- TOP 10.3: Bürgersteig Plettendorfstraße sanieren - zur Kenntnis genommen
+- TOP 10.3.1: Bearbeitungsstand des Antrags A-W/0051/2024 - zur Kenntnis genommen
+- TOP 10.3.2: Zweite Anfrage an die Verwaltung bezüglich des Gehweges Plettendorfstraße in Nienberge, Originalantrag A-W/0051/2024 und Erste Anfrage: AFW/0001/2026 - zur Kenntnis genommen
+- TOP 10.4: Installieren von Fahrradbügeln in der Sebastianstraße in Nienberge - zur Kenntnis genommen
+- TOP 10.5: Meldungen von Leerstand in den Mängelmelder aufnehmen - zur Kenntnis genommen
+- TOP 10.6: Einrichtung einer öffentlichen Toilette im Grünen Trichter - zur Kenntnis genommen
+- TOP 11: Verschiedenes
