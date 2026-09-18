@@ -1,0 +1,23 @@
+# Mehlgasse/Florinsmarkt/-pfaffengasse
+
+- Herausgeber: Zentrale Stelle GDI-RP
+- Datum: 2026-09-18 (Katalogangabe issued/modified)
+- Kennung: https://www.geoportal.rlp.de/dataset/397c9e36-4278-b8ea-c26b-b4ebb15c8300
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/mehlgasse-florinsmarkt-pfaffengasse-5
+- Quelle: GovData (CKAN-API), Datensatz d03a8494-01e9-4e9d-ad8f-49f2e58b97fa
+- temporal_start: 1900-01-01
+- temporal_end: 1900-01-01
+- Ressource: Original Metadaten HTML https://www.geoportal.rlp.de/mapbender/php/mod_exportIso19139.php?url=https%3A%2F%2Fwww.geoportal.rlp.de%2Fmapbender%2Fphp%2Fmod_dataISOMetadata.php%3FoutputFormat%3Diso19139%26id%3D397c9e36-4278-b8ea-c26b-b4ebb15c8300 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Online Karte https://www.geoportal.rlp.de/mapbender/extensions/mobilemap/map.php?layerid=81934 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: GeoPortal.rlp https://www.geoportal.rlp.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=81934 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.rlp.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=81934 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id=81934&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Online Karte https://www.geoportal.rlp.de/mapbender/extensions/mobilemap/map.php?layerid=80128 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: GeoPortal.rlp https://www.geoportal.rlp.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=80128 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.rlp.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=80128 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id=80128&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+
+---
+
+Bebauungsplan Mehlgasse/Florinsmarkt/-pfaffengasse der Stadt Koblenz
