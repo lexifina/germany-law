@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2026-09-18T16:00:00+02:00
+- Ende: 2026-09-18T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8049
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/8049
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket RAT 18.09.2026 öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00250885.pdf
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 1.1: Einführung und Verpflichtung eines Ratsmitgliedes
+- TOP 2: Genehmigung der Tagesordnung - mit Änderungen einstimmig zugestimmt
+- TOP 3: Umbesetzung Ausschüsse und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohner*innenfragestunde - Es wurden keine Fragen gestellt.
+- TOP -: Einbringung Entwurf Haushalt 2027
+- TOP 5: Einbringung des Entwurfs der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2027 - einstimmig zugestimmt
+- TOP 6: Maßnahmenpaket zur Stabilisierung des Haushaltes der Stadt Neuss - einstimmig zugestimmt
+- TOP 7: Organisationsentwicklung als Beitrag zur Haushaltsstabilisierung - Sachstandsbericht - zur Kenntnis genommen
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP -: Mobilitäts- und Infrastrukturausschuss
+- TOP 8: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2025 - einstimmig zugestimmt
+- TOP 9: Regionalpakt für den Hochwasserschutz Erft – Beitritt der Stadt Neuss zum Regionalpakt - einstimmig zugestimmt
+- TOP 10: Änderung der Zuständigkeitsordnung - mehrheitlich zugestimmt
+- TOP 11: Buslinie 857 (Konrad-Adenauer-Ring) – Umgang mit dem Ergänzungsbeschluss zum Haushalt 2026 - mehrheitlich zugestimmt
+- TOP 12: "Schulstraßensperrungen"; Bericht über den Versuchszeitraum und Beschluss zur dauerhaften Einrichtung - einstimmig zugestimmt
+- TOP 12.1: "Hierarchisches Radverkehrsnetz Neuss“: Abschlussbericht - einstimmig zugestimmt
+- TOP -: Haupt-, Sicherheits- und Gleichstellungsausschuss
+- TOP 13: Einführung der Benutzungsordnung für den Stefanie-Thywissen-Dorsemagen-Saal (Alter Ratssaal) - einstimmig zugestimmt
+- TOP -: Ausschuss für Planung, Stadtentwicklung und Innenstadtstärkung
+- TOP 14: Beschluss der Machbarkeitsstudie für die Neusser Einzelhandelsgroßimmobilien - mit Änderungen mehrheitlich zugestimmt
+- TOP 15: Nachnutzung Niederwallstraße 2 (Woolworth) - gemeindliche Zustimmung gemäß § 36a BauGB (Bauturbo) - mit Änderungen mehrheitlich zugestimmt
+- TOP 16: Innenstadtstärkungsprogramm - Maßnahmen und Projekte 2027 - einstimmig zugestimmt
+- TOP -: Finanzausschuss
+- TOP 17: Einführung einer Beherbergungssteuer in der Stadt Neuss - mehrheitlich zugestimmt
+- TOP -: Beschlussfassung des Rates
+- TOP 18: Vorschläge zur Berufung weiterer beratender Mitglieder des Bezirksausschusses I - Innenstadt - einstimmig zugestimmt
+- TOP 19: 21. Konferenz der Ratsmitglieder des Städtetages NRW am 08.12.2026 - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 20: Antrag der Fraktion DIE LINKE betr.: Sachstand öffentlicher Wohnraum in Neuss - verwiesen
+- TOP 21: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Krisenfestes Neuss - verwiesen
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 22: Sitzungskalender des Rates und der Ausschüsse für das Jahr 2027 - zur Kenntnis genommen
+- TOP 23: Bericht der Inklusionsbeauftragten über die im Jahr 2025 durchgeführten Maßnahmen und Ausblick auf die Projekte und Ziele im Jahr 2026 - zur Kenntnis genommen
+- TOP -: Einwohner*innenfragestunde - Gestellte Fragen wurden beantwortet.
