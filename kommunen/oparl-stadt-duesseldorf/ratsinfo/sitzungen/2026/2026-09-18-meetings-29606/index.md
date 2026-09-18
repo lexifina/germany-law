@@ -1,0 +1,79 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-18T14:06:00+02:00
+- Ende: 2026-09-18T15:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29606
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29606
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596746.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596746.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00596746.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 26.06.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung des Gute-Nacht-Bus für Frauen - vertagt
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - einstimmig beschlossen
+- TOP 4.8: Thai Street Food Festival September 2026 - einstimmig beschlossen
+- TOP 4.9: Ampelpärchen der Vielfalt an Fußgängerampeln im Bereich der Heinrich Heine-Allee und Königsallee - zur Kenntnis genommen
+- TOP 4.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2026 - abweichend beschlossen
+- TOP 4.11: Zulassung einer Vertretung des Behindertenrats - einstimmig beschlossen
+- TOP 4.12: Nutzung des Ehrenhofes im Rahmen der Veranstaltung „Ehrenhof Village“ in der Zeit vom 09.10. – 10.10.2026 - zur Kenntnis genommen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Bürgersteig auf der Thomasstraße - Anfrage der Fraktion Bündnis90/Die Grünen - beantwortet
+- TOP 5.2: Quartiersmanagement Worringer Platz - Anfrage der Fraktion Bündnis90/Die Grünen - beantwortet
+- TOP 5.3: Don Bosco Haus Klosterstraße – Anfrage der SPD-Fraktion - beantwortet
+- TOP 5.4: Situation im Bereich Akademiestraße 2 – Maßnahmen gegen dauerhafte Lagerbildung und Verschmutzungen - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Fahrbahntrennung Bagelstraße - Ecke Schinkelstraße - Anfrage der AfD-Fraktion - beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Barrierefreier Haltestellenausbau Schiene auf der Kaiserswerther Straße zwischen Kleverstraße/Ergoplatz und Reeser Platz – Anfrage der SPD-Fraktion - beantwortet
+- TOP 6.5: Leerstand in den Rathausarkaden – Anfrage der SPD-Fraktion - beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Neuauflage Mini-Broschüre „Sicherheit im Bahnhofsumfeld“ - überfraktioneller Antrag - abweichend beschlossen
+- TOP 7.2: Sicherungsmaßnahmen Bankstraße - überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 7.3: Fahrradabstellanlagen und Fußgängerquerung auf der Füsilierstraße - überfraktioneller Antrag - zurückgezogen
+- TOP 7.4: Verlegung der Sharing-Station auf der Schirmerstrasse Höhe Hausnummer 8 - Antrag der AfD-Fraktion - mehrheitlich abgelehnt
+- TOP 7.5: Einladung der Interessengemeinschaft Königsallee zum Austausch - Antrag der AfD- Fraktion - mehrheitlich abgelehnt
+- TOP 7.6: Erneuerung der Stufenanlage am Grabbeplatz zur Verbesserung der Verkehrssicherheit - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.7: Bessere Einbeziehung der Parkhäuser im Radius von 200 Metern um die Altstadt und Carlstadt - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 7.8: Kontrolle der Lärmentwicklung bei Veranstaltungen am Mannesmannufer/Rathausufer - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Nutzung Freifläche Tuchtinsel; Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/131/2026 - zur Kenntnis genommen
+- TOP 8.2: Installation einer LED-Laterne am Gießerjungen auf der Zollstraße, Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/119/2026 - zur Kenntnis genommen
+- TOP 8.3: Tempo 30 Piktogramme rund um den Stephanienspielplatz; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/162/2026 - zur Kenntnis genommen
+- TOP 8.4: Sanierung des Straßenbelags Golzheimer Straße; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/168/2026 - zur Kenntnis genommen
+- TOP 8.5: Fahrradständer vor dem Röntgeninstitut Kaiserswerther Straße 89; Beschluss der Bezirksvertretung 1 vom 26.06.2026; - zur Kenntnis genommen
+- TOP 8.6: Basketballkorb auf dem Spielplatz Stephanienstraße; Beschluss der Bezirksvertretung 1 vom 26.06.2026; - zur Kenntnis genommen
+- TOP 8.7: Tuning- und Poser-Szene an der Theodor-Heuss-Brücke; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/169/2026 - zur Kenntnis genommen
+- TOP 8.8: Instandsetzung der Ausfahrt der Feuer- und Rettungswache 3 an der Münsterstraße; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/155/2026 - zur Kenntnis genommen
+- TOP 8.9: Entfernung von Telefonzellen in der Altstadt; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/166/2026 - zur Kenntnis genommen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Blumenkästen auf dem Plätzchen Kaiserswerther/Nord/Venloerstraße; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/160/2026 - zur Kenntnis genommen
+- TOP 8.12: Übernahme der Kosten für die Installation eines Waschbeckens in einem Klassenraum der Matthias-Claudius-Grundschule aus Liste A ; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/159/2026 - zur Kenntnis genommen
+- TOP 8.13: Einrichtung einer Lieferzone in der Worringer Straße vor den Hausnummern 82 und 86; Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/070/2026; - zur Kenntnis genommen
+- TOP 8.14: Prüfung von Maßnahmen zur Reduzierung des Durchgangsverkehrs in der Leopold- und Cantadorstraße ; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/156/2026 - zur Kenntnis genommen
+- TOP 8.15: Berichtswesen Bezirksvertretung 1 - 2. Halbjahr 2026 - zur Kenntnis genommen
+- TOP 8.16: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8.17: Errichtung von Fahrradabstellanlagen an den Eingängen des Nordfriedhofs; Beschluss der Bezirksvertretung 1 vom 06.12.2024; BV1/258/2024 - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Städtische Gemeinschaftsgrundschule Lennéstraße für Heilpädagogisches Reiten - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der Bezirksvertretung 1 - FÜNFZEHNWOCHEN Golzheim - mehrheitlich beschlossen
+- TOP 9.3: Verfügungsmittel der Bezirksvertretung 1 - Kunstraum Pempelforter - mehrheitlich beschlossen
+- TOP 9.4: Verfügungsmittel der Bezirksvertretung 1 - Altstadtengel e.V. - einstimmig beschlossen
+- TOP 9.5: Verfügungsmittel der Bezirksvertretung 1 - KnacKPunkt - mehrheitlich beschlossen
+- TOP 10: Verschiedenes
