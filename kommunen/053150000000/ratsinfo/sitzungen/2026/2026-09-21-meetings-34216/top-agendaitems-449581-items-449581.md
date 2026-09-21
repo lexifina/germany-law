@@ -1,0 +1,7 @@
+# TOP -: A. Präsentation zum Thema Kölner VHS: Modernisierung des Internetauftritts, neue Verwaltungssoftware, Entbürokratisierung und Serviceverbesserung
+
+- Sitzung: Sitzung des Ausschusses Schule und Weiterbildung (2026-09-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/449581
+- Ergebnis: Kenntnis genommen
