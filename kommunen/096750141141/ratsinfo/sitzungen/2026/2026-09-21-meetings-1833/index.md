@@ -1,0 +1,51 @@
+# Bürgerversammlung für Etwashausen mit Rundgang
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2026-09-21T18:00:00+02:00
+- Ende: 2026-09-21T20:12:00+02:00
+- Ort: Kantine der Fa. Fehrer
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/20
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1833
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1833
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00073598.pdf
+
+## Tagesordnung
+
+- TOP 1: Begrüßung durch den Oberbürgermeister
+- TOP 2: Rundgang durch den Ortsteil
+- TOP 2.1: Anwesen "Seiler" | Rückschnitt des Grüns
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Bimbach | Säuberung
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Anfrage Bürger | Ausweisung Baugebiet "Neue Gartenstadt Etwashausen"
+- TOP 2.6: Anfrage Bürgerin | toter Baum | Flugplatzstraße
+- TOP 2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Begrüßung zur Bürgerversammlung durch den Oberbürgermeister
+- TOP 3.1: Angelegenheiten der Stadtverwaltung
+- TOP 3.1.1: Allgemeine Informationen zum Thema | Hochwasserschutzmaßnahmen
+- TOP 3.1.1.1: Anfrage Bürger | Anfrage Fließhindernisse im Rödelbach
+- TOP 3.1.1.2: Anfrage Bürgerin | Sachstand Kanalausbau
+- TOP 3.2: Sachstand | Kindergarten Etwashausen
+- TOP 4: Angelegenheiten der Bürgerinnen und Bürger
+- TOP 4.1: Anfrage Sabine Schmitt | Tännigstraße | Verkehrsschild "Anlieger frei"
+- TOP 4.2: Anfrage Emil Oberländer | Biberlehrpfad
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Anfrage Bürgerin | Flugplatzstraße 40 bis 52 | Parkplatzsituation
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Anfrage Her Markus Huschel | Verkehrssituation Flugplatzstraße
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: Anfrage Bürgerin | Hundekot entlang der Richthofenstraße
+- TOP 4.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14: Anfrage Bürgerin | Mülleimer
+- TOP 4.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.16: Anfrage Bürgerin | Möglichkeit der Inszenierung von Rama Dama für Etwashausen
+- TOP 4.17: Anfrage Bürger | Anfrage bzgl. Wildkamera | Unerlaubtes Ablagern von Müll
+- TOP 4.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.20: Vorab eingegangene Fragen der Bürgerinnen und Bürger
