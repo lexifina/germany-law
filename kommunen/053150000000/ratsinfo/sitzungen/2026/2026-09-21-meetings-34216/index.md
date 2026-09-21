@@ -1,0 +1,73 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-21T15:05:00+02:00
+- Ende: 2026-09-21T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34216
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34216
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Präsentation zum Thema Kölner VHS: Modernisierung des Internetauftritts, neue Verwaltungssoftware, Entbürokratisierung und Serviceverbesserung - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 1.2: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 1.3: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 1.4: Beantwortung der mündlichen Anfrage von Mario Schmitz (CDU) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 15.06.2026 betreffend"Girls‘Day und Boys‘Day 2026" (Vorlagen Nr. 1276/2026" - Kenntnis genommen
+- TOP 2: Stand der Schulentwicklung sowie der Schulbaumaßnahmen
+- TOP 2.1: Beantwortung einer mündlichen Anfrage von RM Schänke aus der Sitzung des Ausschusses Schule und Weiterbildung vom 15.06.2026 bezüglich der Sanierung des Heinrich-Heine-Gymnasiums - Kenntnis genommen
+- TOP 2.2: Beantwortung einer mündlichen Anfrage von RM Aengenvoort aus der Sitzung des Ausschusses Schule und Weiterbildung vom 27.04.2026 bezüglich der Baumaßnahme Gymnasium Rondorf - Kenntnis genommen
+- TOP 2.3: Anfrage der Fraktion SPD vom 24.02.2026 betreffend "Sachstand Neubau Helios-Schulcampus nach Vertragsaufhebung Architekturbüro" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 07.07.2026 - Kenntnis genommen
+- TOP 3: Anträge gemäß der Geschäftsordnung des Rates
+- TOP 3.1: Antrag der Fraktionen SPD, Die Linke und Volt vom 15.06.2026 betreffend "Schulplatzversorgung im Stadtbezirk Kalk sichern und Gesamtschulbedarf am Standort Helene-Weber-Platz vorbereiten" - vertagt
+- TOP 4: Anfragen gemäß der Geschäftsordnung des Rates
+- TOP 4.1: Anfrage der Fraktion FDP/KSG vom 31.08.2026 betreffend "Ausstattung der Kölner Schulen mit digitalen Endgeräten und deren Zustand" - vertagt
+- TOP 4.2: Anfrage der Fraktion FDP/KSG vom 31.08.2026 betreffend "Flexiblere Ausgestaltung der Abholzeiten in der OGS" - vertagt
+- TOP 4.3: Anfrage der Fraktion Volt vom 16.09.2026 betreffend "Sichere Querung der Berrenrather Straße für die GGS Manderscheider Platz während der Interimsphase ohne Schulhof" - vertagt
+- TOP 5: Anfragen und Beantwortungen zu Anfragen aus früheren Sitzungen
+- TOP 5.1: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU, SPD, Die Linke, Volt, FDP/KSG vom 10.06.2026 betreffend "GYOD/BYOD-Programm an Kölner Schulen" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 10.06.2026 - Kenntnis genommen
+- TOP 5.2: Anfrage der Fraktion Die Linke vom 10.06.2026 betreffend "Reduzierung der DaF-Kurse (Deutsch als Fremdsprache) an der Volkshochschule" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 25.06.2026 - Kenntnis genommen
+- TOP 5.3: Anfrage der Fraktionen Bündnis 90/Die Grünen, CDU und SPD vom 22.04.2026 betreffend "Sachstand Entlastung der Förderschulen Geistige Entwicklung" - Kenntnis genommen
+- TOP -: Antwort der Verwaltung vom 18.08.2026 - Kenntnis genommen
+- TOP 5.4: Anfrage der Fraktion Die Linke vom 22.04.2026 betreffend "Partizipationsmöglichkeiten von Schulgemeinschaften und Anwohner*innen bei Bauprojekten" - vertagt
+- TOP 5.5: Anfrage der Fraktion Bündnis 90/Die Grünen vom 22.04.2026 betreffend "Nutzung Turmstraße 5-7" - Kenntnis genommen
+- TOP 6: Empfehlungen
+- TOP 6.1: Beschluss über die Aufstellung eines Bebauungsplanes Hans-Schulten-Straße in Köln-Merheim - ohne Votum behandelt
+- TOP 6.2: Zügigkeitserweiterung der Friedrich-List-Schule, Gemeinschaftsgrundschule, Breitenbachstraße 2, 51149 Köln-Gremberghoven, zum Schuljahr 2027/28 - vertagt
+- TOP 6.3: Temporäre Kapazitätseinschränkung am Gymnasium Neue Sandkaul im Schuljahr 2027/28 - ungeändert empfohlen
+- TOP 6.4: Zügigkeitsreduzierung der Katholischen Grundschule Zugweg 42-44, 50667 Köln-Neustadt/Süd zum Schuljahr 2027/28 - vertagt
+- TOP 7: Entscheidungen
+- TOP 7.1: Anpassung der Schulbetriebsmittel mit sozialindizierter Komponente aufgrund Beschlusses des ASW vom 04.03.2024 (AN/0242/2024) - ungeändert beschlossen
+- TOP 7.2: Anmeldeverfahren für die fünften Klassen der weiterführenden städtischen Schulen zum Schuljahr 2027/28 - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Kölner VHS: Modernisierung des Internetauftritts, neue Verwaltungssoftware, Entbürokratisierung und Serviceverbesserung - Kenntnis genommen
+- TOP 8.2: Schulentwicklungspreis 2026 "Gute gesunde Schule" für James-Krüss-Schule, GGS Zehnthofstraße in Köln-Ostheim - Kenntnis genommen
+- TOP 8.3: NRWeltoffen Förderprogramm 2025 - Kenntnis genommen
+- TOP 8.4: "Selbstwirksamkeit stärken - Resilienz fördern" - Kenntnis genommen
+- TOP 8.5: Nachfrage zu TOP 5.2 im ASW am 15.06.26 betreffend „Schüler*innenströme in den Stadtbezirken“; Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0302/2026), Antwort der Verwaltung (0792/2026) und ergänzende Mitteilung der Verwaltung (0966/2026) - Kenntnis genommen
+- TOP 8.6: Beantwortung einer mündlichen Anfrage der SPD-Fraktion im ASW am 27.04.26 - Kenntnis genommen
+- TOP 8.7: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - vertagt
+- TOP 8.8: Beantwortung der mündlichen Anfrage der Bezirksschüler*innen-Vertreterin Hacker aus der Sitzung vom 27. April 2026 bezüglich der Gesamtschule Lindenthal - Kenntnis genommen
+- TOP 8.9: Baumaßnahme für das Gymnasium Unter Linden am Standort Neue Sandkaul 29, 50859 Köln-Widdersdorf - nachhaltige, ressourcenschonende und kostengünstige Wärmeerzeugung - Kenntnis genommen
+- TOP 8.10: Beantwortung einer mündlichen Anfrage von RM Seeck aus der Sitzung des Ausschusses Schule und Weiterbildung vom 15.06.2026 bezüglich der Baumfällungen an der Max-Ernst-Gesamtschule - vertagt
+- TOP 8.11: Beantwortung einer mündlichen Anfrage von RM Seeck aus der Sitzung vom 15. Juni 2026 bezüglich der naturwissenschaftlichen Fachräume am Heinrich-Mann-Gymnasium Fühlinger Weg 4 in 50765 Köln-Chorweiler - Kenntnis genommen
+- TOP 8.12: Beantwortung einer mündlichen Anfrage zur Vorlage "Umsetzungsstand des Masterplan Kommunale Sicherheit (MaKoS)" (AN/0440/2026/1) - Kenntnis genommen
+- TOP 8.13: Sachstandsbericht Schwimmförderung KölnBäder GmbH Geschäftsjahr 2025 - Kenntnis genommen
+- TOP 8.14: Prävention von Kinderarmutsfolgen in Köln: Zugänge und Beratungsangebote für Familien (Beantwortung der mündl. Anfrage von Volt am 27.04.2026) - Kenntnis genommen
+- TOP 8.15: Fachaustausch Digitalisierung und Bildung in Tallinn - Kenntnis genommen
+- TOP 8.16: Aktueller Stand zur Öffnung der Schulhöfe - Kenntnis genommen
+- TOP 8.17: Beantwortung einer mündlichen Anfrage von Bärbel Hölzing (Bündnis 90/Die Grünen) - Kenntnis genommen
+- TOP 8.18: Beantwortung der mündlichen Anfrage von André Burghardt (SPD) aus der Sitzung des Ausschusses Schule und Weiterbildung vom 15.06.2026 zur Hausaufgabenhilfe für bildungsbenachteiligte Schüler*innen - Kenntnis genommen
+- TOP 8.19: Beantwortung einer mündlichen Anfrage von RM Seek aus der Sitzung vom 15. Juni 2026 bezüglich der Sporthalle der Montessori-Grundschule Friedrich-Karl-Straße 64, 50737 Köln - Kenntnis genommen
+- TOP 8.20: Bericht zum Projekt "Mental Health" der BSV Köln - Kenntnis genommen
+- TOP 8.21: Beantwortung der Anfrage AN/1255/2026 der Fraktion Bündnis 90/Die Grünen bezüglich des aktuellen Sachstands zum Bau der Heliosschule - Kenntnis genommen
+- TOP 8.22: Beantwortung einer mündlichen Anfrage von Dr. Petra Pinger (Bündnis 90/Die Grünen) aus der Sitzung des ASW vom 15.06.2026 betreffend "Startchancen-Programm – Genereller Ablauf, Beteiligungen und Aufgaben der Schulen" - Kenntnis genommen
+- TOP 8.23: Förderprogramme zur Klimaanpassung von Schulhöfen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
