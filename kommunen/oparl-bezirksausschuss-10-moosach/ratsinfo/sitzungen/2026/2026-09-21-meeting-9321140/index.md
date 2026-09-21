@@ -1,0 +1,110 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9321140
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9321140
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 20.07.2026
+- TOP 1.2.: Sitzungstermine des Bezirksausschusses im Jahr 2027
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Gefährlicher Verkehrsabschnitt im Bereich zwischen der Allacher und Untermenzinger Straße
+- TOP 2.2.: Bitte um Unterstützung in einem sozialen Härtefall
+- TOP 2.3.: Lärmbelästigung durch das Feuerwerk des Münchner Sommernachtstraums
+- TOP 2.4.: Unzumutbare Verkehrsüberlastung und blockierte Rettungswege in der Pickelstraße bei Großevents
+- TOP 2.5.: Belästigungen, Behinderungen und Vermüllung am Tent (In den Kirschen 30)
+- TOP 2.6.: Prüfung der Situation des Baumbestands am nördlichen Ende der Dachauer Straße (nördlich der Eisenbahnüberführung bis zur Kreuzung Max-Born-Straße)
+- TOP 2.7.: Illegale Müllablage Ecke Scharnhorststr / Hanauer Straße
+- TOP 2.8.: Menschliche Fäkalien an der U-Bahn P&R Station für Fahrräder am Olympia Einkaufszentrum
+- TOP 2.9.: Bebauungspflicht Haylerstr. / ehemaliges Südmetall-Gelände
+- TOP 2.10.: Müllproblem am Schöpferplatz
+- TOP 2.11.: Baustelle der SWM in der Gärtnerstraße
+- TOP 2.12.: Lärmbelästigung durch das Projekt MOSAIQ/MCube
+- TOP 3.: Berichte
+- TOP 3.1: UA Soziales, Bildung und Kultur
+- TOP 3.1.1.: Schwierige Situation im Park beim boomerang sowie an der U-Bahn-Haltestelle am OEZ
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau und Planung
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Triebstraße 16
+- TOP 3.3.1.2.: Rigaer Straße 17
+- TOP 3.3.1.3.: Hanauer Straße
+- TOP 3.3.1.4.: Haylerstraße 30
+- TOP 3.3.1.5.: Bauberger Straße 19
+- TOP 3.3.1.6.: Georg-Brauchle-Ring 29
+- TOP 3.3.1.7.: Georg-Brauchle-Ring 52
+- TOP 3.3.1.8.: Ehrenbreitsteiner Straße 28
+- TOP 3.3.1.9.: Allacher Straße 25
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Amslerstraße 6
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.3.3.1.: Bericht zum Termin zur Vorstellung des Aufstellungsbeschlussentwurfs "Meiller"
+- TOP 3.4: UA Gesundheit und Umwelt
+- TOP 3.5: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Erneuerung des Oberflächenbelags des baulichen Radwegs entlang der Baubergerstraße (Südostseite) zwischen Karlingerstraße und Gubestraße
+- TOP 4.1.2.: Fahrradständer am Moosacher Bahnhof, Memminger Platz
+- TOP 4.1.3.: Anfrage zum Wohnungsbau der Münchner Wohnen GmbH, Hanauer Straße
+- TOP 4.1.4.: Nachpflanzung von Straßenbäumen
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Pflegezentrum Moosach Senioren besuchen die Wiesen vom 19.09. -04.10.2026 2.520,00€; Az. 0262.100-10-0482
+- TOP 5.2.: (E) Stadtbezirksbudget Stiftung zusammen. tun. Nachbarschaftsrat zur Nutzung der Räumlichkeiten der Magdalenenkirche vom 23.10. -28.11.2026 4.034,62€; Az. 0262.100-10-0485
+- TOP 5.3.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball im Bezirk 10, Moosach-Olympia vom 01.01. -31.12.2027 6.680,00€; Az. 0262.100-10-0483
+- TOP 5.4.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball im Bezirk 10, Moosach-PSV vom 01.01. -31.12.2027 6.680,00€; Az. 0262.100-10-0484
+- TOP 5.5.: (E) Stadtbezirksbudget TSV Moosach-Hartmannshofen Winterausstattung für den Vereinstraktor vom 30.09. -15.12.2026 3.435,60€; Az. 0262.100-10-0487
+- TOP 5.6.: (E) Stadtbezirksbudget Init. "Hinterglasmalerei" Hinterglasmalerei und Fenstergestaltung im Spielzimmer des Nachbarschaftstreffs am 03.10.2026 507,32€; Az. 0262.100-10-0488
+- TOP 5.7.: (E) Stadtbezirksbudget DIE LINIE 1 - Kulturverein München-Moosach e.V. Theaterstück: Sieben Türen von Botho Strauß vom 20.10.2026 -18.04.2027 2.450,00€; Az. 0262.100-10-0489
+- TOP 5.8.: (E) Stadtbezirksbudget Seniorpartner in School -Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 4.000,00€; Az. 0262.100-10-0486
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anhörung zur Änderung der BA-Satzung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 6.2.: Realisierung von Mobilfunkstandorten im: - Suchkreis MY8120 M-Bingener Straße, Standort Abbachstr. 27 - Suchkreis MY7278 M-Moosach, Standort Hanauer Str. 59-61
+- TOP 6.3.: Sammelbeschluss zur Behandlung offener Bürgerversammlungsempfehlungen im Münchner Norden Hier: Sicherheit für Fuß- und Radverkehr in der Baldurstraße verbessern Empfehlung Nr. 20-26 / E 01392 der Bürgerversammlung des Stadtbezirkes 10 – Moosach vom 05.07.2023
+- TOP 6.4.: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 6.5.: Anhörung der Bezirksausschüsse zu Änderungen der Bezirksausschuss-Satzung – Einführung eines verpflichtenden Tierschutzbeauftragten
+- TOP 6.6.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung
+- TOP 6.7.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: Errichtung von Tempo 30 km/h in der Baubergerstraße im Abschnitt zwischen Dachauer Straße und Georg-Mooseder-Straße
+- TOP 6.8.: Anhörung zur Beschlussvorlage "Aufwertung und Umgestaltung der öffentlichen Grünanlage an der Triebstraße / Bingener Straße"
+- TOP 6.9.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Andernacher Str. 6a
+- TOP 6.10.: Bettfedernreinigung auf städt. Flst. 376/17 Gem. Untermenzing, Ecke Allacher Straße / Waldhornstraße
+- TOP 6.11.: Suche von Mobilfunkstandorten im: - Suchkreis 510333784 Hugo-Troendle-Straße - Suchkreis 510333785 Westfriedhof Süd-West
+- TOP 6.12.: Meiller-Areal A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/80 und Bebauungsplan mit Grünordnung Margarete-Steiff-Straße (südwestlich), Untermenzinger Straße (südöstlich), Allacher Straße (nordöstlich), Bahnlinie München-Regensburg (nordwestlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1903 und Nr. 2081) - Aufstellungsbeschluss – B) Durchführung eines städtebaulichen und landschaftsplanerischen Workshopverfahrens
+- TOP 6.13.: Sanierungsgebiet Moosach Finanzierung der Sanierungsmaßnahmen A) Sanierungsmaßnahmen B) Städtebauförderung, Kosten, Finanzierung
+- TOP 6.14.: Anhörung für Sondernutzung auf öffentlichem Verkehrsgrund sowie auf Privatgrund für die Aktion "Spiel mich! 2026" im Zeitraum vom 08.10.-29.10.2026 (Aufbau ab 05.10., Abbau bis 02.11.26)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Umweltverschmutzung im Grundstück Hanauerstraße 75
+- TOP 7.2.: Antrag und Bericht des UA Umwelt und Gesundheit zum Lärmschutz beim HfK an der Gerastraße 5
+- TOP 7.3.: Equip Station am Memminger Platz
+- TOP 7.4.: Anfrage zum Baulärm zu Ruhezeiten am Sozialbürgerhaus Neuhausen – Moosach
+- TOP 7.5.: Mehrjahresinvestitionsprogramm – Fortschreibung für die Jahre 2026 bis 2030
+- TOP 7.6.: Müll am Bahnhof Moosach
+- TOP 7.7.: Sachstand Dialog-Display Feldmochinger Straße
+- TOP 7.8.: Anfrage: Kann der motorisierte Verkehr auf der Baubergerstraße zwischen Gubestraße und Moosacher Stachus auf Tempo 30 beschränkt werden?
+- TOP 7.9.: Antrag auf Querungsmöglichkeit für Fußgänger über die Baubergerstraße mit Mittelinsel im Bereich der öffentlichen Durchwegung östlich des Anwesens Baubergerstraße 4
+- TOP 7.10.: Antrag auf Errichtung eines Fußgängerüberwegs über die Baubergerstraße westlich der öffentlichen Durchwegung nahe der MVHS
+- TOP 7.11.: Anbringung eines Krähenschutzes
+- TOP 7.12.: Instandsetzung eines Baumschutzrostes im Bereich des öffentlichen Fußwegs zwischen Karl-Lipp-Straße und Hugo-Troendle-Straße
+- TOP 7.13.: Schulwegsicherheit und Durchgangsverkehr - Antrag auf verkehrsrechtliche Prüfung Netzerstraße (München-Moosach)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: - Thorner Straße, Ostseite, nördlich Einmündung Merseburger Straße; Anordnung von Parkmarkierungen - Eininger Straße; Errichtung von absoluten Haltverboten (Z 283 StVO)
+- TOP 8.2.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: -->Arbeiten im Straßenraum: - Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße: (Straßenbauarbeiten, BPh 530, BPh 700) vom 27.07.2026 bis 31.12.2026 - Allacher Straße Bauphasen 400, 300, 350, 400 (Herstellung Fahrbahn, Gehweg, Radweg, Bordstein, Herstellung Zufahrten) vom 24.08.2026 bis 25.09.2026 - Allacher Straße Bauphasen 210, 400 (Herstellung Fahrbahn, Gehweg, Radweg, Bordstein, Herstellung Zufahrten) -Verlängerung BPh 210, Beginn BPh 400- vom 15.08.2026 bis 23.08.2026
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 und 9 Satz 1 StVO: Andernacher Straße; Errichtung einer weiteren Ausweichstelle für Fließverkehr
+- TOP 8.4.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung und Zufahrt zwischen Memminger Platz und Berta-Hummel-Straße Grünfläche 8921.1 2. Verlängerung zu N 00722/26
+- TOP 8.5.: Sondernutzung auf öffentlichem Verkehrsgrund gem. § 29 der StVO Hier: MOSAIQ – Aktionstag Moosach vom MOR am 17.09.2026 von 16.00 – 19.00 Uhr PAX 80 -Vorabstellungnahme des BA-Vorsitzenden-
+- TOP 8.6.: Suche eines Mobilfunkstandortes im Suchkreis MY8896 M-Moosach - Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 8.7.: Veranstaltung in städt. Grünanlagen; Hier: Grünanlage Franz-Mader-Str. 11, Sri Chinmoy Peace-Mile 6-Stunden-Lauf Laufveranstaltung mit 100 PAX am 12.09.2026 von 10.00 – 16.00 Uhr (Aufbau ab 6.00 Uhr, Abbau bis 19.00 Uhr) - Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 8.8.: Veranstaltung in städt. Grünanlagen; Hier: GA zwischen Karlingerstr./Karl-Lipp-Str. Mitmachkonzert MusicMule und Löwenstarke Kinder PAX 100 am 20.09.2026 von 15.00 – 16.00 Uhr (Aufbau ab 10.00 Uhr, Abbau bis 18.00 Uhr) - Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 8.9.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage am Standort Bauberger Straße 30
+- TOP 8.10.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Am Kapuzinerhölzl - Vorabstellungnahme des BA-Vorsitzenden -
+- TOP 8.11.: Mitteilung über ein Grundstücksgeschäft -nicht öffentlich-
+- TOP 8.12.: Vollzug der Erhaltungssatzung "Moosach"; Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen -nicht öffentlich-
+- TOP 8.13.: Vorkaufsrecht nach dem BauGB - Bingener Straße -nicht öffentlich-
