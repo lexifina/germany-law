@@ -1,0 +1,169 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2026-09-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9398750
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9398750
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 5.2.1.: Vorstellung AWM Einführung Gelbe Tonne
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Vermüllung der Maxvorstadt entgegenwirken – Nachbarschaftstage – AWM München am Ackermannbogen als Vorbild nehmen
+- TOP 6.2.: Beteiligung des BA3 bei der Revitalisierung und dem Erhalt der U-Bahnhöfe in der Maxvorstadt
+- TOP 6.3.: Sitzgelegenheit Haltestelle Königsplatz Richtung Hauptbahnhof
+- TOP 6.4.: Erhalt des Spielhauses Sophienstraße
+- TOP 6.5.: Priorisierung des Baus der "U29-Spange" – Entscheidung jetzt!
+- TOP 6.6.: Erhalt des Wohnheims in der Zieblandstraße
+- TOP 6.7.: Einrichtung von Fahrradstellplätzen an der Kreuzung Adalbertstraße/ Barer Straße
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM- Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Bauprojekt Theresienstraße 132
+- TOP 1.1.2.: Status Planung Neubau Barerstr. 37 in Maxvorstadt/bisheriges Auktionshaus Neumeister
+- TOP 1.1.3.: Baum im Hof Rottmannstraße, gegenüber von Gabelsbergerstr. 81
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Stadtteilbibliotheken als „kühle Orte“ausweisen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Baulisten KW33, KW34, KW35, KW36
+- TOP 2.1.2.: WEB-Liste 16.08.-31.08.2026
+- TOP 2.1.3.: Kaulbachstr. 31a – 33, Sanierung des denkmalgeschützten Bestandsgebäudes "Berchmans-kolleg" sowie Nutzungsänderung in Büronutzungen in den Geschossen EG bis 3.OG, Erweite-rung des Untergeschosses, Anbau eines Personenaufzugs, Errichtung von Gauben
+- TOP 2.1.4.: Dachauer Str. 35, Dachanhebung zur Erweiterung zweier Wohnungen im DG
+- TOP 2.1.5.: Dachauer Str. 35, Nutzungsänderung von Büro zu Wohngruppe mit 6 Betten
+- TOP 2.1.6.: Steinheilstr.5, Umnutzung einer Druckerei zu Einzelhandel (EG, UG)
+- TOP 2.1.7.: Schwindstr. 28, Umbau und Instandsetzung, Umwandlung der Garagenstellplätze in Wohn-raum, des Rückgebäudes in der Schwindstraße 28
+- TOP 2.1.8.: Blutenburgstr. 46, Ausbau der bestehenden zweiten Dachebene zu einer Wohneinheit, Einbau von Dachgauben und einer Dachterrasse, Einbau eines Personenaufzuges, Anschluss des Hauses an das Fernwärmenetz und Abbruch der Kaminzüge
+- TOP 2.1.9.: Barer Str. 24, (Bitte Anschreiben beachten) 1. Serviced Apartments "Numa", 2. Fachschule Nutzer bfz, 3.Serviced Apartments, 4.Wohnheim für Studierende, 5. Pilates Studio , 6. Bou-tique-Fitnessstudio, 7. Indoor-Cycling-Studio - VORBESCHEID
+- TOP 2.1.10.: Kaulbachstr. 1 - 1a, Umbau des denkmalgeschützen Vorderhauses (HsNr. 1) sowie Umbau und Aufstockung des Rückgebäudes (HsNr. 1a) zu Wohnzwecken
+- TOP 2.1.11.: Arnulfstr. 30 – 32, Nutzungsänderung von Laden (ehemaliger Rewe) in immersive, interaktive Erlebnisausstellung (The Dream Rooms)
+- TOP 2.1.12.: Schellingstr. 20, Aufstockung, Erweiterung, Balkonanbau des Seiten-/Rückgebäudes – GE-NEHMIGUNGSVERLÄNGERUNG
+- TOP 2.1.13.: Erzgießereistr. 34, Nutzungsänderung eines Ladens in eine sportliche Einrichtung (bei Antragstellung Boxstudio)
+- TOP 2.1.14.: Erzgießereistr. 32, Nutzungsänderung eines Ladens in einen Stehimbiss
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Nachtrag Denkmalliste: Gartenhaus Brienner Str. 24 - Benehmensverfahren
+- TOP 2.2.2.: Nachtrag Denkmalliste: Königinstr. 31 - Benehmensverfahren
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Adalbertstr. 90
+- TOP 3.2.2.: Schraudolphstraße 12
+- TOP 3.2.3.: Richard-Wagner-Straße 14
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Beglaubigte Zweischrift der Sitzungsvorlage des Ausschusses für Stadtplanung und Bauordnung am 15.07.2026 _ 26-32 / V 00839
+- TOP 5.2.: Dachauer Str. 92 , FI.Nr. 52680, Gemarkung Sektion III
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Förderung für den fahrradfreundlichen Ausbau der Zieblandstraße
+- TOP 1.1.2.: Max - Vorstadt Gefährliche Situation Radweg bei Brienner Str. 50 /52
+- TOP 1.1.3.: Unterstützung des Antrags der r.. GmbH auf Umwidmung von zwei öffentlichen Pkw­Stellplätzen in Fahrradabstellplätze vor der Sandstraße 3
+- TOP 1.1.4.: Klagen einer Seniorin
+- TOP 1.1.5.: Genehmigungen von den Veranstaltungen in der Ludwigstraße
+- TOP 1.1.6.: Bitte um Unterstützung – Gefährliche Sichtbehinderung durch Baustelle, Karlstraße 14
+- TOP 1.1.7.: entfällt
+- TOP 1.1.8.: P.- Bowls, Theresienstraße 35
+- TOP 1.1.9.: Umwidmung PKW-Parkbuchten in Radlstellplätze (Gabelsbergerstraße 103)
+- TOP 1.1.10.: Formelle Beschwerde: Massive Lärmbelästigung durch den Kulturstrand am Professor-Huber-Platz / Beeinträchtigung des Bibliotheksbetriebs
+- TOP 1.1.11.: Entsorgung von Schrottfahrrädern
+- TOP 1.1.12.: Bürgerantrag gem. Art. 56 BayGO / Anregung: Sofortige Einrichtung von Tempo 30 in der Augusten-straße (Abschnitt Hausnummern 25 bis 51) vorab zur laufenden Umgestaltung
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Einbahnregelung in der Heßstraße besser kennzeichnen
+- TOP 1.2.2.: Restgehwegbreite an der Freischankfläche Theresienstr. 79 durch Baustelle und in der Luisenstraße 39-43
+- TOP 1.2.3.: Aktueller Planungsstand der „modifizierten Alternative 5“ im Kunstareal
+- TOP 1.2.4.: Sichere und stadtverträgliche Radverkehrsführung in der Türkenstraße – aktuellen Planungsstand darstellen
+- TOP 1.2.5.: Aufwertung Belag Akademiestraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: (E) Sammelbeschluss offene Bezirksausschussangelegenheiten des 03. Stadtbezirkes Maxvorstadt
+- TOP 2.1.2.: (Bez. 3) Entwurf verkehrsrechtliche Anordnung Hinweisbeschilderung zum Fahrradparkhaus Hirtenstr.
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: MY8768_M-Maxvorstadt-Nord MY8768 – Realisierung eines Mobilfunkstandortes
+- TOP 2.2.2.: Antrag für eine Warenauslage vor dem Anwesen Augustenstr. 113
+- TOP 2.2.3.: Genehmigung eines Stellplatzes für einen Verkaufs-/Imbisswagen Ludwigstraße am Geschwister Scholl Platz
+- TOP 2.2.4.: Königinstr. 37 WG: Antrag für Sitzgelegenheiten
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Stadtbez. 3 I Lenbachpl. 1 | Antrag auf Ausdehnung einer Freischankfläche | Gaststätte I BA-Beschlussvorlage
+- TOP 2.3.2.: BA-Vorlage Augustenstraße 58, Nudelhaus
+- TOP 2.3.3.: BA-Beschlussvorlagen Isabellastr. 4, Gaststätte - Freischankfläche und Schanigarten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP 3.3.: Erlaubnisbescheide Veranstaltungen
+- TOP 3.4.: Verkehrsrechtliche Anordnungen
+- TOP 3.5.: Shared-Mobility-Entwicklungen: Start des stationsbasierten Carsharings und des Bikesharing-Angebots „MyRadl“ in München
+- TOP 3.6.: Baumaßnahmen der SWM
+- TOP 3.7.: Eilentscheid: WG: Machbarkeitsprüfung Königsplatz – aktualisierte Unterlagen und Planungen / Stand 24.08 / GNTM 22
+- TOP 3.8.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Firma: Abfallwirtschaftsbetrieb München, Standort: Universitätsviertel
+- TOP 3.9.: Gefahrenstelle, Bürger*innenanliegen samt Antwort MOR
+- TOP 3.10.: Bez. 03, Wittelsbacherplatz | Anhörung Art. 18 BayStrWG und § 29 StVO für Wanderausstellung "Zwischen Erfolg und Verfolgung..." vom 22.09. bis 27.10.2026 mit Eröffnungsveranstaltung am 23.09.2026 | Anhörungsfrist: 07.09.2026- Zustimmung
+- TOP 3.11.: Eilentscheid: Anhörung 4. Nachtrag VA öffentlicher Verkehrsgrund (Stadtbezirke 1,3,12); Zamanand / Corso Leopold am 12./13.09.26 (Aufbau in Fußgängerbereichen teils ab 11.09.) zwischen Odeonsplatz und Münchner Freiheit (Feilitzschstr.) – Rückmeldefrist: 02.09.26- - Zu-stimmung
+- TOP 3.12.: unveränderte Fortführung Gaststättenbetrieb
+- TOP 3.13.: Schadstofftechnische Probesanierungsarbeiten auf der Hackerbrücke
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Anregung zur Modernisierung des Spielplatzes am Alten Nordfriedhof (Tengstraße) – Sind Erneuerungen geplant?
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Handballcampus München gGmbH Grundschulkinder für Bewegung (mit Ball) begeistern vom 15.09.2026 - 31.07.2027 9.900,00 Euro, Az.: 0262.100-3-0692
+- TOP 2.2.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball! Mädchenfußball im Bezirk 3 Maxvorstadt vom 01.01. - 31.12.2027 6.680,00 Euro, Az.: 0262.100-3-0697
+- TOP 2.3.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 - 31.07.2027 2.000,00 Euro, Az.: 0262.100-3-0698
+- TOP 2.4.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Schwindschule e.V. Sicherung der Chancengleichheit durch individuelle Hausaufgabenbetreuung vom 01.10.2026 - 31.07.2027 6.750,00 Euro, Az.: 0262.100-3-0695
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Faust auf die Fresse" Faust auf die Fresse - ein feministisches Sportfest vom 01.10. - 04.10.2026 4.525,50 Euro, Az.: 0262.100-3-0684
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Kunst in der U-Bahn-Station Theresienstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Erst ermitteln, dann bewerten – Rückhalt für Polizei und Einsatzkräfte
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "EYES ONLY" Gunia Nowik Gallery, Warsaw featuring Daniel Rycharski vom 13.11.2026 - 28.02.2027 600,00 Euro, Az.: 0262.100-3-0694
+- TOP 2.2.: (E) Stadtbezirksbudget ArtSchnitzel e.V. Werkraumatelier vom 15.09.2026 - 30.07.2027 3.500,00 Euro, Az.: 0262.100-3-0693
+- TOP 2.3.: (E) Stadtbezirksbudget die urbanauten Spiel mich! vom 30.07. - 14.12.2026 3.250,00 Euro, Az.: 0262.100-3-0696
+- TOP 2.4.: (E) Stadtbezirksbudget Init. "In The Street / Grenzlinien" In The Street / Grenzlinien: Ausstellung #1: 08.10. - 15.11.2026, Ausstellung #2: 27.11. - 27.12.2026 2.400,00 €; Az. 0262.100-3-0700
+- TOP 2.5.: (E) Stadtbezirksbudget INKUNST e. V. / dasvinzenz "Eine Odyssee oder Backen ohne Mehl" vom 01.10. - 01.11.2026, Vorstellung: 08.10.2026 5.300,00 €; Az. 0262.100-3-0701
+- TOP 2.6.: (E) Stadtbezirksbudget Münchner Dionysien e.V. Gilgamesch - Im Anfang war das Wort vom 10.08.2026 - 13.03.2027 1.500,00 Euro, Az.: 0262.100-3-0699
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: BA 03 III. Quartalsübersicht 2026- Stadtbezirksbudget
+- TOP 1.2.: Anhörung zur BA-Satzungsänderung / Klimaschutzbeauftrage
+- TOP 1.3.: Anhörung zur BA-Satzungsänderung / Tierschutzbeauftragte
+- TOP 1.4.: Anhörung Änderung der BA-Satzung / Baumschutzverordnung
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
+- TOP 1.2.2.: Vorgriffsbeschluss „Hitzewellen-Schutz“ – kostenloser Eintritt in städtische bzw. stadtnahe Museen bei Hitzewellen (ab 30°C Außenlufttemperatur)
+- TOP 1.2.3.: Eilantrag: Junges und bezahlbares Wohnen in der Zieblandstraße dauerhaft sichern
+- TOP 1.2.6.: Baustellensituation in der Türkenstraße 50-54: Dauer, Flächenbedarf der Baustellen und Sicherheit für Radfahrende
+- TOP 2.4.1.: Bez. 3, Geschwister-Scholl-Pl. | Anhörung für LMU Erstsemesterbegrüßung 2026 am 12.10.26 | Frist: 05.10.2026
+- TOP 2.4.2.: Anhörung für Sondernutzung auf öffentlichem Verkehrsgrund sowie auf Privatgrund für die Aktion "Spiel mich! 2026" im Zeitraum vom 08.10.-29.10.2026 (Aufbau ab 05.10., Abbau bis 02.11.26) - Frist: 25.09.26
+- TOP 2.4.3.: Bez. 03, Professor-Huber-Platz | Anhörung § 29 StVO für "SharkNinja Aktivierung" (Werbeveranstaltung) am 02.10.2026 | Anhörungsfrist: 25.09.2026
