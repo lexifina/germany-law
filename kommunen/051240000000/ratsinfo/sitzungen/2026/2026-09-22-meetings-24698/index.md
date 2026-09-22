@@ -1,0 +1,54 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-09-22T16:00:00+02:00
+- Ende: 2026-09-22T16:36:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24698
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00369961.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370891.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A- Allgemeine Angelegenheiten des Finanzausschusses
+- TOP 1: Allgemeine Finanzangelegenheiten
+- TOP 1.1: Bericht zur finanziellen Lage der Stadt Wuppertal zum 31.07.2026 (Finco) - Entgegennahme ohne Beschluss
+- TOP 1.2: Bericht Zins- und Schuldenmanagement zum 30.06.2026 - Entgegennahme ohne Beschluss
+- TOP 1.3: Eckpunkte des Gemeindefinanzierungsgesetz 2027 und LVR-Umlage ab 2027 - Entgegennahme ohne Beschluss
+- TOP 1.4: Zweite Satzung zur Änderung der Satzung zur Erhebung einer Infrastrukturförderabgabe in der Stadt Wuppertal vom 16.12.2019 - ungeändert beschlossen
+- TOP 2: Vorlagen zu wesentlichen Haushaltspositionen
+- TOP 2.1: Sondernutzungssatzung gem. Straßen und Wegegesetz NRW - Neufassung - geändert beschlossen
+- TOP 2.2: Mehrkostenbeschluss Sanierung Freibad Mirke-von der Verwaltung zurückgezogen- - zurückgezogen
+- TOP 2.3: Stadtteilbibliothek Beyenburg – Auftrag zur Prüfung der Einrichtung einer Open Library - ungeändert beschlossen
+- TOP 2.4: Überplanmäßige Mittelbereitstellung zur Deckung der Bedarfe der Feuerwehr – Verpflichtungsermächtigungen 2028 - ungeändert beschlossen
+- TOP 2.5: Errichtung von Fahrradparkhäusern an den Verwaltungsgebäuden Rathaus Barmen und Verwaltungsgebäude Elberfeld - ungeändert beschlossen
+- TOP 2.6: Beitritt zur K4K eG Plattform - ungeändert beschlossen
+- TOP 2.7: Mietkostenzuschuss für die Wuppertaler Initiative für Demokratie und Toleranz e.V. - zur Beratung und Entscheidung verwiesen
+- TOP 2.8: Offene Unterhaltsforderungen im Bereich Unterhaltsvorschuss - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Große Anfrage der CDU-Fraktion vom 08.09.2026 - Offene Unterhaltsanforderungen im Bereich Unterhaltsvorschuss - Entgegennahme ohne Beschluss
+- TOP 3: Vermögensverwaltung
+- TOP 3.1: Aktueller Stand der strategischen Weiterentwicklung der Grundstückswirtschaft - Entgegennahme ohne Beschluss
+- TOP -: Teil B- Angelegenheiten der Beteiligungssteuerung
+- TOP 4: Städtische Beteiligungen
+- TOP -: Konzern Wuppertaler Stadtwerke (WSW)
+- TOP 4.1: Veräußerung der Anteile an der DBR Deponiebetriebsgesellschaft Remscheid mbH - ungeändert beschlossen
+- TOP -: Alten- und Altenpflegeheime (APH)
+- TOP 4.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit - - vertagen
+- TOP 4.3: Festsetzung der Pflegesätze für die Alten und Altenpflegeheime der Stadt Wuppertal Am Diek, Hölkesöhde und Herichhauser Straße für die Zeit vom 01.04.2026 bis 31.03.2027 - ungeändert beschlossen
+- TOP -: Kinder- und Jugendgruppe der Stadt Wuppertal (KIJU)
+- TOP 4.4: Abberufung der stellvertretenden Betriebsleitung KIJU - ungeändert beschlossen
+- TOP -: Jobcenter Wuppertal AöR
+- TOP 4.5: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Sparkasse Wuppertal
+- TOP 4.6: Jahresabschluss 2025 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 4.7: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 4.8: Satzungsangelegenheiten der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP -: Gebäudemanagement der Stadt Wuppertal (GMW)
+- TOP 4.9: Quartalsreport für Q2/2026 zum Investitionscontrolling GMW - Entgegennahme ohne Beschluss
+- TOP -: Teil C- Betriebsausschuss des Eigenbetriebes Wasser und Abwasser (WAW)
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bürgerantrag nach § 24 GO NRW zur Errichtung von öffentlichen Trinkwasserbrunnen an Sport- und Spielplätzen - ungeändert beschlossen
