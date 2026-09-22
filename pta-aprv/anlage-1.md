@@ -40,7 +40,12 @@ zu vermittelnde Kenntnisse und Handlungskompetenzen
   a) die Hygienevorschriften sowie Arbeits- und Gesundheitsschutzvorschriften bei der Herstellung von Arzneimitteln einzuhalten,
   b) die erforderlichen theoretischen Grundlagen der Galenik, einschließlich der Herstellung steriler Arzneimittel, zu verstehen,
   c) den Unterschied zwischen Rezeptur- und Defekturarzneimitteln zu verstehen und die unterschiedlichen rechtlichen Anforderungen anzuwenden,
-  d) Arzneimittel in den in § 4 Absatz 7 der Apothekenbetriebsordnung genannten Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung,
+  d) Arzneimittel in den folgenden Darreichungsformen gemäß ärztlicher Anweisung nach den anerkannten pharmazeutischen Regeln herzustellen, einschließlich der Kennzeichnung:
+    aa) Lösungen, Emulsionen, Suspensionen,
+    bb) Salben, Cremes, Gele, Pasten,
+    cc) Kapseln, Pulver,
+    dd) Drogenmischungen sowie
+    ee) Zäpfchen und Ovula,
   e) die für die Herstellungsvorgänge benötigten Geräte zu bedienen,
   f) die bei der Arzneimittelherstellung erforderlichen Kontrollen und Vorsichtsmaßnahmen durchzuführen,
   g) die Anforderungen an die Herstellung steriler Arzneimittel, einschließlich parenteral anzuwendender Arzneimittel, zu beachten und die erforderlichen Techniken anzuwenden,
