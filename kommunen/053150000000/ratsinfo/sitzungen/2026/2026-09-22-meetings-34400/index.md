@@ -1,0 +1,90 @@
+# 7. Sitzung des Mobilitätsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-22T16:03:00+02:00
+- Ende: 2026-09-22T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/201
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34400
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34400
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Verpflichtung von Sachkundigen Einwohner*innen
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Digital unterstützte Parkraumkontrolle – Einsatz von Scan-Fahrzeugen - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 1.1, Antrag der Volt-Fraktion vom 16.07.2026 betr. Digital unterstützte Parkraumkontrolle – Einsatz von Scan-Fahrzeugen - endgültig zurückgezogen
+- TOP -: Änderungsantrag zu TOP 1.1, Antrag der Volt-Fraktion vom 16.07.2026 betr. - ungeändert empfohlen
+- TOP 1.2: Nachtarbeit bei den Bauarbeiten an der Deutzer Brücke und der Mindener Straße - endgültig abgelehnt
+- TOP 1.3: KI-gestütztes Brückenmonitoring zur frühzeitigen Schadenserkennung - endgültig abgelehnt
+- TOP 1.4: E-Scooter sicher und barrierearm als Verkehrsmittel der letzten Meile betreiben - vertagt
+- TOP -: E-Scooter sicher und barrierearm als Verkehrsmittel der letzten Meile betreiben - vertagt
+- TOP 1.5: Umnutzung der bisherigen Busfahrstreifen auf der Aachener Straße - ungeändert beschlossen
+- TOP -: Umnutzung der bisherigen Busfahrstreifen auf der Aachener Straße - endgültig abgelehnt
+- TOP 1.6: Frühzeitige Information und verbindliche Standards für Baumaßnahmen und Ersatzverkehre der KVB - vertagt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Ausschusses für Integration und Chancengleichheit
+- TOP 2.1: Bedarfsfeststellungsbeschluss zur Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße, der "Mikrosimulation Luxemburger Straße", und einer Verkehrszählung zur Aktualisierung der Datenbasis - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.1 - Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße - endgültig abgelehnt
+- TOP -: Bedarfsfeststellungsbeschluss zur Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße, der "Mikrosimulation - endgültig abgelehnt
+- TOP 2.2: Anregung der Bezirksvertretung Innenstadt zu "Verbesserung der Verkehrssicherheit Am Leystapel und Prüfung der Öffnung des Rheinufertunnels für den Radverkehr, AN/1379/2025", gem. Antrag B90/Die Grünen, Die Linke und Volt - Alternative beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Mobilitätsausschuss)
+- TOP 3.1: Konzept Öffentlichkeitsbeteiligung für die Stadtbahnanbindung Neubrück - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: "Köln baut bezahlbar | Wohnen für alle" - ohne Votum behandelt
+- TOP 4.2: Köln-Katalog Bestand: Entwicklung von Bestandsquartieren - mit Änderungen empfohlen
+- TOP -: Änderungsantrag zu TOP 4.2 Köln-Katalog Bestand: Entwicklung von Bestandsquartieren - ungeändert empfohlen
+- TOP 4.3: 25. Satzung zur Änderung der Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.4: Satzung über die abweichende Herstellung der Erschließungsanlage Poller Kirchweg von Am Schnellert bis Müllergasse in Köln-Poll - ungeändert empfohlen
+- TOP 4.5: Kapazitätserweiterung auf den Linien 4, 13 und 18 - Baubeschluss für die Brandschutzsanierung der unterirdischen Stadtbahnhaltestellen Neumarkt und Appellhofplatz - ungeändert empfohlen
+- TOP 4.6: 297. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Baubeschluss zum Ersatzneubau Brücke Widdersdorfer Straße über die Bahntrasse der HGK Köln Ehrenfeld/ Lindenthal - ungeändert empfohlen
+- TOP 4.8: Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201-5-1023, Geestemünder Straße - ohne Votum behandelt mit erneuter Wiedervorlage
+- TOP -: Änderungsantrag zu 1959/2026 - Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201 - vertagt
+- TOP -: Änderungsanstrag zur baulichen Umsetzung der Geestemünder Straße in Köln-Niehl - vertagt
+- TOP 4.9: Infrastrukturmaßnahmen im Stadtbahnnetz der KVB im Herbst 2026 - hier: Betriebskonzepte und Ersatzverkehrsleistungen für baubedingte Betriebsanpassungen - ungeändert beschlossen
+- TOP 4.10: Zoobrücke Los D, Los Z1 - Spannungsrisskorrosion - ungeändert empfohlen
+- TOP 4.11: Neuordnung SPNV-Aufgabenträgerschaft NRW / Gründung Schiene NRW AöR / Umstrukturierung ZV go.Rheinland - ohne Votum behandelt
+- TOP 5: Anfragen und Beantwortungen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Verkehrssituation auf der Horbeller Straße in Marsdorf - Sache ist erledigt
+- TOP -: Beantwortung der schriftlichen Anfrage der CDU-Fraktion aus der Sitzung des Mobilitätsausschusses vom 16.06.2026 betr. "Verkehrssituation auf der Horbeller Straße in Marsdorf" (AN/0863/2026) - Kenntnis genommen
+- TOP 5.1.2: Beantwortung einer mündlichen Anfrage von RM Bankert aus der Sitzung des Mobilitätsausschuss vom 16.06.2026 betreffend "Unterhaltungskosten von Stadtbahntunneln" - Kenntnis genommen
+- TOP 5.1.3: Beantwortung einer mündlichen Zusatzfrage der SB Krüger aus der Sitzung des Mobilitätsausschusses vom 16.06.2026 betreffend "Beantwortung einer schriftl. Anfrage betr. "Warnstreik in ganz NRW - doch nur in Köln stehen die Bahnen still" (0955/2026)" - Kenntnis genommen
+- TOP 5.1.4: Beantwortung einer mündlichen Anfrage der Volt-Fraktion aus der Sitzung des Mobilitätsausschusses vom 16.06.2026 (0395/2026) - Kenntnis genommen
+- TOP 5.1.5: Sachstandbericht zum Integrierten Stadtentwicklungskonzept Porz-Mitte zum 31.12.2025 (1036/2026) - Kenntnis genommen
+- TOP 5.1.6: Beantwortung einer mündlichen Anfrage des RM Lorenz aus der Sitzung des Mobilitätsausschusses vom 16.06.2026 betreffend "Radbox NRW" - Kenntnis genommen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Erfassung von Schäden der Fahrradverkehrsinfrastruktur - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Mobilitätsausschusses vom 15.07.2026 (AN/1220/2026) - vertagt
+- TOP 5.2.2: Politisches Begleitgremium Ost-West-Achse + Sachstände - vertagt
+- TOP 5.2.3: Ausfälle Stadtbahnen - vertagt
+- TOP 5.2.4: Wegfall von Parkplätzen in der Innenstadt aufgrund fehlender Fahrbahnbreite - vertagt
+- TOP 5.2.5: Betriebskonzept für die dritte Baustufe der Nord-Süd-Stadtbahn - vertagt
+- TOP 5.2.6: Künstliche Intelligenz im Kölner Straßenverkehr - vertagt
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 6.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.1.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß §25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. §12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 6.2: Sonstige Mitteilungen
+- TOP 6.2.1: Stadtweite Konzeption „Mobil im lebenswerten Quartier“ – weitere Vorgehensweise - Kenntnis genommen
+- TOP 6.2.2: Einrichtung von Schulstraßen im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 6.2.3: Beantwortung einer mündlichen Anfrage des RM Petelkau aus der Sitzung des Hauptausschusses vom 20.04.2026 zur Brückensanierung - Kenntnis genommen
+- TOP 6.2.4: Aktueller Stand zum E-Scooter-Sharingangebot und geplantes neues Zulassungsverfahren für 2027 der Stadt Köln - vertagt
+- TOP 6.2.5: Piktogrammkette für den Radverkehr – Erfahrungsbericht und weiteres Vorgehen - Kenntnis genommen
+- TOP 6.2.6: Planfeststellungsbeschluss für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - Kenntnis genommen
+- TOP 6.2.7: Planfeststellungsbeschluss für das Vorhaben "Ausbau S 11/S-Bahn-Stammstrecke - PFA 1.1" in Köln-Altstadt/Nord (Innenstadt) - Kenntnis genommen
+- TOP 6.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.9: Beantwortung einer mündl. Anfrage aus der Sitzung der Stadtarbeitsgemeinschaft Behindertenpolitik am 23.02.2026 - Kenntnis genommen
+- TOP 6.2.10: Sachstandsbericht der Integriertes Stadtentwicklungskonzept Porz-Mitte zum 31.12.2025 (1036/2026) - Kenntnis genommen
+- TOP 6.2.11: Infrastrukturmaßnahmen auf der Linie 13 vom 21.09. bis 17.10.2026 - hier: Information über den anstehenden Schienenersatzverkehr - Kenntnis genommen
+- TOP 6.2.12: Auswirkungen der bevorstehenden Hangsicherung am Kalkberg auf die Führung der RadPendlerRoute 2 (RPR2) - Kenntnis genommen
+- TOP 6.2.13: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 6.2.14: Hohenzollernbrücke/Gullivertunnel - Kenntnis genommen
+- TOP 6.2.15: 3. Baustufe Nord-Süd Stadtbahn - Änderung Verkehrsführung Bonner Straße zwischen Gürtel und Marktstraße - Kenntnis genommen
+- TOP 6.2.16: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 6.2.17: Sachstand Masterplan Parken - vertagt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Haushaltsplanberatungen in den Fachausschüssen - Sache ist erledigt
+- TOP 7.2: Umsetzung von BV-Beschlüssen
