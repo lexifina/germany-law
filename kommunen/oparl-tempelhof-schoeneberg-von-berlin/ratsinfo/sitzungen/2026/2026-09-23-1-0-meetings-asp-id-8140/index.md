@@ -1,0 +1,179 @@
+# 57. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2026-09-23T17:00:00+02:00
+- Ende: 2026-09-23T20:20:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8140
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8140
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=509164
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen
+- TOP 2: Einwohneranfragen
+- TOP 3: Bericht des Ausschussvorsitzenden des Ausschusses für Eingaben und Beschwerden
+- TOP 4: Vorlagen des Kinder- und Jugendparlaments
+- TOP 4.1: Lehrer dürfen keine Kinder beleidigen
+- TOP 4.2: Ergänzung der Radwegmarkierung/-beschilderung am Friedrich-Wilhelm-Platz (Einmündung Schmargendorfer Str./Bundesallee)
+- TOP 4.3: Mobbing abschaffen
+- TOP 4.4: Zebrastreifen vor dem Eckener-Gymnasium
+- TOP 4.5: Gleichberechtigung bei den Bundesjugendspielen
+- TOP 4.6: Änderung der Ampelschaltung an der Rheinstraße Ecke Dickhardtstraße/Roennebergstraße
+- TOP 4.7: Änderung der Ampelschaltung an der Hohenstaufenstraße Ecke Münchener Straße (bei der Bushaltestelle)
+- TOP 4.8: Einspuriger Radweg in der Hohenstaufenstraße zu zweispurigem ausbauen
+- TOP 4.9: Veränderung der Ampelschaltung an der Kreuzung Wiesbadener Straße/Laubacherstraße
+- TOP 4.10: Rollstuhlfreundlichere Ikarus-Grundschule
+- TOP 4.11: Ampelschaltungen verändern
+- TOP 4.12: Lichtsignalanlage Attilastraße/Ecke Ringstraße in Tempelhof
+- TOP 4.13: Ampelschaltungen in Tempelhof-Mariendorf
+- TOP 4.14: Höhere Taktung der BVG-Busse 277, 186 und 181
+- TOP 4.15: Änderung der Ampelschaltung Mariendorfer Damm Ecke Körtingstraße
+- TOP 4.16: Die Renovierung der Toiletten der Rudolf-Hildebrand-Schule
+- TOP 4.17: Sichere Schulstraßen für die Bruno-H.-Bürgel-Grundschule
+- TOP 4.18: Mehr Licht für mehr Sicherheit – Laternen für den Hirzerweg!
+- TOP 4.19: Überarbeitung und Reparatur des Fahrradabstellplatzes der Grundschule am Dielingsgrund
+- TOP 4.20: Der Bus 204 muss öfter fahren
+- TOP 4.21: Laternen für den Bosepark, den Lehnepark und den Alter Park in Tempelhof
+- TOP 4.22: Wasserspender an allen Schulen in Tempelhof-Schöneberg
+- TOP 4.23: Erneuerung des Sportplatzes der Finow-Grundschule
+- TOP 4.24: Türen für die öffentliche Männertoilette in der Martin-Luther-Straße
+- TOP 4.25: Erneuerung des Sportplatzes der Löcknitz-Grundschule
+- TOP 4.26: Unisex-Toiletten an allen Grundschulen
+- TOP 4.27: Übriggebliebenes Essen für Obdachlose
+- TOP 4.28: Trinkwasserspender für den Rudolph-Wilde-Park
+- TOP 4.29: Unisex-Toiletten an allen Schulen
+- TOP 4.30: Unterkünfte für Geflüchtete renovieren
+- TOP 4.31: Sanierung der Sportanlage Monumentenstraße
+- TOP 4.32: Mehr Bänke für den Schulhof
+- TOP 4.33: Wasserspender für die Grundschule am Dielingsgrund
+- TOP 4.34: Gleichberechtigung bei öffentlichen Toiletten
+- TOP 4.35: Länger draußen spielen mit Licht in der dunklen Jahreszeit
+- TOP 5: je eine Priorität pro Fraktion
+- TOP 6: Vorlagen des Vorstehers
+- TOP 6.1: Aufwandsentschädigung für Mitglieder der Senior:innenvertretung
+- TOP 6.2: Einwohnerantrag gemäß §44 Bezirksverwaltungsgesetz: Lichtenrade hat genug - Bahnhofstraße zügig fertig bauen!
+- TOP 6.3: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2027
+- TOP 6.4: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 20 / 2026
+- TOP 6.5: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 22/ 2026
+- TOP 7: Vorlagen zur Beschlussfassung
+- TOP 7.1: Einrichtung neuer Parkzonen 95 und 93 zur Beschlussfassung an die BVV auf Grundlage des Berichts zum Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung der Parkzone 95 "Grazer Platz" in Schöneberg sowie der Parkraumbewirtschaftung der Parkzone 93 "Lindenhofsiedlung". Drucksachen Nr. 0718/XX und 0869/XXI.
+- TOP 8: Protokollgenehmigung
+- TOP 9: Mündliche Anfragen
+- TOP 10: Anträge
+- TOP 10.1: Kiezorientiertes Verkehrskonzept Gartenstadt Tempelhof
+- TOP 10.2: Mehr Sitzbänke für Senior*innen
+- TOP 11: Große Anfragen
+- TOP 12: Beschlussempfehlungen
+- TOP 12.1: Sicher zur Schule im Bereich Friedrich-Karl-Straße Ecke Ottokarstraße
+- TOP 12.2: Aufsuchende soziale Wohnhilfe stärken
+- TOP 12.3: Ein Alpha-Siegel für das Sozialamt
+- TOP 12.4: Änderung der Geschäftsordnung der Bezirksverordnetenversammlung (BVV), hier: verbindliche Regelung zur Handhabung von Großen Anfragen (§ 38)
+- TOP 12.5: Engagement gegen Antiziganismus in Tempelhof-Schöneberg
+- TOP 12.6: Umsetzung der Vorschläge der Unfallkommission – Unfallkommissions-berichte Nr. 7 (Sachstand bestätigt am 24.03.2023) und Nr. 17+18 (Sachstand bestätigt am 18.07.2025) – Mariendorfer Damm / Sandsteinweg
+- TOP 12.7: Einzelhandel in der Lichtenrader Bahnhofstraße mit Augenmaß entwickeln – angemessene städtebauliche Ziele für das Projekt Q17, Bahnhofstraße 17-22 umsetzen
+- TOP 12.8: E-Scooter-Chaos wirkungsvoll beenden
+- TOP 12.9: Präventives Rattenmanagement in Tempelhof-Schöneberg
+- TOP 12.10: Schutz vor Mikroplastik im Gehirn
+- TOP 12.11: Querungshilfe an der Halker Zeile
+- TOP 12.12: Maßnahmen zur Erhöhung der Verkehrssicherheit in der Sieglindestraße
+- TOP 12.13: Einmündung der Straße 7 in die Prinzenstraße in Mariendorf klarer markieren
+- TOP 12.14: Für mehr Verkehrssicherheit: Ampelanlage an der Britzer Straße auf Höhe Rotkopfweg
+- TOP 12.15: Wohnen im Kathreiner-Hochhaus? Besser als Leerstand!
+- TOP 12.16: Tempelhof-Schöneberg soll Teil der IBA 2034-37 werden
+- TOP 12.17: Luitpoldstraße 23: Dachinstandsetzung im Wege der Ersatzvornahme durchführen
+- TOP 12.18: Bolzplatz in Lichtenrade nicht vermüllen lassen – Raum für Sport & Jugend
+- TOP 12.19: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 18 / 2026
+- TOP 12.20: Patientenfürsprecherinnen und Patientenfürsprecher: Zuständigkeits- und Steuerungslücke schließen
+- TOP 12.21: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 19 / 2026
+- TOP 12.22: Genehmigung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 21 / 2026
+- TOP 13: Mitteilungen zur Kenntnisnahme
+- TOP 13.1: Sitzbank auch an der „Lichtenrader Spinne“
+- TOP 13.2: Leitlinien für Parkraumbewirtschaftung in Tempelhof-Schöneberg erstellen und veröffentlichen: Klarheit und Transparenz schaffen
+- TOP 13.3: Neuauflage des Wohnungsneubauberichts für den Bezirk Tempelhof-Schöneberg
+- TOP 13.4: Lademöglichkeiten für Elektroautos im Bezirk verbessern
+- TOP 13.5: Stationsgebundenes Carsharing fair gestalten
+- TOP 13.6: Einrichtung von Grünpfeil-Verkehrszeichen für den Radverkehr am Prellerweg
+- TOP 13.7: Gehwege sind für Fußgänger da! (II)
+- TOP 13.8: Klimafreundlicher Hitzeschutz: Passive Kühlung für bezirkliche Gebäude
+- TOP 13.9: Kleingartenanlagen unterstützen – Dauerparken stärker kontrollieren
+- TOP 13.10: Beleuchtung des Basketballplatzes Friedrich-Wilhelm-Platz
+- TOP 13.11: Bauvorhaben Tempelhofer Damm
+- TOP 13.12: Priesterweg? Ja, aber barrierefrei!
+- TOP 13.13: Baumgesetz gut umsetzen
+- TOP 13.14: Beleuchtung Basketballplatz am Lichtenrader Graben
+- TOP 13.15: Sitzbank am Lichtenrader Damm endlich realisieren
+- TOP 13.16: Chancengerechtigkeit durch Bildung: Mascha-Kaléko-Schule in eine Gemeinschaftsschule entwickeln
+- TOP 13.17: Aufstellung von Fahrradbügeln/-ständern an der Ecke Stierstraße/Benningsenstraße
+- TOP 13.18: Fußverkehr sichern – Rüttelstreifen an Bushaltestellen umsetzen
+- TOP 13.19: Schulbau in unserem Bezirk priorisieren - Planung und Bau koordiniert voranbringen
+- TOP 13.20: Radschnellweg und Parkanlage müssen miteinander vereinbar sein
+- TOP 13.21: Seniorenfreizeitstätten mit freiem WLAN ausstatten
+- TOP 13.22: Registerstelle sichtbar machen
+- TOP 13.23: Umrüstung fossil betriebener Heizanlagen in Bezirksimmobilien beschleunigen
+- TOP 13.24: Friedrich-Wilhelm-Platz - mehr Sicherheit für Fußgehende und Radfahrende
+- TOP 13.25: Angebote der Buslinien X76 und 172 wieder stärker ausbauen
+- TOP 13.26: Fahrradbügel auch für das Bürgeramt in der Briesingstraße
+- TOP 13.27: Alte Radwege zurückbauen
+- TOP 13.28: Neue Möglichkeiten bei Solaranlagen auch im Bezirk nutzen
+- TOP 13.29: Bürger*innenbeteiligung bei der Umsetzung von Einwohneranträgen
+- TOP 13.30: Bezirksgebäude fit machen fürs 21. Jahrhundert: Energetische Sanierungskosten einplanen
+- TOP 13.31: Ausbau von Photovoltaikanlagen auf bezirklichen Schulen beschleunigen
+- TOP 13.32: Baustellenmanagement in Lichtenrade
+- TOP 13.33: „KJHG-Therapie“ sichern
+- TOP 13.34: Grauwasserrecycling im Bezirk einführen
+- TOP 13.35: Senat streicht Radschnellverbindungen - Teltow-Kanal-Route (RSV 6) weiterplanen und umsetzen
+- TOP 13.36: Projekt für Dialogformat und Demokratiebildung mit Fokus Nahostkonflikt
+- TOP 13.37: Angebote der Seniorenfreizeitstätten verbessern
+- TOP 13.38: Fußverkehr sichtbar und sicher machen – auch in Fahrradstraßen
+- TOP 13.39: Wildes Plakatieren beenden II
+- TOP 13.40: Öffentliche Toilette Stubben-/Grunewaldstraße wieder nutzbar machen
+- TOP 13.41: Bezirkliche Immobilien im Klimawandel: Hitzeschutz und Prävention
+- TOP 13.42: Förderung innovativer Energielösungen in Tempelhof-Schöneberg: Erprobung von Wärme- und Kältespeichertechnologien in öffentlichen Gebäuden ermöglichen
+- TOP 13.43: Öffentliche Toilette auf dem Pfarrer-Lütkehaus-Platz nicht mehr zugänglich
+- TOP 13.44: Beleuchtung des Spielplatzes Görresstraße
+- TOP 13.45: LKW-Verkehr in der Oberlandstraße
+- TOP 13.46: Queeres Leben im Bezirk - Regenbogenkiez ins Netz!
+- TOP 13.47: Basiskorrektur der Transfermittel
+- TOP 13.48: Produktbildung
+- TOP 13.49: Bordsteine auch im Süden des Bezirks absenken
+- TOP 13.50: Rad- und Fußverkehr in der Oberlandstraße besser schützen - Sofortmaßnahmen ergreifen
+- TOP 13.51: Sicherer Schulweg zur Carl-Sonnenschein-Schule
+- TOP 13.52: Erhalt der Schulstationen
+- TOP 13.53: Tempelhof-Schöneberg gedenkt Rosa von Praunheim
+- TOP 13.54: Das mobile Bürgeramt effizient nutzen
+- TOP 13.55: Regelkonformes Befahren der südlichen Braunfelsstraße (Lichtenrade)
+- TOP 13.56: Kühle Orte und Schattenspender im Freien
+- TOP 13.57: Friedrich-Wilhelm-Platz für alle!
+- TOP 13.58: Projekt der GKV für Erwerbslose auch in Tempelhof-Schöneberg umsetzen
+- TOP 13.59: Teilhabe statt Ausgrenzung: Bildungs- und Chancengerechtigkeit für alle Kinder und Jugendlichen gewährleisten
+- TOP 13.60: Kooperation zwischen Wohnungsgesellschaften und den Bibliotheken auf den Weg bringen
+- TOP 13.61: Spray-Projekt unter den S-Bahnbrücken des Innsbrucker Platzes
+- TOP 13.62: Ansiedlung von Kindertheater im Süden des Bezirks – Prüfauftrag
+- TOP 13.63: Ehemalige Hausmeisterwohnung an der Sportanlage - Monumentenstraße wieder nutzbar machen
+- TOP 13.64: Infoveranstaltung zur Gestaltung des Charlotte-Wolff-Platzes
+- TOP 13.65: E-Ladepunkt im Gemeinschaftshaus Lichtenrade sicherstellen
+- TOP 13.66: Digitale Übermittlung von MiZis im Amt für Soziales unverzüglich ermöglichen
+- TOP 13.67: Städtepartnerschaft mit Mykolajiw von Anfang an sichtbar machen
+- TOP 13.68: Städtepartnerschaftshinweise
+- TOP 13.69: Barrierefreiheit in den bezirklichen Sporthallen
+- TOP 13.70: Zentrale Beratungs- und Vermittlungsstelle für das betreute Wohnen
+- TOP 13.71: Wickeltische für die öffentlichen Gebäude
+- TOP 13.72: Gedenken an Beginn der Deportationen vor 85 Jahren – auch in Tempelhof Schöneberg
+- TOP 13.73: Sanierungsbedarf bei Schultoiletten ermitteln
+- TOP 13.74: Unterzeichnung der Fortschreibung der „Zielvereinbarung zur gesamtstädtischen Steuerung der Öffentlichen Bibliotheken“ für die Jahre 2026/2027
+- TOP 13.75: Aufstellung des vorhabenbezogenen Bebauungsplans 7-106 VE im Bezirk Tempelhof-Schöneberg, Ortsteil Lichtenrade, für die Grundstücke Bahnhofstraße 17-22 und Rehagener Straße 30
+- TOP 13.76: Finanzierung des Programms "Barrierefreie Kreuzungen" aus Infrastrukturinvestitionen aus dem Sondervermögen des Bundes
+- TOP 13.77: Erstellung eines Katastrophenschutzplanes für das Bezirksamt Tempelhof-Schöneberg von Berlin
+- TOP 13.78: Einführung geschlechtersensibler Toiletten im Rathaus Schöneberg.
+- TOP 13.79: Hitzeschutz ist Gesundheitsschutz – Hitzeschutzplan als Teil des Klimaanpassungsmanagements etablieren
+- TOP 13.80: Mieter*innenberatung für bedürftige Menschen weiterhin übernehmen
+- TOP 13.81: Leerstand mit Genehmigung – das möchten wir wissen!
+- TOP 13.82: Räume für Olga
+- TOP 13.83: Erinnerungsstele auf dem Wittenbergplatz unverzüglich würdevoll gestalten
+- TOP 13.84: Unterstand für Rettungsboote der DLRG Tempelhof
+- TOP 13.85: Projektteilnahme „Struktur- und Status-Quo-Analyse zur Konzeptionierung eines bezirklichen Flächenmanagements für Wärmenetze im Land Berlin“
+- TOP 14: Termin der nächsten Sitzung
