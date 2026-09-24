@@ -1,0 +1,70 @@
+# 25. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-09-24T16:00:00+02:00
+- Ende: 2026-09-24T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/15826
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/15826
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_Stadtrat_mU http://oparl.dresden.de/bodies/0001/downloadfiles/a/00908387.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Mitglieder des Stadtrates (1. Runde)
+- TOP 3.1: Wohnungslosigkeit
+- TOP 3.2: Gewalthilfe
+- TOP 3.3: Parkgebühren und Stellplätze
+- TOP 3.4: Steigender Druck auf freie Träger in den Hilfen zur Erziehung
+- TOP 3.5: Bauarbeiten im städtischen Tierheim
+- TOP 3.6: Resillienzförderung im Dresdner Hochland
+- TOP 3.7: Verdrängungseffekte und Kriminalitätsentwicklung in der Innenstadt (Wiener Platz, Postplatz/Marienstraße, Ferdinandplatz, Reitbahnstraße)
+- TOP 3.8: Open-Air-Gelände "Rinne Dresden"
+- TOP 3.9: Schließung Unternehmensstandort Dresden von GlaxoSmithKline
+- TOP 3.10: Sozialleistungen an Personen ohne deutsche Staatsbürgerschaft im ersten Halbjahr 2026
+- TOP 4: Fragestunde der Mitglieder des Stadtrates (2. Runde)
+- TOP 4.1: Zukunft der Bürgerbüros
+- TOP 4.2: Schwimmhalle Klotzsche - dauerhafte Sicherung des Schul- und Vereinsschwimmens
+- TOP 4.3: Zukunft der ärztlichen Versorgung in Prohlis
+- TOP 4.4: Zukunft des Emerich-Ambros-Ufers
+- TOP 4.5: Finanzpolitische Zukunft der Landeshauptstadt Dresden
+- TOP 4.6: Sicherheit auf den Dresdner Weihnachtsmärkten
+- TOP 4.7: Vorlagen ohne Deckung
+- TOP 4.8: Bearbeitungszeit Einbürgerungsanträge
+- TOP 4.9: Schwimmsportförderung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Übernahme einer modifizierten Ausfallbürgschaft zugunsten der Stadtentwässerung Dresden GmbH - Zustimmung
+- TOP 7: Kommunaler Wärmeplan der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 8: Hitzeaktionsplan der Landeshauptstadt Dresden 2026 bis 2030 - ein Plan zum Schutz der Gesundheit vor Hitze - Vertagung
+- TOP 9: Betreibung des Wohnheims für Auszubildende des Berufsschulzentrums für Elektrotechnik am Albert-Wolf-Platz - Zustimmung mit Änderung
+- TOP 10: Standortkonzept für die geordnete Aufstellung von Altkleidercontainern auf öffentlichen Stra-ßen und in öffentlichen Grünanlagen der Landeshauptstadt Dresden ab 2027 - Vertagung
+- TOP 11: Neubau Logistikachse im Sportpark Ostra sowie Aufhebung des Beschlusses V2719/24 "Kunststoffrasenkleinspielfelder und Beachvolleyballspielfelder in 01067 Dresden, Magdeburger Straße 2" - Zustimmung
+- TOP 12: Neubau zweier Kunstrasen-Kleinspielfelder im Sportpark Ostra auf Platz 10 sowie Aufhebung des Beschlusses V2719/24 "Kunststoffrasenkleinspielfelder und Beachvolleyballspielfelder in 01067 Dresden, Magdeburger Straße 2" - Zustimmung
+- TOP 13: Nutzungskonzept innerstädtischer Plätze für Sondernutzungen auf den öffentlich gewidmeten Straßen des Neumarkts Dresden - Zustimmung
+- TOP 14: Gesamtkonzept zur Entwicklung des Areals der ehemaligen Staatsoperette Dresden - Zustimmung
+- TOP 15: Vertagungen aus der Stadtratssitzung vom 03.09.2026
+- TOP 15.1: Naturnahe Schulgeländegestaltung für Dresden - Zustimmung mit Änderung
+- TOP 15.2: Fernwärmeleitungsprovisorium auf der Augustusbrücke - Vertagung durch Einreicher
+- TOP 15.3: Selbstvertretung stärken - Implementierung des § 4a SGB VIII in die Jugendhilfelandschaft Dresdens - Ablehnung
+- TOP 15.4: Dresdner Brunnen sofort anschalten, Zuständigkeit in der Verwaltung ändern - Vertagung
+- TOP 15.5: Dresdner Parks für Kinder - Parknutzung für die 49. Grundschule nicht einschränken - Zustimmung
+- TOP 15.6: Kurzfristige Sicherstellung des Betriebs des FKK-Luftbades Dölzschen in der Freibadsaison 2026 - Vertagung durch Einreicher
+- TOP 15.7: EILANTRAG: Aussetzung der geplanten Maßnahmen zur „Radroute Ost“ (Kipsdorfer Straße, östliches Ende) – Einhaltung des Stadtratsbeschlusses zur Parkplatzkompensationspflicht, Verhinderung des ersatzlosen Wegfalls zahlreicher Parkplätze - Ablehnung
+- TOP 16: Umstellung des SAP ERP Systems des Eigenbetriebes IT-Dienstleistungen auf SAP S/4 HANA - Zustimmung
+- TOP 17: Jahresabschluss 2025 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 18: Jahresabschluss 2025 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 19: Jahresabschluss 2025 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 20: Jahresabschluss 2025 des Eigenbetriebes Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung
+- TOP 21: Jahresabschluss 2025 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 22: Jahresabschluss 2025 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 23: Jahresabschluss 2025 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 24: Keine Windräder in der Dresdner Heide und im Hochland - Heimat schützen! - Vertagung
+- TOP 25: Beschleunigung und Sicherung der Kinder- und Jugendnotdienste - Zustimmung
+- TOP 26: Freigabe von Schulfreiflächen in kommunaler Trägerschaft für die Öffentlichkeit – Räume öffnen, Teilhabe stärken - Zustimmung mit Änderung
+- TOP 27: Information über die Handlungsempfehlungen des Bürgerrates 2025 der Stiftung Frauenkirche im Projekt „Friedensstadt Dresden“ an die Landeshauptstadt Dresden - zur Kenntnis genommen
+- TOP 28: Stellungnahme der Landeshauptstadt Dresden im Beteiligungsverfahren zum Entwurf des Sachlichen Teilregionalplans Energieversorgung/Windenergienutzung nach § 9 Absatz 2 des Raumordnungsgesetzes (ROG) in Verbindung mit § 6 Absatz 2 des Gesetzes zur Rau - zur Kenntnis genommen
+- TOP 29: Haushaltsvollzug 2026 - Finanzzwischenbericht /Zwischenberichte der Eigenbetriebe 2026 - zur Kenntnis genommen
