@@ -1,0 +1,118 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-09-24T09:00:00+02:00
+- Ende: 2026-09-24T18:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29817
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29817
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 24.09.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00597925.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 24.09.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00597925.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 24.09.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00597925.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften über die öffentlichen Teile der Sitzungen vom 18.06.2026 (SI-RAT/004/2026) und 16.07.2026 (SI-RAT/005/2026) - einstimmig beschlossen
+- TOP 3: Restanten
+- TOP 3.1: Antrag der FDP-Ratsfraktion: Aufhebung des Ratsbeschlusses vom 15. Juni 2023 zu BAU/008/2023 - mehrheitlich abgelehnt
+- TOP 3.1.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage RAT/322/2026 - mehrheitlich abgelehnt
+- TOP 3.2: Antrag der AfD-Ratsfraktion: Auflösung aller Beiräte im Kulturbereich der Stadt zur Haushaltskonsolidierung und Schuldentilgung - mehrheitlich abgelehnt
+- TOP 3.3: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Fahrrad- und Fußgängerweg auf der Rheinkniebrücke - mehrheitlich abgelehnt
+- TOP 3.4: Antrag der Ratsfraktion Die Linke: Gerechte Alternativen und lebbare Kompromisse für die Haushaltsfinanzierung - mehrheitlich abgelehnt
+- TOP 3.5: Antrag der Ratsfraktion SPD/Volt: Zweitwohnungssteuer einführen – kommunale Einnahmebasis stärken - mehrheitlich abgelehnt
+- TOP 3.6: Antrag der Ratsfraktion SPD/Volt: Sinnvolle Projektabwicklung U81 – Priorisierung des Bauabschnitts U81/West - zurückgezogen
+- TOP 3.7: Antrag der Ratsfraktion SPD/Volt: Genug getestet – Bodycams für Ordnungsdienstmitarbeitende endlich einführen - zurückgezogen
+- TOP 3.8: Antrag der FDP-Ratsfraktion: Zusätzliche Bademöglichkeiten in Düsseldorf - mehrheitlich abgelehnt
+- TOP 3.8.1: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage RAT/390/2026 - mehrheitlich abgelehnt
+- TOP 3.9: Antrag der FDP-Ratsfraktion: Veräußerung des Grundstücks Am Wehrhahn 1 und Oststraße 15 – ehem. Kaufhof - mehrheitlich abgelehnt
+- TOP 3.10: Antrag der Ratsfraktion SPD/Volt: Meldekategorie „Hornissen-Nest“ in die App „Düsseldorf bleibt sauber“ integrieren - mehrheitlich abgelehnt
+- TOP 3.10.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage RAT/389/2026
+- TOP 3.11: Antrag der AfD-Ratsfraktion: Verzicht der Beigeordneten und des Oberbürgermeisters auf 10% ihrer Bezüge - mehrheitlich abgelehnt
+- TOP 3.12: Antrag der AfD-Ratsfraktion: Kürzung der Aufwandsentschädigungen nebst Zulagen der Mitglieder des Rates um 10% sowie der Mitglieder der Bezirksvertretungen um 5% - mehrheitlich abgelehnt
+- TOP 3.12.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage RAT/401/2026
+- TOP 3.13: Antrag der AfD-Ratsfraktion: Streichung der Ausgaben für die zakk gGmbH - mehrheitlich abgelehnt
+- TOP 3.14: Antrag der AfD-Ratsfraktion: Errichtung eines kommunalen Ausreisezentrums am Düsseldorfer Flughafen zur effizienten Umsetzung bestehender Ausreiseverpflichtungen - mehrheitlich abgelehnt
+- TOP 3.15: Antrag der AfD-Ratsfraktion: Kinder- und Jugendschutz konsequent umsetzen: Erweiterung der aufstellten Piktogramme um zusätzliches Alkohol- und Cannabisverbot auf allen öffentlichen Spielplätzen sowie in allen städtischen Parkanlagen mit Spielgeräten - mehrheitlich abgelehnt
+- TOP 3.16: Antrag der AfD-Ratsfraktion: Prüfung der Verlagerung von Gesundheitsamt und Technischem Rathaus in das ehemalige Kaufhof-Gebäude am Wehrhahn - mehrheitlich abgelehnt
+- TOP 3.17: Antrag der AfD-Ratsfraktion: Stornierung des Neubaus des Gesundheitsamtes - mehrheitlich abgelehnt
+- TOP 3.18: Antrag der AfD-Ratsfraktion: Städtischen Zuschuss für den Verein STAY! Düsseldorfer Flüchtlingsinitiative e.V. mit sofortiger Wirkung streichen - mehrheitlich abgelehnt
+- TOP 3.19: Antrag der AfD-Ratsfraktion: Umgehende Beseitigung der illegalen Zelt- und Hüttensiedlung an der Lierenfelder Straße - mehrheitlich abgelehnt
+- TOP 3.20: Antrag der Ratsmitglieder Ratsfrau Mirus, Ratsfrau Dufhues, Ratsherrn Lemmer und Ratsherrn Krüger: Prüfung der Einrichtung von öffentlich zugänglichen Schutzräumen bei Extremhitze („Hitzezufluchten“) und Prüfung eines Leihpools für mobile Klimageräte - mehrheitlich abgelehnt
+- TOP 3.20.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/388/2026 - mehrheitlich abgelehnt
+- TOP 3.21: Antrag der Ratsfraktion SPD/Volt: Wohnungsbauoffensive breiter aufstellen – Bundeswohnungsbaugesellschaft als Chance wahrnehmen - mehrheitlich abgelehnt
+- TOP 3.22: Antrag der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Entwicklung einer strategischen Ankaufspolitik von Bestandsimmobilen - mehrheitlich beschlossen
+- TOP 3.22.1: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage RAT/410/2026 - mehrheitlich abgelehnt
+- TOP 4: Anfragen aus aktuellem Anlass
+- TOP 4.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: angespannte Lage in der Notaufnahme der Sana-Klinik in Benrath - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Brand in der Obdachlosenunterkunft an der Eisenstraße - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: neue Eislaufsaison an der Brehmstraße - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Einstellung des Fährbetriebes am Rhein bei Niedrigwasser - zurückgewiesen
+- TOP 4.5: Anfrage aus aktuellem Anlass des Ratsherrn Krüger: schwerer Abrechnungsbetrug im Gesundheitswesen in Düsseldorf - zurückgezogen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Ältestenrat und der Wortwechsel in der Sitzung des Ordnungs- und Verkehrsausschusses am 13.05.2026 mit dem Vorsitzenden des Ausschusses, Ratsherrn Andreas Auler - beantwortet
+- TOP 5.2: Anfrage der Ratsfraktionen von CDU und BÜNDNIS 90/DIE GRÜNEN: Ewigkeitschemikalie PFAS im Rhein durch Deponiewasser aus Leverkusen - beantwortet
+- TOP 5.3: Anfrage der AfD-Ratsfraktion: Politische Neutralität öffentlich geförderter Einrichtungen - Nutzung der Räumlichkeiten des zentrum plus Gerresheim durch die Organisation "Omas gegen Rechts" - beantwortet
+- TOP 5.4: Anfrage der AfD-Ratsfraktion: Antisemitische Pöbeleien beim Fußballspiel mit israelischen Kindern in Düsseldorf - zurückgewiesen
+- TOP 5.5: Anfrage der Ratsfrau Dufhues: Finanzielle Benachteiligung bei Barzahlung, Teil 2 - beantwortet
+- TOP 5.6: Anfrage der SPD/Volt-Ratsfraktion: Den Markt regeln, statt vom Markt geregelt werden – die Gemeinwohlquote und ihre unklaren Auswirkungen auf den geförderten Wohnungsbau - beantwortet
+- TOP 5.7: Anfrage der SPD/Volt-Ratsfraktion: Baustellen managen statt „Werst“-Case-Szenario – Baustellenkommunikation der Rheinbahn - beantwortet
+- TOP 5.8: Anfrage der Ratsfraktion Die Linke: Sanierung der Deutschen Oper am Rhein - beantwortet
+- TOP 5.9: Anfrage der Ratsfraktion Die Linke: Quotierungsregelung im Wohnungsbau - Kontrolle und Ausgestaltung - schriftlich beantwortet
+- TOP 5.10: Anfrage des Ratsherrn Salinger: Entwicklung und Umfang der Crack-Konsumenten sowie Drogentoten in Düsseldorf - schriftlich beantwortet
+- TOP 5.11: Anfrage des Ratsherrn Maniera: „Rock gegen Rechts Düsseldorf e.V. und das Projekt „Festival Rock gegen Rechts 2026“ - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Maniera: Umgang der Ausländerbehörde Düsseldorf mit Unterstützungsangeboten der Zentralen Ausländerbehörden zur Beschaffung von Heimreisedokumenten - schriftlich beantwortet
+- TOP 5.13: Anfrage des Ratsherrn Lemmer: Wildschweine auf der Pferderennbahn - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfrau Mirus: Hitzesommer 2026 und die Folgen (1) - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Dr. Bresztowszky: Kostenabgrenzung Tagesaufenthalt und Sicherheit beim NAV Eisenstraße - schriftlich beantwortet
+- TOP 5.16: Anfrage des Ratsherrn Hildebrandt: NAV Eisenstraße – Vollkosten ab Betriebsaufnahme und Folgemodule - schriftlich beantwortet
+- TOP 5.17: Anfrage des Ratsherrn Dr. Bresztowszky: Mikrohandel im Trägerkonzept und Standortfolgekosten beim NAV Eisenstraße - schriftlich beantwortet
+- TOP 5.18: Anfrage des Ratsherrn El Ghazali: Außerschulische Lernorte für alle – Schülerbeförderung zwischen Teilhabe und Haushaltsdruck - schriftlich beantwortet
+- TOP 5.19: Anfrage der Ratsfrau Mirus: Hitzesommer 2026 und die Folgen (2) - schriftlich beantwortet
+- TOP 5.20: Anfrage des Ratsherrn Hildebrandt: Klärung konkreter verwaltungsspezifischer Sachverhalte zu NAV Eisenstraße - zurückgewiesen
+- TOP 5.21: Anfrage der Ratsfrau Lehmann: Sanierung von Kulturgebäuden: Theatermuseum - schriftlich beantwortet
+- TOP 5.22: Anfrage des Ratsherrn Demmer: Schwarzbuch Denkmalschutz - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Klimaneutralität in Düsseldorf - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Radverkehr - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anwendung der Novelle des Baugesetzbuches („Bau-Turbo") - Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 11: Neubesetzung des Ausschusses für Gleichstellung und Antidiskriminierung - einstimmig beschlossen
+- TOP 12: Finanzierung des Tagesaufenthalts mit Tagesruhebetten in Trägerschaft des SKFM am Standort Eisenstraße - mehrheitlich beschlossen
+- TOP 13: Flächennutzungsplanänderung Nr. 206 (Entwurf) - Benrodestraße/Marbacher Straße - einstimmig beschlossen
+- TOP 14: Weiterentwicklung der Quotierungsregelungen für private und städtische Grundstücke zur Gemeinwohlquote als Baustein des Düsseldorfer Baulandmodells - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Ausführungs- und Finanzierungsbeschluss zum Neubau der Rettungswache 24 an der Völklinger Straße – Feuerwehrorganisatorische Maßnahmen I (FOM I) - mehrheitlich beschlossen
+- TOP 16.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage BAU/015/2026
+- TOP 17: Ausführungs- und Finanzierungsbeschluss zum Neubau der Rettungswache 50 in Kombination mit dem Gerätehaus der Freiwilligen Feuerwehr in Kalkum an der Kalkumer Schloßallee - Feuerwehrorganisatorische Maßnahmen I (FOM I) - mehrheitlich beschlossen
+- TOP 17.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage BAU/016/2026
+- TOP 18: Benennung von Mitgliedern des Behindertenrates zur Entsendung in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 19: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen des Haushaltsjahres 2026 bis zum 31.08.2026 - zur Kenntnis genommen
+- TOP 20: Gründung der von-Burgsdorff-Stiftung für Katzen in Not - einstimmig beschlossen
+- TOP 21: Erhebung von Bürgschaftsprovisionen durch die Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 21.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage HFA/023/2026
+- TOP 22: Beteiligungsbericht 2024 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 23: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt "Neubau einer Kindertageseinrichtung am Kuthsweg 43" - einstimmig beschlossen
+- TOP 23.1: mündlicher Ergänzungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 24: Sanierung Gesamtfassade der Tonhalle, Ehrenhof 1, ausgenommen Westfassade - einstimmig beschlossen
+- TOP 25: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Ersatzwahl - - zurückgezogen
+- TOP 26: Erweiterung des Cecilien-Gymnasium am Schulstandort Schorlemerstraße um 6 Mehrzweckräume - einstimmig beschlossen
+- TOP 27: Klärwerk-Süd, Anbau Betriebsgebäude BA2 (I-8030617005) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 28: Änderung der Betriebssatzung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 28.1: Änderungsantrag der AfD-Ratsfraktion zur Vorlage SEBD/032/2026
+- TOP 29: Anträge
+- TOP 29.1: Antrag der Ratsfraktion SPD/Volt: Die Akte Wohnungsbauoffensive entstauben – Gründung einer Umbauagentur „Büro zu Wohnen“ - verwiesen
+- TOP 29.1.1: Änderungsantrag der FDP-Ratsfraktion zur Vorlage RAT/458/2026 - verwiesen
+- TOP 29.2: Antrag der Ratsfraktion SPD/Volt: Wenn Personalabbau, dann mit Plan – Beschäftige schützen, Verwaltung handlungsfähig halten - mehrheitlich abgelehnt
+- TOP 29.3: Antrag der AfD-Ratsfraktion: Abschaffung redundanter Beauftragten- und Stabsstellen - mehrheitlich abgelehnt
+- TOP 29.4: Antrag der AfD-Ratsfraktion: Straffung des Amtes für Migration und Integration - mehrheitlich abgelehnt
+- TOP 29.5: Antrag der AfD-Ratsfraktion: Abschaffung symbolpolitischer Kleinstrukturen - mehrheitlich abgelehnt
+- TOP 29.6: Antrag der AfD-Ratsfraktion: Aufhebung der Radwegeführung in der Schadowstraße und Wiederherstellung einer reinen Fußgängerzone - mehrheitlich abgelehnt
+- TOP 29.7: Antrag der AfD-Ratsfraktion: Einführung eines Tempolimits sowie zusätzlicher Sicherungsmaßnahmen für Straßenbahnen im Bereich Hofgarten-Passage (Abschnitt zwischen Dreischeibenhaus, Kö-Bogen und Schadowstraße) - mehrheitlich abgelehnt
+- TOP 29.8: Antrag der AfD-Ratsfraktion: Wiederaufstellung des Musikpavillons des ehemaligen Heinrich-Heine-Platzes im öffentlichen Raum - mehrheitlich abgelehnt
+- TOP 29.9: Antrag der FDP-Ratsfraktion: Streichung der städtischen Zusatzkriterien im „Kriterienkatalog zur Reduzierung und Synchronisierung der verkaufsoffenen Sonntage in Düsseldorf“ - mehrheitlich abgelehnt
+- TOP 29.10: Antrag der FDP-Ratsfraktion: Sofortige Verhängung einer Haushaltssperre für das Haushaltsjahr 2026 - mehrheitlich abgelehnt
+- TOP 29.11: Antrag der AfD-Ratsfraktion: Instandsetzung Kaiserswerther Straße. Besserer Lärmschutz! Besseres Image! Mehr Sicherheit! Denkmalverträglich! - mehrheitlich abgelehnt
