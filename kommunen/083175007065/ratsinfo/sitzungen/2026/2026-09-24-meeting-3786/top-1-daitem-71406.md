@@ -1,0 +1,6 @@
+# TOP 1.: Bericht zu Schottergärten
+
+- Sitzung: Umweltausschuss (3. Sitzung) (2026-09-24)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/71406
