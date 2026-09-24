@@ -1,0 +1,74 @@
+# 6. Sitzung des Ausschusses Klima, Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-24T16:05:00+02:00
+- Ende: 2026-09-24T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34401
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34401
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Vortrag: Haushaltsplanentwurf 2027/28
+- TOP -: C Präsentation: Integriertes Klimaanpassungskonzept der Stadt Köln
+- TOP -: D Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Haushaltsabweichung im Hpl. 2025/2026 – Produktbereich 13 und 14" - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 30.04.2026 betr.: "Haushaltsabweichung im Hpl. 2025/2026 - Produktbereich 13 und 14" - Kenntnis genommen
+- TOP 1.2: Anfrage der Fraktion FDP/KSG betr. "Sachstand sanierungsbedürftiger Trauerhallen und Kühlräume" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0537/2026 der FDP/KSG-Fraktion bezüglich sanierungsbedürftiger Trauerhallen - Kenntnis genommen
+- TOP 1.3: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Alleen für Köln" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 18.06.2026 (AN/0997/2026) betreffend "Alleen für Köln" - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Linke betr. "Grau raus, Grün rein: Entsiegelung einstiger Containerstandorte" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke aus der Sitzung des Ausschusses Klima, Umwelt und Grün vom 18.06.2026 (AN/1004/2026) betreffend "Grau raus, Grün rein: Entsiegelung einstiger Containerstandorte" - Kenntnis genommen
+- TOP 1.5: Anfrage von Klima Freunde & Gut betr. "Tauben am Großmarkt" - vertagt
+- TOP 1.6: Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Asiatische Hornisse in Köln" - vertagt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betr. "Asiatischen Hornisse in Köln" (AN/1490/2026) - vertagt
+- TOP 1.7: Anfrage der CDU-Fraktion betr. "Vergrämung von Nil- und Kanadawildgänsen" - vertagt
+- TOP 1.8: Anfrage der CDU-Fraktion betr. "Fernkältenetz" - vertagt
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion zur Sitzung des Ausschusses Klima, Umwelt, Grün am 24.09.2026 betr. "Fernkältenetz" AN/1504/2026 - vertagt
+- TOP 1.9: Anfrage der AfD-Fraktion betr. "Zufahrt zu städtischen Friedhöfen" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der AfD-Fraktion aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 24.09.2026 (AN/1510/2026) betreffend "Zufahrt zu städtischen Friedhöfen" - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Antrag von Klima Freunde & Gut betr. "Jede Parzelle zählt! Bestandsschutz für alle Kleingärten" - vertagt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: "Köln baut bezahlbar | Wohnen für alle" - ohne Votum behandelt
+- TOP 4.1.2: Überarbeitung und Erweiterung der Förderrichtlinie „GRÜN hoch 3 Dächer | Fassaden | Höfe“ - mit Änderungen empfohlen
+- TOP 4.1.3: Umstellung des Aufstellungsbeschlusses zur 14. Änderung des Landschaftsplans Köln von einem vereinfachten auf ein förmliches Verfahren - ungeändert empfohlen
+- TOP 4.1.4: Entwicklung eines Integrierten Stadtentwicklungskonzeptes "Kalk-Mitte" - ungeändert empfohlen
+- TOP 4.1.5: Energetische Sanierung des Quäker Nachbarschaftsheimes, Kreutzer Straße 5 - 9, 50672 Köln - ungeändert empfohlen
+- TOP 4.1.6: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - im ersten Durchgang verwiesen
+- TOP 4.1.7: 2. Kölner Lebenslagenbericht - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Bürgereingabe nach § 24 GO NRW - Dekarbonisierung der kommunalen Unternehmen der Stadt Köln, Aktenzeichen 109/25 - vertagt
+- TOP 4.2.2: Gestaltungsplanung zur Erweiterung des Kooperationsgrabfeldes "Bestattungsgärten" auf Flur 045 des Friedhofs Kalk - ungeändert beschlossen
+- TOP 4.2.3: Ersatzbeschaffung von 20 Aufsitzmähern für das Amt für Landschaftspflege und Grünflächen (Bereiche Friedhofs- und Objektpflege) - ungeändert beschlossen
+- TOP 4.2.4: Ersatzbeschaffung von sechs Aufsitzmähern mit Geräteträgerfunktion für das Amt für Landschaftspflege und Grünflächen (Bereich Allgemeine Grünunterhaltung) - ungeändert beschlossen
+- TOP 4.2.5: Förderung Grünes Klassenzimmer Gut Leidenhausen - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: RheinEnergie AG: Energieerzeugungsbericht 2022 bis 2024 - Kenntnis genommen
+- TOP 7.2: RheinEnergie AG: Erzeugungsbericht 2023 bis 2025 - Kenntnis genommen
+- TOP 7.3: Energiebericht 2025: Energieverbrauchs- und Kostenstatistik 2024 / Sachstand Energiemanagementkonzept 2025 - Kenntnis genommen
+- TOP 7.4: Weiterplanungsbeschluss und Schenkungsannahme Kalker Höfe - Kenntnis genommen
+- TOP 7.5: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - Kenntnis genommen
+- TOP 7.6: Jahresbericht 2025 der Verbraucherberatungsstelle Köln und der Verbraucherberatung im Quartier - Kenntnis genommen
+- TOP 7.7: Annahme einer Schenkung der Kölner Grün Stiftung für Aufwertungsmaßnahmen in der historischen Grünanlage Aachener Weiher im Inneren Grüngürtel - Kenntnis genommen
+- TOP 7.8: Jahresbericht über die Entwicklung des städtischen Baumbestands in 2025 - Kenntnis genommen
+- TOP 7.9: Auswirkungen der bevorstehenden Hangsicherung am Kalkberg auf die Führung der RadPendlerRoute 2 (RPR2) - Kenntnis genommen
+- TOP 7.10: Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 7.11: Errichtung von weiteren Trinkwasserbrunnen in Köln - vertagt
+- TOP 7.12: Kündigung des Klima-Taler Netzwerkes - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung von mündlichen Rückfragen zum Jahresbericht über die Entwicklung des städtischen Baumbestands in 2025 (1376/2026) aus der Sitzung des Ausschuss Klima, Umwelt und Grün vom 18.06.2026 - Kenntnis genommen
+- TOP 8.2: Beantwortung einer mündlichen Anfrage von RM Hölzing aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 05.05.2026 bezüglich des Energieberichts 2025 und Photovoltaikanlagen auf Schulen - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Mündliche Anfrage Klima Freunde & Gut betr. "Baumgieß-App" - Kenntnis genommen
+- TOP 9.2: Mündliche Anfrage der SPD-Fraktion betr. "Modellstadt für Hitzeschutz"
