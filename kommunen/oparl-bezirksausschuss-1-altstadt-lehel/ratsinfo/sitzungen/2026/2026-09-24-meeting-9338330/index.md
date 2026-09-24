@@ -1,0 +1,150 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-09-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9338330
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9338330
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 2.1.: Freigabe der Protokolle der Juli und Augustsitzung 2026
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Benennung einer / eines Migrations- / Integrationsbeauftragten (§ 23 Abs. 4 BA-Satzung)
+- TOP 5.2.: Antrag des BA Altstadt-Lehel: Änderung der BA-Satzung – Beauftragen
+- TOP 5.3.: Antrag der Kinder- und Jugendbeauftragten: Einwohner*innenversammlung statt Bürger*innenversammlung siehe TOP A 4.1 aus 08/2026
+- TOP 5.4.: Termine 2027
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen + Infrastruktur
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Unangekündigte Containeraufstellung Oberanger 38
+- TOP 1.2.: Antrag des BA Altstadt-Lehel: Errichtung einer Rundbank zum Schutz des Baumes am Frauenplatz siehe TOP B 1.2 aus 08/2026
+- TOP 1.3.: BA Altstadt-Lehel: Sachstand - Umwandlung von Büros in Ferienwohnungen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Wiedererrichtung der 3 Spielplatzflächen und Reduzierung der darauf befindlichen Freischankflächen Asamhöfe
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Corneliusstraße Errichtung einer digitalen Werbeanlage für Fremdwerbung mit Bedarfsinformation der Stadtinformation, freistehend, doppelseitig, es werden nur Standbilder im 10-Sek.-Takt gezeigt; Frist: 08.10.2026
+- TOP 3.1.2.: Blumenstr. Errichtung einer digitalen Werbeanlage für Fremdwerbung mit Bedarfsinformation der Stadtinformation, freistehend, doppelseitig, es werden nur Standbilder im 10-Sek.-Takt gezeigt; Frist: 08.10.2026
+- TOP 3.1.3.: St.-Anna-Str. 25 Abbruch des Bestands und Neuerrichtung eines Wohngebäudes mit Laden und Atelier - ÄNDERUNGSANTRAG zu 1.2-2019-15574-21 hier: Umnutzung einer Einheit EG + OG1 zu Büronutzung; Frist: 30.09.2026
+- TOP 3.1.4.: Gewürzmühlstr. 8 ÄNDERUNGSANTRAG zu 1.1-2023-17488-21 Umbau und Modernisierung Verwaltungsgebäude : (Gewürzmühlstr 8 / Sternstr. 3 / Thierschstr. 48) hier: Änderung Freiflächengestaltung; Frist: 30.09.2026
+- TOP 3.1.5.: Heiliggeiststr. 1 Nutzungsänderung des Büros im 2.OG zu einem Büro in Wechselnutzung mit Beherbergungsraum für Kurzzeitaufenthalt (6 Betten); Frist: 16.10.2026
+- TOP 3.1.6.: Oettingenstr. 18 Wiederaufbau, Sanierung und Umbau Mitteltrakt Senioren- und Pflegeheim; Frist: 16.10.2026
+- TOP 3.1.7.: Sparkassenstr. 2 Umbau und Sanierung eines Bankgebäudes mit Ersatzneubau für eine Betriebsgastronomie; Frist: 16.10.2026
+- TOP 3.1.8.: Sendlinger Str. 17 Nutzungsänderung einer Büroeinheit im 2. Obergeschoss zu einer gewerblichen Wohnnutzung (Ferienwohnung; Frist: 16.10.2026
+- TOP 3.1.9.: Lerchenfeldstr. 1a Ersatzbau und Erweiterung eines best. Müllhäuschen mit Kühlmöglichkeiten; Frist: 16.10.2026
+- TOP 3.1.10.: Tal 14 Zusammenlegung dreier Verkaufsnutzungseinheiten zu einer Gastronomieeinheit in München; Frist: 16.10.2026
+- TOP 3.1.11.: Rindermarkt 17 Nutzungsänderung für die Umnutzung einer Ladenfläche zu einem Cafe-Betrieb; Frist: 16.10.2026
+- TOP 3.1.12.: Riedlstr. 6 Dachaufstockung, Nutzungsänderung Erd- und Kellergeschoss von Gewerbe zu Wohnen, Errichtung eines Aufzuges an der westlichen Grundstücksgrenze, Aufbau von Balkonen an der Nordfassade, Abbruch best. Waschgarage im Hof - VORBESCHEID; Frist: 16.10.2026
+- TOP 3.1.13.: Sendlinger Str. 45 Umnutzung eines Ladens zu Gastronomie; Frist: 16.10.2026
+- TOP 3.1.14.: Riedlstr. 2 Sanierung eines denkmalgeschützten Mehrfamilienhauses mit DG-Erneuerung und Einbau eines Aufzugs - ÄNDERUNGSANTRAG zu 1.2-2023-1619-21 hier: Nutzungsänderung von Keller zu Fitnessbereich; Frist: 28.09.2026
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Sonstige
+- TOP 3.3.1.: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026"
+- TOP 3.3.2.: Bauvorhaben Ländstr. 6, Antwortschreiben Lokalbaukommission, TOP 2026.08 B 4.3
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP C: Mobilität und öffentlicher Raum + Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Tal 21 – langfristige Standortentscheidung und Situation im unmittelbaren Umfeld
+- TOP 1.2.: Bürger*innenanliegen: Verkehrs- und Parksituation Hotel Kardinal-Faulhaber-Straße
+- TOP 1.3.: Bürger*innenanliegen: Pumuckl ist harmlos - Baumpflanzungen an historischer Stelle statt in mitten der Straßen
+- TOP 1.4.: Bürger*innenanliegen: Umbenennung Straße in Pumucklstraße
+- TOP 1.5.: Bürger*innenanliegen: Sofortige Entschärfung der Fußgängerfurt an der Kreuzung Prinzregentenstr./Widenmayerstraße
+- TOP 1.6.: Bürger*innenanliegen: Zustände auf den Bürgersteigen im Lehel
+- TOP 1.7.: Bürger*innenanliegen: Akute Lärmbelastung und massive Erschütterungen (Körperschall) durch die Tram 16 auf Höhe Oettingenstraße 49
+- TOP 1.8.: Bürger*innenanliegen: Galeriestraße
+- TOP 1.9.: Bürger*innenanliegen: Parkplatzsituation für Anwohnende im Bereich Hildegardstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Verlängerung der Radfahrererlaubnis in der Fußgängerzone und bessere Querungsmöglichkeiten
+- TOP 2.2.: (E) Öffnung Altheimer Eck für Radverkehr Färbergraben Richtung Herzogspitalstr.
+- TOP 2.3.: (E) Prüfung und Verbesserung der Verkehrssituation an Steinsdorfstraße / Mariannenplatz (Höhe St. Lukas)
+- TOP 2.4.: (E) Anlieferzone Sterneckerstraße untersagen
+- TOP 2.5.: (E) Bettelmafia zurückdrängen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Unsöldstr. 9-11 - Umwandlung von Längsparken in Schrägparken
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Hildegardstraße, B-Plan 2018 Teil1; Frist: 14.10.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP D: Kultur, Soziales, Bildung + Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball in Altstadt-Lehel, Bezirk 01 vom 01.01. -31.12.2027 6.680,00€; Az. 0262.100-1-0469
+- TOP 2.1.2.: (E) Stadtbezirksbudget Seniorpartner in School -Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 2.000,00€; Az. 0262.100-1-0471
+- TOP 2.1.3.: (E) Stadtbezirksbudget Wir in Giesing e.V. Giesinger Botschaft; München-Zentrum vom 30.09. -11.10.2026 3.000,00€; Az. 0262.100-1-0473
+- TOP 2.1.4.: (E) Stadtbezirksbudget Init. "Drag-Krimi" Bis dass der Mord euch scheidet - ein interaktiver queerer Drag-Krimi vom 01.12.2026 -20.01.2027 1.500,00€; Az. 0262.100-1-0476
+- TOP 2.1.5.: (E) Stadtbezirksbudget Bühne für Demokratie e.V. „True Warriors“ im Werkraum der Münchner Kammerspiele am 03.10.2026 1.500,00€; Az. 0262.100-1-0468
+- TOP 2.1.6.: (E) Stadtbezirksbudget Initiative Aktiv und Bunt für München 65 Jahre Anwerbeabkommen Deutschland - Türkei am 24.10.2026 2.000,00€; Az. 0262.100-1-0475
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: MünchenBudget 2026: Vorschläge für Ihren Stadtbezirk
+- TOP 3: Anhörungen
+- TOP 3.1.: Radcheck Spezial Licht am 26./27.11.2026 auf dem sog. Odeonsplatz; Frist: 25.09.2026
+- TOP 3.2.: Anhörungsverfahren für "WeinMünchenHerbst" vom 16-18.10.2026; Frist: 05.10.2026
+- TOP 3.3.: „Lange Nacht der Museen“ am 17.10.2026 auf dem sog. Odeonsplatz; Frist: 25.09.2026
+- TOP 3.4.: "150 Jahre Trambahn München" Theatinerstraße/Sendlinger Tor/ Trambetriebshof Einsteinstraße vom 17.10.2026 bis 18.10.2026; Frist: 04.10.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP E: Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen: bezahlbare Nahversorgung in der Altstadt, TOP 2026.06 D 1.3
+- TOP 1.2.: Pilotprojekt Innenstadt München 2027- Mobile Smoothie und Coffee Bar
+- TOP 1.3.: Bürger*innenanliegen: Brunnen freihalten vor FSF und Radl-Abstellplatz blockiert Sandflächen, TOP 2026.07 A3
+- TOP 1.4.: Müllsituation Isarstrand, TOP 2026.07 A3
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Christophstraße 3: Genehmigung einer Freischankfläche sowie Schanigarten
+- TOP 2.1.2.: Abschnittsweise Umwidmung der Westenriederstr. in eine Fußgängerzone - Anfragen/Anträge zur Erteilung von Sondernutzungserlaubnissen für das Aufstellen von Tischen und Stühlen (Freischankflächen); Gestaltungskonzept und Grundsatz-Beschluss
+- TOP 2.1.3.: Tal 44: Genehmigung einer Parkplatz-Freischankfläche
+- TOP 2.1.4.: Rosental 7: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.1.5.: Residenzstr. 1: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Satzung zur Änderung der Satzung über die Straßenreinigung der Landeshauptstadt München (Straßenreinigungssatzung), Sitzungsvorlage Nr. 26-32 / V 01240
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen + Infrastruktur
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Sendlinger Straße: sechs neue Baumstandorte und Unterflurcontainer, Informationsschreiben
+- TOP B 4.4.: Planungsstand Valentin-Karlstadt-Musäum, TOP 2026.07 A 3, Antwortschreiben
+- TOP B 4.5.: Bescheid Baumpflanzungen Sendlinger Straße
+- TOP B 4.6.: Meldung einer Baumfällung
+- TOP B 4.7.: Bescheid zum Vollzug der Baumschutzverordnung; Widenmayerstr. 32
+- TOP B 4.8.: Bürger*innenanliegen Straßensanierung Pilotystraße
+- TOP C 4: Unterrichtungen - Mobilität, öffentlicher Raum + Umwelt
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Bürger*innenanliegen Vermüllung Isarufer Steinsdorfstraße, Bitte um zusätzliche Mülleimer, TOP 2026.06 C 1.1, Antwortschreiben
+- TOP C 4.3.: Bürger*innenanliegen Flaschensammler, Halter anbringen, TOP 2026.06 C 1.4, Antwortschreiben
+- TOP C 4.4.: Information Spielplatz Hochbrückenstraße
+- TOP C 4.5.: Bürger*innenanliegen Lärm + Baustellenbelastung Hackenviertel, TOP 2026.06 C 1.7, Antwortschreiben
+- TOP C 4.6.: BA-Beschluss Nr. 20-26 / V 18004 "Fußgängerzone in der Sankt-Anna-Straße"; Stellungnahme des Mobilitätsreferats
+- TOP C 4.7.: Schutz der Grünfläche am Oberanger und Brunnen am Oberanger, TOP 2026.06 A3, Antwortschreiben
+- TOP C 4.8.: Modernisierungsarbeiten einer bestehenden Mobilfunkanlage
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Bildung + Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Eilentscheidung Isarinselfest 2026 04.-06.09.2026
+- TOP E 4: Unterrichtungen - Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP E 4.1.: Gaststättenfortführungen
+- TOP E 4.2.: Veranstaltungsgenehmigungen
