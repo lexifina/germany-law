@@ -1,0 +1,114 @@
+# 7. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-24T17:30:00+02:00
+- Ende: 2026-09-24T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33913
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33913
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragen zu Sackgassen - Kenntnis genommen
+- TOP -: Einwohnerfragen zu Sackgassen - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage Flächennutzung Johannes-Giesberts-Park - vertagt
+- TOP 1.3: Einwohnerfrage Standortentscheidung Bolzplatz Johannes-Giesberts-Park - vertagt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO - Versetzen einer Bank auf der Neusser Straße, Ecke Scharnhorst Straße Aktenzeichen 141-26 - vertagt
+- TOP -: Bürgereingabe nach § 24 GO–Versetzen einer Bank auf der Neusser Straße, Ecke Scharnhorst Straße Aktenzeichen 141-26 - vertagt
+- TOP 2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Errichtung Fußgängerüberweg Neusser Straße auf Höhe der KVB Haltestelle Florastraße, Aktenzeichen 148/26 - Kenntnis genommen
+- TOP 2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrsberuhigung Holbeinstraße, Köln-Nippes, Aktenzeichen 89/26 - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.4: Nutzung von Fahrradboxen im Stadtbezirk Nippes
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen zur Sitzung am 21.10.2024 (AN/1410/2024) betreffend "Nutzung von Fahrradboxen im Stadtbezirk Nippes"
+- TOP 7.1.5: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - vertagt
+- TOP 7.1.6: Baustellenabsperrung Lohsestraße und Holbeinstraße - vertagt
+- TOP 7.1.7: Verkehrskonzept Friedrich-Karl-Straße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung Bezirksvertretung Nippes vom 29.01.2026 betreffend "Verkehrskonzept Friedrich-Karl-Straße" (AN/1494/2025) - Kenntnis genommen
+- TOP 7.1.8: Fahrradabstellanlagen im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/ die Grünen zur Sitzung der BV Nippes am 29.01.2026 (AN/0113/2026) betreffend "Fahrradabstellanlagen im Stadtbezirk Nippes" - Kenntnis genommen
+- TOP 7.1.9: Sitzgelegenheiten/Pflanzkübel Geldernpark - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion in der BV 5 bezüglich der Sitzgelegenheiten / Pflanzkübel am Geldernpark (AN/0188/2026) - Kenntnis genommen
+- TOP 7.1.10: Ampelanlagen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.11: Hitzeschutz an Kitas und Schulen - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0441/2026 der Fraktion Bündnis 90/Die Grünen bezüglich Hitzeschutzmaßnahmen an Schulen und Kitas - Kenntnis genommen
+- TOP 7.1.12: Sachstand Erhalt der Kita „An der Schanz“ - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0454/2026 der SPD-Fraktion aus der Sitzung der BV Nipppes zum Sachverhalt Kita "An der Schanz" - Kenntnis genommen
+- TOP 7.1.13: Schließung des Frauenhauses Haus Rosalie Rendu - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0948/2026 der CDU-Fraktion zur Schließung des Frauenhauses Haus Rosalie Rendu - Kenntnis genommen
+- TOP 7.1.14: Aggressives Betteln auf der Neusser Straße in Nippes - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0949/2026 aggressives Betteln auf der Neusser Straße in Nippes - Kenntnis genommen
+- TOP 7.1.15: Kapazitäten an Tiefgaragenplatzflächen im Bezirk Nippes - vertagt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sicherung der Teilhabe durch barrierefreien Wohnraum – Strategien zur Bewältigung des demografischen Wandels im Stadtbezirk Nippes - vertagt
+- TOP 7.2.2: Hitzetelefon der Stadt Köln, Nutzung durch Bürger*innen aus dem Stadtbezirk Nippes - vertagt
+- TOP 7.2.3: Zustand und Vitalität des Straßenbaumbestands im Bezirk Nippes - vertagt
+- TOP 7.2.4: Bürgerzentrum Turmstraße – Nutzung, Auslastung und Vergabe des ehemaligen Schulgebäudes mit Hallen - vertagt
+- TOP 7.2.5: Verfahren bei der Ausweisung neuer Park- und Halteverbote - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ortstermin Bahndamm Sechzigstraße - ungeändert beschlossen
+- TOP 8.1.2: Bessere Kennzeichnung von gegenläufigem Radverkehr Mauenheimer Straße/Kempener Straße - ungeändert beschlossen
+- TOP 8.1.3: Verbesserte Sicherheit auf der Xantener Straße/Kretzer Straße - ungeändert beschlossen
+- TOP 8.1.4: Umlaufgitter im Stadtbezirk nutzerfreundlich erneuern - geändert beschlossen
+- TOP 8.1.5: Regelmäßige Berichterstattung der Bezirksjugendpflege an die BV - geändert beschlossen
+- TOP 8.1.6: Stopp der Installation von „Lümmelbänken“ – Für eine inklusive und barrierefreie Stadtmöblierung in Nippes - ungeändert beschlossen
+- TOP 8.1.7: Kennzeichnung der Fläche rechts neben dem Bücherschrank, Nibelungenplatz Mauenheim - ungeändert beschlossen
+- TOP 8.1.8: Antrag zum Haushaltsplanentwurf 2027/2028 der Stadt Köln – soziale Vereine und Initiativen im Stadtbezirk Nippes
+- TOP 8.1.9: Antrag auf Sicherung der Stadtverschönerungs-/Klimamittel im Haushaltsplan 2027/2028
+- TOP 8.1.10: Antrag zur Sicherung der Mittel für das Bürgerzentrum Nippes im Haushaltsplan 2027/2028
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Erweiterung des Fahrplans der KVB- Linie 142 auf Sonntagsverkehr - ungeändert beschlossen
+- TOP 8.2.2: Antrag zum Haushaltsplanentwurf 2027/2028 der Stadt Köln – soziale Vereine und Initiativen im Stadtbezirk Nippes - unter Vorbehalt beschlossen
+- TOP 8.2.3: Antrag auf Sicherung der Stadtverschönerungs-/Klimamittel im Haushaltsplan 2027/2028 - unter Vorbehalt beschlossen
+- TOP 8.2.4: Antrag zur Sicherung der Mittel für das Bürgerzentrum Nippes im Haushaltsplan 2027/2028 - unter Vorbehalt beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Ersatzneubau des Nebengebäudes der Gastronomie in der Grünanlage Blücherpark Hier: Bau- und Mittelfreigabebeschluss - ungeändert beschlossen
+- TOP 9.1.2: Varianten zum Beschluss (0463/2021) „Erste Protected-Bike-Lane in Nippes – Fahrrad(r)evolution auf der Scheibenstraße“ - ungeändert beschlossen
+- TOP 9.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 9.1.4: Beratung des Entwurfs des Haushalts 2027/2028 und Festsetzung der bezirksorientierten Mittel für das Haushaltsjahr 2027/2028 - geändert beschlossen
+- TOP 9.1.5: Förderprogramm der Bezirksvertretung Nippes zur Sicherung der Veedelszüge im Stadtbezirk Köln-Nippes für das Jahr 2026 - ungeändert beschlossen
+- TOP 9.1.6: Vergabe bezirksorientierter Mittel an den Querwaldein e.V. - geändert beschlossen
+- TOP 9.1.7: Vergabe bezirksorientierter Mittel an den Experimentalchor Alte Stimmen e.V. - geändert beschlossen
+- TOP 9.1.8: Vergabe bezirksorientierter Mittel an den Bundesverband Information und Beratung für NS-Verfolgte e.V. - ungeändert beschlossen
+- TOP 9.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.10: Vergabe bezirksorientierter Mittel an den Denkort Afrikaviertel Köln Nippes e.V. (i.G.) - geändert beschlossen
+- TOP 9.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.12: Vergabe bezirksorientierter Mittel an die Kölner Spielewerkstatt e.V. - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: "Köln baut bezahlbar | Wohnen für alle" - ungeändert beschlossen
+- TOP -: Beschluss einer zeitlich begrenzten Anpassung von städtischen Vorgaben zur Baukostenreduzierung im Wohnungsbau - endgültig abgelehnt
+- TOP 9.2.2: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert beschlossen
+- TOP 9.2.3: Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201-5-1023, Geestemünder Straße - geändert beschlossen
+- TOP -: Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201-5-1023, Geestemünder Straße - ungeändert beschlossen
+- TOP 9.2.4: Beratung des Entwurfs des Haushalts 2027/2028 und Festsetzung der bezirksorientierten Mittel für das Haushaltsjahr 2027/2028 - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.3: Beantwortung einer schrftlichen Anfrage der Fraktion Alternative für Deutschland zur Sitzung der BV Nippes am 07.05.2026 zur Mitteilung 0808/2026 betreffend "Fahrradstraße Jesuitengasse" - Kenntnis genommen
+- TOP 10.2.4: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 10.2.5: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 10.2.6: Infrastrukturmaßnahmen auf der Linie 13 vom 21.09. bis 17.10.2026 - hier: Information über den anstehenden Schienenersatzverkehr - Kenntnis genommen
+- TOP 10.2.7: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 10.2.8: Piktogrammkette für den Radverkehr – Erfahrungsbericht und weiteres Vorgehen - Kenntnis genommen
+- TOP 10.2.9: Stillmöglichkeiten in den Bezirksrathäusern schaffen; Zertifizierung "Stillfreundliche Kommune" - Kenntnis genommen
+- TOP 10.2.10: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 10.2.11: Gehweg in der Feldgärtenstraße in Höhe Hausnummer 157 Beschluss der Bezirksvertretung Nippes vom 05.12.2024, TOP 8.1.4 (Vorlagennummer AN/1637/2024) - Kenntnis genommen
+- TOP 10.2.12: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 Baugesetzbuch (BauGB) der 246. Änderung des Flächennutzungsplanes (FNP); Arbeitstitel: "Städtebauliche Entwicklung Longericher Straße" in Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.14: Tagesordnungspunkt (betrifft Privatpersonen)
