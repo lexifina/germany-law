@@ -1,0 +1,66 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2026-09-24T17:00:00+02:00
+- Ende: 2026-09-24T20:08:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-164
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2026-RAT-164
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2026-RAT-164
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-164
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-RAT-164
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Konsensliste
+- TOP 2.1: Gemeinsamer Antrag der SPD- und CDU-Fraktion vom 05.09.2026_Kommunaler Ordnungsdienst
+- TOP 2.2: Antrag der SPD-Ratsfraktion vom 30.06.2026 zur Gesundheitsversorgung in Castrop-Rauxel zukunftssicher, wohnortnah, sozial, gerecht und vernetzt gestalten
+- TOP 2.3: Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 - "Luisa ist hier!" nach Castrop-Rauxel bringen
+- TOP 2.4: Antrag B90/Die Grünen-Ratsfraktion vom 07.09.2026 Beteiligung am Förderprogramm "Coole KiTas"
+- TOP 2.5: Antrag der CDU-Fraktion vom 05.09.2026: Beauftragung der Verwaltung, die möglichen Maßnahmenvorschläge der Deutschen Gesellschaft für das Bäderwesen, die in der letzten B3-Sitzung vorgesellt wurden, auf Umsetzbarkeit für das Parkbad Nord zu überprüfen.
+- TOP 2.6: Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Ganzheitliches Entwicklungskonzept für den Neuroder Platz - Ökologie, Aufenthaltsqualität und Parkraumsicherung Hand in Hand
+- TOP 2.7: Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Einsatz von KI in der Verwaltung der Stadt Castrop-Rauxel
+- TOP 3: Anträge nach § 24 GO NRW
+- TOP 3.1: Bürgerantrag gemäß §24 GO NRW vom 10.08.2026_ Ordnungsgeld nach Falschparken
+- TOP 3.2: Bürgerantrag gemäß § 24 GO NRW_Raserei in der Bladenhorster Straße
+- TOP 3.3: Bürgerantrag gemäß § 24 GO NRW_Notfall-Programm gegen Überhitzung
+- TOP 4: Weiteres Vorgehen auf der Industriebrache ehem. Steinkohlekraftwerk Rauxel
+- TOP 4.1: Ergänzungsantrag der AfD-Fraktion vom 24.09.2026 zur Sitzungsvorlage 2026/243_Weiteres Vorgehen auf der Industriebrache ehem. Steinkohlekraftwerk Rauxel - Durchführung eines Ratsbürgerentscheids gemäß § 26 Abs. 1 Satz 2 GO NRW Ergänzungsantrag der AfD-Fraktion vom 24.09.2026 zur Sitzungsvorlage 2026/243_Weiteres Vorgehen auf der Industriebrache ehem. Steinkohlekraftwerk Rauxel - Durchführung eines Ratsbürgerentscheids gemäß § 26 Abs. 1 Satz 2 GO NRW
+- TOP 5: Zukünftige interkommunale Zusammenarbeit der Feuerwehren der Städte Castrop-Rauxel, Datteln und Waltrop - gemeinsame Absichtserklärung
+- TOP 6: Öffentlich-rechtliche Vereinbarung über die gegenseitige Unterstützung der Feuerwehren Castrop-Rauxel und Waltrop in stadtgrenznahen Randgebieten
+- TOP 7: Abberufung der von der Sparkasse Vest Recklinghausen in den Aufsichtsrat der FORUM Castrop-Rauxel Betriebsgesellschaft mbH entsandten Mitglieder hier: Genehmigung einer gemäß § 60 Abs. 1 S. 2 GO NRW getroffenen Dringlichkeitsentscheidung
+- TOP 8: Zusammenführung der FORUM Castrop-Rauxel Betriebsgesellschaft mbH und der Wirtschaft & Marketing Castrop-Rauxel GmbH (neue Firma: Wirtschaft & Events Castrop-Rauxel GmbH)
+- TOP 9: Vertretung der Stadt Castrop-Rauxel in der Gesellschafterversammlung und im Aufsichtsrat der Wirtschaft & Events Castrop-Rauxel GmbH
+- TOP 10: Inanspruchnahme der "Größenabhängigen Befreiungen" von der Verpflichtung zur Aufstellung eines kommunalen Gesamtabschlusses für das Haushaltsjahr 2025 (§ 116a GO NRW)
+- TOP 11: Umsetzung des Gesetzes über den Nordrhein-Westfalen-Plan für gute Infrastruktur 2025 bis 2036 (NRW-Infrastrukturgesetz 2025 bis 2036); hier: Entwurf einer "Dynamischen Projektliste"
+- TOP 12: Neubau Feuer- und Rettungswache (FURCAS): Sachstand
+- TOP 13: Neuwahl von zwei stellvertretenden Mitgliedern des Verwaltungsrates des EUV Stadtbetrieb Castrop-Rauxel - Anstalt des öffentlichen Rechts
+- TOP 14: Annahme der landesweiten Übergangslösung zur Behandlung von Fehlfahrten und Fehleinsätzen im Rettungsdienst für das Gebührenjahr 2026
+- TOP 15: Rettungsdienstgebühren - Gebührenkalkulation 2026 und Neufassung der Gebührensatzung zum 01.07.2026
+- TOP 16: Fortsetzung und Ausweitung des Betreuungsangebotes "Übermittagsbetreuung" an Grundschulen der Stadt Castrop-Rauxel und Anpassung der Elternbeitragssatzung
+- TOP 17: Tätigkeitsbericht zur SiKo Ruhr (Stand: August 2026)
+- TOP 18: Antrag AFD-Ratsfraktion vom 08.09.2026 - Bedarfsanalyse zur Weiterentwicklung der Öffnungszeiten der Kinder- und Jugendzentren in Castrop-Rauxel
+- TOP 19: Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 07.09.2026 - Klimaangepasste Sanierung des Altstadtpflasters
+- TOP 20: Antrag der Fraktion Bündnis90/Die Grünen vom 05.09.2026: Anpassung der Bäderordnung zum Verbot von Brillen mit integrierter Videokamera
+- TOP 21: Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion vom 07.09.2026: Prüfung der Entwicklung von Freiflächen-Photovoltaikprojekten in Castrop-Rauxel
+- TOP 22: Sachstandsbericht zu der Konzeptstudie zur Erarbeitung des KRiS-Gestaltungsraumes "Links und Rechts der Emscher"
+- TOP 23: Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Strategische Bekämpfung von Hitze- und Starkregen- Hotspots in der Innenstadt unter Nutzung von Fördermitteln von Bund und Land
+- TOP 24: Antrag der SPD- und CDU- Ratsfraktion vom 07.09.2026 - Umsetzung der Verkehrsplanung und des Mobilitätshubs in der nordwestlichen Innenstadt unter Einbeziehung von Fördermitteln
+- TOP 25: Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 07.09.2026 - Umgestaltung des Neuroder Platzes
+- TOP 26: Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion_Prüfung der Weiterentwicklung des Hauses der Wirtschaft zu einem Start-up- und Gründercampus
+- TOP 27: Antrag Bündnis 90 / Die Grünen Ratsfraktion vom 14.09.2026_Digitalisierung und Aufwertung des Beschlusscontrolling
+- TOP 28: Antrag Bündnis 90 / Die Grünen, SPD, CDU Ratsfraktionen vom 24.09.2026 Dringlichkeitsentscheidung: Beförderung auf der Buslinie 364 sicherstellen - Überlastung an der Haltestelle Cottenburgstraße kurzfristig beheben
+- TOP 29: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Berufung des Fachmitglieds Landschaftsarchitekt*in
+- TOP 30: Ausschussumbesetzungen
+- TOP 30.1: Umbesetzung des Jugendhilfeausschusses
+- TOP 30.2: Ausschussumbesetzung der AfD-Fraktion
+- TOP 30.3: Ausschussumbesetzungen der Gruppe BSW
+- TOP 30.4: Antrag Bündnis 90_Die Grünen Ratsfraktion vom 24.09.2026; Ausschussumbesetzungen
+- TOP 31: Anfragen der Ratsmitglieder
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
