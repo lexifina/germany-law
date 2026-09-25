@@ -1,0 +1,7 @@
+# TOP 1: Begrüßung und Feststellung der Beschlussfähigkeit
+
+- Sitzung: Seniorenrat (2026-09-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/397584
+- Ergebnis: zur Kenntnis genommen
