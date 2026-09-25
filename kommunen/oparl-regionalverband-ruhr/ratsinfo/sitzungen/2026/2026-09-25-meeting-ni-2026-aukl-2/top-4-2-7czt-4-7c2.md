@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 3. Sitzung des Ausschusses für Umwelt, Klima und Liegenschaften (2026-09-25)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2026-AUKL-2%7Czt_4%7C2
