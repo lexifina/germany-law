@@ -15,7 +15,7 @@
 | § 6 | Allgemeine Vorschriften über die Herstellung und Prüfung |
 | § 7 | Rezepturarzneimittel |
 | § 8 | Defekturarzneimittel |
-| § 9 | (weggefallen) |
+| § 9 | Herstellung medizinischer Gase mithilfe industrieller Verfahren in Krankenhäusern |
 | § 10 | (weggefallen) |
 | § 11 | Ausgangsstoffe |
 | § 11a | Tätigkeiten im Auftrag |
@@ -49,12 +49,10 @@
 | § 35 | Herstellung von Arzneimitteln zur parenteralen Anwendung |
 | § 35a | Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken |
 | § 35b | Vorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken |
+| § 35c | Versand von Arzneimitteln |
 | Fünfter Abschnitt |
 |  | Ordnungswidrigkeiten, Übergangs- und Schlussvorschriften |
 | § 36 | Ordnungswidrigkeiten |
-| § 37 | Übergangsbestimmungen |
-| § 35a | (weggefallen) |
-| § 36 | (weggefallen) |
-| § 37 | (weggefallen) |
+| § 37 | Übergangsvorschriften |
 | § 38 | Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
 |  |  |

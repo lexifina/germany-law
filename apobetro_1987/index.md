@@ -19,7 +19,8 @@ Apotheken
 - [§ 6 Allgemeine Vorschriften über die Herstellung und Prüfung](0006.md)
 - [§ 7 Rezepturarzneimittel](0007.md)
 - [§ 8 Defekturarzneimittel](0008.md)
-- [(XXXX) §§ 9 und 10 (weggefallen)](xxxx-9-und-10.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 9 Herstellung medizinischer Gase mithilfe industrieller Verfahren in Krankenhäusern](0009.md)
 - [§ 11 Ausgangsstoffe](0011.md)
 - [§ 11a Tätigkeiten im Auftrag](0011a.md)
 - [§ 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte](0012.md)
@@ -57,6 +58,7 @@ Krankenhausapotheken
 - [§ 35 Herstellung von Arzneimitteln zur parenteralen Anwendung](0035.md)
 - [§ 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken](0035a.md)
 - [§ 35b Vorbereitung und Durchführung von Blutentnahmen durch öffentliche Apotheken](0035b.md)
+- [§ 35c Versand von Arzneimitteln](0035c.md)
 
 ## Fünfter Abschnitt Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 
