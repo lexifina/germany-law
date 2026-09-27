@@ -6,12 +6,20 @@ Irreführende geschäftliche Handlungen
   die unwahre Angabe eines Unternehmers, zu den Unterzeichnern eines Verhaltenskodexes zu gehören;
 2. unerlaubte Verwendung von Gütezeichen und Ähnlichem
   die Verwendung von Gütezeichen, Qualitätskennzeichen oder Ähnlichem ohne die erforderliche Genehmigung;
+2a. unzulässiges Anbringen eines Nachhaltigkeitssiegels
+  das Anbringen eines Nachhaltigkeitssiegels, das weder auf einem Zertifizierungssystem beruht noch von staatlichen Stellen festgesetzt wurde;
 3. unwahre Angabe über die Billigung eines Verhaltenskodexes
   die unwahre Angabe, ein Verhaltenskodex sei von einer öffentlichen oder anderen Stelle gebilligt;
 4. unwahre Angabe über Anerkennungen durch Dritte
   die unwahre Angabe,
   a) ein Unternehmer, eine von ihm vorgenommene geschäftliche Handlung oder eine Ware oder Dienstleistung sei von einer öffentlichen oder privaten Stelle bestätigt, gebilligt oder genehmigt worden, oder
   b) den Bedingungen für die Bestätigung, Billigung oder Genehmigung werde entsprochen;
+4a. nicht nachweisbare allgemeine Umweltaussage
+  das Treffen einer allgemeinen Umweltaussage, wenn der Unternehmer keine ihr zugrunde liegende anerkannte hervorragende Umweltleistung nachweisen kann;
+4b. unwahre Angabe zur Reichweite einer Umweltaussage
+  das Treffen einer Umweltaussage zum gesamten Produkt oder zu der gesamten Geschäftstätigkeit des Unternehmers, wenn sich die Umweltaussage nur auf einen bestimmten Aspekt des Produkts oder nur auf eine bestimmte Aktivität der Geschäftstätigkeit des Unternehmers bezieht;
+4c. Aussagen zu Umweltauswirkungen bei Kompensation von Treibhausgasemissionen
+  das Treffen einer Aussage, die sich auf die Kompensation von Treibhausgasemissionen gründet und nach der ein Produkt hinsichtlich der Treibhausgasemissionen neutrale, verringerte oder positive Auswirkungen auf die Umwelt hat;
 5. Lockangebote ohne Hinweis auf Unangemessenheit der Bevorratungsmenge
   Waren- oder Dienstleistungsangebote im Sinne des § 5b Absatz 1 zu einem bestimmten Preis, wenn der Unternehmer nicht darüber aufklärt, dass er hinreichende Gründe für die Annahme hat, er werde nicht in der Lage sein, diese oder gleichartige Waren oder Dienstleistungen für einen angemessenen Zeitraum in angemessener Menge zum genannten Preis bereitzustellen oder bereitstellen zu lassen; ist die Bevorratung kürzer als zwei Tage, obliegt es dem Unternehmer, die Angemessenheit nachzuweisen;
 6. Lockangebote zum Absatz anderer Waren oder Dienstleistungen
@@ -27,6 +35,8 @@ Irreführende geschäftliche Handlungen
   die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, eine Ware oder Dienstleistung sei verkehrsfähig;
 10. Darstellung gesetzlicher Verpflichtungen als Besonderheit eines Angebots
   die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, gesetzlich bestehende Rechte stellten eine Besonderheit des Angebots dar;
+10a. Darstellung gesetzlicher Produktanforderungen als Besonderheit eines Angebots
+  die Präsentation von Anforderungen, die kraft Gesetzes für alle Produkte in der betreffenden Produktkategorie auf dem Unionsmarkt gelten, als Besonderheit des Angebots des Unternehmers;
 11. als Information getarnte Werbung
   der vom Unternehmer finanzierte Einsatz redaktioneller Inhalte zu Zwecken der Verkaufsförderung, ohne dass sich dieser Zusammenhang aus dem Inhalt oder aus der Art der optischen oder akustischen Darstellung eindeutig ergibt;
 11a. verdeckte Werbung in Suchergebnissen
@@ -61,6 +71,15 @@ Irreführende geschäftliche Handlungen
   die Behauptung, dass Bewertungen einer Ware oder Dienstleistung von solchen Verbrauchern stammen, die diese Ware oder Dienstleistung tatsächlich erworben oder genutzt haben, ohne dass angemessene und verhältnismäßige Maßnahmen zur Überprüfung ergriffen wurden, ob die Bewertungen tatsächlich von solchen Verbrauchern stammen;
 23c. gefälschte Verbraucherbewertungen
   die Übermittlung oder Beauftragung gefälschter Bewertungen oder Empfehlungen von Verbrauchern sowie die falsche Darstellung von Bewertungen oder Empfehlungen von Verbrauchern in sozialen Medien zu Zwecken der Verkaufsförderung;
+23d. irreführende Angaben zur Softwareaktualisierung, Haltbarkeit und Reparierbarkeit
+  Irreführung über Angaben zur Softwareaktualisierung, Haltbarkeit und Reparierbarkeit bei Waren im Sinne des § 241a Absatz 1 des Bürgerlichen Gesetzbuchs und bei Waren mit digitalen Elementen im Sinne des § 327a Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs:
+  a) die Zurückhaltung von Informationen über den Umstand, dass sich eine Softwareaktualisierung negativ auf das Funktionieren von Waren mit digitalen Elementen oder auf die Nutzung digitaler Inhalte oder digitaler Dienstleistungen auswirken wird;
+  b) die Darstellung einer Softwareaktualisierung als notwendig, wenn sie lediglich der Verbesserung der Funktionalitätsmerkmale dient;
+  c) jedwede geschäftliche Handlung bezüglich einer Ware, die ein zur Begrenzung ihrer Haltbarkeit eingeführtes Merkmal enthält, obwohl dem Unternehmer Informationen über dieses Merkmal und seine Auswirkungen auf die Haltbarkeit der Ware zur Verfügung stehen;
+  d) die falsche Behauptung, dass eine Ware unter normalen Bedingungen für eine bestimmte Zeit oder mit einer bestimmten Intensität ohne Beeinträchtigung ihrer Funktion genutzt werden kann;
+  e) die Präsentation einer Ware als reparierbar, wenn sie es nicht ist;
+  f) das Veranlassen des Verbrauchers, Betriebsstoffe einer Ware früher zu ersetzen oder aufzufüllen, als dies aus technischen Gründen notwendig ist;
+  g) die Zurückhaltung von Informationen darüber, dass die Funktionalität von Waren beeinträchtigt wird, wenn Betriebsstoffe, Ersatzteile oder Zubehör verwendet werden, die nicht vom ursprünglichen Hersteller der Ware bereitgestellt werden, oder die falsche Behauptung, dass eine solche Beeinträchtigung eintreten wird;
 Aggressive geschäftliche Handlungen
 24. räumliches Festhalten des Verbrauchers
   das Erwecken des Eindrucks, der Verbraucher könne bestimmte Räumlichkeiten nicht ohne vorherigen Vertragsabschluss verlassen;
@@ -81,6 +100,6 @@ Aggressive geschäftliche Handlungen
 31. Irreführung über Preis oder Gewinn
   die unwahre Angabe oder das Erwecken des unzutreffenden Eindrucks, der Verbraucher habe bereits einen Preis gewonnen oder werde ihn gewinnen oder werde durch eine bestimmte Handlung einen Preis gewinnen oder einen sonstigen Vorteil erlangen, wenn
   a) es einen solchen Preis oder Vorteil tatsächlich nicht gibt oder
-  b) die Möglichkeit, einen solchen Preis oder Vorteil zu erlangen, von der Zahlung eines Geldbetrags oder der Übernahme von Kosten abhängig gemacht wird.
+  b) die Möglichkeit, einen solchen Preis oder Vorteil zu erlangen, von der Zahlung eines Geldbetrags oder der Übernahme von Kosten abhängig gemacht wird;
 32. Aufforderung zur Zahlung bei unerbetenen Besuchen in der Wohnung eines Verbrauchers am Tag des Vertragsschlusses
   bei einem im Rahmen eines unerbetenen Besuchs in der Wohnung eines Verbrauchers geschlossenen Vertrag die an den Verbraucher gerichtete Aufforderung zur Bezahlung der Ware oder Dienstleistung vor Ablauf des Tages des Vertragsschlusses; dies gilt nicht, wenn der Verbraucher einen Betrag unter 50 Euro schuldet.
