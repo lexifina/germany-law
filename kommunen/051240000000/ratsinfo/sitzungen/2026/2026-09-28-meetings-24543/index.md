@@ -1,0 +1,72 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-09-28T16:00:00+02:00
+- Ende: 2026-09-28T17:30:00+02:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24543
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00370279.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00371355.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Finanzbeziehungen zwischen der Stadt Wuppertal und dem Landschaftsverband Rheinland (LVR) – Landschaftsumlage und Mittelrückflüsse im Haushaltsjahr 2026 - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der AfD vom 14.09.2026 zum Thema "Finanzbeziehungen zwischen der Stadt Wuppertal und dem Landschaftsverband Rheinland (LVR) - Landschaftsumlage und Mittelrückflüsse im Haushaltsjahr 2026 - Entgegennahme ohne Beschluss
+- TOP 2.2: Zusammenarbeit zwischen der Verwaltung und staatlichen Behörden bei der Abschiebung ausreisepflichtiger Ausländer - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die große Anfrage zur Zusammenarbeit zwischen der Verwaltung und staatlichen Behörden bei der Abschiebung ausreisepflichtiger Ausländer - Entgegennahme ohne Beschluss
+- TOP 2.3: Hitzeschutz bei städtischem Personal - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf Anfrage der Fraktion Die Linke zum Hitzeschutz bei städtischem Personal - Entgegennahme ohne Beschluss
+- TOP 2.4: Digitalisierungsstrategie der Stadt Wuppertal – Sachstand und Fortschreibung; Große Anfrage der SPD-Ratsfraktion vom 21.09.2026 - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die große Anfrage der SPD-Ratsfraktion vom 21.09.2026 zum Sachstand und Fortschreibung der Digitalisierungsstrategie der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5: Kürzungen beim Wohngeld - Wie hart trifft es die Wuppertaler*innen und den städtischen Haushalt? - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Kürzungen beim Wohngeld – Wie hart trifft es die Wuppertaler*innen und den städtischen Haushalt? - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Haupt- und Personalausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Prüfauftrag zur Weiterentwicklung des Leerstandsmonitorings zur Aktivierung von Wohnraum in Wuppertal - Gemeinsamer Antrag der Fraktionen Die Linke und Bündnis 90/ Die Grünen - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Sondernutzungssatzung gem. Straßen und Wegegesetz NRW - Neufassung - geändert beschlossen
+- TOP 6.1.1: Änderungsantrag zu TOP 6.1 der Sitzung der Rates der Stadt Wuppertal am 28.09.2026 - Vorlage VO/1097/26 „Sondernutzungssatzung gem. Straßen und Wegenetz NRW - Neufassung - abgelehnt
+- TOP 6.2: Zweite Satzung zur Änderung der Satzung zur Erhebung einer Infrastrukturförderabgabe in der Stadt Wuppertal vom 16.12.2019 - ungeändert beschlossen
+- TOP 6.3: Änderung der Satzung des Beirates der Menschen mit Behinderung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Überplanmäßige Mittelbereitstellung zur Deckung der Bedarfe der Feuerwehr – Verpflichtungsermächtigungen 2028 - ungeändert beschlossen
+- TOP 7.2: Mietkostenzuschuss für die Wuppertaler Initiative für Demokratie und Toleranz e.V. - ungeändert beschlossen
+- TOP 7.3: Mehrkostenbeschluss Sanierung Freibad Mirke
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2025 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.2: Entlastung der Mitglieder der Organe der Stadtsparkasse Wuppertal für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.3: Satzungsangelegenheiten der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Abberufung der stellvertretenden Betriebsleitung KIJU - ungeändert beschlossen
+- TOP 8.5: Festsetzung der Pflegesätze für die Alten und Altenpflegeheime der Stadt Wuppertal Am Diek, Hölkesöhde und Herichhauser Straße für die Zeit vom 01.04.2026 bis 31.03.2027 - ungeändert beschlossen
+- TOP 8.6: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Einrichtungen Vogelsangstraße, Wuppertaler Hof und Neviandtstraße für die Zeit vom 01.04.2026 bis 31.03.2027 - ungeändert beschlossen
+- TOP 8.7: Veräußerung der Anteile an der DBR Deponiebetriebsgesellschaft Remscheid mbH - ungeändert beschlossen
+- TOP 8.8: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Gestaltungs- und Erhaltungssatzung - Kaiserstraße / Vohwinkeler Straße - - ungeändert beschlossen
+- TOP 9.2: 149. Flächennutzungsplanänderung - Nahversorgungszentrum Uellendahl - - Feststellungsbeschluss - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau einer Sport- und einer Turnhalle (vier Halleneinheiten) für die 7. Gesamtschule - geändert beschlossen
+- TOP 10.2: Errichtung einer Einfachturnhalle an der Grundschule Hainstraße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Errichtung von Fahrradparkhäusern an den Verwaltungsgebäuden Rathaus Barmen und Verwaltungsgebäude Elberfeld - ungeändert beschlossen
+- TOP 11.2: Quartalsbericht II/2026 zum Handlungsprogramm Gewerbeflächen - Entgegennahme ohne Beschluss
+- TOP 11.3: Annahme einer Sachspende in Form von 300 Eintrittskarten für eine Vorstellung des Weihnachtscircus Wuppertal für einkommensschwache und bedürftige Familien - ungeändert beschlossen
+- TOP 11.4: Stadtteilbibliothek Beyenburg – Auftrag zur Prüfung der Einrichtung einer Open Library - ungeändert beschlossen
+- TOP 11.5: Beitritt zur K4K eG - ungeändert beschlossen
+- TOP 11.6: ISEK Barmen – Umsetzung des Teilprojektes Mehrgenerationenpark am Heubruch "Felssporn" - ungeändert beschlossen
+- TOP 11.7: Personalbericht 2025 - Entgegennahme ohne Beschluss
+- TOP 11.8: Stellenplan - zentrales Stellenwertkontingent - Entgegennahme ohne Beschluss
+- TOP 11.9: Sachstand zur Finanzierung von Bau und Betrieb des Pina Bausch Zentrums - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neubesetzung Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung; Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 12.3: Umbesetzungsantrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 12.4: Wahl der sachkundigen Einwohnerinnen und Einwohner - Hier: Nachbesetzung im Ausschuss für Kultur - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
