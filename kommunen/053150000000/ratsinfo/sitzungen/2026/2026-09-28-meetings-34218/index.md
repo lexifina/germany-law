@@ -1,0 +1,59 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-28T17:02:00+02:00
+- Ende: 2026-09-28T19:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34218
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34218
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung der Schwerpunkte der Haushaltsplanung 2027/2028ff. für Dezernat I – Allgemeine Verwaltung und Ordnung - Kenntnis genommen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Fachaustausch Digitalisierung und Bildung in Tallinn - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer mündlichen Anfrage zur Vorlage 0870/2026 - Sachstandsbericht zur Zukunft des Abendmarktes auf dem Rudolfplatz - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Personalbericht 2025 - Kenntnis genommen
+- TOP 4.2: Fördermittelbericht 2024 - Kenntnis genommen
+- TOP 4.3: Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) innerhalb der Mitarbeitendenschaft im Rahmen des Diversity Managements sowie der Interkulturellen Öffnung der Stadt Köln - Kenntnis genommen
+- TOP 4.4: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 4.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 4.6: Beantwortung einer Anfrage eines Mitglieds in der Sitzung der Stadtarbeitsgemeinschaft Queerpolitik vom 10.09.2026 zum Umgang mit trans* Personen in und durch die Verwaltung der Stadt Köln - Kenntnis genommen
+- TOP 4.7: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 4.10: Erhöhung der Verkehrssicherheit auf der Kreisstraße (K4) im Bereich Herkulestunnel sowie Ausweitung der Geschwindigkeitsüberwachung auf der BAB 4 im Bereich Eifeltor - Kenntnis genommen
+- TOP 4.11: Bericht zur Untersuchung der Unterstützungsangebote der Zentralen Ausländerbehörde Coesfeld und deren Behandlung durch das Ausländeramt der Stadt Köln - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.12: Brüsseler Platz – Sachstand zum Lärmschutz und weiteres Vorgehen der Verwaltung - Kenntnis genommen
+- TOP 4.13: Beantwortung einer mündlichen Anfrage aus dem Hauptausschuss 10.08.2026 im Rahmen der aktuellen Stunde - vertagt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD - Fraktion betreffend "Passbeschaffungspflicht für afghanische Staatsangehörige in Köln" (AN/1059/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD - Fraktion betreffend "Passbeschaffungspflicht für afghanische Staatsangehörige in Köln" (AN/1059/2026) - Kenntnis genommen
+- TOP 6.2: Anfrage der FDP / KSG - Fraktion betreffend "Der Fall „Marko M.“: Erfordernisse für das Bleiberechtsprogramm" (AN/0980/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP/KSG-Fraktion betreffend "Der Fall Marko M.: Erfordernis für das Bleiberechtsprogramm" (AN/0980/2026) - Kenntnis genommen
+- TOP 6.3: Anfrage der SPD - Fraktion betreffend "Sachstand der Abmietstrategie und zukünftige Verwaltungsstandorte" (AN/1060/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Sachstands der Abmietstrategie und zukünftiger Verwaltungsstandorte" (AN/1060/2026) - Kenntnis genommen
+- TOP 6.4: Anfrage der Seniorenvertretung betreffend "Maßnahmen nach Änderung der Elektrokleinstfahrzeuge-Verordnung" - vertagt
+- TOP 6.5: Anfrage der FDP / KSG - Fraktion betreffend "Ausstattungszustand und Betriebsbereitschaft von Notstromanlagen in Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP/KSG-Fraktion betreffend "Ausstattungszustand und Betriebsbereitschaft von Notstromanlagen in Köln" (AN/1229/2026) - Kenntnis genommen
+- TOP 6.6: Anfrage der FDP/KSG-Fraktion betreffend "Bombenentschärfungen in Köln" (AN/1286/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion FDP/KSG betreffend "Bombenentschärfungen in Köln" (AN/1286/2026) - Kenntnis genommen
+- TOP 6.7: Anfrage der Volt-Fraktion betreffend "Sachstand Mindestbeförderungsentgelte für Mietwagen in Köln" (AN/1462/2026) - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der VOLT-Fraktion betreffend „Sachstand Mindestbeförderungsentgelte für Mietwagen in Köln (AN 1462/2026) - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Fraktion Bündnis 90 / Die Grünen betreffend "Ausweitung der bestehenden Böllerverbotszone und weitergehende Einschränkung privaten Feuerwerks ab Silvester 2026/2027" (AN/0108/2026) - vertagt
+- TOP -: Stellungnahmen zum Antrag der Fraktion Bündnis 90 / Die Grünen betreffend "Ausweitung der bestehenden Böllerverbotszone und weitergehende Einschränkung privaten Feuerwerks ab Silvester 2026/2027" (AN/0108/2026) - vertagt
+- TOP 8.2: Antrag der Volt-Fraktion betreffend "Digital unterstützte Parkraumkontrolle – Einsatz von Scan-Fahrzeugen"(AN/1223/2026) - geändert beschlossen
+- TOP -: Stellungnahme zum Antrag der Volt-Fraktion betreffend "Digital unterstützte Parkraumkontrolle - Einsatz von Scan-Fahrzeugen" (AN/1223/2026) - Kenntnis genommen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2027 - ungeändert empfohlen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
