@@ -1,0 +1,82 @@
+# 3. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2026-09-28T10:00:00+02:00
+- Ende: 2026-09-28T10:28:00+02:00
+- Ort: Plenarsaal, Kronprinzenstr. 35/Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2026-VA-79
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2026-VA-79
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VA-79
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2026-VA-79
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Genehmigung der Niederschrift
+- TOP 1.2: Um- und Nachbesetzung in Gremien und Aufsichtsräten
+- TOP 2: Aktuelles
+- TOP 2.1: Berichterstattung über mögliche Veränderungen bei der Vergabe von GRW-Mitteln
+- TOP 2.2: Einbringung des Entwurfs zum Haushaltsplan 2027
+- TOP 2.3: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2027
+- TOP -: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3: Vorlagen der Bezirksregierungen
+- TOP 4: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 4.1: Aufstellungsbeschluss zur 5. Änderung des Regionalplans Ruhr: Änderung eines Waldbereichs mit den Freiraumfunktionen Regionaler Grünzug (RG) und Bereich zum Schutz der Landschaft und landschaftsorientierte Erholung (BSLE) in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gebiet der Stadt Dortmund
+- TOP 5: Fraktionsanträge
+- TOP 6: Anfragen und Mitteilungen
+- TOP 6.1: Anfragen
+- TOP 6.2: Mitteilungen
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 7: Vorlagen aus dem Ausschuss für Europa, Wirtschaft und Soziales
+- TOP 7.1: Europäische Jugendhauptstadt / European Youth Capital
+- TOP 8: Vorlagen aus dem Ausschuss für Kultur, Sport, Bildung und Wissenschaft
+- TOP 8.1: Emscher Landschaftspark (ELP) / Route Industriekultur (RIK) - RVR Vertrag mit dem Land NRW
+- TOP 8.2: Aufnahme des CreativQuartiers Fürst Leopold (Dorsten) als 28. Ankerpunkt der Route Industriekultur
+- TOP 9: Vorlagen aus dem Ausschuss für Planung und Mobilität
+- TOP 9.1: Sachstand Förderprojekte "Urban.Trails" und "The Green Between" - Fördermittelakquise EFRE/JTF-Programm NRW 2021-2027 "Erlebnis NRW"
+- TOP 10: Vorlagen aus dem Ausschuss für Finanzen und Beteiligungen
+- TOP 10.1: Angelegenheiten der IGA 2027 Ruhrgebiet gGmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.2: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2025
+- TOP 10.4: Angelegenheiten der Freizeitzentrum Xanten GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.5: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.6: Angelegenheiten der Ruhr Tourismus GmbH -Jahresabschluss zum 31.12.2025
+- TOP 10.7: Angelegenheiten der Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.8: Angelegenheiten der Revierpark Gysenberg Herne GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.9: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH - Jahresabschluss zum 31.12.2025
+- TOP 10.10: Angelegenheiten der Umweltzentrum Westfalen GmbH - Nebenabrede 2027 - 2029
+- TOP 10.11: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2025
+- TOP 10.12: Angelegenheiten der Kultur Ruhr GmbH - Überplanmäßige Mittelbereitstellung zur Erhöhung des Zuschusses im Jahr 2026, Verstetigung der Zuschusserhöhung ab dem Jahr 2027 ff sowie Anpassung der Nebenabrede 2027-2029
+- TOP 10.13: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2025
+- TOP 10.14: Weitere erforderliche überplanmäßige Mittelbereitstellungen in der Kostenstelle "Beteiligungssteuerung"
+- TOP 10.15: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2025
+- TOP 10.16: Projekt- und Finanzberichtswesen zum 31.05.2026
+- TOP 10.17: Bekanntgabe der in der Zeit vom 01.04.2026 bis 30.06.2026 für das Haushaltsjahr 2026 genehmigten Haushaltsüberschreitungen
+- TOP 10.18: Angelegenheiten der Revierpark Gysenberg Herne GmbH hier: Bereitstellung einer einmaligen Liquiditätshilfe (2026) in Höhe von 1,0 Mio. € (RVR-Anteil 500,0 T€)
+- TOP 11: Vorlagen aus dem Ausschuss für Umwelt, Klima und Liegenschaften
+- TOP 11.1: Förderantragstellung durch die Verwaltung für den Neubau des RVR-Besucherzentrums Hoheward in Herten
+- TOP 11.2: Fortführung des Kooperationsvertrages Besucherzentrum Hoheward mit den Städten Herten und Recklinghausen
+- TOP 11.3: Fortführung Klimafit Ruhr - Umsetzungsprojekt Masterplan Handwerk
+- TOP 12: Vorlagen aus dem Betriebsausschuss RVR Ruhr Grün
+- TOP 13: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 14: Vorlagen ohne Fachausschussbeteiligung
+- TOP 14.1: Überplanmäßige Mittelbereitstellung für das Projekt "Hoesch-Hafenbahn-Weg (Sonderbauwerk)"
+- TOP 14.2: RVR auf dem richtigen Kurs! - Eine Strategie für erfolgreiche Verbandsarbeit beim Regionalverband Ruhr.
+- TOP 15: Fraktionsanträge/Resolutionen
+- TOP 16: Anfragen und Mitteilungen
+- TOP 16.1: Anfragen
+- TOP 16.2: Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 17: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 17.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 18: nicht öffentlicher Tagesordnungspunkt
+- TOP 19: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 19.2: nicht öffentlicher Tagesordnungspunkt
