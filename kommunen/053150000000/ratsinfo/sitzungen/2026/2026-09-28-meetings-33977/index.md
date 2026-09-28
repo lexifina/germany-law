@@ -1,0 +1,87 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-28T16:00:00+02:00
+- Ende: 2026-09-28T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33977
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33977
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch des Beigeordneten Ascan Egerer
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Mitteilungen zur Bürgereingaben
+- TOP 5.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Bänke im Clarenbach versetzen oder durch ein anderes Modell ersetzen, Aktenzeichen 96/26
+- TOP 5.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Zusätzliche Fahrradstellplätz in der Münstereifeler Str. 59-63, Aktenzeichen 114/26
+- TOP 5.1.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Pflasterschleif-Verfahren zur Herstellung der Barrierefreiheit und Fahrradfreundlichkeit in der Christian-Gau-Straße, Aktenzeichen 122/26
+- TOP 5.1.4: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parkplatzkennzeichnung "nur PKW" für Münstereifeler Str. 59-63, Aktenzeichen 88/24
+- TOP 5.1.5: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Kitschburger Straße dauerhaft Autofrei, Aktenzeichen 195/26
+- TOP 5.2: Bürgereingaben
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung der Anfrage AN/1132/2026 der FPD-Fraktion und der Volt-Fraktion bezüglich der Sanierung der Rheinischen Musikschule Lotharstraße
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: 2.000 Liter Wasser für eine Platane
+- TOP 7.2.2: Luxemburger Straße – Lärmschutz, Verkehrsuntersuchung und Auswirkungen einer möglichen Reduzierung der Kfz-Fahrstreifen
+- TOP 7.2.3: Fläche im Bereich (westlich) Widdersdorfer Landstraße/ (südlich) Lise-Meitner-Ring - planungsrechtliche Einordnung und mögliche bauliche Nutzung
+- TOP 7.2.4: Stand des Neubaus einer Grundschule im Stadtquartier Hohenlind - Deckstein - Neu-Lindenthal (Maßnahme Nr. 638 der Schulbaumaßnahmenliste der Stadt Kön)
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Beleuchtung an dem Fuß- und Radweg „Auf der Aspel“ - geändert beschlossen
+- TOP -: Ergänzungsantrag Beleuchtung an dem Fuß- und Radweg „Auf der Aspel“ gemeinsamer Antrag von der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen, CDU-Fraktion, Fraktion FDP/Volt und Fraktion Die Linke - ungeändert beschlossen
+- TOP 8.1.2: Beseitigung der Gefahrenstelle durch stehendes Wasser am Übergang Rautenstrauchweg/Fürst-Pückler-Straße im Bereich Stadtwald Köln Lindenthal - ungeändert beschlossen
+- TOP 8.1.3: Sicherstellung der Durchfahrt für Einsatzfahrzeuge im Bereich Schmitburgstraße/Goldenfelsstraße. - ungeändert beschlossen
+- TOP 8.1.4: Verbesserung und Erhöhung der Sicherheit der Fahrradstraße Weyertal / Arnulfstraße - endgültig zurückgezogen
+- TOP 8.1.5: Erhalt der öffentlichen Stellplätze in der Hans-Sachs-Straße zwischen Dürener Straße und Bachemer Straße - vertagt
+- TOP 8.1.6: Einhaltung von Tempo 30 auf der Friedrich-Schmidt-Straße zwischen Hültzplatz und Stadtwaldgürtel - geändert beschlossen
+- TOP 8.1.7: Ersetzungsantrag Teilentsiegelung des Hermeskeiler Platzes, des Emil-Schreiter-Platzes und des Platzes vor St. Severin in Lövenich - ungeändert beschlossen
+- TOP 8.1.8: Temposchwellen an der Aegidienberger Straße (Hildegard-von-Bingen-Gymnasium) und Bachemer Straße (Gemeinschaftsgrundschule Freiligrathstraße) als Pilotprojekt - vertagt
+- TOP 8.1.9: -wurde nach 8.2.1 geschoben-
+- TOP 8.1.10: Oberirdischer Fahrrad-Kreisverkehr Kreuzung Luxemburger Straße / Militärring - endgültig zurückgezogen
+- TOP 8.1.11: Sanierung – Emil-Schreiterer-Platz in Weiden - endgültig zurückgezogen
+- TOP 8.1.12: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW im Haushaltsjahr 2026 - ungeändert beschlossen
+- TOP 8.2: Anregungen der BV
+- TOP 8.2.1: Ergänzung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses - ungeändert beschlossen
+- TOP 9.1.2: Gehnemigung der DE: Haushaltsplan 2027/2028 hier: Veranschlagung der bezirksorientierten Mittel 2027/2028 gem. § 37 Abs. 3 der Gemeindeordnung Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 9.1.3: Gehnemigung der DE:Beratung des Haushaltsplan-Entwurfs 2027/2028 einschließlich der Finanzplanung bis 2031 und der sonstigen Anlagen - Anregungen der Bezirksvertretung Lindenthal gem. § 37 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Bedarfsfeststellungsbeschluss zur Durchführung einer detail- und variantenreichen Verkehrsuntersuchung auf der Luxemburger Straße, der "Mikrosimulation Luxemburger Straße", und einer Verkehrszählung zur Aktualisierung der Datenbasis - geändert beschlossen
+- TOP -: Ergänzungsantrag Mikrosimulation Luxemburger Straße – Schnittstelle zum Knoten Luxemburger Straße/Militärring - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Aufstellung eines Bebauungsplans (1. Änderung) Arbeitstitel: „öffentlich zugängliche Golfanlage Widdersdorf, 1. Änderung" in Köln-Widdersdorf und -Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (vorhabenbezogener Bebauungsplan) - Arbeitstitel: Neubau Justizzentrum - ungeändert beschlossen
+- TOP 9.2.4: 297. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - Sache ist erledigt
+- TOP 9.2.5: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert beschlossen
+- TOP 9.2.6: Baubeschluss zum Ersatzneubau Brücke Widdersdorfer Straße über die Bahntrasse der HGK Köln Ehrenfeld/ Lindenthal sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 9.2.7: Temporäre Kapazitätseinschränkung am Gymnasium Neue Sandkaul im Schuljahr 2027/28 - ungeändert beschlossen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sachstand zur Erweiterung des Anwohnerschutzkonzeptes am RheinEnergieSTADION - Kenntnis genommen
+- TOP 11.1.2: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Erteilung eines Vorbescheides für die Errichtung eines Mehrfamilienhauses auf dem Grundstück Heckgasse 7 - Kenntnis genommen
+- TOP 11.3.2: Erteilung einer Baugenehmigung für ein fünfgeschossiges Wohngebäude mit 100 Wohneinheiten und einer Großgarage - Kenntnis genommen
+- TOP 11.3.3: Piktogrammkette für den Radverkehr – Erfahrungsbericht und weiteres Vorgehen - Kenntnis genommen
+- TOP 11.3.4: Planfeststellungsbeschluss für die Aufhebung des Bahnübergangs Luxemburger Straße/Militärringstraße - Kenntnis genommen
+- TOP 11.3.5: Wahl der Seniorenvertretung Köln 2026: Informationsquellen und Termine - Kenntnis genommen
+- TOP 11.3.6: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß §25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. §12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 11.3.7: Infrastrukturmaßnahmen auf der Linie 13 vom 21.09. bis 17.10.2026 - hier: Information über den anstehenden Schienenersatzverkehr - Kenntnis genommen
+- TOP 11.3.8: Ergebnisse des Pilotprojektes Insges*AMT - Inklusive Servicegestaltung im Amt - Kenntnis genommen
+- TOP 11.3.9: Mitteilung über die Veröffentlichung gemäß § 3 Absatz 2 (BauGB) des Bebauungsplanentwurfs 64450/02 (6444 Nc/02) Arbeitstitel: Haselbergstraße/Piusstraße, 2. Änderung (2. Teilaufhebung) in Köln-Lindenthal - Kenntnis genommen
+- TOP 11.3.10: Mitteilung zum Erhalt und zur Sicherung des Kugelgasbehälters auf dem Max Becker-Areal in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 11.3.11: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - Kenntnis genommen
+- TOP 11.3.12: Abstellkonzept Leih E-Scooter und Fahrräder an Veranstaltungstagen im Sportpark Müngersdorf - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
