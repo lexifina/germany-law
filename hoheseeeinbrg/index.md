@@ -7,6 +7,7 @@
 - [§ 5 Erlaubnispflicht, Bedingungen und Auflagen](0005.md)
 - [§ 5a Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings](0005a.md)
 - [§ 6 Verbrennungsverbot](0006.md)
+- [§ 6a Ausfuhrverbot, Ausnahmen](0006a.md)
 - [§ 7 Notlage](0007.md)
 - [§ 8 Zuständigkeiten, Aufgaben und Befugnisse](0008.md)
 - [§ 9 Verordnungsermächtigungen](0009.md)
