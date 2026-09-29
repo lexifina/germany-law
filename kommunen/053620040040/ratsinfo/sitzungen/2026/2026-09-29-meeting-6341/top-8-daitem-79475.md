@@ -1,0 +1,7 @@
+# TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Hauptausschuss (3. Sitzung) (2026-09-29)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/79475
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
