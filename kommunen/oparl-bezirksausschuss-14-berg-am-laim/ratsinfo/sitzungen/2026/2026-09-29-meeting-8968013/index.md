@@ -1,0 +1,132 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-09-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8968013
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8968013
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 25.08.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 25.08.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Projektplanung an der St.-Michael-Str./Bad-Kreuther-Str.
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung von zwei Teilstrecken der Bad-Kissingen-Straße
+- TOP 2.3.: (E) Müllablagerungen bei der U-Bahn-Station Josephsburg
+- TOP 2.4.: (E) Sammelbeschluss offene Bürgerversammlungsempfehlungen – BA 14
+- TOP 2.5.: (E) Abgelehnter BA-Beschluss (Sitzungsvorlagen Nr. 26-32 / V 01255 / BV-Empfehlungen 20-26 / E 03362)
+- TOP 2.5.1: (E) Weiterführung des Radwegs über die Kreuzung Baumkirchner Straße / Berg-am-Laim-Straße
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 3.1.1.: Haager Str. 4 - Neubau eines Gewerbehofs (Werkstätten) und Technologiezentrums (Büros) mit Gastronomie (Teilkonzession) und Mittelgarage im Untergeschoss - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.1.2.: Ringbergstr. - Neubau eines Mehrfamilienhauses - VORBESCHEID - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.1.3.: Buchbacher Str. 10 - Neubau eines Mehrfamilienhauses mit 40 Wohneinheiten und einer Tiefgarage mit 32 Stellplätzen - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.1.4.: St.-Veit-Str. 73 - Neubau eines Doppelhauses mit Carport: Hier Haus 1 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.1.5.: St.-Veit-Str. 73 - Neubau eines Doppelhauses mit Carport: Hier Haus 2 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.1.6.: Entfernung der Bank im Bereich Bad-Schachener-Str. 37; Anliegen aus der Bürgerschaft
+- TOP 3.1.7.: Entfernung der Bank im Bereich Freisinger Str. 11; Anliegen aus der Bürgerschaft
+- TOP 3.1.8.: Entfernung der Bank im Bereich Josephsburgstr. 69; Anliegen aus der Bürgerschaft
+- TOP 3.1.9.: Installation von Wasserzählern an privaten Grundwasserbrunnen; Anliegen aus der Bürgerschaft
+- TOP 3.1.10.: Installation eines neuen Mülleimers an der U-Bahn-Station Josephsburg; Anliegen aus der Bürgerschaft
+- TOP 3.1.11.: Bäume für Klimaschutz, Verkehrsberuhigung und Wohnqualität in der Halfinger Straße; Anliegen aus der Bürgerschaft
+- TOP 3.1.12.: Situation in der Wohnanlage an der Isareckstr.; Anliegen aus der Bürgerschaft
+- TOP 3.1.13.: Frühzeitige Einbindung des Bezirksausschusses in mögliche Planungen zur künftigen Nutzung des ehemaligen Kugelfischer-Werks (Truderinger Straße 191); Antrag der CSU-Fraktion
+- TOP 3.1.14.: Aufstellen eines Hundekotbeutelspenders am Beginn des Grünstreifens der Neumarkter Straße; Antrag der Linken-Fraktion
+- TOP 3.1.15.: Aufwertung der Spielplätze im Rahmen des integrierten Quartierskonzepts St.-Michael-Straße; Antrag der CSU-Fraktion und der Freie Wähler/ÖDP
+- TOP 3.1.16.: Kostenermittlung für den Einsatz einer mobilen Toilette im Echardinger Grünstreifen; Antrag vom UA-Planung, Bauvorhaben, Baum- und Umweltschutz und Öffentlicher Raum
+- TOP 3.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 3.2.1.: Ampelschaltung an der Fußgängerampel Abzweig B2R/Schlüsselbergstraße; Anliegen aus der Bürgerschaft
+- TOP 3.2.2.: Verkehrssituation in der Kreillerstraße zwischen St.-Veit-Straße und Schatzbogen; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Verkehrssituation an der Kreuzung Else-Rosenfeld-Str./Kreillerstr.; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Planungen zum Umbau der Truderinger Straße zurückstellen und überarbeiten; Antrag der CSU-Fraktion
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 3.3.1.: Installation einer Tischtennisplatte im Behrpark; Anliegen aus der Bürgerschaft
+- TOP 3.3.2.: Installation einer Tischtennisplatte in der Grünanlage St. Michael; Anliegen aus der Bürgerschaft
+- TOP 3.3.3.: Fortführung Kinderspielplatz auf dem Gelände der Flüchtlingsunterkunft an der Hachinger-Bach-Str.; Antrag der SPD-Fraktion
+- TOP 3.3.4.: Marathon München (und div. Neben-Wettbewerbe) am 11.10.2026 im ges. Münchner Stadtgebiet; Anhörung des Kreisverwaltungsreferats, Frist bis zum 01.10.2026
+- TOP 3.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 3.4.1.: Welche Auswirkungen wird der Prozess der AG Zukunftssicherung auf soziale Angebote in Berg am Laim haben?; Antrag der Linken-Fraktion, SPD-Fraktion und Grünen-Fraktion
+- TOP 3.5.: Bereich Budget und Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 - 31.07.2027 2.000,00 Euro, Az.: 0262.100-14-0522
+- TOP 3.5.2.: (E) Stadtbezirksbudget Bürgerkreis Berg am Laim e.V. 39. Herbstausstellung der Künstlergilde Berg am Laim vom 06.-15.11.2026 903,75€; Az. 0262.100-14-0515 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.5.3.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01.2027 - 31.12.2027 6.680,00€; Az. 0262.100-14-0518 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.5.4.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Sophie Scholl Ökumenische St. Martins-Feier mit Umzug am 15.11.2026 637,50 Euro, Az.: 0262.100-14-0519 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.5.5.: (E) Stadtbezirksbudget ESV München-Ost e.V. - Abteilung Judo Anschaffung von Judo-Matten für Kinder-Jugendtraining und Kinderturniere vom 01.10. - 31.12.2026 3.000,00 €; Az. 0262.100-14-0521
+- TOP 3.5.6.: Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung; Anhörung des Direktoriums
+- TOP 3.5.7.: Änderungen der Bezirksausschuss-Satzung – Einführung eines verpflichtenden Tierschutzbeauftragten; Anhörung des Direktoriums
+- TOP 3.5.8.: Änderungen der BA-Satzung infolge der Änderung der Baumschutzverordnung; Anhörung des Direktoriums
+- TOP 3.5.9.: Antrag für die Reservierung aus der Verwaltungskostenpauschale für die Gedenkveranstaltung "Deportierte Juden aus Berg am Laim" am 10.11.2026
+- TOP 3.5.10.: Benennung des BA-Internetbeauftragten
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Haager Str. 4 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.6.2.: Buchbacher Str. 10 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.6.3.: St.-Veit-Str. 73 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 3.6.4.: St.-Veit-Str. 73, Hier Haus 2 - vertagt aus dem Ferienausschuss vom 25.08.2026 -
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 4.1.1.: Baulisten Juli und August 2026
+- TOP 4.1.2.: Ungenutzte Flächen an der Tram-Wendeschleife St.-Veit-Straße zugänglich machen
+- TOP 4.1.3.: Perspektiven für den Grünen Markt als Veranstaltungsort – Prüfung baulicher Lösungen für die Überdachung von Veranstaltungen
+- TOP 4.1.4.: Ersatzneubau Treppenanlage am Leuchtenbergring
+- TOP 4.1.5.: Stellungnahme des Baureferats zur Entscheidung der Sitzungsvorlage Nr. 26-32 / V 00742 - Gehwegbeleuchtung Schlüsselbergstrasse
+- TOP 4.1.6.: Neues Ausbauprogramm öffentlicher Toiletten auflegen: Weitere Standorte in Berg am Laim realisieren!
+- TOP 4.1.7.: Anzeige eines Feuerwerk im Werksviertel München
+- TOP 4.1.8.: Projektbeschreibung Laborphase Quartierseingang
+- TOP 4.1.9.: Zweckentfremdung in der Sonnbergstr. 16
+- TOP 4.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 4.2.1.: Bus 195: Bedarfshaltestelle Sonnwendjochstraße einrichten, bis dahin wieder „Halten auf Wunsch nach 21 Uhr“ ermöglichen - vertagt aus der Plenumssitzung vom 28.07.2026 -
+- TOP 4.2.2.: Pächterwechsel
+- TOP 4.2.3.: Arbeitsstelle im Straßenraum in der Blombergstr. 21-23
+- TOP 4.2.4.: Arbeiten im Straßenraum in der Schlüsselbergstr. 2 - 46
+- TOP 4.2.5.: Arbeiten im Straßenraum in der Truderinger Str. 47-159
+- TOP 4.2.6.: temporäres absolutes Haltverbot einseitig mit Zeitzusatz in der Großvenedigerstr. zwischen Heinrich-Wieland-Str. und Hachinger-Bach-Str.
+- TOP 4.2.7.: Shared-Mobility-Entwicklungen: Start des stationsbasierten Carsharings und des Bikesharing-Angebots „MyRadl“ in München
+- TOP 4.2.8.: Wohnen in München Anpassung von In-House-Vergaben städtischer Grundstücke an die Münchner Wohnen GmbH
+- TOP 4.2.9.: Rückmeldung aus der Bürgerschaft bezüglich der Kreuzung Bad-Schachener-Str./Innsbrucker Ring - BA-Antrag Nr. 20-26/B 08195
+- TOP 4.2.10.: Provisorische Befestigung an der Stelle Trostbergstr. über die Anzinger Str.
+- TOP 4.2.11.: Beschilderung der baulich kenntlich gemachten Vorfahrtreglung in der Hachinger-Bach-Str. Einmündung St.-Michael-Str.
+- TOP 4.2.12.: Arbeiten im Straßenraum in der Aßlinger Str. 3-8
+- TOP 4.2.13.: Fortführung eines Gaststättenbetriebes in der Friedenstr. 12
+- TOP 4.2.14.: Einführung einer Tempo 30-Zone in der Vinzenz-von-Paul-Str.
+- TOP 4.2.15.: Beschilderung als „Gehweg“ im Bereich Truderinger Str.
+- TOP 4.2.16.: Information zur Baumaßnahme Tram 21 Kreillerstr.
+- TOP 4.2.17.: aktueller Stand des Straßenplanungs-Projekts Hachinger-Bach-Str.
+- TOP 4.2.18.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf den U-Bahnlinien U1 bis U5 aufgrund von Fräszugfahrten
+- TOP 4.2.19.: Rückmeldung zur "Feierabend"-Parkplatznutzung in der Truderinger Str. 217
+- TOP 4.2.20.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 4.2.21.: Wartungsarbeiten Tunnelkette Mittlerer Ring Ost
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 4.5.: Bereich Budget und Organisation
+- TOP 4.5.1.: Amtsblatt der Landeshauptstadt München bereits am Erscheinungstag Allen gratis zugänglich machen und als Newsletter-Abo anbieten
+- TOP 4.5.2.: Verwendungsnachweise
+- TOP 4.5.3.: BA-Informationsschreiben zum Umgang mit Spenden / Zuwendungen, Annahme von Geschenken
+- TOP 4.5.4.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen – Zusammenarbeit mit dem Referat für Klima- und Umweltschutz (RKU)
+- TOP 4.5.5.: MünchenBudget 2026: Vorschläge für Ihren Stadtbezirk
+- TOP 4.5.6.: Antrag auf Bestellung städtischer Leistungen: Finanzierung von Münchner Ferienpässe 2026/2027 und Münchner Familienpässe 2027
+- TOP 4.6.: Baumschutz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 5.1.2: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren und Familie
+- TOP 5.1.5: Bereich Budget und Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
+- TOP 1.1.1.: Nachtrag TOP 3.5.11: (E) Stadtbezirksbudget Kartoffelkombinat - der Verein e.V. „BNE-Workshop: Vom Acker auf den Teller" vom 21.10. bis 20.12.2026 4.956,00 €; Az. 0262.100-14-0525
+- TOP 1.1.2.: Nachtrag TOP 3.1.17: Zur Einführung der Gelben Tonne in München: Niedrigschwellige Bürgerinformation auf den Müllbehältern; Dringlichkeitsantrag der CSU-Fraktion
+- TOP 3.1.17.: Zur Einführung der Gelben Tonne in München: Niedrigschwellige Bürgerinformation auf den Müllbehältern; Dringlichkeitsantrag der CSU-Fraktion
+- TOP 3.5.11.: (E) Stadtbezirksbudget Kartoffelkombinat - der Verein e.V. „BNE-Workshop: Vom Acker auf den Teller" vom 21.10. bis 20.12.2026 4.956,00 €; Az. 0262.100-14-0525
