@@ -1,0 +1,69 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-09-29T14:10:00+02:00
+- Ende: 2026-09-29T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34219
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34219
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.3: Präsentationen
+- TOP 1.3.1: Präsentation: Familienberatung in Köln
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII, hier: „ANGELS Aerials – Flugtheater in Köln e. V.“ - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Umgestaltung Spielplatz 1 03 04 01 Am Römerturm - Auf dem Berlich - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Energetische Sanierung des Quäker Nachbarschaftsheimes, Kreutzer Straße 5 - 9, 50672 Köln - ungeändert beschlossen
+- TOP 4.2: Ausnahme vom Ratsbeschluss vom 13.02.2025 zur Nichtkompensation ausfallender Drittmittel durch städtische Mittel - ohne Votum behandelt
+- TOP 4.3: Entwicklung eines Integrierten Stadtentwicklungskonzeptes "Kalk-Mitte" - ungeändert beschlossen
+- TOP 4.4: 2. Kölner Lebenslagenbericht - abgesetzt für diese Sitzung
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Erfolgte Standardabsenkung in der Jugendhilfe? - abgesetzt für diese Sitzung
+- TOP -: Beantwortung der Anfrage AN/1248/2026 von der Ratsfraktion Die Linke. vom 06.08.2026 - abgesetzt für diese Sitzung
+- TOP 6.2.2: Einsatz von Sicherheitsdiensten in der Kölner Jugendhilfe - vertagt
+- TOP 6.2.3: Zustand der Kinderspielplätze in Köln - vertagt
+- TOP 6.2.4: Ökologische Standards bei der Sanierung und Neugestaltung von Spielplätzen - vertagt
+- TOP 6.2.5: Vertragslage Anmietung städtischer KiTas und deren Zustand - vertagt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung - Kenntnis genommen
+- TOP 7.1.2: Beantwortung der mündlichen Anfrage von Lena Dickgießer und Reinhard Houben aus der Sitzung des JHA vom 23. Juni 20226 betreffend "Girls´ Day und Boys´ Day 2026", Vorlagen-Nr. 1276/2026 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Aktionsplan Mehrsprachigkeit für städtische Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.2: Elternbrief des Jugendamtes an alle Kita-Familien - Kenntnis genommen
+- TOP 8.2.3: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Jahresbericht 2025 Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.3.2: Mitteilung zu den Berichtszahlen der Bundesstatistik § 8a SGB VIII Meldungen 1. Halbjahr 2026 - Kenntnis genommen
+- TOP 8.3.3: Überplanmäßiger Mehrbedarf im Bereich der Hilfen zur Erziehung in der Produktgruppe 0606, Hilfen für junge Menschen und ihre Familien, im Haushaltsjahr 2025 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Zwischenstand zum bezirklichen Kinder- und Jugendbeteiligungsformat Veedels-Check unter dem Titel: „HEY Porz- Check mit uns dein Veedel“ - Kenntnis genommen
+- TOP 8.4.2: Netzwerk Kinderschutz nach § 9 Landeskinderschutzgesetz NRW - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Bestandsaufnahme zur Umsetzung der Istanbul Konvention - Kenntnis genommen
+- TOP 8.5.2: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - abgesetzt für diese Sitzung
+- TOP 8.5.3: EHAP Plus Projekt 'INKA - In Köln Ankommen' Jahresbericht 2025 - Kenntnis genommen
+- TOP 8.5.4: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 8.5.5: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 8.5.6: Sachstand des Angebots "Plan 27" - Kenntnis genommen
+- TOP 8.5.7: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
