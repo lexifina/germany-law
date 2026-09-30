@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2026-09-30T15:00:00+02:00
+- Ende: 2026-09-30T17:45:00+02:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5534
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5534
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 30.09.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00127842.pdf
+- Ergebnisprotokoll: Einladung Kreistag 30.09.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00127842.pdf
+- Wortprotokoll: Einladung Kreistag 30.09.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00127842.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - Feststellung Beschlussfähigkeit
+- TOP 2: Umbesetzung von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 2.1: Umbesetzung für die Konferenz für Gesundheit, Pflege und Alter - einstimmig beschlossen
+- TOP 2.2: Besetzung des Verwaltungsausschusses der Agentur für Arbeit Mönchengladbach für die 14. Amtsperiode - einstimmig beschlossen
+- TOP 3: Bildung eines Kreiswahlausschusses zur Landtagswahl 2027 - einstimmig beschlossen
+- TOP 4: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2025
+- TOP 4.1: Tischvorlage: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2025 - einstimmig beschlossen
+- TOP 5: Verzicht auf den Gesamtabschluss 2025 gem. § 116a GO NRW - einstimmig beschlossen
+- TOP 6: Beitritt der Service- und Koordinierungsgesellschaft für preisgünstigen und bezahlbaren Wohnraum Rhein-Kreis Neuss mbH zu den Genossenschaften „MeerWohnen“, „Jüchener Wohnen“, „Genossenschaft Kommunale Wohnraumversorgung Kaarst“ und „Korschenbroicher - einstimmig beschlossen
+- TOP 7: Beitritt zum Regionalpakt für Hochwasserschutz Erft - einstimmig beschlossen
+- TOP 8: Archivkooperation Stadt Korschenbroich - Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 9: Zusammenlegung der Stadtbahnlinien U70 und U76 zu einer Linie - einstimmig beschlossen
+- TOP 10: Dienststellenstruktur Straßenverkehrsamt
+- TOP 10.1: Tischvorlage: Dienststellenstruktur Straßenverkehrsamt - zurückgestellt
+- TOP 11: Tischvorlage: Sicherheitsbefragung - zurückgestellt
+- TOP 12: Anträge
+- TOP 12.1: Antrag der AfD-Kreistagsfraktion vom 07.06.2026 zum Thema "Fehlfahrten" - mehrheitlich abgelehnt
+- TOP 12.2: Antrag der AfD-Kreistagsfraktion vom 07.06.2026 zum Thema "Arbeitskreis Evakuierungen" - mehrheitlich abgelehnt
+- TOP 12.3: Antrag der AfD-Kreistagsfraktion vom 07.06.2026 zum Thema "Bezahlkarte für Empfänger von Leistungen nach SGB XII" - mehrheitlich abgelehnt
+- TOP 12.4: Antrag der Kreistagsgruppe UWG/Freie Wähler Rhein-Kreis Neuss -Deutsche Zentrumspartei vom 09.09.2026 zum Thema "Änderung der Hauptsatzung des Rhein-Kreises Neuss" - mehrheitlich abgelehnt
+- TOP 12.5: Antrag der Kreistagsfraktionen CDU und FDP zum Thema "Ehrenamt stärken – Ehrenamtskarte optimieren – Ehrensache!" vom 14.09.2026 - zurückgestellt
+- TOP 12.6: Antrag der SPD-Kreistagsfraktion zum Thema "Prüfantrag: Aufbau eines gemeinsamen Schulcampus für die Förderschulen des Rhein-Kreises Neuss in Kaarst" vom 18.09.2026 - zurückgestellt
+- TOP 13: Mitteilungen
+- TOP 13.1: Sitzungskalender 2027 - zur Kenntnis genommen
+- TOP 13.2: Tischvorlage: Veranstaltung DEIN Kreis - DEINE Meinung - zur Kenntnis genommen
+- TOP 13.3: Tischvorlage: Hinweis über Dringlichkeitsbeschluss vor dem 04.11.2026 - zur Kenntnis genommen
+- TOP 14: Anfragen
+- TOP 14.1: Anfrage der AfD-Kreistagsfraktion vom 08.09.2026 zum Thema "Schutz und Resilienz der Stromversorgungsinfrastruktur im Rhein-Kreis Neuss" - zur Kenntnis genommen
+- TOP 14.2: Anfrage der Kreistagsgruppe UWG/Freie Wähler Rhein-Kreis Neuss -Deutsche Zentrumspartei zum Thema "Kritische Infrastruktur" vom 15.09.2026
+- TOP 14.2.1: Tischvorlage: Anfrage der Kreistagsgruppe UWG/Freie Wähler Rhein-Kreis Neuss -Deutsche Zentrumspartei zum Thema "Kritische Infrastruktur" vom 15.09.2026 und Antwort der Verwaltung - zur Kenntnis genommen
+- TOP 14.3: Anfrage der CDU- und FDP-Kreistagsfraktion zum Thema "IT-Sicherheit und Resilienz der Kreisverwaltung vor dem Hintergrund des Cyberangriffs auf das Berliner Landesnetz" vom 21.09.2026
+- TOP 14.3.1: Tischvorlage: Anfrage der CDU- und FDP-Kreistagsfraktion zum Thema "IT-Sicherheit und Resilienz der Kreisverwaltung vor dem Hintergrund des Cyberangriffs auf das Berliner Landesnetz" vom 21.09.2026 und Antwort der Verwaltung - zur Kenntnis genommen
+- TOP 14.4: Tischvorlage: Anfrage der SPD-Kreistagsfraktion zum Thema "Durchführung einer Sicherheitsbefragung" vom 22.09.2026 - zur Kenntnis genommen
+- TOP 14.5: Tischvorlage: Anfrage der CDU- und FDP-Kreistagsfraktion zum Thema „Mögliche Entlastungen durch die Überarbeitung der Prüfpflichten für elektrische Betriebsmittel“ vom 22.09.2026 und Antwort der Verwaltung - zur Kenntnis genommen
+- TOP 15: Bericht der Verwaltung / Beschlusskontrolle - zur Kenntnis genommen
+- TOP 16: Einwohnerfragestunde
