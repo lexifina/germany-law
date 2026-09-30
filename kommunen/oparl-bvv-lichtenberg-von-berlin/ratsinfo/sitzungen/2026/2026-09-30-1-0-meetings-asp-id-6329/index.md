@@ -1,0 +1,64 @@
+# 40. Sitzung in der IX. Wahlperiode der Vorlagen zur Kenntnisnahme
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2026-09-30T00:00:00+02:00
+- Ende: 2026-09-30T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6329
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6329
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einrichtung von Fahrradstraßen in Karlshorst
+- TOP 2: Runden Tisch "Rummelsburger See zeitnah fortführen"
+- TOP 3: Schritt für Schritt zur Mobilitätswende: Sanierung der Gehwege an der Franz-Jacob-Straße 33
+- TOP 4: Zuwegung zum Stadtpark barrierearm umgestalten
+- TOP 5: Aufwertung des Prerower Platzes noch in dieser Wahlperiode
+- TOP 6: ÖPNV-Anbindung für Hohenschönhausen Nord - mehr, besser, früher
+- TOP 7: Ein neuer Stadtplatz für das Gebiet Frankfurter Allee Süd
+- TOP 8: Vorhabenliste und Kriterienkatalog für Straßensanierungskonzept
+- TOP 9: Mobile Raumluftfilteranlagen zur Absicherung des Musterhygieneplans Corona an den Schulen
+- TOP 10: Sportstandort Karlshorst ausbauen
+- TOP 11: Verkehrsberuhigung in Anwohnerstraßen
+- TOP 12: Schnelle Wiederbesetzung freier Stellen der Sportplatzwarte ermöglichen
+- TOP 13: Wasserspielplätze, Pumpen und Planschen auch in Alt-Hohenschönhausen starten
+- TOP 14: Bedarfsgerechtes, modernes und dynamisches Zentren- und Einzelhandelskonzept schaffen
+- TOP 15: Weg der Mitte für Pferdesport und Wohnen in Karlshorst
+- TOP 16: Kein Schulessen wegwerfen
+- TOP 17: Schulwegsicherheit an der Hauptstraße verbessern
+- TOP 18: Sicheres Abstellen von E-Scootern und Leihfahrrädern
+- TOP 19: Planungsziele Bebauungsplanverfahren „Spreeküste“ 11-47a-1 VE um Wohnnutzung erweitern
+- TOP 20: 40 Jahre Neu-Hohenschönhausen – 4 x 40 neue Bäume für Neu-Hohenschönhausen
+- TOP 21: Einwohner:innen umfassend informieren
+- TOP 22: Aufnahme von Verhandlungen mit der HOWOGE über den Ankauf einer Waldfläche in Karlshorst
+- TOP 23: Runder Tisch Gärtnerstraße abschließen
+- TOP 24: Beteiligung beim Bauvorhaben Vincent-van-Gogh-Straße ermöglichen
+- TOP 25: Eine zusätzliche Gemeinschaftsschule für Alt-Hohenschönhausen
+- TOP 26: Gordischen Knoten im Bebauungsplanverfahren 11-165 Quartier Gehrenseestraße durchschlagen
+- TOP 27: Maßnahmen zur umfassenden Verbesserung der Infrastruktur und Verkehrssicherheit im Wohnquartier "Mein Falkenberg"
+- TOP 28: Ein Frauenzentrum für FLINTA* in Lichtenberg!
+- TOP 29: Rahmenplan Karlshorst/Ost zur Beschlussfassung vorlegen
+- TOP 30: Bebauungsplan 11-178 Trabrennbahn Karlshorst fortführen
+- TOP 31: Persönliche Gratulationen zum Spottpreis? - Ehrenamt und Alter würdigen
+- TOP 32: Sozialberatung für auf dem See lebende Menschen anbieten
+- TOP 33: Erholungsgrundstücke im Grünen Band erhalten
+- TOP 34: Stärkung der bürgernahen Dienstleistungen – Bearbeitungszeiten im Wohngeld- und „Bildung und Teilhabe“-Bereich verkürzen!
+- TOP 35: Junge Erwachsene aus HzE-Maßnahmen gezielt in Wohnungen vermitteln
+- TOP 36: Bebauungspläne am Blockdammweg und der Köpenicker Chaussee: Festsetzung nur mit besserem ÖPNV
+- TOP 37: Hitzeschutz erlebbar machen - Sprühnebelsysteme für Lichtenberg
+- TOP 38: Schulwegsicherheit in der Ferdinand-Schultze-Straße verbessern
+- TOP 39: Entwurf des Bezirkshaushaltsplans Lichtenberg von Berlin für die Haushaltsjahre 2026/27
+- TOP 40: Mülleimer zwischen Rummelsburg und Ostkreuz
+- TOP 41: Fertigstellung der Rahmenpläne Karlshorst-Ost und Karlshorst-Nordwest
+- TOP 42: Eisbären Juniors mit Fördermitteln auf die Rollen bringen
+- TOP 43: Untersuchung und konzeptionelle Umgestaltung der Rheinsteinstraße zur Verbesserung der Verkehrssituation und Erhöhung der Verkehrssicherheit
+- TOP 44: Terminvergabe Einschulungsuntersuchung reformieren
+- TOP 45: Lebendige Nachbarschaft statt Leerstand - Nutzung der Freifläche Gotlindestraße 39 voranbringen und Beteiligung absichern
+- TOP 46: Verwendung der Förderung aus den Mitteln des Sondervermögens des Bundes für Infrastrukturinvestitionen für das Projekt Ersatzneubau des Sportfunktionsgebäudes Bornitzstraße
+- TOP 47: Bebauungsplan 11-160 – Einstellung des Verfahrens Arbeitstitel: „Rheinpfalzallee“
+- TOP 48: Büroraumverdichtung für die Bezirksverwaltung Lichtenberg
+- TOP 49: Bebauungsplan 11-36 - Einstellung Arbeitstitel: „Kaufhalle Türrschmidtstraße“
+- TOP 50: Abschluss eines neuen Frauenförderplanes für die Jahr 2026 – 2032
