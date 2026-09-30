@@ -51,24 +51,23 @@ Allgemeines Kostenverzeichnis:
  | Anmerkung zu 104.00: | 
  | Porto und sonstige Versandkosten sind als Auslagen hinzuzurechnen. Im Bußgeldverfahren gelten die Regelungen des Gesetzes über Ordnungswidrigkeiten. | 
 105 | Datenschutzrechtliche Angelegenheiten | 
-105.00 | Bearbeitung einer offenkundig unbegründeten oder exzessiven Anfrage gemäß Artikel 57 Absatz 4 DSGVO | 100 bis 500 Euro
-105.01 | Anweisung nach Artikel 58 Absatz 1 Buchstabe a DSGVO, wenn aufgrund der bereitgestellten Informationen ein Rechtsverstoß festgestellt wird | 50 bis 1 000 Euro
-105.02 | Durchführung einer Untersuchung in Form einer Datenschutzüberprüfung nach Artikel 58 Absatz 1 Buchstabe b DSGVO, wenn aufgrund der Datenschutzüberprüfung ein Rechtsverstoß festgestellt wird | 50 bis 1 000 Euro
+105.00 | Bearbeitung einer offenkundig unbegründeten oder exzessiven Anfrage gemäß Artikel 57 Absatz 4 DSGVO, § 87 BremPolG oder § 59 BremJVollzDSG | 100 bis 500 Euro
+105.01 | Behördliches Handeln oder behördliche Maßnahmen nach Artikel 58 Absatz 1 DSGVO gegenüber nicht-öffentlichen Stellen, soweit diese durch Verwaltungsakt erfolgen | 50 bis 1 000 Euro
+105.02 | Behördliches Handeln oder behördliche Maßnahmen nach Artikel 58 Absatz 2 Buchstabe a bis h und j DSGVO gegenüber nicht-öffentlichen Stellen, soweit diese durch Verwaltungsakt erfolgen | 100 bis 5 000 Euro
 105.03 | Durchführung einer Überprüfung der nach Artikel 42 Absatz 7 DSGVO erteilten Zertifizierungen nach Artikel 58 Absatz 1 Buchstabe c DSGVO | 100 bis 1 500 Euro
-105.04 | Maßnahmen nach Artikel 58 Absatz 2 Buchstabe b bis h und j DSGVO, soweit diese durch Verwaltungsakt erfolgen | 100 bis 5 000 Euro
-105.05 | Abgabe einer Stellungnahme gemäß Artikel 58 Absatz 3 Buchstabe d in Verbindung mit Artikel 40 Absatz 5 DSGVO | 500 bis 5 000 Euro
-105.06 | Genehmigung oder Billigung von Entwürfen von Verhaltensregeln nach Artikel 58 Absatz 3 Buchstabe d DSGVO in Verbindung mit Artikel 40 Absatz 5 DSGVO | 2 000 bis 50 000 Euro
-105.07 | Akkreditierung von Zertifizierungsstellen nach Artikel 58 Absatz 3 Buchstabe e DSGVO in Verbindung mit Artikel 43 DSGVO | 
+105.04 | Abgabe einer Stellungnahme gemäß Artikel 58 Absatz 3 Buchstabe d DSGVO in Verbindung mit Artikel 40 Absatz 5 DSGVO | 500 bis 5 000 Euro
+105.05 | Genehmigung oder Billigung von Entwürfen von Verhaltensregeln nach Artikel 58 Absatz 3 Buchstabe d DSGVO in Verbindung mit Artikel 40 Absatz 5 DSGVO | 2 000 bis 50 000 Euro
+105.06 | Akkreditierung von Zertifizierungsstellen nach Artikel 58 Absatz 3 Buchstabe e DSGVO in Verbindung mit Artikel 43 DSGVO | 
  | Erstmalige Akkreditierung | 2 500 bis 50 000 Euro
  | Verlängerte Akkreditierung | 1 000 bis 40 000 Euro
-105.08 | Erteilung einer Zertifizierung gemäß Artikel 58 Absatz 3 Buchstabe f DSGVO in Verbindung mit Artikel 42 Absatz 5 DSGVO | 
+105.07 | Erteilung einer Zertifizierung gemäß Artikel 58 Absatz 3 Buchstabe f DSGVO in Verbindung mit Artikel 42 Absatz 5 DSGVO | 
  | Erstmalige Zertifizierung | 2 000 bis 50 000 Euro
  | Verlängerte Zertifizierung | 1 000 bis 35 000 Euro
-105.09 | Billigung von Zertifizierungskriterien gemäß Artikel 58 Absatz 3 Buchstabe f DSGVO in Verbindung mit Artikel 42 Absatz 5 DSGVO | 2 500 bis 50 000 Euro
-105.10 | Genehmigung von Vertragsklauseln gemäß Artikel 58 Absatz 3 Buchstabe h DSGVO in Verbindung mit Artikel 46 Absatz 3 Buchstabe a DSGVO | 2 000 bis 50 000 Euro
-105.11 | Genehmigung verbindlicher interner Vorschriften gemäß Artikel 58 Absatz 3 Buchstabe j DSGVO in Verbindung mit Artikel 47 DSGVO | 2 000 bis 50 000 Euro
-105.12 | Akkreditierung von Überwachungsstellen nach Artikel 41 Absatz 1 DSGVO | 
+105.08 | Billigung von Zertifizierungskriterien gemäß Artikel 58 Absatz 3 Buchstabe f DSGVO in Verbindung mit Artikel 42 Absatz 5 DSGVO | 2 500 bis 50 000 Euro
+105.09 | Genehmigung von Vertragsklauseln gemäß Artikel 58 Absatz 3 Buchstabe h DSGVO in Verbindung mit Artikel 46 Absatz 3 Buchstabe a DSGVO | 2 000 bis 50 000 Euro
+105.10 | Genehmigung verbindlicher interner Vorschriften gemäß Artikel 58 Absatz 3 Buchstabe j DSGVO in Verbindung mit Artikel 47 DSGVO | 2 000 bis 50 000 Euro
+105.11 | Akkreditierung von Überwachungsstellen nach Artikel 41 Absatz 1 DSGVO | 
  | Erstmalige Akkreditierung | 2 000 bis 50 000 Euro
  | Verlängerte Akkreditierung | 1 000 bis 40 000 Euro
-105.13 | Widerruf der Akkreditierung von Überwachungsstellen gemäß Artikel 41 Absatz 5 DSGVO | 1 500 bis 35 000 Euro
-105.14 | Verlangen der Aufsichtsbehörde nach Abberufung der oder des Datenschutzbeauftragten einer nichtöffentlichen Stelle nach § 40 Absatz 6 Satz 2 BDSG | 500 bis 2 000 Euro.
+105.12 | Widerruf der Akkreditierung von Überwachungsstellen gemäß Artikel 41 Absatz 5 DSGVO | 1 500 bis 35 000 Euro
+105.13 | Verlangen der Aufsichtsbehörde nach Abberufung der oder des Datenschutzbeauftragten einer nichtöffentlichen Stelle nach § 40 Absatz 6 Satz 2 BDSG | 500 bis 2 000 Euro
