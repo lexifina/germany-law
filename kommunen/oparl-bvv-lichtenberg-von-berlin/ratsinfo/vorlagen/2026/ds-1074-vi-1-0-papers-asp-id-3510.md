@@ -1,0 +1,22 @@
+# Einrichtung von Fahrradstraßen in Karlshorst
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/1074/VI
+- Art: Vorlage zur Kenntnisnahme (Abb.)
+- Datum: 2026-09-30
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=3510
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=3510
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=464087
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1431 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1454 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1478 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1505 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1608 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1772 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1810 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1862 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1874 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1901 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=6329 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=55
