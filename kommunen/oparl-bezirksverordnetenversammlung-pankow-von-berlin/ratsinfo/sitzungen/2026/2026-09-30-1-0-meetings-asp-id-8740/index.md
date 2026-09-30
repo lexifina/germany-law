@@ -1,0 +1,54 @@
+# 41. ordentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2026-09-30T17:30:00+02:00
+- Ende: 2026-09-30T18:51:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8740
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=8740
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=361240
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Klimaschutz in der Investitionsplanung mit klimaneutraler, effizienter Energie- und Wärmeversorgung - in der BVV abgelehnt
+- TOP 1.9: Gemeinsam für Kinder und Jugendliche – Eine BVV-Sitzung im Jahr für die Anliegen unserer jüngsten Bürger*innen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Hitzeresiliente Stadtentwicklung durch blau-grüne Infrastruktur - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Schließung der kommunalen Kinder- und Jugendfreizeiteinrichtung Trarbacher, Trarbacher Straße 23, 13088 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Kritische Kommentierung des Sowjetischen Ehrenmals Schönholzer Heide - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Klimaanpassung im öffentlichen Raum durch Sonnensegel - in der BVV abgelehnt
+- TOP 1.14: Mehr Praxis, mehr Chancen: „Unternehmen mit Klasse“ nach Pankow holen - in der BVV abgelehnt
+- TOP 1.15: Dialogdisplays für Pankows Schulwegsicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Lücken in der Parkraumbewirtschaftung innerhalb des S-Bahnrings schließen II - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: IEK Romain-Rolland-Straße: Kleingartenanlage „Freies Land“ schützen - in der BVV abgelehnt
+- TOP 1.18: Barrierefreie Sanierung des Gehwegs in der Heinerdorfer Neukirchstraße vor Hausnummer 62 sowie den unmittelbar angrenzenden Hausnummern - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Verstetigung der Lichtsignalanlage Heinrich-Mann-Str. / Hermann-Hesse-Str. - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Nachweis der im Haushaltsjahr 2025 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen (VE) - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Besser vorbereitet in die kommenden Schöffenwahlen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Ergänzungsplan 2027 - Tarifgerechte Bezahlung für die Beschäftigten der freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Vielen Dank an die Mitarbeitenden der Pankower Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: vertagte Drucksachen 40. BVV - (offen)
+- TOP 2.1.1: Mehr Raum zur Entfaltung - attraktive Wohnviertel durch Entschleunigung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.2: Milieuschutz um den Weißen See - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Antrag keine Abkürzung durch die Mittelstraße in Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.4: P+R Parkplatz S-Bahn Pankow-Heinersdorf reanimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.5: Ehemaliges Umspannwerk Wilhelmsruh dauerhaft als Schulstandort sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Gesetzliche Absicherung von Mieterbeiräten bei landeseigenen Wohnungsunternehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Wichtige Daten zum Auslaufen der sozialen Wohnraumförderung ermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Poller vor der Grundschule in Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Dunkle Orte in Pankow - Maßnahmen gegen Angsträume schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Aktualisierung des Frauenförderplans des Bezirksamtes Pankow (2024-2029 – Aktualisierung 2026) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Beschluss zur Weiterführung des bezirklichen Klimaanpassungskonzeptes (Fertigstellung 02/2027) und Aufbau eines kontinuierlichen Controllings zur Ermöglichung der Beantra-gung der Anschlussförderung „Sachbearbeitung natürlicher Klimaschutz / Klimaanpassung“ unter Nutzung von Fördermitteln (Förderquote 90%) und Bereitstellung der notwendigen Eigenmittel (10%) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Aufteilung der Mittel zur Umsetzung des Aktionsprogramms „Sauberes Berlin: Für eine attraktive, saubere und lebenswerte Hauptstadt“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Bebauungsplan 3-35 „Breite Straße“ für die Grundstücke Breite Straße 35, 35A, Schul-straße 5 – 7 sowie eine Teilfläche des Bleichröderparks zwischen Breite Straße und Schulstraße im Bezirk Pankow, Ortsteil Pankow - mit Abschlussbericht zur Kenntnis genommen
