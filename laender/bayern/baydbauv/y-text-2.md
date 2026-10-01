@@ -1,0 +1,2 @@
+– des Art. 80a der Bayerischen Bauordnung (BayBO) in der Fassung der Bekanntmachung vom 14. August 2007 (GVBl. S. 588, BayRS 2132-1-B), die zuletzt durch § 1 des Gesetzes vom 23. Dezember 2020 (GVBl. S. 663) geändert worden ist, und
+– des Art. 7 Abs. 3 des Bayerischen Abgrabungsgesetzes (BayAbgrG) vom 27. Dezember 1999 (GVBl. S. 535, BayRS 2132-2-B), das zuletzt durch § 2 des Gesetzes vom 23. Dezember 2020 (GVBl. S. 663) geändert worden ist,
