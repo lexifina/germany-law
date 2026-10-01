@@ -36,6 +36,7 @@ Bundeswehrapotheken, Zweigapotheken, Notapotheken
 - [§ 20](0020.md)
 - [§ 20a](0020a.md)
 - [§ 20b](0020b.md)
+- [§ 20c](0020c.md)
 - [§ 21](0021.md)
 - [§ 22](0022.md)
 

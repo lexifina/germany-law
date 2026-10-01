@@ -58,6 +58,7 @@
 - [§ 39 Rechtsbehelfsbelehrung](0039.md)
 - [§ 40 Wirksamwerden](0040.md)
 - [§ 41 Bekanntgabe des Beschlusses](0041.md)
+- [§ 41a Elektronische Bekanntgabe; Übermittlung; Verordnungsermächtigungen](0041a.md)
 - [§ 42 Berichtigung des Beschlusses](0042.md)
 - [§ 43 Ergänzung des Beschlusses](0043.md)
 - [§ 44 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör](0044.md)

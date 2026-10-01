@@ -228,5 +228,6 @@ Teil 4
 | § 119 | Übergangsvorschrift für bereits verwahrte Urkundensammlungen |
 | § 120 | Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv |
 | § 121 | Übergangsvorschrift zu den §§ 48b und 48c |
+| § 122 | Übergangsvorschrift zum Zentralen Vorsorgeregister |
 | Anlage 1 (zu § 18d Absatz 1) | Gebührenverzeichnis (Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken) |
 | Anlage 2 (zu § 111f Satz 1) | Gebührenverzeichnis (verwaltungsrechtliche Notarsachen) |

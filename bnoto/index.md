@@ -240,6 +240,7 @@
 - [§ 119 Übergangsvorschrift für bereits verwahrte Urkundensammlungen](0119.md)
 - [§ 120 Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv](0120.md)
 - [§ 121 Übergangsvorschrift zu den §§ 48b und 48c](0121.md)
+- [§ 122 Übergangsvorschrift zum Zentralen Vorsorgeregister](0122.md)
 - [Anlage 1 (zu § 18d Absatz 1)Gebührenverzeichnis(Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken)](anlage-1.md)
 - [Anlage 2 (zu § 111f Satz 1)Gebührenverzeichnis(verwaltungsrechtliche Notarsachen)](anlage-2.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte I

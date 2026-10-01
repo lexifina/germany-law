@@ -33,3 +33,8 @@
 - [§ 14 Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente](0014.md)
 - [§ 15 Sonstige verfahrensbezogene elektronische Dokumente](0015.md)
 - [Schlussformel](schlussformel.md)
+
+## Kapitel 6 Elektronischer Rechtsverkehr zwischen Gerichten und Notaren zur Genehmigung notarieller Rechtsgeschäfte
+
+- [§ 16 Übermittlung der Anträge an das Gericht](0016.md)
+- [§ 17 Übermittlung der Genehmigungsbeschlüsse und Rechtskraftzeugnisse an den Notar](0017.md)

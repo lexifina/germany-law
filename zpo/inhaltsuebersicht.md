@@ -854,13 +854,14 @@
 | § 750 | Voraussetzungen der Zwangsvollstreckung |
 | § 751 | Bedingungen für Vollstreckungsbeginn |
 | § 752 | Sicherheitsleistung bei Teilvollstreckung |
-| § 753 | Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung |
-| § 753a | Vollmachtsnachweis |
-| § 754 | Vollstreckungsauftrag und vollstreckbare Ausfertigung |
-| § 754a | Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden |
+| § 752a | Versicherung der Vollmacht für Prozesshandlungen in der Zwangsvollstreckung |
+| § 753 | Vollstreckung durch Gerichtsvollzieher; elektronischer Rechtsverkehr; Verordnungsermächtigungen |
+| § 753a | Versicherung der Geldempfangsvollmacht bei der Vollstreckung durch Gerichtsvollzieher |
+| § 754 | Ermächtigung des Gerichtsvollziehers |
+| § 754a | Elektronischer Vollstreckungsauftrag |
 | § 755 | Ermittlung des Aufenthaltsorts des Schuldners |
 | § 756 | Zwangsvollstreckung bei Leistung Zug um Zug |
-| § 757 | Übergabe des Titels und Quittung |
+| § 757 | Bestätigung empfangener Leistungen |
 | § 757a | Auskunfts- und Unterstützungsersuchen |
 | § 758 | Durchsuchung; Gewaltanwendung |
 | § 758a | Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit |
@@ -985,8 +986,8 @@
 |  | Untertitel 3 |
 |  | Zwangsvollstreckung in Forderungen und andere Vermögensrechte |
 | § 828 | Zuständigkeit des Vollstreckungsgerichts |
-| § 829 | Pfändung einer Geldforderung |
-| § 829a | Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden |
+| § 829 | Pfändung einer Geldforderung; Verordnungsermächtigung |
+| § 829a | Elektronischer Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses |
 | § 830 | Pfändung einer Hypothekenforderung |
 | § 830a | Pfändung einer Schiffshypothekenforderung |
 | § 831 | Pfändung indossabler Papiere |

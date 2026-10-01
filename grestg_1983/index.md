@@ -50,7 +50,7 @@ Erteilung der Unbedenklichkeitsbescheinigung
 
 ## Achter Abschnitt Durchführung
 
-- [§ 22a Verordnungsermächtigung](0022a.md)
+- [§ 22a Elektronisches Verfahren zur Übermittlung; Verordnungsermächtigung](0022a.md)
 
 ## Neunter Abschnitt Übergangs- und Schlußvorschriften
 
