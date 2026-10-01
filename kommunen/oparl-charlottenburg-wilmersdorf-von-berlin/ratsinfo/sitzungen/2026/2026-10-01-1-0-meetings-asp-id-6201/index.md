@@ -1,0 +1,70 @@
+# 55. öffentliche Sitzung der Bezirksverordnetenversammlung Charlottenburg-Wilmersdorf von Berlin
+
+- Körperschaft: Charlottenburg-Wilmersdorf von Berlin
+- Beginn: 2026-10-01T17:00:00+02:00
+- Ende: 2026-10-01T21:50:00+02:00
+- Ort: Otto-Suhr-Allee 100, 10585 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6201
+- OParl: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=6201
+- Quelle: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 1.1: Das Wort hat die Bezirksbürgermeisterin
+- TOP 1.2: Einwohnerfragestunde
+- TOP 2: Geschäftliche Mitteilungen / Dringlichkeiten / Konsensliste
+- TOP 3: Wahlen
+- TOP 4: Mündliche Anfragen
+- TOP 5: Spontane Anfragen
+- TOP 6: Vorlagen zur Beschlussfassung
+- TOP 6.1: Klimaanpassung auf dem Friedhof Ruhleben trotz Neuaufnahme als Gartendenkmal
+- TOP 6.2: Kooperation zwischen Jugendhilfe, Gesundheit und Schule im Bezirk stärken
+- TOP 7: Beschlussempfehlungen
+- TOP 7.1: Radverkehr im Bezirk sicherer machen!
+- TOP 7.2: Sensibilisierung und Schulung der Mitarbeiter im Ordnungsamt für die erleichterten Regelungen für Sondernutzung des Straßenlandes durch die Gastronomie
+- TOP 7.3: Erlass von Parkgebühren für Schichtarbeiter und andere Berufsgruppen der notwendigen Infrastruktur an ihrem Arbeitsplatz
+- TOP 7.4: Entsiegelung der asphaltierten Fläche an der Einmündung der Masurenallee zum Theodor-Heuss-Platz
+- TOP 7.5: Falschparken zulasten des Fußverkehrs wirkungsvoll unterbinden
+- TOP 7.6: Leihrollerverbot nach Pariser Vorbild
+- TOP 7.7: Nach antisemitischem Brandanschlag: Bücherbox in Grundewald wieder aufbauen!
+- TOP 7.8: Tiny-Forest - Stadtwälder schützen Klima!
+- TOP 7.9: Sauberkeit, Ordnung und Gefahrenbeseitigung rund um den Stuttgarter Platz sowie im Bereich der Lewishamstraße und der Holtzendorffbrücke nachhaltig verbessern
+- TOP 7.10: Beflaggung von Schulen
+- TOP 7.11: Bürgerschaftliches Engagement für mehr Bänke im Bezirk unterstützen
+- TOP 7.12: Youth Card CW: Weil jung sein im Bezirk günstiger geht
+- TOP 7.13: Entwidmung der Waldfriedhöfe Güterfelde und Grunewald
+- TOP 7.14: Bodenbelag Basketballfeld am Gottfried-Keller-Gymnasium erneuern
+- TOP 7.15: Wohnungsbilanzen erstellen
+- TOP 7.16: Bolzplatz am Nibelungenland-Spielplatz sanieren und sauber halten
+- TOP 7.17: Spielplätze mit Spielboxen ausstatten – Spielen für alle!
+- TOP 7.18: Aushangflächen am Österreichpark besser nutzen
+- TOP 7.19: Beleuchtung im Gerhart-Hauptmann-Park wiederherstellen – nächster Versuch
+- TOP 7.20: Niemanden allein lassen: Einsamkeitsbeautragte:r für den Bezirk
+- TOP 7.21: Transparenz bei der Vergabe öffentlicher Fördermittel
+- TOP 7.22: Aktionsplan gegen den Eichenprozessionsspinner
+- TOP 7.23: Teilnahme am Red Wednesday – Ein Zeichen gegen Christenverfolgung setzen
+- TOP 7.24: Die Geschichte der „Verschickungskinder“ nach 1945 sichtbar machen
+- TOP 7.25: Aufklärung zum Drogenkonsum in der Nachbarschaft vorantreiben
+- TOP 7.26: Dauerhafte Sicherung der Ausstellung „Das Romanische Café im Berlin der 1920er Jahre“ im Europa-Center
+- TOP 7.27: Eine Kiezkantine für unser Rathaus!
+- TOP 7.28: Fachtagung Stress
+- TOP 7.29: Anwohnerschutz während Großveranstaltungen erhöhen
+- TOP 7.30: Eichenprozessionsspinner endlich wirksam bekämpfen: Anwohner, Kinder und den Volkspark Jungfernheide schützen
+- TOP 8: Vertagte Anträge
+- TOP 8.1: Nachhaltige Wahlwerbung – Wahlplakate begrenzen!
+- TOP 8.2: Klimanotstand im Bezirk beenden – jetzt!
+- TOP 8.3: Berliner Olympiabewerbung? Wir stimmen zu!
+- TOP 8.4: Regenbogenfahne auch im historischen Kontext als Sinnbild für Rebellion und Widerstand würdigen
+- TOP 9: Anträge
+- TOP 9.1: Gehwege in der Helmstedter Straße endlich sicher und barrierearm gestalten
+- TOP 9.2: Mehr Mülleimer für ein sauberes Charlottenburg-Wilmersdorf
+- TOP 9.3: Die Belastung der Königin-Elisabeth-Straße endlich reduzieren
+- TOP 9.4: Keine Verwaltungsgebühr für bürgerschaftliches Engagement
+- TOP 10: Große Anfragen
+- TOP 10.1: Situation am Stuttgarter Platz und im Bereich der Lewishamstraße: Sauberkeit, Drogenproblematik und Sicherheitslage
+- TOP 10.2: Wie attraktiv ist das Bezirksamt als Ausbildungsbetrieb?
+- TOP 10.3: Schulwegsicherheit zum Schuljahresbeginn im Bezirk
+- TOP 11: Weitere Große Anfragen
