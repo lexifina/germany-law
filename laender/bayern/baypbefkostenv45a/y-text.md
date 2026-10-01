@@ -1,0 +1,1 @@
+Auf Grund des § 45a Abs. 2 Satz 2 des Personenbeförderungsgesetzes (PBefG) in Verbindung mit § 3a der Verordnung zur Ausführung des Personenbeförderungsgesetzes (BayRS 922-2-W), geändert durch Verordnung vom 6. November 1990 (GVBl S. 487) erläßt das Bayerische Staatsministerium für Wirtschaft und Verkehr folgende Verordnung:
