@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-10-01T15:30:00+02:00
+- Ende: 2026-10-01T17:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34407
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34407
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohner*innen gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: Antrag auf aktuelle Stunde der Fraktion Bündnis 90/Die Grünen, CDU, SPD, Die Linke, VOLT betreffend "Zukunft der Spielstätte Depot in Köln-Mülheim" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Szenebericht Interkultur in den Sparten der freien Kulturszene - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Vergabe zur Konservierung von nass geborgenem Archivgut - ungeändert beschlossen
+- TOP 4.2: Verschiebung der Sonderausstellung im MAKK zum 75-jährigen Jubiläum der DGPh - ungeändert beschlossen
+- TOP 4.3: Haushaltsneutrale Umschichtung von Transferaufwendungen 2026 - ungeändert beschlossen
+- TOP 4.4: Aussetzen des Beirats Bildende Kunst im Jahr 2026 - Alternative beschlossen
+- TOP 4.5: 2. Kölner Lebenslagenbericht - ohne Votum behandelt
+- TOP 4.6: Verlängerung der Konzeptionsförderung Tanz für die Förderjahre 2027/2028 - ungeändert beschlossen
+- TOP 4.7: Vergabe der institutionellen Förderung von Interessenvertretungen der freien Szene - ungeändert beschlossen
+- TOP 4.8: Fortsetzung der vierjährigen Projektförderung für CINEPÄNZ - Junges Filmfestival Köln in den Haushaltsjahren 2027 und 2028 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 8.2: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - Kenntnis genommen
+- TOP 8.3: Zeughaus und Alte Wache für Interimistische Nutzung der Freien Szene öffnen - Kenntnis genommen
+- TOP 8.4: Sachstand zum Kooperationsprojekt „LABOR:leitsysteme“ von Un-Label, Orangerie Theater und TH Köln - Kenntnis genommen
+- TOP 8.5: Bericht der Behindertenbeauftragten der Stadt Köln 03/2026 - Kenntnis genommen
+- TOP 8.6: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 8.7: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 8.8: Barrierefreiheit sichtbar machen: Stadt Köln und Rausgegangen bringen gemeinsam entwickelte Lösung in die Anwendung - Kenntnis genommen
+- TOP 8.9: Zusammensetzung des Fachbeirats Kulturelle Teilhabe 2026 - Kenntnis genommen
+- TOP 8.10: Kölner Kulturfonds zur Kofinanzierung von Bundes- und EU-Förderungen - Kenntnis genommen
+- TOP 8.11: Tertialbericht 08/2026 - vertagt
+- TOP 8.12: Geschäftsbericht Kulturamt 2025 - vertagt
+- TOP 8.13: Ströer Kulturkalender für Köln - Kenntnis genommen
+- TOP 8.14: Gedenkort „Krankensammellager" im Gremberger Wäldchen (AN/0859/2025) - Kenntnis genommen
+- TOP 8.15: Hohenzollernbrücke/Gullivertunnel - Kenntnis genommen
+- TOP 8.16: Sachstandsbericht zur Zukunft des Kulturstandorts Köln-Mülheim - Kenntnis genommen
+- TOP 8.17: Neue Räume für die Freie Musikszene ab dem 01. Januar 2027: Der Kammermusiksaal des Humboldt-Gymnasiums steht der Freien Szene künftig für bis zu 20 Konzerte pro Jahr zur Verfügung. - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht zur Generalinstandsetzung des Römisch-Germanischen Museums (RGM) - Stand 24. August 2026 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln, Stand 9. September 2026 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (MiQua) - Stand 3.September 2026 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zu Maßnahmen der Kulturbaumaßnahmenliste (KBML) inkl. Kosten/Termin-Darstellung (Zeitstrahl) - vertagt
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung von mündlichen Anfragen aus der Sitzung des Finanzausschusses vom 29.06.2026 betreffend "Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2025" (0029/2026) - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage von RM von Bülow aus der Sitzung des Ausschusses Kunst und Kultur vom 25. Juni 2026 zur Sachstandsmitteilung 0004/2026/3 bezüglich der Verzögerungen bei der Generalinstandsetzung des Römisch-Germanischen Museums - Kenntnis genommen
+- TOP 10.3: Aktueller Sachstand Südbrücke - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Fraktion Volt betreffend "Erinnerung an die Verbrechen des Bosnienkrieges und den Genozid von Srebrenica" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Volt "Erinnerung an die Verbrechen des Bosnienkrieges und den Genozid von Srebrenica" - Kenntnis genommen
+- TOP 11.2: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Kulturraummanagement" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Kulturraummanagement" - Kenntnis genommen
+- TOP 11.3: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Stiftung Stadtgedächtnis" - Kenntnis genommen
+- TOP 11.4: Anfrage der Fraktion CDU betreffend "Szenebericht 2026 - Ateliersituation in Köln" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion betreffend "Szenebericht 2026 - Ateliersituation in Köln" - Kenntnis genommen
+- TOP 11.5: Anfrage der Volt-Fraktion betreffend "Weitere Rückfragen zur Verwendung des Kultur-Solis" - vertagt
+- TOP 11.6: Anfrage der Linken-Fraktion betreffend " Vergabe der Durchführung der Kölner Museumsnacht" - vertagt
+- TOP -: Beantwortung einer Anfrage der Die Linke.-Fraktion betreffend "Vergabe der Durchführung der Kölner Museumsnacht" (AN/1571/2026) - vertagt
+- TOP 12: Mündliche Anfragen
