@@ -1,0 +1,3 @@
+# § 52d Tierzucht
+(1) Die Landesanstalt für Landwirtschaft ist zuständige Behörde für den Vollzug des Tierzuchtgesetzes (TierZG), der Art. 1 bis 6 des Land- und forstwirtschaftlichen Zuständigkeits- und Vollzugsgesetzes (ZuVLFG) und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen sowie der unmittelbar geltenden Rechtsakte der Europäischen Union auf dem Gebiet der landwirtschaftlichen Tierzucht, soweit eine Zuständigkeit nicht anderweitig bestimmt ist.
+(2) Die Landesanstalt für Weinbau und Gartenbau ist zuständig für den Vollzug des Art. 5 ZuVLFG sowie der auf Grund von Art. 6 Nr. 2 ZuVLFG erlassenen Rechtsverordnungen.

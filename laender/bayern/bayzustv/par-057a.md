@@ -1,0 +1,3 @@
+# § 57a Anerkennung von Agrarorganisationen, Förderung von Erzeugerorganisationen für Obst und Gemüse
+(1) Für die Anerkennung von Agrarorganisationen für Obst und Gemüse ist die Landesanstalt für Landwirtschaft, für die Anerkennung der übrigen Agrarorganisationen das Staatsministerium für Ernährung, Landwirtschaft, Forsten und Tourismus zuständig.
+(2) Zuständige Behörde und Kontrollstelle gemäß der Durchführungsverordnung (EU) Nr. 543/2011 sowie zuständige Behörde gemäß dem Handelsklassengesetz ist im Bereich Obst und Gemüse die Landesanstalt für Landwirtschaft. Die Zuständigkeiten der Bundesanstalt für Landwirtschaft und Ernährung bleiben unberührt.

@@ -1,0 +1,2 @@
+# § 51d Atomgesetz
+Aufsichtsbehörde für die Beförderung von Kernbrennstoffen und Kernmaterialien ist das Landesamt für Umwelt. Im Übrigen ist für den Vollzug des Atomgesetzes (AtG) das Staatsministerium für Umwelt und Verbraucherschutz zuständig; es erteilt Genehmigungen gemäß § 7 AtG und Vorbescheide gemäß § 7a AtG bei Energieanlagen im Einvernehmen mit dem Staatsministerium für Wirtschaft, Landesentwicklung und Energie. Durch das Atomgesetz selbst bestimmte Zuständigkeiten bleiben unberührt.

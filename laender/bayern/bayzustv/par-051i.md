@@ -1,0 +1,2 @@
+# § 51i Ersatzbaustoffverordnung
+Für den Vollzug der Ersatzbaustoffverordnung (ErsatzbaustoffV) sind die Kreisverwaltungsbehörden auch insoweit zuständig, als sich ihre Zuständigkeit nicht bereits aus anderen Rechtsvorschriften ergibt. Für den Vollzug der Ersatzbaustoffverordnung für Anlagen, die der Bergaufsicht unterliegen, sind die Bergämter zuständig. Abweichend von den Sätzen 1 und 2 ist für die Anerkennung von Güteüberwachungsgemeinschaften nach den §§ 13a und 13b ErsatzbaustoffV das Landesamt für Umwelt zuständig.

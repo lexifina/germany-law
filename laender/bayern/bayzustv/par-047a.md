@@ -1,0 +1,6 @@
+# § 47a Versicherungsaufsichtsgesetz
+(1) Die Aufsicht über im Sinn des § 210 des Versicherungsaufsichtsgesetzes (VAG) kleine Versicherungsvereine auf Gegenseitigkeit führt
+1. die Regierung von Oberbayern für Vereine mit Sitz in Oberbayern, Niederbayern, der Oberpfalz und Schwaben,
+2. die Regierung von Mittelfranken für Vereine mit Sitz in Oberfranken, Mittelfranken und Unterfranken.
+(2) Vereine nach Abs. 1, die nicht gemäß § 5 VAG von der laufenden Aufsicht freigestellt sind, haben einen der Versicherungsunternehmens-Rechnungslegungsverordnung entsprechenden Jahresabschluss sowie eine vom Vorstand bescheinigte Abschrift der Niederschrift über die Mitglieder- oder Mitgliedervertreterversammlung binnen eines Monats nach dieser Versammlung, spätestens jedoch neun Monate nach Schluss des Geschäftsjahres bei der Aufsichtsbehörde einzureichen. Aus der Niederschrift muss ersichtlich sein, dass die Versammlung satzungsgemäß einberufen und beschlussfähig war, der Jahresabschluss genehmigt wurde und dem Vorstand und – soweit vorhanden – dem Aufsichtsrat oder dem entsprechenden Organ Entlastung erteilt worden ist.
+(3) Öffentlich-rechtliche Wettbewerbs-Pensionskassen, die der Aufsicht des Staatsministeriums für Wirtschaft, Landesentwicklung und Energie unterliegen, haben der Aufsichtsbehörde einen internen Bericht entsprechend Abs. 2 vorzulegen.
