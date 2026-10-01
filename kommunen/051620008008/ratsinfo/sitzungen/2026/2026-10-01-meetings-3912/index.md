@@ -1,0 +1,96 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2026-10-01T17:35:00+02:00
+- Ende: 2026-10-01T18:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3912
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/3912
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - mehrheitlich beschlossen
+- TOP 2: Verpflichtung neuer Ratsmitglieder
+- TOP 3: Fragestunde der Einwohnenden
+- TOP 4: Ortsrecht
+- TOP 4.1: Satzung zur Auflösung der Stadtbetriebe Grevenbroich AöR - mehrheitlich beschlossen
+- TOP 5: Mittelbereitstellungen
+- TOP 5.1: Bekanntmachung über- und außerplanmäßiger Mittelbereitstellung in den Monaten Juni bis August - Kenntnisnahme
+- TOP 6: Zuleitung des Entwurfs des Jahresabschlusses 2025 und seiner Anlagen an den Rat - Kenntnisnahme
+- TOP 7: Befreiung von der Aufstellung des Gesamtabschlusses für das Jahr 2025 gem. § 116a GO NRW - einstimmig beschlossen
+- TOP 8: NRW-Infrastrukturgesetz (Sondervermögen): Abweichung der Quotierung - einstimmig beschlossen
+- TOP 9: Finanzzwischenbericht zum 30.06.2026 - Kenntnisnahme
+- TOP 10: Förderung EnSanRR für die Sanierung der Großsporthalle Gustorf - einstimmig beschlossen
+- TOP 11: Ernennung des Brandrates Reiner Gärtke zum Leiter der Freiwiligen Feuerwehr der Stadt Grevenbroich sowie die Ernennung des Brandamtsrates Maximilian Chiandetti zum stellvertretenden Leiter der Freiwilligen Feuerwehr Grevenbroich - einstimmig beschlossen
+- TOP 12: Brandschutzbedarfsplan - mehrheitlich beschlossen
+- TOP 13: Neuwahl der Schiedsperson für den Schiedsamtsbezirk VI (Gustorf / Gindorf) - einstimmig beschlossen
+- TOP 14: Vertretung der Stadt in wirtschaftlichen Unternehmen und in Gremien Dritter, hier: Verkehrsgesellschaft Kreis Neuss mbH - mehrheitlich beschlossen
+- TOP 15: Beratungspunkte Ausschüsse
+- TOP 15.1: Entscheidung über Beratungspunkte aus dem Ausschuss für Bauen und Umwelt
+- TOP 15.1.1: Initiierung von "ÖKOPROFIT" gemäß Klimaschutzkonzept - einstimmig beschlossen
+- TOP 15.2: Entscheidung über Beratungspunkte aus dem Jugendhilfeausschuss
+- TOP 15.2.1: Änderung der Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder in der Stadt Grevenbroich - einstimmig beschlossen
+- TOP 15.3: Entscheidung über Beratungspunkte aus dem Ausschuss für Planung und Strukturwandel
+- TOP 15.3.1: BP Nr. G 222 "August-Münker-Straße" im Ortsteil Allrath (Abwägung und Satzungsbeschluss) - einstimmig beschlossen
+- TOP 15.3.2: Erlass einer Vorkaufsrechtssatzung für den Bereich "Wevelinghoven-Süd" im Ortsteil Wevelinghoven - einstimmig beschlossen
+- TOP 15.3.3: Erlass einer Vorkaufsrechtssatzung für den Bereich "Auf den Hundert Morgen" im Ortsteil Kapellen - einstimmig beschlossen
+- TOP 15.4: Entscheidung über Beratungspunkte aus dem Ausschuss für Schule und Sport
+- TOP 15.4.1: Genehmigung zur Beauftragung des zweiten Bauabschnitts des Vereinsheims auf der Sportanlage Wevelinghoven - einstimmig beschlossen
+- TOP 15.4.2: Benennung der Dreifachturnhalle am neuen Schulstandort der 3. Gesamtschule in Grevenbroich-Wevelinghoven in "Theo-Hoer-Halle" - von der Tagesordnung abgesetzt
+- TOP 15.5: Entscheidung über Beratungspunkte aus dem Ausschuss für Arbeit und Soziales
+- TOP 15.5.1: Bezahlkarte für geflüchtete Menschen - mehrheitlich beschlossen
+- TOP 16: Beantwortung Anträge und Anfragen aus den letzten Sitzungen
+- TOP 16.1: Maßnahmen zur Vermeidung von Überflutungen in der Rübenstraße im Ortsteil Kapellen (Antrag-Nr.: 49/2026) - Kenntnisnahme
+- TOP 16.2: Beitritt der Stadt in die Initiative "Mayors for Peace" (Antrag-Nr.: 74/2026) - einstimmig beschlossen
+- TOP 16.3: Anfrage "KI in der Grevenbroicher Verwaltung" (Anfrage-Nr. 72/2026) - Kenntnisnahme
+- TOP 16.4: Anfrage zur Übersicht von Fördermitteln im Strukturwandel (Anfrage-Nr.: 63/2026) - Kenntnisnahme
+- TOP 16.5: Anfrage zu mehr Schutz für KITA-Kinder und städtischem Personal (Anfrage Nr.:15/2025) - Kenntnisnahme
+- TOP 16.6: Temporäre Nutzungseinschränkung und Zutrittsbeschränkung des Platzes der Deutschen Einheit während der gesetzlichen Ruhezeit (Antrag-Nr.: 81/2026) - Kenntnisnahme
+- TOP 16.7: Akuter Mangel an Inobhutnahmestellen (Anfrage-Nr.: 66/2026) - Kenntnisnahme
+- TOP 16.8: Leistungsüberprüfung externe Dienstleistungen (Anfrage-Nr.: 55/2026) - Kenntnisnahme
+- TOP 16.9: Neubau bzw. Wiederherstellung der Fußgängerbrücke an der Erft zwischen Gruissem und Münchrath - Sachstand, Übergangslösung und Zeitplan (Anfrage-Nr.: 93/2026) - Kenntnisnahme
+- TOP 16.10: Unzuverlässige Sperrmüllabholung in mehreren Ortsteilen - Ursachen, Zuständigkeiten und Maßnahmen zur Verbesserung (Anfrage-Nr.: 92/2026) - Kenntnisnahme
+- TOP 16.11: Beantwortung der Anfrage Nr. 75/2026: Schwimmunterricht und Schwimmfähigkeit an Grevenbroicher Grundschulen - Kenntnisnahme
+- TOP 16.12: Anfrage zur Zusammenarbeit und Beteiligung von Migrantenvereinen in der Stadt Grevenbroich (Anfrage-Nr.: 23/2026) - Kenntnisnahme
+- TOP 17: Schriftliche Anträge
+- TOP 17.1: Ausschussumbesetzung (Antrag-Nr.: 109/2026) - einstimmig beschlossen
+- TOP 17.2: Antrag auf Ausschussumbesetzung (Antrag-Nr.: 111/2026) - einstimmig beschlossen
+- TOP 17.3: Umbesetzung von Ausschüssen und Gremien / Nachbesetzung (Antrag-Nr.: 114/2026) - einstimmig beschlossen
+- TOP 17.4: Antrag auf Ausschussumbesetzung (Antrag-Nr.: 116/2026) - einstimmig beschlossen
+- TOP 17.5: Ausschussumbesetzung (Antrag-Nr.: 119/2026) - einstimmig beschlossen
+- TOP 17.6: Umbesetzung (Antrag-Nr.: 125/2026) - einstimmig beschlossen
+- TOP 17.7: Antrag zur Berücksichtigung des Namens des ehemaligen Bürgermeisters Theo Hoer bei künftigen Benennungen von Straßen, Plätzen oder öffentlichen Anlagen (Antrag-Nr.: 108/2026) - von der Tagesordnung abgesetzt
+- TOP 17.8: Kühle Räume schaffen - Hitzeschutz in öffentlich zugänglichen Gebäuden und Einrichtungen stärken (Antrag-Nr.: 110/2026) - einstimmig beschlossen
+- TOP 17.9: Coole Schulhöfe für Grevenbroich - Teilnahme am Landesprogramm prüfen (Antrag-Nr.: 112/2026) - einstimmig beschlossen
+- TOP 17.10: "Grevenbroich gießt" - Bürgerbeteiligung zur Sicherung des Stadtgrüns in Hitzeperioden (Antrag-Nr.: 113/2026) - einstimmig beschlossen
+- TOP 17.11: Fristenregelung für die Beantwortung von Anfragen der Fraktionen (Antrag-Nr.: 115/2026) - einstimmig beschlossen
+- TOP 17.12: Einführung des Programms "Digitallotsen - Jung hilft Alt" in Grevenbroich (Antrag-Nr.: 120/2026) - einstimmig beschlossen
+- TOP 17.13: Antrag zu Informationsvorlage Nummer: 275/2025/1 - Sachstandsbericht (Antrag-Nr.: 121/2026) - einstimmig beschlossen
+- TOP 17.14: Prüfauftrag zur Regelung der Betriebszeiten von Leuchtreklame an Gaststätten und Ladenlokalen in Mischgebieten zum Schutz der Nachtruhe (Antrag-Nr.: 122/2026) - einstimmig beschlossen
+- TOP 17.15: Vertagung der endgültigen Beschlussfassung über die Fortschreibung des Brandschutzbedarfsplans der Stadt Grevenbroich (Antrag-Nr.: 124/2026) - von der Tagesordnung abgesetzt
+- TOP 17.16: Kommunales Ökokonto für Grevenbroich einrichten (Antrag-Nr.: 126/2026) - einstimmig beschlossen
+- TOP 17.17: Ehrenamtliche Grünpflege als Kriterium für die Ehrenamtskarte anerkennen (Antrag-Nr.: 127/2026) - einstimmig beschlossen
+- TOP 17.18: Klimaanpassungskonzept für Grevenbroich (Antrag-Nr.: 128/2026) - einstimmig beschlossen
+- TOP 17.19: Ausweitung und Einhaltung des Verbots des Radverkehrs und E-Scootern in der Fußgängerzone (Breite Straße und Kölner Straße) zur Erhöhung der Verkehrssicherheit und des Fußgängerschutzes (Antrag-Nr.: 129/2026) - einstimmig beschlossen
+- TOP 17.20: Querungshilfe auf der Wehler Straße in Neukirchen (Antrag-Nr.: 132/2026) - einstimmig beschlossen
+- TOP 17.21: Umgestaltung Platz "Schubertstraße" in Kapellen (Antrag-Nr.: 133/2026) - einstimmig beschlossen
+- TOP 17.22: Prüfung und Umsetzung von Maßnahmen zur Vermeidung von Schäden an parkenden Fahrzeugen im Einmündungsbereich Talstraße/Industriestraße (Antrag-Nr.: 134/2026) - einstimmig beschlossen
+- TOP 17.23: Erftbrücke zwischen Gruissem und Münchrath für Fußgänger zugänglich machen (Antrag-Nr.: 135/2026) - einstimmig beschlossen
+- TOP 17.24: Ausstattung der städtischen Schulen und Kitas mit Klimatisierungssystemen (Antrag-Nr.: 136/2026) - einstimmig beschlossen
+- TOP 17.25: Lückenschluss Radweg Talstraße in Kapellen (Antrag-Nr.: 137/2026) - einstimmig beschlossen
+- TOP 17.26: Installierung einer festen Pumptrack-Anlage auf dem Bolzplatz an der Viktoriastraße in Neurath (Antrag-Nr.: 138/2026) - einstimmig beschlossen
+- TOP 17.27: Errichtung eines Kolumbariums auf dem Friedhof an der "Montanusstraße" in Grevenbroich Stadtmitte (Antrag-Nr.: 139/2026) - einstimmig beschlossen
+- TOP 17.28: Anpassung der Gebühren für Gebärdensprachkurse der VHS (Antrag-Nr.: 140/2026) - einstimmig beschlossen
+- TOP 17.29: Entschärfung der Verkehrssituation auf der "Erftstraße" Höhe "Kleine Straße" in Frimmersdorf (Antrag-Nr.: 141/2026) - einstimmig beschlossen
+- TOP 18: Schriftliche Anfragen
+- TOP 18.1: Anfrage zur Existenz unbeantworteter Anfragen (Anfrage-Nr.: 117/2026) - Kenntnisnahme
+- TOP 18.2: Sanierung Kunstrasenplätze (Anfrage-Nr.: 118/2026) - Kenntnisnahme
+- TOP 18.3: Sachstand und Ergebnisse der Arbeit der "Taskforce Problemimmobilien" im Stadtgebiet und in sozialen Brennpunkten (Anfrage-Nr.: 123/2026) - Kenntnisnahme
+- TOP 18.4: Anfrage zum Stand der Umgestaltung des Marktplatzes in Gustorf (Anfrage-Nr.: 130/2026) - Kenntnisnahme
+- TOP 18.5: Anfrage zur Zukunft des geschlossenen Seniorenheims in Gustorf (Anfrage-Nr.: 131/2026) - Kenntnisnahme
+- TOP 18.6: Nutzung des Jugendzentrums und Umsetzung des Angebots für Jugendliche unter 16 Jahren in Kapellen (Anfrage-Nr.: 142/2026) - von der Tagesordnung abgesetzt
+- TOP 18.7: Erhebung von Straßenbaugebühren (Anfrage-Nr.: 143/2026) - Kenntnisnahme
+- TOP 19: Mitteilungen des Bürgermeisters
