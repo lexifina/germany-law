@@ -1,0 +1,31 @@
+# Verordnung über gerichtliche Zuständigkeiten im Bereich des Staatsministeriums der Justiz
+(Gerichtliche Zuständigkeitsverordnung Justiz – GZVJu)
+Vom 11. Juni 2012
+(GVBl. S. 295)
+BayRS 300-3-1-J
+Gerichtliche Zuständigkeitsverordnung Justiz (GZVJu) vom 11. Juni 2012 (GVBl. S. 295, BayRS 300-3-1-J), die zuletzt durch Verordnung vom 31. August 2026 (GVBl. S. 591) geändert worden ist
+Änderungen
+1. § 1 ÄndV vom 9.9.2013 (GVBl. S. 604)
+2. § 1 ÄndV vom 10.12.2014 (GVBl. S. 575)
+3. § 1 V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 28.8.2016 (GVBl. S. 282)
+4. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 27.11.2017 (GVBl. S. 559)
+5. V zur Änd. der Gerichtlichen Zuständigkeitsverordnung Justiz vom 13.5.2018 (GVBl. S. 372)
+6. § 4 V zur Änd. der DelegationsV und anderer Rechtsvorschriften vom 2.10.2018 (GVBl. S. 745)
+7. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 28.12.2018 (GVBl. 2019 S. 2)
+8. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 6.4.2020 (GVBl. S. 205)
+9. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 5.8.2020 (GVBl. S. 513)
+10. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 24.11.2020 (GVBl. S. 654)
+11. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 8.9.2021 (GVBl. S. 583)
+12. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 6.7.2022 (GVBl. S. 408)
+13. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 12.9.2022 (GVBl. S. 633)
+14. § 1 V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz und weiterer Rechtsvorschriften vom 13.12.2022 (GVBl. S. 727, 2023 S. 18)
+15. § 2 V zur Änderung der Delegationsverordnung und der Gerichtlichen Zuständigkeitsverordnung Justiz vom 25.10.2023 (GVBl. S. 606)
+16. § 1 V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz und der E-Rechtsverkehrsverordnung Justiz vom 20.12.2023 (BayMBl. Nr. 657 )
+17. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 2.1.2024 (BayMBl. Nr. 1 )
+18. V zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 17.9.2024 (GVBl. S. 463)
+19. § 2 Verordnung zur Änderung der Delegationsverordnung und der Gerichtlichen Zuständigkeitsverordnung Justiz vom 6.5.2025 (GVBl. S. 134)
+20. §§ 1, 2 Verordnung zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 13.5.2025 (GVBl. S. 150)
+21. Verordnung zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 1.12.2025 (GVBl. S. 611)
+22. Verordnung zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 9.2.2026 (GVBl. S. 50)
+23. Verordnung zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 23.3.2026 (GVBl. S. 174)
+24. Verordnung zur Änderung der Gerichtlichen Zuständigkeitsverordnung Justiz vom 31.8.2026 (GVBl. S. 591)

@@ -1,0 +1,2 @@
+# § 9a Führung des Gesellschaftsregisters
+Die Führung des Gesellschaftsregisters wird den Amtsgerichten übertragen, die gemäß § 376 Abs. 1 FamFG in Verbindung mit § 374 Nr. 1 FamFG und § 9 für die Führung des Handelsregisters zuständig sind.

@@ -1,0 +1,7 @@
+# § 1a Commercial Court am Oberlandesgericht München
+(1) Bei dem Oberlandesgericht München bestehen zwei Zivilsenate als Commercial Court. Dem Commercial Court wird die Zuständigkeit auch für die Oberlandesgerichtsbezirke Bamberg und Nürnberg übertragen.
+(2) Der Commercial Court ist zuständig für folgende Sachgebiete:
+1. Lieferkettenstreitigkeiten zwischen Unternehmern (§ 14 des Bürgerlichen Gesetzbuchs – BGB) mit Ausnahme von Streitigkeiten auf dem Gebiet des gewerblichen Rechtsschutzes, des Urheberrechts sowie über Ansprüche nach dem Gesetz gegen den unlauteren Wettbewerb (UWG),
+2. Streitigkeiten zwischen Gesellschaft und Mitgliedern des Leitungsorgans oder Aufsichtsrats mit Ausnahme von Streitigkeiten über die Wirksamkeit oder Rechtmäßigkeit von Beschlüssen von Gesellschaftern oder Gesellschaftsorganen, Verfahren nach § 71 Abs. 2 Nr. 4 GVG oder nach § 375 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG).
+Lieferkettenstreitigkeiten sind bürgerliche Rechtsstreitigkeiten zwischen dem Hersteller eines körperlichen Endprodukts und einem unmittelbaren oder mittelbaren Zulieferer sowie zwischen den Zulieferern untereinander. Die Zuständigkeit nach Satz 1 erstreckt sich auch auf Sachgebiete, in denen die ausschließliche Zuständigkeit des Landgerichts oder ein sonstiger ausschließlicher Gerichtsstand besteht.
+(3) Verfahren vor dem Commercial Court werden unter den Voraussetzungen des § 184a Abs. 3 GVG vollständig in englischer Sprache geführt.
