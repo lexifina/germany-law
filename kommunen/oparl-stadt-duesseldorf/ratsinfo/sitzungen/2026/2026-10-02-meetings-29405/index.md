@@ -1,0 +1,59 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-02T16:00:00+02:00
+- Ende: 2026-10-02T19:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29405
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29405
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner für bis zum 18.09.2026 eingegangene Fragen
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 03.07.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Bebauungsplan - Entwurf Nr. 09/14 - Benrodestraße/Marbacher Straße - Empfehlung mehrheitlich beschlossen
+- TOP 5.2: Radverkehrsführung Benrather Schloßallee im Abschnitt Schöne Aussicht / Pigageallee - vertagt
+- TOP 5.3: Errichtung von Sharingstationen im Umfeld der Mobilitätsstation Werstener Dorfstraße - zur Kenntnis genommen
+- TOP 5.4: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - Maßnahme Senefelderweg (4 Bäume) - einstimmig beschlossen
+- TOP 5.5: Bezirkssportanlage Karl-Hohmann-Straße – Umbau Tennenspielfeld in Kunstrasen - Empfehlung einstimmig beschlossen
+- TOP 5.6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Bezahlbares Wohnen - Baubeginn „Nördlich Wimpfener Straße“ - Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Anschaffung von zwei Smiley-Anzeigen für den Stadtbezirk 9 - Antrag der CDU-Fraktion und SPD-Fraktion - abweichend beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Bepflanzung der Baumscheiben am Bahnsteig 3 der Haltestelle Werstener Dorfstraße - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 8.5: Frühzeitige Einbindung der Bezirksvertretung bei Stadtbaumstandorten mit Stellplatzentfall - Antrag der CDU-Fraktion - mehrheitlich beschlossen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Wir in Wersten e.V. - "Bierdeckel 2026" - einstimmig beschlossen
+- TOP 9.2: Martinsfreunde Benrath Mitte e.V. - Martinszug 2026 - einstimmig beschlossen
+- TOP 9.3: Christ Ambassadors Gospel Ministry e.V. - Sommerfest 2026 - einstimmig beschlossen
+- TOP 9.4: Wir in Wersten e.V. - Klassik am See 2026 - einstimmig beschlossen
+- TOP 9.5: KGS Einsiedelstraße - Präventionsprojekt "Mein Körper gehört mir" 2026 - einstimmig beschlossen
+- TOP 9.6: Martinsfreunde Hassels - Martinszug 2026 - einstimmig beschlossen
+- TOP 9.7: Heimatgemeinschaft Groß-Benrath e.V. - Nikolausfeier 2026 - einstimmig beschlossen
+- TOP 9.8: St. Elisabeth Schule - Martinszug 2026 - einstimmig beschlossen
+- TOP 9.9: Allgemeiner Bürgerverein Urdenbach e.V. - Weihnachtsbaum Josef-Kürten-Platz 2026 - einstimmig beschlossen
+- TOP 9.10: KG Reisholzer Quatschköpp - Sommerfest und Sessionseröffnung - einstimmig beschlossen
+- TOP 9.11: Verein der Freunde und Förderer der GGS Südallee e.V. - Martinszug 2026 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Telleringstraße / Paulsmühlenstraße - Herstellung Fußgängerüberwege und differenzierte Borde - Nachtrag zur Informationsvorlage BV9/015/2026 - zur Kenntnis genommen
+- TOP 10.2: Digitale Informationstafel Kamper Acker - Beschluss der Bezirksvertretung 9 vom 18.08.2023; BV9/159/2023 - zur Kenntnis genommen
+- TOP 10.3: Aufbringung eines Tempo-30-Piktogramms sowie Versetzung des Verkehrszeichens auf der Bahlenstraße in Wersten - Beschluss der Bezirksvertretung 9 vom 08.05.2026; BV9/102/2026 - zur Kenntnis genommen
+- TOP 10.4: Behebung von drei Problemstellen aus der Mängelliste des Radwegetests des ADFC im Stadtbezirk 9 - Beschluss der Bezirksvertretung 9 vom 08.05.2026; BV9/103/2026 - zur Kenntnis genommen
+- TOP 10.5: Schulwegsicherung für den neuen Schulkomplex - Beschluss der Bezirksvertretung 9 vom 13.03.2026; BV9/069/2026 - zur Kenntnis genommen
+- TOP 10.6: Sitzungstermine der Bezirksvertretung 9 im 1. Halbjahr 2027 - zur Kenntnis genommen
+- TOP 11: Haushaltsberatung - zur Kenntnis genommen
