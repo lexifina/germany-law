@@ -1,0 +1,4 @@
+### Abschnitt II Mittagsbetreuung
+# Art. 110a Mittagsbetreuung
+(1) Mittagsbetreuungen sind eigenständige Einrichtungen des Schulaufwandsträgers oder eines freien Trägers außerhalb der sonstigen Bildungs- und Betreuungsformen. Diese bieten den Erziehungsberechtigten in Zusammenarbeit mit der Schule eine verlässliche Betreuung für die Zeiten, die über das Unterrichtsende hinausgehen.
+(2) Mittagsbetreuungen werden bei Bedarf auf Antrag des jeweiligen Trägers an Grundschulen und Grundschulstufen an Förderschulen nach Maßgabe der im Staatshaushalt ausgebrachten Mittel im Zusammenwirken mit den Kommunen und den Erziehungsberechtigten angeboten. Art. 60a Abs. 2 und 3 gilt entsprechend mit der Maßgabe, dass die Vorlage des erweiterten Führungszeugnisses gegenüber der zuständigen Schulaufsichtsbehörde zu erfolgen hat. Für die Untersagung von Errichtung und Betrieb einer Mittagsbetreuung gilt Art. 110 entsprechend.
