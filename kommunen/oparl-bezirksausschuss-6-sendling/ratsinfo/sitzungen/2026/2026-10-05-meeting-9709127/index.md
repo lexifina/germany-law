@@ -1,0 +1,114 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2026-10-05T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9709127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9709127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Bürger*innensprechstunde (von 18:30 - 19:00 Uhr / 2 Min. Redezeit / 1 Person pro Thema)
+- TOP 2.1: Anstehende Bürgeranfragen
+- TOP 2.1.1.: Mädchen-Fußball in Sendling - kein ausreichendes Angebot
+- TOP 2.1.2.: Förderung für "Mädchen an den Ball"
+- TOP 2.1.3.: Aufstellen von Bänken und Radabstellanlagen in der Implerstraße 23
+- TOP 2.1.4.: Wahl des Migrationsbeirats am 22. November
+- TOP 2.1.5.: Vermüllung von Grünstreifen
+- TOP 2.1.6.: Wendeanlage Harras – Bitte um erneute Nachfrage zum aktuellen Sachstand
+- TOP 2.1.7.: Bitte um Prüfung eines Verkehrsspiegels an der Thalkirchner Straße / Bleyerstraße
+- TOP 2.1.8.: Antrag auf Fahrradstellplätze in der Lindwurmstraße 114
+- TOP 2.2: Bearbeitete Bürgeranfragen
+- TOP 2.2.1.: Parkplätze Untersendling
+- TOP 2.2.2.: Flaucher-Inseln - dauerhafte Lagerbildung und zunehmende Einschränkung der öffentlichen Nutzbarkeit
+- TOP 2.2.3.: Entfernung Wertstoffinsel Gotzinger Straße 17
+- TOP 2.2.4.: Entfernung Wertstoffinsel Gotzinger Straße 15
+- TOP 2.2.5.: Vollständiger Erhalt der denkmalgeschützten Kleinwohnanlage an der Fall-/ Zechstraße
+- TOP 2.2.6.: Baustelle Wackersbergerstraße – Lärmsituation
+- TOP 2.2.7.: Überprüfung der Beschilderung in der Brudermühlstraße
+- TOP 2.2.8.: Dringende Fahrradentfernung im Einstiegsbereich des Schienenersatzverkehrs
+- TOP 2.2.9.: Gehwegbeleuchtung Dietramszeller Platz
+- TOP 2.2.10.: Nicht angeleinter Hund am Harras
+- TOP 3.: Referatsvertreter*innen und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Bericht der Koordinierungsstelle LGBTIQ*, Dr. Claudia Krell
+- TOP 4.: Berichte der BA-Vorsitzenden/des BA-Vorstands, Berichte v. Beauftragten (max. 2 Min Redezeit)
+- TOP 4.1.: Bericht der BA-Vorsitzenden
+- TOP 5.: Unterausschuss Budget- und Satzungsangelegenheiten
+- TOP 5.1.: Entscheidungen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Ein temporärer Wohlfühlort gegen Einsamkeit am 14.11.2026 2.750,00€; Az. 0262.100-6-0648
+- TOP 5.1.2.: Einladung: Workshop zur Evaluation des MünchenBudgets
+- TOP 5.1.3.: Bestellung einer Städtischen Leistung zur Finanzierung von Familienpässen für Einrichtungen im Stadtbezirk Sendling (Bündnis 90/Die Grünen und SPD)
+- TOP 5.1.4.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e.V. „Für M. Eine Wanderausstellung zu sexualisierter Gewalt, K.O. Tropfen und Konsens vom 25.01.2027 - 07.02.2027“ 952,00 € / AZ: 0262.100-6-0649
+- TOP 5.2.: Anhörungen
+- TOP 5.3.: Anträge
+- TOP 5.4.: Unterrichtungen
+- TOP 5.4.1.: Verwendungsnachweise: - Bewerbung des Sendling Running Clubs vom 01.01.2026 - 01.07.2026
+- TOP 5.4.2.: Anpassung der Gebührensätze für das Betriebsgelände Großmarkthalle
+- TOP 5.4.3.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 3. Quartal 2026
+- TOP 5.5.: Sonstiges
+- TOP 6.: Unterausschuss Mobilität
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Anträge
+- TOP 6.4.: Unterrichtungen
+- TOP 6.4.1.: Falsch abmarkierte „Geteilte Abstellfläche“ am Harras wird entfernt und an der richtigen Stelle abmarkiert
+- TOP 6.4.2.: 2-spurige Implerstraße
+- TOP 6.4.3.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Axel-von-Ambesser-Straße (Südseite)
+- TOP 6.4.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Thalkirchner Straße 274 d
+- TOP 6.4.5.: Verkehrssituation durch SEV Implerstraße gegenüber der Schule
+- TOP 6.4.6.: Sanierung der U-Bahnhöfe Poccistraße und Goetheplatz – erste Bauphase erfolgreich abgeschlossen / Regelbetrieb zum Oktoberfest
+- TOP 6.4.7.: Arbeiten im Straßenraum; Gotzinger Straße 46-56 und Gotzinger Platz 4-6 Verlegung Fernwärmeleitung
+- TOP 6.4.8.: Abstellmöglichkeit auch für E-Roller an der MyRadl-Abstellanlage am Herzog-Ernst-Platz
+- TOP 6.4.9.: Verbesserung der Lebensqualität und Verkehrssicherheit in der Zechstraße
+- TOP 6.5.: Sonstiges
+- TOP 7.: Unterausschuss Öffentlicher Raum, Begrünung und Gewerbe
+- TOP 7.1.: Entscheidungen
+- TOP 7.2.: Anhörungen
+- TOP 7.2.1.: Antrag auf Baumfällung vom 16.09.2026 auf dem Grundstück Maronstraße 2
+- TOP 7.2.2.: Antrag auf Baumfällung vom 16.09.2026 auf dem Grundstück Ganghoferstraße 132 - 138
+- TOP 7.2.3.: Anhörung zu Veranstaltung auf öffentlem Grund: Aktion "Wohlfühlort" am Resi-Huber-Platz am 13.11.2026 (Ersatztermin: 20.11.2026)
+- TOP 7.2.4.: Antrag auf Baumfällung vom 21.08.2026 auf dem Grundstück Plinganserstraße 1
+- TOP 7.3.: Anträge
+- TOP 7.3.1.: Anfrage an die LBK zur Gestaltung und Pflege des Rewe-Parks und Vertragsverhandlungen mit den Bauherren (Die Grünen / SPD-Fraktion)
+- TOP 7.3.2.: Ergänzung zum Antrag 26-32 / B 0027 Rewe-Park“: Grüne Oase für alle statt verlängerter Vorgarten für Premium Bauprojekt“ vom 03.08.2026, beschlossen in der BA-Sitzung am 05.10.2026
+- TOP 7.4.: Unterrichtungen
+- TOP 7.4.1.: Straßenlaterne in der Esswurmstraße 19
+- TOP 7.4.2.: Beleuchtung des Fitnessstudios an der Lindwurmstraße
+- TOP 7.4.3.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung Firma: Abfallwirtschaftsbetrieb München Standort: Wohngebiete um die Theresienwiese
+- TOP 7.5.: Sonstiges
+- TOP 8.: Unterausschuss Soziales, Bildung und Kultur
+- TOP 8.1.: Entscheidungen
+- TOP 8.2.: Anhörungen
+- TOP 8.2.1.: Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026"
+- TOP 8.3.: Anträge
+- TOP 8.4.: Unterrichtungen
+- TOP 8.4.1.: Aktualisierung der Gesamtliste mit Unterkunftsstandorten für Geflüchtete und Wohnungslose
+- TOP 8.4.2.: Kurzbericht Mieterbeirat
+- TOP 8.4.3.: Unterstützung für die Ausstattung der Grundschulen im Viertel mit Klimaanlagen
+- TOP 8.4.4.: Information an alle Bezirksausschüsse – Entscheidung für den 9. Stadtbezirk Neuhausen-Nymphenburg als Einsatzort für das Beteiligungsprojekt "Ran an die Stadtteil-Koffer!" 2027
+- TOP 8.5.: Sonstiges
+- TOP 9.: Unterausschuss Planen - Bauen - Wohnen
+- TOP 9.1.: Entscheidungen
+- TOP 9.2.: Anhörungen
+- TOP 9.2.1.: Umbau und Aufstockung eines Anbaus in der Plinganserstraße 19
+- TOP 9.2.2.: Neubau von Wohnungen, Kindertagesstätte und Tiefgarage in der Hans-Preißinger-Straße 8 - 16 (Vorbescheid)
+- TOP 9.2.3.: Aufstockung eines bestehenden Mischnutzgebäudes mit Wohnungen in der Kidlerstraße 3 (Vorbescheid)
+- TOP 9.2.4.: Errichtung von Lagergebäuden auf der Freifläche als Ersatz für UG Halle 1-6 in der Schäftlarnstraße 10, befristet bis 31.12.2029
+- TOP 9.3.: Anträge
+- TOP 9.4.: Unterrichtungen
+- TOP 9.4.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 9.4.2.: Neubau Sportbetriebsgebäude und Modernisierung der Freisportanlage Variante 2 - Vorbescheid
+- TOP 9.5.: Sonstiges
+- TOP 10.: Verschiedenes / Sonstiges
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: Vorbereitung Bürgerversammlung am 19.11.2026: Bildmaterial und Betreuung Bürgertisch
+- TOP 10.1.2.: Sitzungstermine des Jahres 2027
+- TOP 10.2.: Anhörungen
+- TOP 10.3.: Anträge
+- TOP 10.4.: Unterrichtungen
+- TOP 10.5.: Sonstiges
