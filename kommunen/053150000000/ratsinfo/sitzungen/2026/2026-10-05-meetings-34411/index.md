@@ -1,0 +1,72 @@
+# 6. Sitzung des Ausschusses für die Gleichstellung von Frauen und Männern
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-10-05T17:00:00+02:00
+- Ende: 2026-10-05T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/176
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34411
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34411
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113311.pdf
+- Ergebnisprotokoll: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113311.pdf
+- Wortprotokoll: 1. Nachtrags-Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/01113311.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung Sachkundiger Einwohner*innen
+- TOP -: B Die Frauenberatungsstelle FrauenLeben e.V. stellt sich vor
+- TOP -: C Statement agisra e.V.
+- TOP -: 0 Aktuelle Stunde zum aktuellen Haushaltsplanentwurf 2027/28 und dessen Auswirkungen für die Umsetzung der Istanbul Konvention - Sache ist erledigt
+- TOP 1: Schriftliche Anfragen und deren Beantwortung
+- TOP 1.1: Anfrage der SPD-Fraktion betreffend "Wohnungslose Frauen und Kinder in Köln – aktuelle Zahlen, Versorgungslage und Handlungsbedarf" - Kenntnis genommen
+- TOP -: Beantwortung der schriftlichen Anfrage der SPD-Fraktion (AN/0199/2026) betreffend „Wohnungslose Frauen und Kinder in Köln – aktuelle Zahlen, Versorgungslage" - Kenntnis genommen
+- TOP 1.2: Häusliche Gewalt verhindern - bevor sie entsteht - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung des Gleichstellungsausschusses vom 16.03.2026 "Häusliche Gewalt verhindern - bevor sie entsteht" - Kenntnis genommen
+- TOP 1.3: Prävention von sexualisierter Gewalt und Schutz vor häuslicher Gewalt in Köln – Umsetzung der Istanbul-Konvention - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung des Gleichstellungsausschusses vom 16.03.2026 "Prävention von sexualisierter Gewalt in Köln - Umsetzung Istanbul-Konvention" - Kenntnis genommen
+- TOP 1.4: Fehlende Bereitstellung zugesagter Finanzmittel zur Umsetzung des Pilotprojekts Kostenlose Menstruationsartikel - vertagt
+- TOP 1.5: Finanzierung der Beratung von Stalkingopfern – linksrheinisch und rechtsrheinisch - vertagt
+- TOP -: Beantwortung der Anfrage AN/0479/2026 der Fraktion Die Linke. zu Stalkingberatung - vertagt
+- TOP 1.6: Sexuelle Übergriffe während des Karnevals und der Schutz davor - vertagt
+- TOP -: Beantwortung der schriftlichen Anfrage der Fraktion Die Linke betreffend "Sexuelle Übergriffe während des Karnevals und der Schutz davor" (AN/0480/2026) - vertagt
+- TOP 1.7: Verbesserung der Datengrundlagen für Gender Budgeting - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Frakton betreffend "Verbesserung der Datengrundlagen für Gender Budgeting" - Kenntnis genommen
+- TOP 1.8: Stand der Umsetzung der Gendergerechtigkeit bei Straßennamen - vertagt
+- TOP 1.9: Strategien und Maßnahmen zum Schutz vulnerabler Personen in der Unterbringung von Geflüchteten - vertagt
+- TOP -: Beantwortung einer Anfrage zum Schutz vulnerabler Personen bei der städtischen Unterbringung Geflüchteter - vertagt
+- TOP 1.10: Baulicher Zustand des zweiten Frauenhauses - vertagt
+- TOP -: Beantwortung einer Anfrage der Fraktion Die Linke zum baulichen Zustand des Zweiten Frauenhauses - vertagt
+- TOP 1.11: Schließung des Hauses Rosalie Rendu – Auswirkungen auf die Versorgung wohnungsloser und von Gewalt betroffener Frauen in Köln - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1151/2026 der SPD Fraktion zur Schließung des Hauses Rosalie Rendu – Auswirkungen auf die Versorgung wohnungsloser und von Gewalt betroffener Frauen in Köln - Kenntnis genommen
+- TOP 1.12: Anfrage zum Beteiligungsbericht 2024 – Umsetzung der Frauenquoten in den städtischen Beteiligungsunternehmen - vertagt
+- TOP 1.13: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Monitoring des 2. Gleichstellungsplans für die Stadtverwaltung Köln" - vertagt
+- TOP -: Beantwortung einer Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Monitoring des 2. Gleichstellungsplans für die Stadtverwaltung Köln" (AN/1548/2026) - vertagt
+- TOP 1.14: Anfrage der Fraktion Volt betreffend "Täter*innenarbeit in Köln – Umsetzungsstand und Kapazitäten" - vertagt
+- TOP 1.15: Anfrage der Fraktion Volt betreffend "Streichung der Förderung für EDELGARD im Haushaltsentwurf 2027/2028 – Folgen für Gewaltschutz, Prävention und die Umsetzung der Istanbul-Konvention" - vertagt
+- TOP 2: Anträge
+- TOP 3: Allgemeine Vorlagen
+- TOP 3.1: Förderprogramm Gleichstellung von Frauen und Männern 2026 - ungeändert beschlossen
+- TOP -: Gemeinsamer Ergänzungsantrag zu TOP 3.1: Förderprogramm Gleichstellung von Frauen und Männern 2026 - hier: Freigabe und Vergabe der Mittel - geändert beschlossen
+- TOP -: Änderungsantrag zum gemeinsamen Ergänzungsantrag der Fraktionen Bündnis 90/Die Grünen, SPD, CDU und volt, Ds-Nr. AN/1574/2026 zu TOP 3.1: „Förderprogramm Gleichstellung von Frauen und Männern 2026 - hier: Freigabe und Vergabe der Mittel“ - endgültig abgelehnt
+- TOP 3.2: 2. Kölner Lebenslagenbericht - ohne Votum behandelt
+- TOP 3.3: Stellenplan 2027/2028 der Gebäudewirtschaft der Stadt Köln - ohne Votum behandelt
+- TOP 3.4: Stellenplan 2027/2028 - ohne Votum behandelt
+- TOP 3.5: Stellenplan des Gürzenich-Orchester Köln für die Kalenderjahre 2027/2028 - ohne Votum behandelt
+- TOP 3.6: Stellenplan der Bühnen der Stadt Köln für die Kalenderjahre 2027/2028 - ohne Votum behandelt
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bestandsaufnahme zur Umsetzung der Istanbul Konvention - Kenntnis genommen
+- TOP 4.2: Controlling-Bericht: LSBTI-Aktionsplan - Kenntnis genommen
+- TOP 4.3: Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) innerhalb der Mitarbeitendenschaft im Rahmen des Diversity Managements sowie der Interkulturellen Öffnung der Stadt Köln - Kenntnis genommen
+- TOP 4.4: Bericht der Behindertenbeauftragten der Stadt Köln 03/2026 - Kenntnis genommen
+- TOP 4.5: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 03/2026 - Kenntnis genommen
+- TOP 4.6: Genderdifferenzierter Bericht zum Stellenplan 2027/2028 - Kenntnis genommen
+- TOP 4.7: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - Kenntnis genommen
+- TOP 4.8: Beantwortung einer Anfrage (AN/0839/2026) von Pinar Wege und Sigita Gelbach, SPD-Liste zum Thema: Arbeitsmarkt- und Teilhabechancen geflüchteter Frauen in Köln – Qualifizierung, Kinderbetreuung und kultursensible Begleitung - Kenntnis genommen
+- TOP 4.9: Fazit zum LSBTI-Förderprogramm 2025 - Kenntnis genommen
+- TOP 4.10: Beantwortung einer Anfrage zum Umgang mit trans* Personen in und durch die Verwaltung der Stadt Köln - Kenntnis genommen
+- TOP 5: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6: Mündliche Anfragen
+- TOP 6.1: Beantwortungen zu mündlichen Anfragen aus früheren Sitzungen
+- TOP 6.2: Neue mündliche Anfragen
