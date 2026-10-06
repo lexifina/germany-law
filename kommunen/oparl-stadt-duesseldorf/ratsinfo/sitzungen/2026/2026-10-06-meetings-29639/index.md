@@ -1,0 +1,71 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-06T16:00:00+02:00
+- Ende: 2026-10-06T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29639
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29639
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen
+- TOP 3.1: Gänsekot im Zoopark – Sachstandsbericht zum Gänsemanagement und Reinigungskonzept - Beschluss der Bezirksvertretung 2, Vorlage BV2/183/2026 - zur Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Bebauungsplan-Vorentwurf Nr. 02/017, Flächennutzungsplanänderung (Vorentwurf) Nr. 217 - Sohnstraße 45 - Empfehlung einstimmig beschlossen
+- TOP 3.4: Bezirkssportanlage Windscheidstraße – Modernisierung der Wettkampfanlage - Empfehlung abweichend beschlossen
+- TOP 3.5: Verwendung von Haushaltsmittel 2026; hier: Zuwendungsantrag für die Veranstaltung Hermann glüht auf - mehrheitlich beschlossen
+- TOP 3.6: Haushaltsplanentwurf 2027/2028 - Bezirksbezogene Haushaltsansätze - zur Kenntnis genommen
+- TOP 3.6.1: Finanzierung bereits geplanter Grün- und Freizeitflächen im Stadtbezirk 2 - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 3.6.2: Entsiegelungsmaßnahmen im Stadtbezirk 2 - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - mehrheitlich beschlossen
+- TOP 3.6.3: Barrierefreier Ausbau des ÖPNV entlang der Wehrhahn-Linie - Haushaltsbegleitantrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 3.6.4: Gedenken an die "Judenhäuser" im Bezirk 2 - Haushaltsbegleitantrag der Fraktion DIE LINKE - abweichend beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Wohnungsamt - Antrag der Fraktion DIE LINKE - mehrheitlich beschlossen
+- TOP 4.2: Kompensation Parkplätze Benzstraße - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 4.3: Personalausstattung des OSD bei Sonderereignissen - Antrag der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 4.4: Umgestaltung einer Rasenfläche zwischen dem Gebäude der Agentur für Arbeit und der Grafenberger Allee - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.5: Verbesserung der Sicherheit für die Radfahrenden auf der Vautierstraße - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - zurückgezogen
+- TOP 4.6: Instandsetzung und Ergänzung der Basketballkörbe am Bolzplatz Eduard-Schloemann-Straße 55 - Antrag der Fraktion BÜNDNIS 90 / DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.7: Bericht zur Anzahl der Meldungen und Beschwerden beim Ordnungsamt und bei der Polizei, die in direkter Verbindung zum Suchthilfezentrum Flurstraße stehen - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN - einstimmig beschlossen
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Hoffeldstraße 71 - Anfrage der Fraktion Die Linke - beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Erneuerung der Eisenbahnbrücke Ronsdorfer Straße - Anfrage der AFD-Fraktion - vertagt
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfragen zur aktuellen Sitzung
+- TOP 6.1: Verkehrssicherheit an der Kreuzung Ronsdorfer Straße/Erkrather Straße - Anfrage der AFD-Fraktion - vertagt
+- TOP 6.2: OSD-Bürgersprechstunde am Karl-Wagner-Platz- Anfrage der AFD-Fraktion - vertagt
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Bußgelder - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Schumannstr. 57 - Anfrage der Fraktion DIE LINKE - beantwortet
+- TOP 6.8: Evaluation der Hol- und Bringzonen rund um die Brehmschule - Anfrage der CDU-Fraktion - vertagt
+- TOP 6.9: Toilettennutzung im Drogenhilfezentrum - Anfrage der CDU-Fraktion - beantwortet
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Bewohnerparkgebiet östlich der Lindemann-/Brehmstraße in Düsseltal - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.16: Start der Kinderkonferenzen in Flingern und Düsseltal - Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN - beantwortet
+- TOP 6.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Geschwindigkeitsmessung Bruchstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/173/2026 - zur Kenntnis genommen
+- TOP 7.2: Mülleimer an der Benzstraße - Beschluss der Bezirksvertretung 2, Vorlage BV2/167/2026 - zur Kenntnis genommen
+- TOP 7.3: Stadtbezirksnetz für den Ausbau von Mobilitätsstationen im Stadtbezirk 2 - zur Kenntnis genommen
