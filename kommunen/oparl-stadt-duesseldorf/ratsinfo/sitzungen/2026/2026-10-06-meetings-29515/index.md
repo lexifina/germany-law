@@ -1,0 +1,71 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-06T17:00:00+02:00
+- Ende: 2026-10-06T19:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598955.pdf
+- Ergebnisprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598955.pdf
+- Wortprotokoll: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598955.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der Bezirksvertretung 7
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der öffentlichen Niederschrift vom 23.06.2026 - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen
+- TOP 4.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - - Genehmigung einer Dringlichkeitsentscheidung - - einstimmig beschlossen
+- TOP 4.2: Sachstand zum Ausbau der Glasfaserversorgung im Stadtbezirk 7 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.3: Stadtbaumkonzept für Düsseldorf (8. Pflanzperiode) - abweichend beschlossen
+- TOP 4.4: Öffentliche Beleuchtung – Straßenplanung Erneuerung gasbetriebene Beleuchtung in Gerresheim Ost/West/Süd - mehrheitlich beschlossen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Sicherung der Schulform Hauptschule durch nachfrageorientierte Anpassung der Schulplatzkapazitäten - zur Kenntnis genommen
+- TOP 4.10: Haushaltsentwurf 2027/2028 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2027/2028 für den Stadtbezirk 7 - - einstimmig beschlossen
+- TOP 4.11: Zuschuss an den Rochusclub – Düsseldorfer Tennisclub e.V. - mehrheitlich beschlossen
+- TOP 4.12: Zuschuss an den Tennisclub Rot-Weiss Düsseldorf e.V. - einstimmig beschlossen
+- TOP 4.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Haushalt 2026 Liste A Schulen 2121101/52415700 - einstimmig beschlossen
+- TOP 4.14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 4.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - andere städtische Einrichtungen (Haushalt 2026) - einstimmig beschlossen
+- TOP 4.16: Bertastraße- Einrichtung eines Fußgängerüberwegs - einstimmig beschlossen
+- TOP 5: Anträge
+- TOP 5.1: Einrichtung einer öffentlichen Hundeauslaufwiese - Eingabe nach § 24 Gemeindeordnung NRW - - zurückgestellt
+- TOP 5.2: Zügiger Ausbau des Radverkehrsabschnitts Siedlerweg – Neusser Tor in Gerresheim, insbesondere vorrangige Planung und Umsetzung der Dreherstraße - Eingabe nach § 24 Gemeindeordnung NRW - - zurückgestellt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Beschattung von Spielplätzen im Stadtbezirk 7 - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 5.5: Fahrradständer im Diepenpark - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Verbesserung der Verkehrssicherheit des Radverkehrs auf der Glashüttenstraße (zwischen Kamper Weg und Höherhofstraße) - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.8: Verkehrsberuhigte Zone Alter Markt - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 5.9: Verkehrsberuhigende Maßnahme in Knittkuhl - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 5.10: Einrichtung einer Sharingstation an der Gutenbergstraße / Ecke Böcklinstraße - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 5.11: Änderung einer Ladezone an der Grafenberger Allee 360 / Ecke Geibelstraße in zeitlich befristete Parkplätze - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 5.12: Anböschung der Insel im Ostparkweiher während der Entschlammung - Antrag der Fraktionen von CDU und SPD - - einstimmig beschlossen
+- TOP 5.13: Verunstaltete Trafostation an der Bushaltestelle Am Lehn, Kreuzung Neunzigstraße/ Gräulinger Straße - Antrag der AfD-Fraktion - - zurückgezogen
+- TOP 5.14: Entfernung der Ladezone vor den Häusern Grafenberger Allee 358 a, 358 - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 5.15: Neuschaffung von Parkplätzen auf der Quadenhofstraße - Antrag der AfD-Fraktion - - mehrheitlich abgelehnt
+- TOP 6: Anfrage aus vorheriger Sitzung
+- TOP 6.1: 2021 zerstörter Damm im Rotthäuser Bachtal an der Teichanlage unweit der Hofschaft Rotthäuser Weg 106 - 110 - Anfrage der AfD-Fraktion - - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Initialpflanzung Ostparkweiher - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Sitzungstermine der Bezirksvertretung 7 im Jahr 2027 - zur Kenntnis genommen
+- TOP 8.2: Parkraumregelung Hardenbergstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.3: Hinweisschilder für Fußgänger von den ÖPNV Haltestellen zum Wildpark und zur Rennbahn - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.4: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 8.5: Blumenkübel an der Bergischen Landstraße - Informationsvorlage zum Beschluss der BV 7 vom 24.03.2026 - - zur Kenntnis genommen
+- TOP 8.6: Bürgerhaus Gerresheim - zur Kenntnis genommen
+- TOP 8.7: ZUKUNFT QUARTIER.DÜSSELDORF; - zur Kenntnis genommen
+- TOP 8.8: Grütersaaper Weg - Vorstellung der Konzeptstudie zur Instandsetzung und ökologischen Aufwertung der Wegeverbindung - - zur Kenntnis genommen
+- TOP 8.9: Entschlammung Ostparkweiher - zur Kenntnis genommen
+- TOP 8.10: Betrieb einer Geschwindigkeitsanzeigetafel in der Märkischen Straße - Informationsvorlage zum Beschluss der BV 7 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.11: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
