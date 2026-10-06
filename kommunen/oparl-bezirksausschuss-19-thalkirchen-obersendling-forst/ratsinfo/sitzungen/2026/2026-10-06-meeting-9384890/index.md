@@ -1,0 +1,79 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384890
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384890
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 08.09.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Satzungsänderung Einführung Beauftragte für Klimaschutz als Pflichtbeauftragte in die BA-Satzung
+- TOP 2.4.: (A) Satzungsänderung: Einführung eines Tierschutzbeauftragten als Pflichtbeauftragte in die BA-Satzung
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Gründungsinitiative Bühnenherz - Theater für alle Jugendtheaterprojekt vom 30.09.2026 -21.07.2027 9.226,00€; Az. 0262.100-19-0651
+- TOP 3.3.: (E) Stadtbezirksbudget Animation Festival Munich e.V. Animation Festival Munich - Münchens erstes Trickfilmfestival- Workshops vom 26. -27.05.2027 1.200,00€; Az. 0262.100-19-0650
+- TOP 3.4.: (E) Stadtbezirksbudget Katholischer Kindergarten St. Johann Baptist Neues Außenspielgerät für unseren Garten vom 01.09.2026 -31.07.2027 14.500,00€; Az. 0262.100-19-0647
+- TOP 3.5.: Bestellung einer städtischen Leistung: Finanzierung von Ferien- und Familienpässen für Einrichtungen im Stadtbezirk 19
+- TOP 3.6.: (E) Stadtbezirksbudget Verein zur Förderung urbaner Kunst e.V. Ein temporärer Wohlfühlort gegen Einsamkeit am 21.11.2026 2.750,00€; Az. 0262.100-19-0653
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Suchkreismeldung M-Fürstenried
+- TOP 4.4.: Anfrage: Maßnahmen gegen Lärmbelästigung der Anwohner*innen und Beeinträchtigung der Natur durch Feiernde an der Isar in München
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Parkverbot für Schwerlaster und Anhänger auf der Graubündener Straße
+- TOP 5.1.2: Einführung einer streckenbezogenen Geschwindigkeitsbegrenzung auf 30 km/h in der Pognerstraße (Abschnitt Pullacher Platz bis Schäftlarnstraße)
+- TOP 5.1.3: Lkw-Durchfahrtsverbot in der Steinmetzstraße
+- TOP 5.2.: (E) Sondernutzungserlaubnis: Freischankfläche in der Aidenbachstraße
+- TOP 5.3.: (A) Umwandlung eines personenbezogenen Stellplatzes in ein allgemeinen Behindertenparkplatz in der Schaffhauser Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Prüfung der Eintragung in die Liste der Einzelbaudenkmäler: Richard-Meier-Bauten, Hofmannstraße
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: -abgesetzt-
+- TOP 6.2.2: Wolfratshauser Straße 212
+- TOP 6.2.3: Hofbrunnstraße41 (VB)
+- TOP 6.2.4: Schaffhauser Straße 2 (VB)
+- TOP 6.2.5: Baierbrunner Straße 30
+- TOP 6.2.6: Derfflingerstraße 4 (VB)
+- TOP 6.2.7: Boschetsrieder Straße 130
+- TOP 6.2.8: Pognerstraße 22
+- TOP 6.2.9: Steinerstraße 15
+- TOP 6.2.10: Herterichstraße 141 (VB)
+- TOP 6.2.11: -abgesetzt-
+- TOP 6.2.12: Parkmeisterstraße 9
+- TOP 6.2.13: Millöckerstraße 3 (VB)
+- TOP 6.3.: (A) Bebauungsplan A 22 „Nördlich der Zugspitzstraße“ Gemeinde Neuried
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Städtische Grünfläche östlich der Halle des TSV Solln öffentlich zugänglich machen
+- TOP 7.2.: (A) Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 7.3.: Anfrage: Geplante Realschule an der Forstenrieder Allee – Lärm- und Luftbelastung
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Ruhestörung im Wohngebiet Allgäuer Straße / Kemptener Straße
+- TOP 8.3.: (U) Gaststättenfortführung: Schäftlarnstraße 179
+- TOP 8.4.: (A) Fortschreibung Standortsicherung Bürgerbüros – Anpassung des Standortkonzepts; Sitzungsvorlage Nr. 26-32 / V 01124
+- TOP 8.5.: Anfrage: Auswirkungen der AG Zukunftssicherung auf soziale Angebote im Stadtbezirk
+- TOP 8.6.: (A) Veranstaltung: Informations- und Beratungsveranstaltung auf dem Thalkirchnerplatz am 24.10.2026
+- TOP 8.7.: (U) Gaststättenfortführung: Hinterbrühl 2
+- TOP 8.8.: Anfrage: Peretshofener Straße 3, Solln
+- TOP 8.9.: (A) Christbaumverkaufsplatz an der Forstenrieder Allee
+- TOP 8.10.: (A) Veranstaltung: Gastspiel Circus Galliano an der Liesl-Karlstadt-Straße
+- TOP 9: Verschiedenes
