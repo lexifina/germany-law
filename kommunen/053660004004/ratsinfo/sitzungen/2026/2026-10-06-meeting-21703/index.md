@@ -1,0 +1,54 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2026-10-06T18:00:00+02:00
+- Ende: 2026-10-06T19:42:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaxlbon66wu3HF3yvbnSljo
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/21703
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSzPvHiYZWi4fwXSrsaubb_bJv4J0blcfKcnDe9fBo9D/Bekanntmachung_Rat_06.10.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbiNWyZlFeONm2_eBtOevpFq-9CwdbbZ6j9nkiQLEhPD/Oeffentliche_Niederschrift_Rat_06.10.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 6 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 15.07.2026 Erläuterung: Hierzu wird auf § 18 i. V. m. § 20 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 16 der Geschäftsordnung verwiesen.
+- TOP 4.: Wartezeiten bei der melderechtlichen Ummeldung und fehlende digitale Infrastruktur im Bürgerbüro hier: Antrag nach § 24 GO NRW - Einstimmiger Beschluss:
+- TOP 5.: Umbesetzung des Bau- und Feuerwehrausschusses hier: Antrag der AfD-Fraktion vom 21.09.2026 - Einstimmiger Beschluss bei 6 Enthaltungen:Hier wirkt der Bürgermeister gemäß § 40 Abs. 2 Satz 6 i. V. m. § 58 GO NRW nicht mit.
+- TOP 6.: Kommunale Finanzsituation - Beitritt der Stadt Bad Münstereifel zur gemeinsamen Resolution des Kreises Euskirchen und seiner Städte und Gemeinden - Einstimmiger Beschluss:
+- TOP 7.: Entwicklung Schleidpark hier: Stellungnahme der Verwaltung - Beschluss siehe RD-Nr. 185-XII/Z-3.
+- TOP -: Entwicklung Schleidpark hier: Entscheidung nach Empfehlungsbeschluss Stadtentwicklungsausschuss - Einstimmiger Beschluss:
+- TOP 8.: Waldbrandvorsorge und Waldbrandbekämpfung im Stadtwald Bad Münstereifel - Forst und Feuerwehr gemeinsam für den Ernstfall aufstellen hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 15.09.2026 - Beschluss siehe RD-Nr. 327-XII/Z-1.
+- TOP -: Waldbrandvorsorge und Waldbrandbekämpfung im Stadtwald Bad Münstereifel - Forst und Feuerwehr gemeinsam für den Ernstfall aufstellen hier: Ausarbeitung der Verwaltung - Einstimmiger Beschluss:
+- TOP 9.: Beschaffung von Anti-Terror-Sperren - Beschluss siehe RD-Nr. 335-XII/Z-1.
+- TOP -: Beschaffung von Anti-Terror-Sperren - Einstimmiger Beschluss:
+- TOP 10.: 4. Verordnung vom _______ zur Änderung der Gebührenordnung für die Benutzung von Parkeinrichtungen im Gebiet der Stadt Bad Münstereifel vom 12.01.2015 (Parkgebührenordnung) - Beschluss siehe RD-Nr. 301-XII/Z-2.
+- TOP -: 4. Verordnung vom _______ zur Änderung der Gebührenordnung für die Benutzung von Parkeinrichtungen im Gebiet der Stadt Bad Münstereifel vom 12.01.2015 (Parkgebührenordnung) hier: Empfehlungsbeschluss aus dem Ausschuss für Umwelt, Tourismus und Mobilität - Beschluss siehe RD-Nr. 301-XII/Z-2.
+- TOP -: 4. Verordnung vom _______ zur Änderung der Gebührenordnung für die Benutzung von Parkeinrichtungen im Gebiet der Stadt Bad Münstereifel vom 12.01.2015 (Parkgebührenordnung) hier: Empfehlungsbeschluss aus dem Ausschuss für Umwelt, Tourismus und Mobilität - Mehrheitlicher Beschluss mit 1 Nein-Stimme:
+- TOP 11.: 6. Satzung zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung - Badeordnung) hier: Änderungen in der Anlage zur Satzung über die Benutzung des eifelbades der Stadt Bad Münstereifel – Gebührensatzung - - Einstimmiger Beschluss:
+- TOP 12.: St. Michael-Gymnasium hier: G9 Erweiterung, Anmeldung von Mehrkosten - Mehrheitlicher Beschluss mit 26 Ja- und 3 Nein-Stimmen sowie 1 Enthaltung:Die Stadtverordneten Rauch und Terschanski, SPD-Fraktion, wirken nicht mit, da nicht im Sitzungssaal anwesend.
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Verwaltungsvereinbarung für den Ausbau der K50 OD Mahlberg, Michelsbergstraße Hier: Nebenanlagen und andere - Einstimmiger Beschluss:Die Stadtverordneten Lingscheid-Henseler und Jansen wirken nicht mit, da nicht im Sitzungssaal anwesend.
+- TOP 15.: Verwaltungsvereinbarung für den Ausbau der K50 OD Mahlberg, Michelsbergstraße hier: Erneuerung der Kanalisation und Wasserleitung - Einstimmiger Beschluss:Die Stadtverordneten Lingscheid-Henseler und Jansen wirken nicht mit, da nicht im Sitzungssaal anwesend.
+- TOP 16.: Erlass des Wirtschaftsplanes 2027 des Forstbetriebes der Stadt Bad Münstereifel hier: Einbringung des Entwurfes - Einstimmiger Beschluss:Die Stadtverordneten Lingscheid-Henseler und Jansen wirken nicht mit, da nicht im Sitzungssaal anwesend.
+- TOP 17.: Anfragen und Mitteilungen
+- TOP 17.1: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – Fortsetzungsantrag zum STEP 2027
+- TOP 17.2: Offener Brief an den Bürgermeister und den Rat der Stadt Bad Münstereifel im Bezug auf die zum 01.01.2027 beschlossene Übernachtungssteuer
+- TOP 17.3: Wiederaufbau Stadtarchiv hier: Sachstand und weitere Maßnahmen
+- TOP 17.4: Vergebene Aufträge im Wiederaufbau nach der Flut 2021
+- TOP 17.5: Bericht zum 30.06.2026 im Rahmen des Finanzcontrollings
+- TOP 17.6: Mitgliedschaften der Stadt Bad Münstereifel
+- TOP 17.7: Einsparung von Nachtverkehren auf der Buslinie 801
+- TOP 17.8: Sachstand Ideenfabrik hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Abfallentsorgung hier: Neufassung der öffentlich-rechtlichen Vereinbarung gemäß § 23 Abs. 1 des Gesetzes über die kommunale Gemeinschaftsarbeit (GkG NRW) zwischen den Städten und Gemeinden Bad Münstereifel, Blankenheim, Dahlem, Hellenthal, Kall, Mechernich, Schleiden, Weilerswist, Zülpich und Nettersheim - Einstimmiger Beschluss:
+- TOP 2.: Ersatzbeschaffung einer Drehleiter für die Löschgruppe Bad Münstereifel; Submissionsergebnis und Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Erforderliche Rückschnitte am Wehrgang
+- TOP 3.2: Vorübergehende Nutzung eines Teilbereichs des Sportplatzes in Bad Münstereifel als Materiallager
+- TOP 3.3: Bewuchs in und auf der Stadtmauer hier: Anfrage des Stadtverordneten Bernhard Ohlert, CDU-Fraktion
