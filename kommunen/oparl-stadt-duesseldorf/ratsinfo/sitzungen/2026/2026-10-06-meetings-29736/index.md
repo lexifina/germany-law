@@ -1,0 +1,78 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-06T17:00:00+02:00
+- Ende: 2026-10-06T18:00:00+02:00
+- Ort: Sitzungssaal Kulturhaus Süd, Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29736
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29736
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599266.pdf
+- Ergebnisprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599266.pdf
+- Wortprotokoll: 1.NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599266.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Ansiedlung eines Lebensmittelvollsortimenters im Garather Zentrum - vertagt
+- TOP 4.2: Übertragung der zum Jahresende 2026 nicht verausgabten Verfügungsmittel in das Jahr 2027 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.3: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den SKFM Düsseldorf e.V.- Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Heimatverein Garather Jonges 1969 e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Bürgerverein Hellerhof e.V. - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Zulassung der Vertreter*innen des Seniorenrates gemäß § 58 Gemeindeordnung des Landes NRW – Beschlussvorlage der Bezirksverwaltungsstelle 10 – - einstimmig beschlossen
+- TOP 4.8: Haushaltsentwurf 2027/2028 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2027/2028 für den Stadtbezirk 10 - - zur Kenntnis genommen
+- TOP 4.8.1: Haushaltsantrag: Finanzierung von Fahrbahnerneuerungen im Haushalt 2027/2028, hier: Hellerhofweg und Frankfurter Straße im Stadtbezirk 10 - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10, Zuschuss an den Garather Schützenverein 1967 e.V. für die Durchführung des großen Martinsumzuges 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des Garather Weihnachtsmarktes 2026 - Vorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10, Zuschuss für die Durchführung des großen Martinsumzuges 2026 in Garath - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.12: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.13: Bezirklicher Bauunterhalt 2026 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2026 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Einrichtung eines Fluchtraumes im Bürgerbüro - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 5.3: Pflasterschäden durch Baumwurzeln an Radwegen im Stadtbezirk 10 - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Dynamisches Fahrgastinformationssystem (DFI) am S-Bahnhof in Hellerhof - Anfrage der SPD-Fraktion - - vertagt
+- TOP 5.6: Konzept für Ausleuchtung des Zentrums - Anfrage der AfD-Fraktion - - schriftlich beantwortet
+- TOP 5.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Umsetzungsstand des Glasfasernetzausbaus in Garath - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.2: Umsetzungsstand des Glasfasernetzausbaus in Hellerhof - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Elektromobilität in Garath und Hellerhof ermöglichen – Rechtliche und technische Hürden für Garagenhöfe abbauen - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - schriftlich beantwortet
+- TOP 6.4: Waldbrandschutzkonzept für die Garather und Hellerhofer Wälder - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.5: Tafeln mit Abfahrzeiten am S-Bahnhof Hellerhof - Anfrage der Fraktion BÜ90/DIE GRÜNEN - - vertagt
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Maßnahmen zur Taubenvergrämung in Garath - Anfrage der CDU-Fraktion - - schriftlich beantwortet
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Rudolf-Breitscheid-Straße; bessere Sichtbarkeit der Querung für Fußgänger - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Durchgang zum Wildschweingehege - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.3: Lieferung von Fernkälte über das Fernwärmenetz der Stadtwerke im Stadtbezirk 10 - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 7.4: Einladung der neuen Leiterin der Stadtteilbücherei Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.5: Präsentation Wohnprojekt Carl-Friedrich-Goerdeler-Straße in Garath - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.6: Errichtung eines Wetterschutzes für alle Bushaltestellen im Stadtbezirk 10 - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.7: Anbringung von Deckeln an die Mülltonnen in der Urdenbacher Kämpe - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.8: Abstellen von Fahrzeugen an der Einmündung der Carl-Maria-Splett-Straße in die Bertha-von-Suttner-Straße - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.9: Vollsperrung der A 59 in der zweiten Bauphase - Antrag der Fraktion BÜ90/DIE GRÜNEN - - zurückgezogen
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Zusatzzeichen in der Tempo 30 Zone auf der Emil-Barth-Straße - Informationsvorlage zum Beschluss BV10/106/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.2: Ausreichende Beleuchtung vor der Packstation am Garather S-Bahnhof - Informationsvorlage zum Beschluss BV10/110/2026 vom 23.06.2026 - - zur Kenntnis genommen
+- TOP 8.3: Geschwindigkeitskontrollen auf der A 59 - Informationsvorlage zum Beschluss BV10/090/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.4: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2027 - Informationsvorlage der Bezirksverwaltungsstelle 10 - - Empfehlung abweichend beschlossen
+- TOP 8.5: Entsiegelung und ökologische Aufwertung der Dreiecksfläche an der Wilhelm-Kreis-Straße - Informationsvorlage zum Beschluss BV10/105/2026 vom 26.05.2026 - - zur Kenntnis genommen
+- TOP 8.6: Erhöhung der Sicherheit des Radschnellweges Koblenzer Straße- Informationsvorlage zum Beschluss BV10/114/2026 vom 23.06.2026 - - zur Kenntnis genommen
+- TOP 8.7: Falschparker an der Dresdener Straße - Informationsvorlage zum Beschluss BV10/030/2026 vom 24.02.2026 - - zur Kenntnis genommen
+- TOP 9: Informationen aus den Gremien Seniorenrat, Jugendrat, Kinderparlament Garath
+- TOP 10: Verschiedenes
