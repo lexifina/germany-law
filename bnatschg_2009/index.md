@@ -126,7 +126,7 @@
 ## Kapitel 8 Mitwirkung von anerkannten Naturschutzvereinigungen
 
 - [§ 63 Mitwirkungsrechte](0063.md)
-- [§ 64 Rechtsbehelfe](0064.md)
+- [§ 64 (weggefallen)](0064.md)
 
 ## Kapitel 9 Eigentumsbindung, Befreiungen
 
