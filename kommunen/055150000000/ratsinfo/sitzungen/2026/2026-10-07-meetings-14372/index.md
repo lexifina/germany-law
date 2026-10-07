@@ -1,0 +1,53 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-10-07T16:04:00+02:00
+- Ende: 2026-10-07T16:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14372
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14372
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00591189.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bearbeitungsstand der Ratsanträge, der Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung an den Rat, der Kommunalen Seniorenvertretung an den Rat, des Integrationsrates (jetzt Ausschuss für Chancengerechtigkeit und - zur Kenntnis genommen
+- TOP 3: Bericht über die Beschäftigung von Menschen mit Schwerbehinderungen und diesen Gleichgestellten bei der Stadt Münster in 2025 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: 1. Fortschreibung Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 5: Grundsatzbeschluss Neubau eines Feuerwehrhauses der Löscheinheit Wolbeck der Freiwilligen Feuerwehr Münster - ohne Beschlussfassung geschoben
+- TOP 6: Interkommunale Zusammenarbeit - Abschluss einer Öffentlich-rechtlichen Vereinbarung (ÖrV) mit der Stadt Bergkamen - einstimmig beschlossen
+- TOP 7: Umgang mit den Änderungen der kommunalen Vergabegrundsätze zum 01.01.2026 (§ 75a GO NRW) und Umsetzung von ökologisch-sozialen Nachhaltigkeitsanforderungen bei öffentlichen Vergabe- und Beschaffungsvorgängen - ohne Beschlussfassung geschoben
+- TOP 8: Westfälische Verkehrsgesellschaft mbH (WVG): Erwerb von WVG-eigenen Geschäftsanteilen durch Regionalverkehr Münsterland GmbH (RVM) und Westfälische Landes-Eisenbahn GmbH (WLE); Änderung des Gesellschaftsvertrages der WVG - einstimmig beschlossen
+- TOP 9: Entwurf des Jahresabschlusses der Stadt Münster zum 31.12.2025 - einstimmig beschlossen
+- TOP 10: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2024 - einstimmig beschlossen
+- TOP 11: Bericht zur Wohnbaulandentwicklung 2024 - 2025 Fortschreibung des Baulandprogramms 2026 - 2035 - ohne Beschlussfassung geschoben
+- TOP 12: Kindertagesbetreuungsbericht 2025 / 2026 - zur Kenntnis genommen
+- TOP 13: Besondere Lebenswelten von Kindern in Coerde: Bedarfsgerechte Maßnahmen zur Stärkung der Betreuungs- und Bildungsqualität für Kinder in den Kindertageseinrichtungen - ohne Beschlussfassung geschoben
+- TOP 14: Erweiterung der Nikolaischule Wolbeck - Errichtungsbeschluss für den Neubau einer Zweifachsporthalle - einstimmig beschlossen
+- TOP 15: Trägervergabe Paulushof - einstimmig beschlossen
+- TOP 16: Trägervergabe für die achtgruppige Kindertageseinrichtung am Wiegandweg 36/Bezirk Südost - einstimmig beschlossen
+- TOP 17: Zuwendungsantrag zum Bundesprogramm „Sanierung kommunaler Sportstätten“ (Förderrunde SKS I) für das Projekt „Sanierung und Erweiterung der Bezirkssportanlage Tilbecker Straße in Münster“ - einstimmig beschlossen
+- TOP 18: Einführung des Deutschlandtickets Sozial - ohne Beschlussfassung geschoben
+- TOP 19: Wiederbestellung Ombudspersonen WTG - einstimmig beschlossen
+- TOP 20: Konzept für ein Stadtteilgesundheitszentrum als Bestandteil der Handlungsempfehlungen der Projektgruppe „Gesundheitskompetenz stärken“ der Kommunalen Gesundheitskonferenz Münster - ohne Beschlussfassung geschoben
+- TOP 21: Umsetzung des Modells MISSIMO zur Bekämpfung des organisierten Kindergeldmissbrauchs in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 21.1: Umsetzung des Modells MISSIMO zur Bekämpfung des organisierten Kindergeldmissbrauchs in der Stadt Münster
+- TOP 22: Aktualisierung der Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung - ohne Beschlussfassung geschoben
+- TOP 23: Baugebiet "Hiltrup - Südwestlich Nordkirchenweg/Westlich Kappenberger Damm/Buswende" - einstimmig beschlossen
+- TOP 24: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 25: Errichtung eines Recyclinghofs (Zentralhof) in Münster-Hiltrup - ohne Beschlussfassung geschoben
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Mitte
+- TOP 26.1.1: 42. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 26.1.2: 72. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk West
+- TOP 26.2.1: Bebauungsplan Nr. 388 - 3. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 26.3: Stadtbezirk Südost
+- TOP 26.3.1: 148. FNP-Änderung - Beschluss zur Änderung / Bebauungsplan Nr. 664 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 26.3.2: 122. FNP-Änderung - Vorhabenbezogener Bebauungsplan Nr. 635 - Aufhebung [ASB-Campus] - von der Tagesordnung abgesetzt
+- TOP 27: Verschiedenes
