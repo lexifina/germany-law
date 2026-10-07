@@ -1,0 +1,52 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-10-07T17:32:00+02:00
+- Ende: 2026-10-07T17:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8425
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8425
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271020.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271020.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271020.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Hauptausschusses vom 08.07.2026 - öffentlicher Teil - - Niederschrift ohne Einwendung
+- TOP 2: Neuregelung der Präsente bei Alters- und Ehejubiläen - An den Rat verwiesen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Prüfung eines rechtssicheren und datenschutzkonformen Verfahrens zur Erstellung und Pflege des Wählerverzeichnisses für die Wahlen des Ausschusses für Chancengerechtigkeit und Integration (ACI) - An den Ausschuss für Chancengerechtigkeit und Integration verwiesen
+- TOP 5: Prüfung und Entwicklung eines rechtssicheren Informations- und Wahlbenachrichtigungskonzeptes für die Wahlen des Ausschusses für Chancengerechtigkeit und Integration (ACI) - An den Ausschuss für Chancengerechtigkeit und Integration verwiesen
+- TOP 6: Verbindliche Beteiligung des Ausschusses für Chancengerechtigkeit und Integration (ACI) bei integrations und teilhaberelevanten Angelegenheiten - Mit Stimmenmehrheit empfohlen
+- TOP 7: Einführung einer verbindlichen jährlichen Berichtspflicht der Verwaltung gegenüber dem Ausschuss für Chancengerechtigkeit und Integration (ACI) - Mit Stimmenmehrheit empfohlen
+- TOP 8: Verschmelzung der Kreisbau AG auf die Gemeinnützige Wohnungs- und Siedlungsgesellschaft mbH // Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 und Folgeberichte zu BV 2561/X und 2717/X - Kenntnisnahme
+- TOP 9: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: WFMG-Wirtschaftsförderung Mönchengladbach GmbH, Erweiterung des Gesellschafterkreises - Einstimmig empfohlen
+- TOP 10: Beteiligung der NEW-Kommunalholding an der NEW AG hier: Veräußerung der von NEW Niederrhein Energie und Wasser GmbH mittelbar über die Trianel GmbH gehaltene Beteiligung an der Trianel Gasspeicher Epe GmbH& Co. KG - Mit Stimmenmehrheit empfohlen
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (3. Nachweisung) - Kenntnisnahme
+- TOP 12: Bereitstellung überplanmäßiger Haushaltsmittel 2026 im Bereich der Wirtschaftlichen Altenhilfe - Mit Stimmenmehrheit empfohlen
+- TOP 13: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 22.000.000 € im Bereich "Hilfe zur Erziehung" - Mit Stimmenmehrheit empfohlen
+- TOP 14: Bereitstellung überplanmäßiger Haushaltsmittel 2026 für den Transferaufwand im städtischen Haushalt zum Ausgleich des Wirtschaftsplans 2026 des GMMG aufgrund unplanbarer Ereignisse - Einstimmig empfohlen
+- TOP 15: Wirtschaftsplan 2027 der mags AöR hier: Einbringung - Einstimmig empfohlen mit Enthaltung/en
+- TOP 16: Beschluss einer Anlage zum Rettungsdienstbedarfsplan zur Etablierung des Telenotarztsystems für die Trägergemeinschaft Telenotarzt Niederrhein - Einstimmig empfohlen
+- TOP 17: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen - Mit Stimmenmehrheit empfohlen
+- TOP 18: Kulturentwicklungsplan Mönchengladbach 2035 – Bestätigung als strategischer Orientierungs- und Steuerungsrahmen und Einleitung der Umsetzungsphase - Abweichende Beschlussempfehlung
+- TOP 19: Fortsetzung des Bundesprogramms "Demokratie leben!" - Mit Stimmenmehrheit empfohlen
+- TOP 20: Zweckgebundene Zuwendung an den Mönchengladbacher Tafel e.V. - Einstimmig empfohlen
+- TOP 21: Zweckgebundene Zuwendung an den AFbJ e.V. - Einstimmig empfohlen
+- TOP 22: Einrichtung eines Mönchengladbacher Netzwerks Kinder- und Jugendpartizipation - Mit Stimmenmehrheit empfohlen
+- TOP 23: Fortsetzung der Zuschussgewährung für die Schuldnerberatung bei rechtlichem Übergang - Einstimmig empfohlen
+- TOP 24: Berichtswesen & Grundsatzangelegenheiten, Jahresabschluss des gmmg für das Wirtschaftsjahr 2025 - Einstimmig empfohlen
+- TOP 25: Jahresabschluss 2025 der eigenbetriebsähnlichen Einrichtung Neue Verwaltungsgebäude Rheydt - Einstimmig empfohlen mit Enthaltung/en
+- TOP 26: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2027 - Einstimmig empfohlen mit Enthaltung/en
+- TOP 27: Neuorganisation der Feuerwachen - Einstimmig empfohlen
+- TOP 28: Orffstraße 5-7, Wickrath; Bildungszentrum der Feuerwehr Mönchengladbach - Einstimmig empfohlen
+- TOP 29: Bebauungsplan Nr. 810/W „Voigtshofer Allee" Satzungsbeschluss - Einstimmig empfohlen
+- TOP 30: 253. Änderung des Flächennutzungsplans der Stadt Mönchengladbach „Voigtshofer Allee" - Einstimmig empfohlen
+- TOP 31: Bauliche Schulentwicklung, Gesamtschule Breite Straße (7. Gesamtschule) - Mit Stimmenmehrheit empfohlen
+- TOP 32: Verkehrssicherung Haltestelle Bismackplatz - Mit Stimmenmehrheit nicht empfohlen
+- TOP 33: Antrag auf Berichterstattung: Gesamtkonzept der Stadtverwaltung für aktuelle und zukünftige Verwaltungsstandorte - Vom Antragsteller zurückgezogen
+- TOP 34: Antrag auf Berichterstattung: Auswirkungen veränderter OGS-Förderbedingungen auf die städtische Investitions- und Ausbauplanung - An den Rat verwiesen
+- TOP 35: Anfragen und Mitteilungen
