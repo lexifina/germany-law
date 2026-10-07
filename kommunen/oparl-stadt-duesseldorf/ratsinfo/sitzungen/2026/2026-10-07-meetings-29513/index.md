@@ -1,0 +1,65 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-07T15:00:00+02:00
+- Ende: 2026-10-07T18:21:00+02:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 07.10.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598691.pdf
+- Ergebnisprotokoll: 1. Nachtrag zur Sitzung am 07.10.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598691.pdf
+- Wortprotokoll: 1. Nachtrag zur Sitzung am 07.10.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598691.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/004/2026 vom 08.07.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 18 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen gemäß § 58 Abs. 3 Satz 6 Gemeindeordnung des Landes Nordrhein-Westfalen in Verbindung mit § 21 Abs. 18 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 5: Kommunale Wärmeplanung für den Stadtbezirk 4 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 6: Erweiterung des Cecilien-Gymnasium am Schulstandort Schorlemerstraße um 6 Mehrzweckräume - Empfehlung einstimmig beschlossen
+- TOP 7: Bauanträge, Am Deich 37 / Kaiser-Friedrich-Ring 90 - Neubau von zwei Mehrfamilienhäusern - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Umsetzungsstrategie Zukunft Altstadt / Innenstadt (Teilbaustein des Förderprojektes KreativRaum D) - Empfehlung mehrheitlich beschlossen
+- TOP 10: Ampelschaltung auf der Hansaallee vor der Kreuzung, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 11: Verkehrssituation während der Kragarmsanierung der Theodor-Heuss-Brücke – basierend auf der Informationsveranstaltung vom 22. Juni 2026, Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 12: Umsetzung städteplanerischer Ziele im linksrheinischen Düsseldorf (Stadtbezirk 4), Anfrage des Bezirksvertreters Brien Dorenz, FDP - zur Kenntnis genommen
+- TOP 13: Neubau von Wohnungen im linksrheinischen Düsseldorf (Stadtbezirk 4) in den letzten Jahren, Anfrage des Bezirksvertreters Brien Dorenz, FDP
+- TOP 14: Wegfall öffentlicher Parkplätze im Stadtbezirk 4 durch den Bau und Ausbau von Radverkehrswegen, Anfrage der AfD-Fraktion
+- TOP 15: Instandsetzung Fuß- und Radüberweg Belsenplatz Ecke Quirinstrasse, Anfrage des Bezirksvertreters Olaf Nordsieck, DIE LINKE - zur Kenntnis genommen
+- TOP 16: Für ein verträgliches Miteinander von Gastronomie und Anwohnerinnen/Anwohnern in Oberkassel, überfraktionelle Anfrage - zur Kenntnis genommen
+- TOP 17: Wegeverbindung zwischen Willstätterstraße und Bayerstraße - keine Maßnahmenumsetzung seit drei Jahren?, Anfrage des Bezirksvertreters Marco Staack - zur Kenntnis genommen
+- TOP 18: Hitzeschutz und Bereitstellung kühler Aufenthaltsorte im Stadtbezirk 4, Anfrage der CDU-Fraktion
+- TOP 19: Welche Regelungen gelten für Partyschiffe bezüglich Lärmemissionen und Zeiten?, Anfrage der Fraktion Bündnis 90/Die Grünen - zur Kenntnis genommen
+- TOP 20: Wegen temporärer Baustelle auf dem Kaiser-Friedrich-Ring 34-35, Anfrage des Bezirksvertreters Burkhard Weiss
+- TOP 21: Folgen der Insolvenz eines Immobilienentwicklers für linksrheinische Wohnbauprojekte, Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 22: Ganztagsbetreuung an den Grundschulen im Stadtbezirk 4 im Schuljahr 2026/2027, Anfrage der Bezirksvertreterin Louisa Warden - zur Kenntnis genommen
+- TOP 23: Sachstand zu eingeschränkten Gehwegbreiten und Gehwegparken in Oberkassel, Anfrage des Bezirksvertreters Marc Thomas Klement
+- TOP 24: Wahl einer Schiedsperson für den Schiedsamtsbezirk 8 – Oberkassel, Niederkassel - Empfehlung einstimmig beschlossen
+- TOP 25: Beratungen des Haushaltsplan-Entwurfs 2027/2028 inklusive Anlagen; Bezirksbezogene Haushaltsansätze - einstimmig beschlossen
+- TOP 26: Umsetzung von Wildblumenwiesen anstelle von intensiv gepflegten Rasenflächen im Stadtbezirk 4, Antrag der AfD-Fraktion - mehrheitlich abgelehnt
+- TOP 27: Veränderung der Einbahnstraßenregelung Lohengrinstraße zwischen Columbusstraße und Düsseldorfer Straße – Situation für Fahrradnutzung verbessern, Antrag des Bezirksvertreters Olaf Nordsieck, DIE LINKE - zurückgezogen
+- TOP 28: Graffiti auf Spielplätzen entfernen, Antrag der Fraktion Bündnis 90/Die Grünen - abweichend beschlossen
+- TOP 29: Hitzeschutz auf der Niederkasseler Straße, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 30: Hitzeschutz auf der Lütticher Straße verbessern, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 31: Kreuzung für Schulkinder verkehrssicher umbauen, Antrag der Fraktion Bündnis 90/Die Grünen - zurückgezogen
+- TOP 32: Sichere Querung des Grevenbroicher Wegs in Lörick - Schulwegsicherung konsequent weiterentwickeln, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 33: Open Air Park Düsseldorf - Vorstellung des Schallkonzepts und Vermeidung der Beschallung linksrheinischer Wohngebiete, Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 34: Vorstellung der städteplanerischen Ziele und im Raum stehende Bauvorhaben für das linksrheinische Düsseldorf (Stadtbezirk 4) für die kommenden 5 Jahre, Antrag des Bezirksvertreters Brien Dorenz, FDP - einstimmig beschlossen
+- TOP 35: Fassadenbegrünung an öffentlichen Gebäuden und Bauwerken, Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 36: Sichere Querungsmöglichkeiten am Grevenbroicher Weg/Niederdonker Straße, Antrag der SPD-Fraktion - zurückgezogen
+- TOP 37: Einbahnstraßenregelung in der Lohengrinstraße – Verkehrssicherheit nachhaltig verbessern - zur Kenntnis genommen
+- TOP 38: Einrichtung von beidseitigen Parkbeschränkungen am Kaiser-Friedrich-Ring zur Vermeidung von Dauer- und Großparkern (LKW, Wohnwagen, Transporter, Webeanhänger, Bootsanhänger) - zur Kenntnis genommen
+- TOP 39: Maßnahmen gegen das Herausziehen von Müll aus öffentlichen Abfallbehältern durch Vögel - zur Kenntnis genommen
+- TOP 40: Bäume auf den Rheinwiesen nachpflanzen - zur Kenntnis genommen
+- TOP 41: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 42: Petition der Anwohner Dominikanerstraße/Sonderburgstraße in Düsseldorf-Oberkassel aus dem Jahr 2023, Anfrage der AfD-Fraktion - zur Kenntnis genommen
+- TOP 43: Pavillonaufbauten auf Parklets an der Dominikanerstraße 4, 8 und 14, Anfrage der Bezirksvertreterin Isolde Maessen
+- TOP 44: Beschilderung Alte Heerdter Bahntrasse - zur Kenntnis genommen
+- TOP 45: Prüfung geeigneter Maßnahmen zur Verbesserung der Verkehrssicherheit des Niederkasseler Lohwegs zwischen der Hansaallee und der Amboßstraße - zur Kenntnis genommen
+- TOP 46: Nachpflanzung der Begrünung der Lärmschutzmauer auf der Lütticher Straße - zur Kenntnis genommen
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 48: Verkehrssicherheit für alle auf der Wiesenstraße - zur Kenntnis genommen
