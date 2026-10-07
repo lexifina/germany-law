@@ -1,0 +1,66 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-10-07T13:35:00+02:00
+- Ende: 2026-10-07T15:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34223
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34223
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner*innen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Fördermittelbericht 2024 - Kenntnis genommen
+- TOP 2.3: Beantwortung von mündlichen Anfragen aus der Sitzung des Finanzausschusses vom 29.06.2026 betreffend "Überplanmäßige Aufwendungen im Teilplan 0402 - Museum Ludwig für das Haushaltsjahr 2025" (0029/2026) - Kenntnis genommen
+- TOP 2.4: Neunter Sachstandsbericht zur Unterbringung und Betreuung von Geflüchteten - Kenntnis genommen
+- TOP 2.5: Deutzer Hafen: Haushaltsmäßige Auswirkungen der städtebaulichen Entwicklungsmaßnahme Deutzer Hafen auf Basis der Kosten- und Finanzierungsübersicht, Stand 31.12.2025 - Kenntnis genommen
+- TOP 2.6: Analyse des Städtetags NRW zu den Veränderungen im Gemeindefinanzierungsgesetz 2027 - vertagt
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Ansätze zur Verbesserung der Ertragsbasis - Kenntnis genommen
+- TOP 4.1.1: Beantwortung einer schriftlichen Anfrage der Fraktion Volt aus der Sitzung des Finanzausschusses vom 11.05.2026 (AN/0741/2026 ) betreffend "Ansätze zur Verbesserung der Ertragsbasis“ - Kenntnis genommen
+- TOP 4.2: Gestaltungsspielraum, Planungsgenauigkeit und Risiken im Haushaltsentwurf 2027/2028 - vertagt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß §25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. §12 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2026 - Kenntnis genommen
+- TOP 6.2: Mitteilung über die Erhöhung der Investitionsauszahlungen gemäß § 25 Abs. 1 Nr. 2 KomHVO NRW i.V.m. § 12 der Haushaltssatzung der Stadt Köln für die Haushaltsjahre 2025/2026 - Kenntnis genommen
+- TOP 6.3: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen im Haushaltsjahr 2025/2026 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Ersatzneubau des Nebengebäudes der Gastronomie in der Grünanlage Blücherpark Hier: Bau- und Mittelfreigabebeschluss - ungeändert beschlossen
+- TOP 7.2: Ersatzbeschaffung von 20 Aufsitzmähern für das Amt für Landschaftspflege und Grünflächen (Bereiche Friedhofs- und Objektpflege) - ungeändert beschlossen
+- TOP 7.3: Ersatzbeschaffung von sechs Aufsitzmähern mit Geräteträgerfunktion für das Amt für Landschaftspflege und Grünflächen (Bereich Allgemeine Grünunterhaltung) - ungeändert beschlossen
+- TOP 8: Über- und außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Wirtschaftspläne und Jahresabschlüsse
+- TOP 9.1: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2024 - ungeändert empfohlen
+- TOP 9.2: Wirtschaftsplan der Bühnen Köln für die Spielzeit 2026/27 - abgesetzt für diese Sitzung
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Kapazitätserweiterung auf den Linien 4, 13 und 18 - Baubeschluss für die Brandschutzsanierung der unterirdischen Stadtbahnhaltestellen Neumarkt und Appellhofplatz - ungeändert empfohlen
+- TOP 10.2: Energetische Sanierung des Quäker Nachbarschaftsheimes, Kreutzer Straße 5 - 9, 50672 Köln - ungeändert empfohlen
+- TOP 10.3: Ausnahme vom Ratsbeschluss vom 13.02.2025 zur Nichtkompensation ausfallender Drittmittel durch städtische Mittel - ohne Votum behandelt
+- TOP 10.4: Entwicklung eines Integrierten Stadtentwicklungskonzeptes "Kalk-Mitte" - ungeändert empfohlen
+- TOP 10.5: Baubeschluss zum Ersatzneubau Brücke Widdersdorfer Straße über die Bahntrasse der HGK Köln Ehrenfeld/ Lindenthal sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 10.6: Infrastrukturmaßnahmen im Stadtbahnnetz der KVB im Herbst 2026 - hier: Betriebskonzepte und Ersatzverkehrsleistungen für baubedingte Betriebsanpassungen - ohne Votum behandelt
+- TOP 10.7: Baubeschluss für die bauliche Umsetzung der Geestemünder Straße in Köln-Niehl, im Bereich zwischen Neusser Landstraße und Emdener Straße sowie Freigabe von investiven Auszahlungsermächtigungen bei Finanzstelle 6601-1201-5-1023, Geestemünder Straße - abgesetzt für diese Sitzung
+- TOP 10.8: Zoobrücke Los D, Los Z1 - Spannungsrisskorrosion - ungeändert empfohlen
+- TOP 10.9: Zuschussgewährung für die Verbraucherzentrale NRW über die Verbraucherberatungsstelle Köln - mit Änderungen empfohlen
+- TOP 10.9.1: Geminsamer Änderungsantrag zu TOP Ö10.9 „Zuschussgewährung für die Verbraucherzentrale NRW über die Verbraucherberatungsstelle Köln“ - ungeändert beschlossen
+- TOP 10.10: Bedarfsfeststellungs- und Baubeschluss für den Abriss der Hallen 63, 65, sowie E12 bis E 18 auf dem Großmarktgelände / Parkstadt Süd - ungeändert empfohlen
+- TOP 10.11: Neuordnung der SPNV-Aufgabenträgerschaft in NRW: Gründung der „Schiene NRW AöR" und Umstrukturierung des Zweckverbandes go.Rheinland - ungeändert empfohlen
+- TOP 10.12: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Wirtschaftsplan 2027 - ungeändert empfohlen
+- TOP 10.13: Stadtentwässerungsbetriebe Köln, AöR (StEB Köln): Abwassergebührensatzung 2027 - ungeändert empfohlen
+- TOP 10.14: RheinEnergie AG hier: Stadtwerke Leichlingen GmbH – Änderung des Gesellschaftsvertrags - ungeändert empfohlen
+- TOP 10.15: LuKIFG / NRW-Infrastrukturgesetz 2025-2036, Festlegung der Fördermaßnahmen im Förderbereich 2 - ohne Votum behandelt
+- TOP 10.16: RheinEnergie AG hier: Versorger-Allianz 450 Beteiligungs GmbH & Co. KG – Änderung des Gesellschaftsvertrags - ungeändert empfohlen
+- TOP 10.17: Einrichtung des Erweiterungsbaus mit zwei Einfachturnhallen für die GGS Berrenrather Str. 352, 50937 Köln-Sülz im Haushaltjahr 2027. - unter Vorbehalt beschlossen
+- TOP 10.18: Sanierung der Fenster und Fassaden (exklusiv Sporthalle) und Nachnutzung der freiwerdenden naturwissenschaftlichen Fachräume des Heinrich-Mann-Gymnasiums in 50765 Köln-Chorweiler, Fühlinger Weg 4 durch die Kölner Schulbaugesellschaft mbH - ohne Votum behandelt
+- TOP 10.19: Zügigkeitserweiterung der GGS Manderscheider Platz von drei auf vier Züge zum Schuljahr 2027/28 - ungeändert empfohlen
+- TOP 10.20: Zuschussgewährung Energieberatung der Verbraucherzentrale NRW in Köln (Fortführung bis 31.12.2028) - mit Änderungen empfohlen
+- TOP 10.20.1: Änderungsantrag zu TOP Ö10.20 „Zuschussgewährung Energieberatung der Verbraucherzentrale NRW in Köln (Fortführung bis 31.12.2028)“ - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
