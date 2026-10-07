@@ -1,0 +1,83 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2026-10-07T16:24:00+02:00
+- Ende: 2026-10-07T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/14296
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/14296
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Ehemalige Parkdeckfläche hinter dem Stadthaus 2
+- TOP 1.2: Maßnahmenprogramm zur Entsiegelung
+- TOP 2: Ausbleibende Schlüsselzuweisungen des Landes NRW und die Folgen für die kommenden Haushalte
+- TOP 3: Aktuelle Stunde
+- TOP 3.1: Kommunale Finanzkrise in Münster – Konsequenzen aus dem Einbruch der GFG-Schlüsselzuweisungen und weitere Strategie
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster
+- TOP 9: Anregungen des Jugendrates
+- TOP 9.1: Große Kreuzungen fahrradfreundlicher gestalten - einstimmig geändert beschlossen
+- TOP 9.2: Hitzeschutz an Schulen - verwiesen
+- TOP 10: Anregungen der Kommission zur Förderung der Inklusion von Menschen mit Behinderung
+- TOP 11: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 11.1: Kreisverkehr Von-Esmarch-Straße - Bürgerbegehren
+- TOP 11.1.1: Kreisverkehr von-Esmarch-Straße - dem Votum des Bürgerbegehrens folgen - mehrheitlich beschlossen
+- TOP 11.1.2: Sicherheit gewährleisten - Vermittlung beim Kreisverkehrs Von-Esmarch-Straße - entfällt
+- TOP 11.2: Immobilienstrategie 2035 für Münster - verwiesen
+- TOP 11.3: Stadtfinanzen richtig machen - mehrheitlich geändert beschlossen
+- TOP 12: 1. Fortschreibung Bericht zum Zeitplan der aus dem Brandschutzbedarfsplan resultierenden Baumaßnahmen - zur Kenntnis genommen
+- TOP 13: Grundsatzbeschluss Neubau eines Feuerwehrhauses der Löscheinheit Wolbeck der Freiwilligen Feuerwehr Münster - einstimmig geändert beschlossen
+- TOP 14: Interkommunale Zusammenarbeit - Abschluss einer Öffentlich-rechtlichen Vereinbarung (ÖrV) mit der Stadt Bergkamen - einstimmig beschlossen
+- TOP 15: Umgang mit den Änderungen der kommunalen Vergabegrundsätze zum 01.01.2026 (§ 75a GO NRW) und Umsetzung von ökologisch-sozialen Nachhaltigkeitsanforderungen bei öffentlichen Vergabe- und Beschaffungsvorgängen - mehrheitlich geändert beschlossen
+- TOP 16: Westfälische Verkehrsgesellschaft mbH (WVG): Erwerb von WVG-eigenen Geschäftsanteilen durch Regionalverkehr Münsterland GmbH (RVM) und Westfälische Landes-Eisenbahn GmbH (WLE); Änderung des Gesellschaftsvertrages der WVG - einstimmig beschlossen
+- TOP 17: Entwurf des Jahresabschlusses der Stadt Münster zum 31.12.2025 - einstimmig beschlossen
+- TOP 18: Entwurf des NKF-Gesamtabschlusses der Stadt Münster zum 31.12.2024 - einstimmig beschlossen
+- TOP 19: Bericht zur Wohnbaulandentwicklung 2024 - 2025 Fortschreibung des Baulandprogramms 2026 - 2035 - mehrheitlich geändert beschlossen
+- TOP 20: Kindertagesbetreuungsbericht 2025 / 2026 - zur Kenntnis genommen
+- TOP 21: Besondere Lebenswelten von Kindern in Coerde: Bedarfsgerechte Maßnahmen zur Stärkung der Betreuungs- und Bildungsqualität für Kinder in den Kindertageseinrichtungen - einstimmig geändert beschlossen
+- TOP 22: Erweiterung der Nikolaischule Wolbeck - Errichtungsbeschluss für den Neubau einer Zweifachsporthalle - einstimmig beschlossen
+- TOP 23: Trägervergabe Paulushof - einstimmig beschlossen
+- TOP 24: Trägervergabe für die achtgruppige Kindertageseinrichtung am Wiegandweg 36/Bezirk Südost - einstimmig beschlossen
+- TOP 25: Zuwendungsantrag zum Bundesprogramm „Sanierung kommunaler Sportstätten“ (Förderrunde SKS I) für das Projekt „Sanierung und Erweiterung der Bezirkssportanlage Tilbecker Straße in Münster“ - einstimmig beschlossen
+- TOP 26: Einführung des Deutschlandtickets Sozial - mehrheitlich beschlossen
+- TOP 27: Wiederbestellung Ombudspersonen WTG - einstimmig beschlossen
+- TOP 28: Konzept für ein Stadtteilgesundheitszentrum als Bestandteil der Handlungsempfehlungen der Projektgruppe „Gesundheitskompetenz stärken“ der Kommunalen Gesundheitskonferenz Münster - mehrheitlich beschlossen
+- TOP 29: Umsetzung des Modells MISSIMO zur Bekämpfung des organisierten Kindergeldmissbrauchs in der Stadt Münster - mehrheitlich beschlossen
+- TOP 29.1: Umsetzung des Modells MISSIMO zur Bekämpfung des organisierten Kindergeldmissbrauchs in der Stadt Münster
+- TOP 30: Aktualisierung der Richtlinien für die Vergabe städt. Baugrundstücke zur Förderung der Eigentumsbildung - einstimmig geändert beschlossen
+- TOP 31: Baugebiet "Hiltrup - Südwestlich Nordkirchenweg/Westlich Kappenberger Damm/Buswende" - einstimmig beschlossen
+- TOP 32: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 33: Errichtung eines Recyclinghofs (Zentralhof) in Münster-Hiltrup - einstimmig beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-Mitte
+- TOP 34.1.1: 42. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 34.1.2: 72. Änderung des FNP - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk Münster-West
+- TOP 34.2.1: Bebauungsplan Nr. 388 - 3. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Münster-Südost
+- TOP 34.3.1: 148. FNP-Änderung - Beschluss zur Änderung / Bebauungsplan Nr. 664 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 34.3.2: 122. FNP-Änderung - Vorhabenbezogener Bebauungsplan Nr. 635 - Aufhebung [ASB-Campus] - von der Tagesordnung abgesetzt
+- TOP 35: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 35.1: WERO als Zahlungsoption für städtische Online-Services einführen - verwiesen
+- TOP 35.2: Münster resilient machen - kritische Infrastruktur vor Sabotage, Cyberangriffen und Ausfällen schützen, Sicherheit und Bevölkerungsschutz stärken - verwiesen
+- TOP 35.3: Erst Alternativen schaffen - dann Stellplätze abbauen - verwiesen
+- TOP 35.4: Antrag zur Stärkung der digitalen Ratsarbeit - ein vollständig digitaler und papierloser Rat - verwiesen
+- TOP 35.5: Hitzeschutz im öffentlichen Raum - verwiesen
+- TOP 35.6: Die Stadt auf kommende Hitzeperioden vorbereiten - verwiesen
+- TOP 35.7: Münster macht's einfacher - Gastronomie und Innenstadtwirtschaft entlasten - verwiesen
+- TOP 35.8: Zielbild Kfz- und Fahrerlaubnisservice Münster 2030 - verwiesen
+- TOP 35.9: Haushalt wirksam steuern - verwiesen
+- TOP 36: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 37: Vorstand der Fachklinik Hornheide e. V. - Vertretung der Stadt Münster - - einstimmig beschlossen
+- TOP 38: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 38.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 39: Verschiedenes
