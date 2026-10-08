@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Zivilsenat-01"
 aktenzeichen: "I ZB 92/25"
 decided: "2026-10-08"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__92-25.html"
 corpus_doc_id: "rss:801296"
 cites_law: ["germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0004.md", "germany/bund/acts/zpo/0097.md", "germany/bund/acts/zpo/0511.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0574.md"]
