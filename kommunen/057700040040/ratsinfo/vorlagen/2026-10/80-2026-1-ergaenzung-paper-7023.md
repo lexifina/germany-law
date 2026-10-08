@@ -1,0 +1,21 @@
+# Neubau eines Mehrfamilienhauses auf dem Grundstück Gemarkung Rahden Flur 4 Flurstück 681, Wellerstraße 13b
+
+- Körperschaft: Stadt Rahden
+- Drucksache/Vorlage: 80/2026 1. Ergänzung
+- Art: BESCHLUSS-VORLAGE
+- Datum: 2026-10-08
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYW0CytZEV-TTPaDjuJ5owE
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/7023
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: BESCHLUSS-VORLAGE (Neubau eines Mehrfamilienhauses auf dem Grundstück Gemarkung Rahden Flur 4 Flurstück 681, Wellerstraße 13b) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXVx1ktsDUnEkq1TjnikST8sQ5V8MUSgppRaiSRW6BS0/BESCHLUSS-VORLAGE_80-2026_1._Ergaenzung.pdf
+- Anlage: BESCHLUSS-VORLAGE (Übersichtskarte) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSxzLLAaDQ52PhIggV8jsGXWE05RrQ3K8RWvmEIs_UlF/Uebersichtskarte.pdf
+- Anlage: BESCHLUSS-VORLAGE (Flurkarte) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdpC74sXJabNQkeKhtAsIh88pJDf13eB6CWnARLzlTDP/Flurkarte.pdf
+- Anlage: BESCHLUSS-VORLAGE (Lageplan) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXozuPYq80pM-CxR2NiMNJu1gChs5cu0hEa1j7Z92Qtg/Lageplan.pdf
+- Anlage: BESCHLUSS-VORLAGE (Grundriss EG) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR3XoFFJS4GxBRnoz1xvxVOukg4rA6t4voXLceZ_uq3a/Grundriss_EG.pdf
+- Anlage: BESCHLUSS-VORLAGE (Grundriss OG) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkwYCeGDkUbNvR8yjGW32Q36f_xaJ_uk3ZK7iRAULdO/Grundriss_OG.pdf
+- Anlage: BESCHLUSS-VORLAGE (Grundriss DG) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfTUBFJ7XcsBMC6Q2I8vtCUP5ZXO8ToJqmfw5Z9qX6cV/Grundriss_DG.pdf
+- Anlage: BESCHLUSS-VORLAGE (Schnitte) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe0pFIgOirDbjeI0oxso0fJOLJvYyEk-NVKzmzZrWMAJ/Schnitte.pdf
+- Anlage: BESCHLUSS-VORLAGE (Ansichten) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKYvB2URRJ16E1lPoWsu-ms7buCqYdAzdmIZzdKolfJ/Ansichten.pdf
+- Beratung:  https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3263 https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-57
+- Beratung:  https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3264 https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-205
