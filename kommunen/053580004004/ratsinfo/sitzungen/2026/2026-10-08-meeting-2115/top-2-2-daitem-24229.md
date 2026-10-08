@@ -1,0 +1,7 @@
+# TOP 2.2: 
+
+- Sitzung: Gemeinderat (13. Sitzung) (2026-10-08)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/24229
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
