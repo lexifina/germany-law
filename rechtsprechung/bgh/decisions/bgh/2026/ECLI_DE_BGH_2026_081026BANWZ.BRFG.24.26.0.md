@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Anwaltsenat"
 aktenzeichen: "AnwZ (Brfg) 24/26"
 decided: "2026-10-08"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2026/AnwZ_Brfg__24-26.html"
 corpus_doc_id: "rss:801708"
 cites_law: ["germany/bund/acts/brao/0014.md", "germany/bund/acts/brao/0112c.md", "germany/bund/acts/brao/0112e.md", "germany/bund/acts/brao/0194.md", "germany/bund/acts/vwgo/0124a.md", "germany/bund/acts/vwgo/0125.md", "germany/bund/acts/vwgo/0154.md"]
