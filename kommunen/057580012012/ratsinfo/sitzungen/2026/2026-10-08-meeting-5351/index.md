@@ -1,0 +1,54 @@
+# Bau- und Umweltausschuss (7. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2026-10-08T17:00:00+02:00
+- Ende: 2026-10-08T19:20:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-5
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUSI6TD_VKdXPG7A4iUap9g
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5351
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTEXu7NQzR8OuTXD8NEXwOPzhI2AuPz_2pe7CU_N03fS/Einladung_Bau-_und_Umweltausschuss_08.10.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZUygNgJ9Q3mqh98qEzQfUt-JGE11XOIipncymYC1t5/Oeffentliche_Niederschrift_Bau-_und_Umweltausschuss_08.10.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Stimmberechtigung der Mitglieder sowie Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Bau- und Umweltausschusses vom 25.06.2026
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Fragestunde für Ausschussmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.5: Bürgerantrag nach § 24 GO NRW 1. Offenlegung des Grundes der textlichen und datumsseitigen Abweichung der verkündeten Fassung der Aufhebungssatzung zur Baumschutzsatzung im Amtlichen Kreisblatt von der dem Rat vorliegenden Beschlussgrundlage 2. Vorläufige Aussetzung des administrativen Realvollzuges der Satzungsaufhebung
+- TOP A.6: Umgestaltung Alter Markt hier: Beschluss über die Wettbewerbsergebnisse und weiteres Vorgehen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7: Altkleidersammlung im Stadtgebiet Herford
+- TOP A.7a: Antrag der CDU Ratsfraktion Herford: Strategische Neuausrichtung und Konsolidierung der Altkleidersammlung im Stadtgebiet Herford - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7b: Ergänzungsantrag der SPD-Fraktion zum Antrag der CDU-Fraktion Herford: Strategische Neuausrichtung und Konsolidierung der Altkleidersammlung im Stadtgebiet Herford - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c: Stellungnahme der Verwaltung zu den Anträgen zur Altkleidersammlung im Stadtgebiet Herford
+- TOP A.8: Bebauungsplan Nr. 8.82 "Papendahlskamp" Hier: Vorentwurf, frühzeitige Beteiligung - Mit acht Zustimmungen, acht Gegenstimmen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Flächennutzungsplanänderung Nr. 1.22 "Waterfuhr" Hier: erneuter Entwurfsbeschluss, erneute Beteiligung gem. § 4a BauGB - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Bebauungsplan Nr. 11.41 "Waterfuhr neu" hier: erneuter Entwurfsbeschluss - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Herstellung der Erschließungsanlage "Kattendorp" Hier: Beschluss zur Einleitung des Verfahrens gemäß § 125 Abs. 2 BauGB; Beschluss zur Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB und § 4 Abs. 2 BauGB - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12: Endgültiger Ausbau der Straße „Kattendorp“ von „Werler Straße“ bis „Kampsstraße“ - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.13: Herstellung der Erschließungsanlage "Lange Straße" Hier: Beschluss zur Einleitung des Verfahrens gemäß § 125 Abs. 2 BauGB; Beschluss zur Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB und § 4 Abs. 2 BauGB. - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Flächennutzungsplanänderung Nr.1.24 "Wiesestraße/H2O" Hier: Feststellungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15: Bebauungsplan Nr. 11.40 " Erweiterung Sport- und Freizeitbad H2O" Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Gebäude Werrestr. 1 in den Werregärten hier: Weitere Verwendungsperspektive und Abbruch bei fehlender Nutzungsmöglichkeit - Mit fünfzehn Zustimmungen, einer Gegenstimme und einer Enthaltung wird der Beschluss zu Nr. 1 gefasst:Mit zwei Zustimmungen und fünfzehn Gegenstimmen wird der Beschluss zu Nr. 2 gefasst:
+- TOP A.17: Bebauungsplan Nr. 12.38 "Vlothoer Straße Nord/ Hammersmith Kaserne, Teil 2" Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18: Flächennutzungsplanänderung Nr. 1.16 „Kasernen auf dem Stiftberg“ Teil A Hier: Feststellungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Bebauungsplan Nr. 8.83 "Dickenheide / Im Papendiek" Hier: Aufstellungsbeschluss und Vorentwurf - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Maßnahmen des Straßenbauprogramms ab 2027 hier: Sanierung von Fahrbahnen und Grunderneuerung von Gehwegen, Grunderneuerung von Verkehrsflächen (Fahrbahn und Gehwege), Sanierung und/oder Grunderneuerung der Straßenbeleuchtung, Sanierung und/oder Grunderneuerung der Schmutz-, Regen- oder Mischwasserkanäle - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Maßnahmen des Straßenbauprogramms ab 2027, hier: Straßenendausbau - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.22: Grunderneuerung/Ausbauverbesserung der „Elverdisser Straße“ von Bahnübergang bis „Viehtriftenweg“ Hier: Änderung des Ausbauprogramms (BA/62/2017 1. Ergänzung, BA/80/2022 2. Ergänzung, BA/54/2023 3. Ergänzung) - Mit fünfzehn Zustimmungen und zwei Enthaltungen wird folgender Béschluss gefasst:
+- TOP A.23: Grunderneuerung der Straße Schwalbenweg vom Lübberlindenweg bis zum Meisenpfad - Mit sechzehn Zustimmungen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Grunderneuerung der Straße Meisenpfad vom Amselplatz bis zum Schwalbenweg - Mit sechzehn Zustimmungen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Bebauungsplan Nr. 6.88 „Im Robbenklee Ost“ Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.26: Pflegekonzept für Straßen- und Wegeränder in der Stadt Herford Hier: Fortführung des Mähkonzeptes - Einstimmig bei einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.27: Denkmalangelegenheiten Endgültige Eintragung der Landwirtschaftsschule (Berufskolleg der Landwirtschafts-kammer NRW) Ravensberger Straße 6 in die Denkmalliste der Hansestadt Herford - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.28: Flächennutzungsplanneuaufstellung Hier: erneuter Entwurf, erneute Beteiligung gem. § 4a BauGB - Mit zwölf Zustimmungen, einer Gegenstimme und vier Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.29: Antrag der SPD-Ratsfraktion Herford: Stadttaubenmanagement - Zuständigkeit, Arbeitsgruppe und Standortsuche für einen Stadttaubenschlag - Mit dreizehn Zustimmungen und vier Gegenstimmen wird folgender Beschluss gefasst:
+- TOP A.29a: Antrag der SPD-Ratsfraktion Herford: Stadttaubenmanagement - Zuständigkeit, Arbeitsgruppe und Standortsuche für einen Stadttaubenschlag - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.29b: 1. Ergänzungsantrag der Ratsfraktion Herford Die Linke: Stadttaubenmanagement: Fütterungsverbot - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.29c: 2. Ergänzungsantrag der Ratsfraktion Herford Die Linke: Stadttaubenmanagement: Standortbestätigung Futterstellen - Mit fünf Zustimmungen, neun Gegenstimmen und drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.30: Antrag der SPD-Ratsfraktion Herford zur Aufstellung einer Parkbank - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.31: Mitteilungen
