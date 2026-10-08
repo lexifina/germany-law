@@ -1,0 +1,55 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2026-10-08T17:00:00+02:00
+- Ende: 2026-10-08T18:44:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeDliVEpyfsZ4puvbF6RFY0
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3264
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUR4BiZmj3XV2PgSyDi_5K2V-VosV7gcArm70WJnG3dU/Bekanntmachung_Rat_08.10.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcnnqoRqevwhHztKfpSkXb2epC9TkoDZvMu9p1O41oJy/Oeffentliche_Niederschrift_Rat_08.10.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Sparkassenangelegenheiten a) Entlastung der Organe Stadtsparkasse Rahden für das Geschäftsjahr 2025 b) Verteilung des Jahresüberschusses - 23 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 5.: Außerplanmäßige Bereitstellung von Haushaltsmitteln für die Errichtung einer Heizungsanlage in der Turnhalle Wehe - Einstimmig, 0 Enthaltungen
+- TOP 6.: Änderung der Satzung zur Regelung der Teilnahme von Schüler*innen am Offenen Ganztag an den Grundschulen der Stadt Rahden vom 29.09.2022 - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 7.: Benennung der neuen Straße im Bereich des Bebauungsplanes Nr. 106 "Gewerbegebiet Rahden-West" in der Stadt Rahden - s. TOP 8
+- TOP 8.: Benennung der neuen Straße im Bereich des Bebauungsplanes Nr. 106 "Gewerbegebiet Rahden-West" in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. 111 "Verbrauchermarkt Osnabrücker Straße" und 97. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - 31 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: Neubau eines Mehrfamilienhauses auf dem Grundstück Gemarkung Rahden Flur 4 Flurstück 681, Wellerstraße 13b - Einstimmig, 0 Enthaltungen
+- TOP 12.: Zukünftige Struktur der Eigenbetriebe / eigenbetriebsähnlichen Einrichtungen - Ohne.
+- TOP 13.: Betriebssatzung "Wasserwerk der Stadt Rahden und städtische Bäder", 6. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Betriebssatzung "Abwasserentsorgung Stadt Rahden", 5. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Betriebssatzung für den "Straßenbetrieb Stadt Rahden", 5. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bestellung der Betriebsleitung für den Eigenbetrieb Abwasserentsorgung Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bestellung der Betriebsleitung für den Eigenbetrieb Wasserwerk Stadt Rahden und städtische Bäder - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bestellung der Betriebsleitung für den Eigenbetrieb Straßenbetrieb Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Abwasserbeseitigungskonzept der Stadt Rahden, Fortschreibung des Abwasserbeseitigungskonzeptes für die Jahre 2027 – 2032 - Einstimmig, 0 Enthaltungen
+- TOP 19.1: Abwasserbeseitigungskonzept der Stadt Rahden, Fortschreibung des Abwasserbeseitigungskonzeptes für die Jahre 2027 – 2032 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Prüfung des Jahresabschlusses der Stadt Rahden zum 31.12.2025 - 31 Stimmen dafür, 0 dagegen, 0 Enthaltungen
+- TOP 21.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2025 - Einstimmig, 0 Enthaltungen
+- TOP 22.: Beteiligungsbericht der Stadt Rahden zum 31.12.2025 - Einstimmig, 0 Enthaltungen
+- TOP 23.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2025; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 24.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2025; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 25.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2025; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 26.: Sanierung und Zukunftsgestaltung des Museumshofes in Rahden - Einstimmig, 0 Enthaltungen
+- TOP 27.: Interkommunale Zusammenarbeit mit der Stadt Espelkamp; hier: öffentlich-rechtliche Vereinbarungen in den Bereichen „Standesamt“ und „Überwachung des ruhenden Straßenverkehrs" - Einstimmig, 0 Enthaltungen
+- TOP 28.: Änderung der Geschäftsordnung des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 29.: Antrag der CDU-Fraktion zur Berichterstattung zur Krisenvorsorge und Weiterentwicklung des kommunalen Katastrophenschutzes
+- TOP 30.: Antrag der Fraktion Bündnis 90/Die Grünen auf Fortsetzung der Renaturierungsmaßnahmen an der Kleinen Aue auf dem Gebiet der Stadt Rahden - Antrag wurde zurückgezogen
+- TOP 31.: Anfragen und Anträge der Fraktion Bündnis 90/Die Grünen zu verschiedenen Themen
+- TOP 32.: Bekanntgaben und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 33.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 34.: Antrag der CDU-Fraktion zur Berichterstattung zur Krisenvorsorge und Weiterentwicklung des kommunalen Katastrophenschutzes
+- TOP 35.: Grundstücksangelegenheiten; hier: Einplanung der finanziellen Mittel zur Ausweisung und Bereitstellung einer Baulandfläche in der Ortschaft Varl - Einstimmig, 0 Enthaltungen
+- TOP 36.: Bekanntgaben und Anfragen
