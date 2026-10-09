@@ -1,0 +1,67 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-09T14:00:00+02:00
+- Ende: 2026-10-09T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29607
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29607
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598980.pdf
+- Ergebnisprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598980.pdf
+- Wortprotokoll: 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00598980.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitgliedes der Bezirksvertretung 1 - zurückgezogen
+- TOP 2: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung der Bezirksvertretung 1 vom 18.09.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Vorstellung der kommunalen Wärmeplanung - zur Kenntnis genommen
+- TOP 5.2: Vorstellung der Ladebordsteine - Beschluss der Bezirksvertretung 1 vom 22.05.2026; BV1/116/2026 - zur Kenntnis genommen
+- TOP 5.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 – Derendorf, Golzheim - Empfehlung einstimmig beschlossen
+- TOP 5.4: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 01/035 - Kennedydamm 55/Roßstraße 166 - Empfehlung mehrheitlich beschlossen
+- TOP 5.5: Bebauungsplan-Entwurf Nr.01/026 - Östlich Ulmenstraße (ehem. Großmarkt) - Empfehlung einstimmig beschlossen
+- TOP 5.6: Plan Nr. 01/034 - Soziale Erhaltungssatzung - Golzheim / Derendorf / Pempelfort - Satzung - Empfehlung mehrheitlich beschlossen
+- TOP 5.7: Bebauungsplan-Entwurf Nr. 01/032 - Kennedydamm55/Roßstraße - Empfehlung mehrheitlich beschlossen
+- TOP 5.8: Umsetzungsstrategie Zukunft Altstadt / Innenstadt (Teilbaustein des Förderprojektes KreativRaum D) - Empfehlung mehrheitlich beschlossen
+- TOP 5.9: Barrierefreier Haltestellenausbau „St. Vinzenz-Krankenhaus“ - Empfehlung mehrheitlich beschlossen
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.12: Herbeiführung eines Ausführungs- und Finanzierungsbeschluss: „Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsgangs (G9) am Humboldt-Gymnasium“ - Empfehlung einstimmig beschlossen
+- TOP 5.13: Errichtung von Sharingstationen im Umfeld der Mobilitätsstationen Münsterplatz und Bankstraße - zur Kenntnis genommen
+- TOP 5.14: Haushaltsentwurf 2027/2028 mit Anlagen - Entwurf der bezirksbezogenen Haushaltsansätze 2027/2028 für den Stadtbezirk 1 - einstimmig beschlossen
+- TOP 5.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.17: Sitzungstermine der Bezirksvertretung 1 für 2027 - zur Kenntnis genommen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anfragen
+- TOP 7.1: Mangelndes Gießen junger Bäume am Beispiel Marc-Chagall-Straße / Berty-Albrecht-Park – Anfrage der SPD-Fraktion - zur Kenntnis genommen
+- TOP 7.2: Baumaßnahmen Georg-Büchner-Gymnasium – Anfrage der Fraktion der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 7.3: Ausführungs- und Finanzierungsbeschluss für südliche Verlängerung der Toulouser Allee - - Anfrage der Fraktion Bündnis90/Die Grünen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Basketballmöglichkeit auf dem Spielplatz Stephanienstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.2: Verlängerung der Grünphasen für Fußgänger:innen auf der Klever Straße – überfraktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.3: Piktogramm auf Linksabbiegespur Nordstraße/Duisburger Straße für geradeaus fahrende Radfahrer:innen - überfraktioneller Antrag - abweichend beschlossen
+- TOP 8.4: Roteinfärbung der Fahrradfurten auf der Kreuzung Pempelforter Straße / Am Wehrhahn / Kölner Straße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.5: Verhinderung von verkehrswidrigem Linksabbiegen von der Nordstraße in die Kaiserswerther Straße - überfarktioneller Antrag - mehrheitlich beschlossen
+- TOP 8.6: Gesicherte Fußgängerquerung auf der Nordstraße zwischen Venloer Straße und Dreieck - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.7: Beschattung Spielplatz Stephanienstraße - überfraktioneller Antrag - einstimmig beschlossen
+- TOP 8.8: Absperrung der Fläche zum Weihnachtsmarkt an der Kasernenstraße1a – Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8.9: Durchfahrtssperren in der Altstadt (Kay- und Lore-Lorenz-Platz) durch große Blumenkübel und / oder Skulpturen ersetzen – Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 9: Informationsvorlagen
+- TOP 9.1: Schulwegsicherung auf der Gerresheimer Straße; Beschluss der Bezirksvertretung 1 vom 27.03.2026; BV1/071/2026 - zur Kenntnis genommen
+- TOP 9.2: Mehr Mülleimer auf der Berliner Allee; Beschluss der Bezirksvertretung 1 vom 26.06.2026; BV1/154/2026 - zur Kenntnis genommen
+- TOP 9.3: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9.4: Sicherung des Radverkehrs zwischen Duisburger Straße und Vagedesstraße in Fahrtrichtung Adlerstraße sowie zwischen Duisburger Straße und Venloer Straße in Fahrtrichtung Fischerstraße; Beschluss der Bezirksvertretung 1 vom 30.01.2026; BV1/021/2026 - zur Kenntnis genommen
+- TOP 10: Verfügungsmittel der Bezirksvertretung 1
+- TOP 10.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Forum Freies Theater (FFT Düsseldorf) - mehrheitlich beschlossen
+- TOP 10.2: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an die Altstadt Marketing GmbH - einstimmig beschlossen
+- TOP 10.3: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Peter Behrens School of Arts / Hochschule Düsseldorf - einstimmig abgelehnt
+- TOP 10.4: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an Bürgerinitiative Worringer Platz - einstimmig beschlossen
+- TOP 11: Verschiedenes
