@@ -11,3 +11,4 @@
 - [§ 9 Informationssicherheit](0009.md)
 - [§ 10 Rechtsverordnungsermächtigung](0010.md)
 - [§ 11 Evaluierung](0011.md)
+- [§ 12 Experimentierklausel](0012.md)
