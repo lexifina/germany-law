@@ -1,6 +1,5 @@
 # Telekommunikationsgesetz
 
-- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Teil 1 Allgemeine Vorschriften
 
