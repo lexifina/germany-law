@@ -878,7 +878,7 @@ von Leistungsdaten, Datentransparenz
 - [§ 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur](0331.md)
 - [§ 332 Anforderungen an die Wartung von Diensten](0332.md)
 - [§ 332a Unzulässige Beschränkungen durch Anbieter und Hersteller informationstechnischer Systeme für die vertragsärztliche Versorgung, die vertragszahnärztliche Versorgung, die pflegerische Versorgung, für Krankenhäuser und Apotheken sowie für Vorsorgeeinrichtungen und Rehabilitationseinrichtungen](0332a.md)
-- [§ 332b Rahmenvereinbarungen mit Anbietern und Herstellern informationstechnischer Systeme](0332b.md)
+- [§ 332b Rahmenvereinbarungen mit Anbietern und Herstellern informationstechnischer Systeme; Erprobung vereinfachter Konformitätsbewertungsverfahren](0332b.md)
 - [§ 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik](0333.md)
 
 ### Fünfter Abschnitt Anwendungen der Telematikinfrastruktur

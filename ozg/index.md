@@ -16,3 +16,4 @@
 - [§ 10 Datenschutzcockpit; Verordnungsermächtigung](0010.md)
 - [§ 11 Monitoring und Evaluierung; Ermittlung der Erfüllungsaufwände](0011.md)
 - [§ 12 Übergangsregelungen zu § 3; Verordnungsermächtigungen](0012.md)
+- [§ 13 Experimentierklausel für den Probebetrieb der Europäischen Brieftasche für die Digitale Identität](0013.md)
