@@ -27,6 +27,7 @@
 - [§ 13 Bildschirmspielgeräte](0013.md)
 - [§ 14 Kennzeichnung von Filmen und Spielprogrammen](0014.md)
 - [§ 14a Kennzeichnung bei Film- und Spielplattformen](0014a.md)
+- [§ 14b Experimentierklausel für die Nutzung von automatisierten Bewertungssystemen](0014b.md)
 - [§ 15 Jugendgefährdende Medien](0015.md)
 - [§ 16 Landesrecht](0016.md)
 
