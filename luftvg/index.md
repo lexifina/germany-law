@@ -103,6 +103,7 @@ Enteignung
 - [§ 31d](0031d.md)
 - [§ 31e](0031e.md)
 - [§ 31f Beauftragung einer Flugsicherungsorganisation, Verordnungsermächtigung](0031f.md)
+- [§ 32](0032.md)
 - [§ 32a](0032a.md)
 - [§ 32b](0032b.md)
 - [§ 32c](0032c.md)
