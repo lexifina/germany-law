@@ -1,0 +1,75 @@
+# Rat (164. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2026-10-12T18:00:00+02:00
+- Ende: 2026-10-12T21:03:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYcaNkId2J8SwbeQOfebwK4
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19145
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfKkA-9_GAB9KhbzKHW-8poxaShEZLKbrshSecdR611s/Bekanntmachung_Rat_12.10.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY9tOJZdrbGGwu3Kd773YK5Q4Bclrr1HQpcq6RVmCTUr/Oeffentliche_Niederschrift_Rat_12.10.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 09.07.2026
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Umbesetzung von Gremien
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: Antrag der Fraktion DIE GRÜNEN vom 15.04.2026 auf Verkleinerung des Stadtrates zur kommenden Wahlperiode - Ohne Abstimmung
+- TOP 6.: Antrag UWE Emsdetten auf Wiedereinrichtung eines Personalausschusses - 50 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.: Änderung der Hauptsatzung - Einstimmig
+- TOP 8.: Änderung der Geschäftsordnung: Antrag der Fraktion DIE GRÜNEN vom 01.02.2026 sowie weitere Änderungen - Einstimmig
+- TOP 9.: Verwaltungsorganisation
+- TOP 9.1: Wiederwahl des Ersten Beigeordneten - Einstimmig
+- TOP 9.2: Fachbereichsbildung und Stellenausschreibung Technische/r Beigeordnete/r - 33 Ja-Stimme(n), 22 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.: Einrichtung einer hauptamtlichen Stelle "Leitung der Freiwilligen Feuerwehr Emsdetten" - Einstimmig
+- TOP 11.: Antrag der FDP-Gruppe vom 26.05.2026 zu Richtlinien für die Öffentlichkeitsarbeit - 54 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Finanzangelegenheiten
+- TOP 12.1: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2025 - (kein Text vorhanden)
+- TOP 12.1.1: Befreiung von der Pflicht der Aufstellung eines Gesamtabschlusses 2025 - Einstimmig
+- TOP 12.2: Jahresabschluss des Abwasserwerkes zum 31.12.2025 - Einstimmig
+- TOP 12.3: Abrechnung Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung 2025 - Zur Kenntnis genommen
+- TOP 12.4: Antrag UWE-Fraktion vom 08.12.2025 - Umsetzung Haushaltsdisziplin Antrag CDU-Fraktion vom 17.01.2026 – kreditbedingte Folgekosten und gebundene Personalressourcen - 0 Ja-Stimme(n), 51 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 12.5: II. Nachtrag zur Satzung über die Erhebung von Vergnügungssteuer in der Stadt Emsdetten (Vergnügungssteuersatzung) vom 18. Dezember 2019 - Einstimmig
+- TOP 12.6: Einführung einer kommunalen Parkplatzsteuer - 54 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.7: Dienstanweisung zur Abwicklung des Zahlungsverkehrs mittels Schulgirokonten - Zur Kenntnis genommen
+- TOP 12.8: Anpassung der Benutzungs- und Gebührenordnung für die Stadtbibliothek Emsdetten - Einstimmig
+- TOP 13.: Weiteres Vorgehen Sportanlage Stauffenbergstraße hier: Sporthallenbedarfe - Einstimmig
+- TOP 14.: Weiteres Vorgehen Sportanlage Stauffenbergstraße hier: Wirtschaftlichkeitsvergleiche - Einstimmig
+- TOP 15.: Stadtwerke Emsdetten GmbH
+- TOP 15.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2025 und Gewinnverwendung - Einstimmig
+- TOP 16.: Zukünftige Gestaltung der Gebäudereinigung - 29 Ja-Stimme(n), 27 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 17.: Außerplanmäßige Verpflichtungsermächtigung (VE) für den Chemieraum Naturwissenschaften Gymnasium Martinum - Einstimmig
+- TOP 18.: Antrag Fraktion Die Grünen - Sichere Radverkehrsführung an den innerstädtischen Hauptstraßen - 54 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 19.: Bauprogramm Kirchstraße (Wilhelmstraße und Karlstraße) - 54 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Bauprogramm Sandufer - 54 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 21.: Münsterstraße - Ausführungsplanung - 54 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Grundstückskaufpreisfestsetzung im Baugebiet „Silberweg West“ - Einstimmig
+- TOP 23.: Allgemeine Stadtentwicklungsplanung
+- TOP 23.1: Leitlinien zur Errichtung von Windenergieanlagen der Stadt Emsdetten - Beschluss zur Fläche 2 „östlich Emsdettener Venn“ - 53 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 23.2: Neuaufstellung eines Integrierten städtebaulichen Entwicklungskonzepts für den Innenstadtbereich Emsdettens - Grundsatzbeschluss - 54 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 23.3: Fortschreibung des Einzelhandels- und Zentrenkonzepts der Stadt Emsdetten - Konzeptbeschluss - Einstimmig
+- TOP 23.4: Entwicklungsgebiet WEST – Teilfläche C „Erzweg West“ - Grundsatzbeschluss / Beschluss eines städtebaulichen Konzeptes - Zur Kenntnis genommen
+- TOP 24.: Bebauungspläne
+- TOP 24.1: Vorhabenbezogener Bebauungsplan Nr. 7 "Westlich Rheiner Straße / Hummertsbach" - Satzungsbeschluss - 48 Ja-Stimme(n), 0 Gegenstimme(n), 7 Enthaltung(en)
+- TOP 25.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 25.1: Bürgerbus - Jahresbericht für das Jahr 2025 - Zur Kenntnis genommen
+- TOP 26.: Allgemeine Umweltangelegenheiten
+- TOP 26.1: THG-Bilanz 2025 Stadtverwaltung und Abwasserwerk - Zur Kenntnis genommen
+- TOP 26.2: Klimakommune Deutschland - Aktualisierung des Klimafahrplans - 51 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 27.: Kulturangelegenheiten
+- TOP 27.1: Betrieb des Lesecafés der Stadtbibliothek durch den Verein Detten liest e.V. - Einstimmig
+- TOP 27.2: Zukunft der Galerie Münsterland; Evaluation und Entscheidung über erhöhten Zuschuss - Ohne Abstimmung
+- TOP 27.3: Anpassung des Vertrages mit dem Sozio-kulturellen Zentrum Stroetmanns Fabrik e.V. - Einstimmig
+- TOP 28.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 28.1: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in der Offenen Ganztagsschule (Elternbeitragssatzung) - 48 Ja-Stimme(n), 7 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 28.2: Stellenmehrbedarf im Bereich der Eingliederungshilfe gem. § 35a SGB VIII - Zur Kenntnis genommen
+- TOP 28.3: Verabschiedung Kinder- und Jugendförderplan 2027 - 2031 - Einstimmig
+- TOP 29.: Etat / Budget
+- TOP 29.1: Entwurf Haushaltssatzung und Haushaltsplan 2027 - Einstimmig
+- TOP 30.: Verschiedenes
