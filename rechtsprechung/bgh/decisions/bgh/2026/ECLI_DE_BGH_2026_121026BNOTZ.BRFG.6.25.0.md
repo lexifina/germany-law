@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Notarsenat"
 aktenzeichen: "NotZ (Brfg) 6/25"
 decided: "2026-10-12"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotZ_Brfg___6-25A.html"
 corpus_doc_id: "rss:801378"
 cites_law: ["germany/bund/acts/bnoto/0005b.md", "germany/bund/acts/bnoto/0111b.md", "germany/bund/acts/bnoto/0111d.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/vwgo/0122.md", "germany/bund/acts/vwgo/0124.md", "germany/bund/acts/vwgo/0124a.md", "germany/bund/acts/vwgo/0152a.md"]
