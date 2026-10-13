@@ -1,0 +1,63 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2026-10-13T18:00:00+02:00
+- Ende: 2026-10-13T20:58:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRFWs9E3rw_GcCiwlLhxOW0
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/6336
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSeDqo_b4AxyxGovMtroDIIhA50zTc41cHdby1VIQC9j/Einladung_Rat_13.10.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung einer Schriftführung
+- TOP 2.: Einführung und Verpflichtung von Ratsmitgliedern
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnendenfragestunde
+- TOP 5.: Genehmigung von Niederschriften
+- TOP 5.1.: Genehmigung der Niederschrift vom 30.09.2025
+- TOP 5.2.: Genehmigung der Niederschrift vom 21.04.2026
+- TOP 5.3.: Genehmigung der Niederschrift vom 07.07.2026
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: 2. Änderungssatzung der Satzung der Stadt Wesseling über die Unterhaltung und Benutzung der Obdachlosenunterkünfte in der Stadt Wesseling (Unterbringungssatzung)
+- TOP 8.: 3. Änderungssatzung der Satzung über die Unterhaltung und Benutzung der Übergangsheime der Stadt Wesseling
+- TOP 9.: Beteiligungsbericht der Stadt Wesseling für das Berichtsjahr 2020
+- TOP 10.: Feststellung des Jahresabschlusses der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2025
+- TOP 11.: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2027
+- TOP 12.: Zivile Verteidigung – Information des Rates zu Aufgaben und Zuständigkeiten sowie Anmeldung von Stellen- und Hausmittelmehrbedarf durch das Amt 37 – Feuerwehr und Rettungswesen
+- TOP 13.: Haushaltswirtschaft im Haushaltsjahr 2026 Bereitstellung von überplanmäßigen Ausgaben
+- TOP 14.: Stellenanpassungen im Amt 37 - Feuerwehr und Rettungswesen aufgrund des 1. Nachtrags zum Rettungsdienstbedarfsplan 2023
+- TOP 15.: Genehmigung einer Dringlichkeitsentscheidung: Dienstreise eines Ratsmitglieds in die Partnerstadt Leuna
+- TOP 16.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2025
+- TOP 17.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Wirtschaftsplan 2027
+- TOP 18.: Änderung des Gesellschaftsvertrags der Wirtschaftsförderung Rhein-Erft GmbH (WFG)
+- TOP 19.: Bestellung und Entsendung von Vertretungen der Stadt Wesseling in externe Gremien
+- TOP 20.: Antrag der Fraktion Die Linke: Kommunale Selbstverwaltung verteidigen - Konnexitätsprinzip einhalten
+- TOP 21.: Antrag der AfD-Fraktion: Heranziehung von Asylbewerbern zu gemeinnütziger Arbeit auf dem Wesselinger Weihnachtsmarkt 2027
+- TOP 22.: Antrag der AfD-Fraktion: Ausstehende Niederschriften - Aussetzung des Vollzugs "Im Kleinen Mölchen"
+- TOP 23.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen und sonstigen Gremien
+- TOP 24.: Antrag der Fraktion Die Linke: Umbesetzungen und Nachbesetzungen in Ausschüssen
+- TOP 25.: Antrag der Fraktion B90/Die Grünen: Umbesetzung von Ausschüssen
+- TOP 25.1.: Ergänzungsantrag der Fraktion B90/Die Grünen: Umbesetzung von Ausschüssen
+- TOP 26.: Mitteilungen und Anfragen
+- TOP 26.1.: Anfrage der AfD-Fraktion: Vandalismus und Sachbeschädigung
+- TOP 26.1.1.: Anfrage der AfD-Fraktion: Vandalismus und Sachbeschädigung, hier: Stellungnahme der Verwaltung
+- TOP 26.2.: Anfrage der AfD-Fraktion: Energieversorgungssicherheit in geopolitischen Krisen
+- TOP 26.2.1.: Anfrage der AfD-Fraktion: Energieversorgungssicherheit in geopolitischen Krisen, hier: Stellungnahme der Verwaltung
+- TOP 26.3.: Anfrage der AfD-Fraktion: Fehlende Niederschriften der Ratssitzungen - Beschlussgrundlage "Im Kleinen Mölchen"
+- TOP 26.3.1.: Anfrage der AfD-Fraktion: Fehlende Niederschriften der Ratssitzungen – Beschlussgrundlage „Im Kleinen Mölchen“, hier: Stellungnahme der Verwaltung
+- TOP 26.4.: Anfrage der Fraktion Die Linke: Einkommensverteilung bei den Elternbeiträgen
+- TOP 26.4.1.: Anfrage der Fraktion Die Linke: Einkommensverteilung bei den Elternbeiträgen, hier: Stellungnahme der Verwaltung
+- TOP 26.5.: Anfrage der Fraktion B90/Die Grünen: Personalgewinnung Wesselinger Kitas
+- TOP 26.5.1.: Anfrage der Fraktion B90/Die Grünen: Personalgewinnung Wesselinger Kitas, hier: Stellungnahme der Verwaltung
+- TOP 26.6.: Mitteilung der Fraktion Die Linke: Resolution im Kreis Euskirchen zu Kommunalfinanzen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Vortrag zur Stromversorgung in Wesseling durch die Westnetz GmbH
+- TOP 2.: Verleihung von Ehrengaben der Stadt Wesseling
+- TOP 3.: Verleihung des Heimatpreises der Stadt Wesseling
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 5.: Unterrichtung der Öffentlichkeit
