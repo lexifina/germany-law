@@ -1,0 +1,129 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-10-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224364
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224364
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Bericht zu VIN-Projekt im Diamaltpark
+- TOP 1.4.1.: VIN - Präsentation Diamaltpark
+- TOP 1.5: Informationen zum Bezug des Pflegeheims an der Franz-Nißl-Straße und zu Planungen für das Hans-Sieber-Haus
+- TOP 1.5.1.: N - Vorstellung des Projektauftrages (Bedarfs- und Konzeptgenehmigung) für den Neubau öffentliche Grünfläche Kirschgelände im Geltungsbereich des Bebauungsplanes mit Grünordnung Nr. 2146
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Schließung des Edeka-Marktes Waldhornstr. 54
+- TOP 2.2.2.: Toilette in der Grünanlage am ehemaligen Allacher Sommerbad in der Eversbuschstraße
+- TOP 2.2.3.: Glasfaserausbau in Allach
+- TOP 2.2.4.: Ergebnisse des Stadtteil-Checks 2026 in Allach im Rahmen des Projekt "Auf Herz und Rampe prüfen" des Kreisjugendrings mit Schüler*innen der Mittelschule an der Franz-Nissl-Straße
+- TOP 2.2.5.: N - Verkehrssituation für die Anwohner in der Willi-Wien-Straße
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Kultur und Budget
+- TOP 3.1.1.: vom 15.09.26
+- TOP 3.2: Familie, Bildung und Sport
+- TOP 3.2.1.: vom 08.10.26
+- TOP 3.2.2.: Protokoll zu Rundem Tisch Pfarrer-Grimm-Grundschule
+- TOP 3.3: Mobilität
+- TOP 3.3.1.: vom 09.10.26
+- TOP 3.4: Planung und Bau
+- TOP 3.4.1.: vom 10.10.26
+- TOP 3.5: Umwelt und Soziales
+- TOP 3.5.1.: vom 08.10.26
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 4.1.1.: Stellungnahmen zum Baumschutz Oktober 2026
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Entfernung der Sitzbank an der Ecke Manzostraße / Von-Reuter-Straße
+- TOP 6.2.: (E) Buslinie X36 beschleunigen: Engpass Ludwigsfelderstraße & Co auflösen - vertagt aus 09/26 -
+- TOP 6.2.1: Schreiben Münchner Verkehrsgesellschaft mbH vom 21.09.26 und N - 05.10.26: Ausfall- und Verspätungsstatistik Buslinie X36 Hinweis: weitere Unterlagen zu TOP 6.2
+- TOP 6.3.: (E) Anbringung eines Verkehrsspiegels an der Ausfahrt vom Hinterhof Korbinian-Beer-Straße 17 auf die Manzostraße
+- TOP 6.4.: (E) Aufstellung eines Spiegels an der Kreuzung Eisolzrieder Straße/Eversbuschstraße
+- TOP 6.5.: Bestellung einer städtischen Leistung: Versetzung Dialogdisplay von der Manzostraße an den Paul-Ehrlich-Weg
+- TOP 6.6.: (E) Hundesee / Bahnbiotop an der Rudorffstraße: Folgen der Hitze bewältigen
+- TOP 7.: Anhörungen
+- TOP 7.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Dachauer Str. 665 - Neuerrichtung einer temporären Containeranlage zur Kapazitätserhöhung, befristet bis zum 31.12.2029 (Az. 1.2-2026-12540-42)
+- TOP 7.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Dachauer Str. 665 - Neubau einer überdachten Stell- und Lagerfläche für Gerätschaften der Werksfeuerwehr - VORBESCHEID (Az. 1.7-2026-12545-42)
+- TOP 7.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Dachauer Str. 665 - Neuerrichtung von sechs Lagerzelten im Bereich westlich von Gebäude 006 (Az. 1.2-2026-11899-42)
+- TOP 7.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Dachauer Str. 665 - Nutzungsänderung von Büro zu Produktion und Layoutänderungen - G036 (Az. 1.1-2026-11196-42)
+- TOP 7.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Krauss-Maffei-Str. 11 - Errichtung einer Containeranlage -Umkleiden und Sanitärbereiche- Befristet auf 5 Jahre (Az. 1.2-2026-12729-42)
+- TOP 7.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.09.26: Vesaliusstr. 27 - Neubau eines Wohnhauses mit 6 WE, Büronutzung und Tiefgarage (Az. 1.23-2026-15533-42)
+- TOP 7.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.09.26: Dachauer Str. 665 - Geb. 046: Nutzungs- und Layoutänderung sowie Errichtung von Notausgängen - ÄNDERUNGSANTRAG zu 1.1-2008-29707-42- Jetzt: Neubau Abgaskamin mit Auslassschacht (als Anbau an das bestehende Gebäude) (Az. 1.112-2026-12769-42)
+- TOP 7.8.: Schreiben Mobilitätsreferat vom 16.09.26: Gruithuisenstraße, Westseite, Höhe Anwesen Nr. 25a; Einrichtung eines eingeschränkten Haltverbots mit Zeitzusatz (Zeichen 286 StVO mit Zusatzzeichen)
+- TOP 7.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.08.26: Verfahren der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange (§ 4 Abs. 1 BauGB): KNDS-Norderweiterung - Bebauungsplan mit Grünordnung Nr. 1713a (Ludwigsfelder Straße (südlich), Verlängerung Krauss-Maffei-Straße/Privatstraße (westlich), Krauss-Maffei-Straße (nördlich), Bahnlinie München – Ingolstadt (östlich)) - vertagt aus 09/26 -
+- TOP 7.10.: Schreiben Referat für Bildung und Sport vom 15.09.26: Entwurf Beschlussvorlage Bildungsbauoffensive - Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 7.11.: Schreiben Mobilitätsreferat vom 23.09.26: Nahmobilitätskonzept für den 23. Stadtbezirk Allach-Untermenzing Sitzungsvorlage Nr. 26-32 / V 00793
+- TOP 7.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.09.26: Eversbuschstr. 134 - Neubau Gerätehaus Freiwillige Feuerwehr München - VORBESCHEID (Az. 1.7-2026-15854-42)
+- TOP 7.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.09.26: Dachauer Str. 665 - Layoutänderungen (Achse E-H/1-7 und J-O/1-9), Einbau einer Kabine (Achse K-O/1-9), Neubau einer Prozessluftanlage (Achse E-H/1-2), Erweiterung Prüfbereich (Achse H-O/17-25) und Neuerrichtung einer Technikfläche auf einem best. Kabinendach (Achse K-N/2-3) (Az. 1.1-2026-12280-42)
+- TOP 7.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.10.26: Franz-Albert-Str. 28d - Abbruch eines Erkers und Erweiterung des Erdgeschosses und 1. Obergeschosses durch einen Anbau + Baumfällung (Az. 1.2-2026-2927-42)
+- TOP 7.15.: N - Schreiben Baureferat vom 08.10.26: Bedarfs- und Konzeptgenehmigung: Neubau öffentliche Grünfläche Kirschgelände im Geltungsbereich des Bebauungsplanes mit Grünordnung Nr. 2146 im 23. Stadtbezirk Allach – Untermenzing,
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Schreiben Sozialreferat vom 17.09.26: Einladung und Protokoll Runder Tisch zur Situation in der Manzostraße
+- TOP 8.2.: Schreiben Direktorium vom 22.09.26: Einladung zum Workshop zur Evaluation des MünchenBudgets am 19.11. 26 oder 27.11.26
+- TOP 8.3.: N - Schreiben AWM vom 07.10.26: Einladung Nachbarschaftstage neu gedacht am 21.10.26
+- TOP 8.4.: N - Schreiben Direktorium vom 08.10.26: Workshop Pilotprojekt MünchenBudget: Einladung zur Teilnahme
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.1.1.: Schreiben vom 10.09.26: Trinkwasserbrunnen und mehr Schattenplätze für den Oertelplatz (BVE Nr. 20-26 / V 18517 Neufassung)
+- TOP 9.1.2.: Schreiben vom 22.09.26: Rückschnitt der Uferböschung an der Würmbrücke an der Kreuzung Behring-/Nigglstraße
+- TOP 9.1.3.: Schreiben vom 21.09.26: Illegale Entsorgung des Kehrrichts zwischen S-Bahn Haltestelle Allach und Karl-Gayer-Straße
+- TOP 9.1.4.: Beschluss des BA 22 am 21.10.26: Verlegung des barrierefreien Badestegs am Lußsee in unmittelbare Nähe zum Parkplatz und zur barrierefreien Toilette (BVE Nr. 26-32 / E 00160)
+- TOP 9.2: Direktorium
+- TOP 9.2.1.: Schreiben vom 29.09.26: Verwendungsnachweis - Zuschuss aus dem BA-Budget: Allacher Kunstevent
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 9.4.1.: Schreiben Kommunalreferat vom 25.09.2026: Mitteilung über Grundstücksgeschäft: Kauf Eversbuschstraße
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.6.1.: Schreiben vom 25.09.26: Mehr Sicherheit in der Allacher Straße
+- TOP 9.6.2.: Schreiben vom 22.09.26: Krautheimstraße - Aktualisierung der Lkw-Verbotsschilder
+- TOP 9.6.3.: Schreiben vom 25.09.26: Arbeiten im Straßenraum; Vesaliusstr. 21-33 und Vesaliusstr. 30 Seite Untere Mühlstr.: Asphaltierung des kompletten Fahrbahnbelages zwischen Eversbuschstr. und Nikolaus-Rüdinger-Str.
+- TOP 9.6.4.: N - Schreiben vom 29.09.26: Absolutes Halteverbot auf der Straßensüdseite der Allacher Str. 239
+- TOP 9.6.5.: N - Schreiben vom 05.10.26: Arbeitsstelle im Straßenraum vom 09.10.26 - 31.05.27: Bergsträßerstr. 8
+- TOP 9.6.6.: N - Schreiben vom 07.10.26: Ausweitung des neuen Münchner Leihradsystems „MyRadl“ auf den 23. Stadtbezirk Allach-Untermenzing
+- TOP 9.6.7.: N - Schreiben vom 07.10.26: Parksituation in der Bergetstraße
+- TOP 9.6.8.: N - Schreiben vom 07.10.26: Absperrungen in der Grovestraße
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.9.1.: Schreiben vom 21.09.26 und N - BS vom 13.10.26: Gleisschaden oder Schaden an der Lärmschutzwand im Bereich Allacher Waldkolonie
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.10.1.: Schreiben vom 18.09.26: Bescheid zur Baumfällung: Abbestr. 4
+- TOP 9.10.2.: Schreiben vom 21.09.26: Bescheid zur Baumfällung: Vogelloh 14-48
+- TOP 9.10.3.: Schreiben vom 22.09.26: Bescheid zur Baumfällung: Curiestr. 2
+- TOP 9.10.4.: Schreiben vom 24.09.26: Bescheid zur Baumfällung: Vesaliusstr. 27
+- TOP 9.10.5.: Schreiben vom 25.09.26: Bescheid zur Baumfällung: Manzostr. 107
+- TOP 9.10.6.: Schreiben vom 25.09.26: Bescheid zur Baumfällung: Krautheimstr. 31a
+- TOP 9.10.7.: Schreiben vom 25.09.26: Bescheid zur Baumfällung: Keilstr. 35
+- TOP 9.10.8.: Schreiben vom 29.09.26: Bescheid zur Baumfällung: Frühaufstr. 58a
+- TOP 9.10.9.: Schreiben vom 29.05.26: Bescheid zur Baumfällung: Georg-Reismüller-Str. 3a
+- TOP 9.10.10.: N - Schreiben vom 08.10.26: Baumfällungsanzeige: Schöllstr. 11
+- TOP 9.11: Sozialreferat
+- TOP 9.11.1.: Schreiben vom 23.09.26: Entscheidung für den 9. Stadtbezirk Neuhausen-Nymphenburg als Einsatzort für das Beteiligungsprojekt "Ran an die Stadtteilkoffer!" 2027
+- TOP 9.12: Stadtkämmerei
+- TOP 9.13: Sonstiges
+- TOP 9.13.1.: N - Schreiben MVG vom 06.10.26: Aufstellung eines Wartehäuschens und einer elektronischen Anzeigetafel an der Haltestelle Ludwigsfelder Straße
+- TOP 9.13.2.: N - Schreiben Münchenstift vom 06.10.26: Änderung des Zeitplans der Eröffnung des Pflegeheims Franz-Nißl-Straße
+- TOP 9.14: Bereits weitergeleitete Anliegen
+- TOP 9.14.1.: Vorfall im Rahmen der Informationsveranstaltung an der Manzoschule
+- TOP 9.14.2.: Straßenlaterne am Oertelplatz
+- TOP 9.14.3.: Verdacht der gewerblichen Vermietung im Bereich Naumannstraße
+- TOP 9.14.4.: Beschwerde über die Ahndung von Gehwegparken im Bereich Kuppferstraße
+- TOP 9.14.5.: Beschädigung Papiertonne Karl-von-Roth-Str. 19
+- TOP 9.14.6.: N - Abfrage Hybridsitzungen 2027
+- TOP 9.14.7.: N - Nächtliche Beleuchtung der Baustelle Kirschgelände
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 10.1: Beschluss des Bauausschusses vom 15.09.26 (VB):
+- TOP 10.1.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken, Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 11.: Nichtöffentlicher Teil
