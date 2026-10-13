@@ -1,0 +1,147 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2026-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9116738
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9116738
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.1.1: Anwesende Bürger*innen sowie Kinder und Jugendliche und/oder deren Vertretung
+- TOP 2.1.2: Schreiben/Anträge von Bürger*innen
+- TOP 2.1.2.1.: Bürgeranliegen: Biodiversität ins Quartier - hier: "häßliche" Teilfläche am Edelweißplatz ansprechend und schmetterlingsfreundlich bepflanzen (FF UA Umwelt)
+- TOP 2.1.2.2.: Bürgeranliegen: Gescheitere Baumpflanzung und fehlende Nachpflanzungen in der Werinherstr. (FF UA Umwelt)
+- TOP 2.1.2.3.: Bürgeranliegen: Verkehrsbelastung in der Minnewitstr. (FF UA MuV)
+- TOP 2.1.2.4.: Bürgeranliegen: Beschleunigung der Parklizenzierung im Bereich Tegernseer Landstraße 219 (Sektor VI, Teil 3) aufgrund akuter Verdrängungseffekte (FF UA MuV)
+- TOP 2.1.2.5.: Bürgeranliegen: Umwandlung von 3 Parkplätzen in Fahrradabstellplätze vor der Kita Deisenhofener Straße 74 (FF UA MuV)
+- TOP 2.1.2.6.: Bürgeranliegen: Parksituation_Balanstraße_328_334 und ggü (FF UA MuV)
+- TOP 2.1.2.7.: Bürgeranliegen: Beleuchtung der Tischtennisplatten im Weißenseepark (FF UA Umwelt)
+- TOP 2.1.2.8.: Bürgeranliegen: LED - Beleuchtung Landrichterstr. und Grenzstr. (FF UA Umwelt)
+- TOP 2.1.2.9.: Bürgeranliegen: Künstliche Verknappung auf dem Schotterparkplatz Sankt-Quirin-Platz führt zum verkehrstechnischen Kollaps des gesamten Wohnviertels zwischen Tegernseer Landstraße und Rotbuchenstraße (Soyerhofstraße) (FF UA MuV)
+- TOP 2.1.2.10.: Bürgeranliegen: Gescheiterte Baumpflanzung und weitere fehlende Bäume (FF UA Umwelt)
+- TOP 2.1.2.11.: Bürgeranliegen: Spielplatz Perlacher Forst (UA FSA)
+- TOP 2.1.2.12.: Bürgeranliegen: Mangelnder Nachbarschaftsschutz (FF UA BPW)
+- TOP 2.1.2.13.: Bürgeranliegen: Aufstellung von Mülleimern mit Zigarettenaufsatz (FF UA Umwelt)
+- TOP 2.2: Behördenvertretung
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des/der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 2.5.1.: Vorstellung: Machbarkeitsstudie Grünwalder Stadion
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1.: Kinderbeauftragte*r
+- TOP 3.2.: Beauftragte*r für Menschen mit Behinderungen
+- TOP 3.3.: Internetbeauftragte*r
+- TOP 3.4.: Gleichstellungsbeauftragte*r
+- TOP 3.5.: Jugendbeauftragte*r
+- TOP 3.6.: Beauftragte*r für Integration
+- TOP 3.7.: Beauftragte* gegen Rechtsextremismus
+- TOP 3.8.: Beauftragte* Lokale Wirtschaft
+- TOP 3.9.: Mieterbeirat
+- TOP 3.10.: Bericht der Seniorenvertretung
+- TOP 3.11.: Baumschutzbeauftragte*r (Einzelfälle und Bauvorhaben)
+- TOP 3.11.1.: Hermelinweg 14
+- TOP 3.11.2.: Martin-Luther-Str. 1 - Neubau eines Appartementhauses als Beherbergungsbetrieb mit Tiefgarage (FF UA BPW- betrifft Baumfall)
+- TOP 4.: Anträge/Anfragen
+- TOP 4.1.: Verkehrssicherheit für alle in der Waldmünchner Straße (Vertagt aus der Sept-Sitzung) - FF UA MuV
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Stadtbezirksbudget (Vertagt aus der Sept.- Sitzung, FF UA FSA) Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 6.000,00€; Az. 0262.100-17-0551
+- TOP 5.1.2.: (E) Stadtbezirksbudget (FF UA Kultur) J.E.W.S. Jews Engaged with Society e.V. Faces for the Names Unbekannter Widerstand an der Außenmauer der JVA Stadelheim vom 01.10. -30.11.2026 3.000,00€; Az. 0262.100-17-0555
+- TOP 5.1.3.: (E) Stadtbezirksbudget (FF UA Kultur) Luma e.V. Kulturprogramm Adventszeit Gans Woanders vom 12.11.2026 - 23.12.2026 4.000,00 € / AZ: 0262.100-17-0556
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.2.1.: Städtischer Weihnachtsbaum im Stadtbezirk 17 Obergiesing - Fasangarten (Zweiter Beschluss)
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.4: Sonstiges
+- TOP 6.: Unterausschüsse
+- TOP 6.1.: Unterausschuss Bau/Planung/Wohnen (UA BPW)
+- TOP 6.1.1.: Bericht
+- TOP 6.1.1.1.: Parkplatz U-Bahn-Haltestelle St.-Quirin-Platz
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Vorschläge zum Schutz vor der Hitze am Ella-Lingens-Platz (Vertagt aus der Juli-Sitzung)
+- TOP 6.1.3.2.: Weinbauernstr. 9 - Neubau eines sechsgeschossigen Hospizgebäudes mit ebenerdiger Mittelgarage (+ Baumschutz)
+- TOP 6.1.3.3.: Holtzendorffstr. 34 - Abbruch des bestehenden Doppelhauses auf Fl.Nrn. 16176/54 und 16176/55 und Neubau einer Doppelhaushälfte mit 4 Wohneinheiten und Garagen auf Fl.Nr. 16176/55
+- TOP 6.1.3.4.: Tegernseer Landstr. 40 - 40a - Antrag auf Umnutzung Ladeneinheit in Wein- und Gin-Fachhandel mit Ausschank
+- TOP 6.1.3.5.: Martin-Luther-Str. 1 - Neubau eines Appartementhauses als Beherbergungsbetrieb mit Tiefgarage (betrifft auch Baumschutz)
+- TOP 6.1.3.6.: Schwanseestr. 43 - Umnutzung einer Bankfiliale in eine Anlage für sportliche Zwecke / Nachbarschafts-Fitnessstudio und SB-Bankfiliale
+- TOP 6.1.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: BA Unterrichtung Vollzug Erhaltungssatzung Trauchberg- /Forggenseestraße a) Perlacher Str. 111 b) Pöllatstr. 6 c) Deisenhofener Str. 81
+- TOP 6.1.4.2.: BA Unterrichtung Vollzug Erhaltungssatzung Scharfreiterplatz a) Chiemgaustr. 16 b) Oberaudorferstr. 1,3,5 c) Schwanseestr. 58 d) Scharfreiterstr. 1, 1.OG e) Scharfreiterstr. 1, 2.OG f) Schwanseestr. 56 g) Schwanseestr. 54 h) Scharfreiterstr. 9 i) Scharfreiterstr. 9, EG j) Scharfreiterstr. 7, OG k) Chiemgaustr. 90
+- TOP 6.1.5.: Anträge
+- TOP 6.1.6.: Sonstiges
+- TOP 6.2: Unterausschuss Familie/Soziales/Ausbildung (UA FSA)
+- TOP 6.2.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.2.4.1.: Aktualisierung der Gesamtliste mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen und Aktualisierung der Daten über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen im GeoPortal
+- TOP 6.2.4.2.: Information an alle Bezirksausschüsse, Entscheidung für den 9. Stadtbezirk Neuhausen-Nymphenburg als Einsatzort für das Beteiligungsprojekt "Ran an die Stadtteil-Koffer!" 2027
+- TOP 6.2.5.: Anträge
+- TOP 6.2.6.: Sonstiges
+- TOP 6.3.: Unterausschuss Mobilität und Verkehr (UA MuV)
+- TOP 6.3.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Martin-Luther-Str. - Errichtung einer digitalen Werbeanlage für Fremdwerbung mit Bedarfsinformation der Stadtinformation, freistehend, doppelseitig, es werden nur Standbilder im 10-Sek.-Takt gezeigt
+- TOP 6.3.3.2.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: Eschenbachstr. 4, absolutes Haltverbot (Z. 283 StVO)
+- TOP 6.3.3.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO) hier: Fasangartenstraße , Ecke Balanstraße, absolutes Haltverbot
+- TOP 6.3.3.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO): hier: Lincolnstraße, zwischen Cincinnatistraße und Tegernseer Landstraße Aufhebung der Radwegbenutzungspflicht, Freigabe der Gehbahn für den Radverkehr Richtung Ost Piktogrammkette Fahrrad, Schutzstreifen auf dem Abschnitt der Einbahnstraße
+- TOP 6.3.3.5.: Verkehrsrechtliche Anordnung gem. § 45 Straßenverkehrsordnung (StVO) hier: Rotwandstraße - absolutes Halteverbot
+- TOP 6.3.3.6.: Zustimmung Aufstellung Parkscheinautomaten (Lizenzgebiet Scharfreiterplatz)
+- TOP 6.3.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrsrechtliche Anordnung nach § 45 Straßenverkehrs-Ordnung (StVO): hier: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Kesselbergstraße 8
+- TOP 6.3.4.2.: Antwortschreiben auf ein Bürgeranliegen: Dringende Beschwerde wegen massiven nächtlichen Baulärms - Baustellenmaßnahme Deisenhofener Straße / Herzogstandstraße
+- TOP 6.3.4.3.: Vormerkung und verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO): hier: Fasangartenstraße, Tegernseer Landstraße Änderung Ortstafel
+- TOP 6.3.4.4.: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Vollzug der Richtlinien für Sondernutzungen an öffentlichen Straßen der Landeshauptstadt München (SoNURL); Entscheidung Oberbürgermeister: Antrag der Firma, Matratzen Concord GmbH" auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen einer Warenauslage vor dem Anwesen St.- Martin-Str. 2/ Tegernseer Landstraße, 81541 München
+- TOP 6.3.4.5.: Antwortschreiben auf Bürgeranliegen: Ruhestörung durch Ampel- Auffindungssignal in der Deisenhofener Str.
+- TOP 6.3.4.6.: Antwortschreiben auf ein Bürgeranliegen: Parksituation an der SWW - Gefährdung von Teilhabe und Inklusion
+- TOP 6.3.4.7.: Antwortschreiben auf ein Bürgeranliegen: E-Lade-Infrastruktur
+- TOP 6.3.4.8.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 6.3.4.9.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO: hier: Tegernseer Landstraße, Fahrtrichtung Nord zwischen Spixstraße und Kreuzung Grünwalder-/Candidstraße; Geschwindigkeitsbeschränkung auf 30 km/h, Piktogrammkette Fahrrad
+- TOP 6.3.4.10.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 Straßenverkehrs-Ordnung (StVO); hier: Giesinger Berg, Knoten Ichostraße, Silberhornstraße, Martin-Luther-Straße Verkehrsfreigabe nach Umbau
+- TOP 6.3.5.: Anträge
+- TOP 6.3.6.: Sonstiges
+- TOP 6.4.: Unterausschuss Umwelt und Gesundheit (UA Umwelt)
+- TOP 6.4.1.: Bericht
+- TOP 6.4.1.1.: Bericht Integriertes Quartierskonzept Scharfreiterplatz
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5.: Anträge
+- TOP 6.4.6.: Sonstiges
+- TOP 6.5.: Unterausschuss Kultur/Vereine/Initiativen/Sport (UA Kultur)
+- TOP 6.5.1.: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2.: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3.: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Genehmigung von Veranstaltungen a) Ois Giasing am 12.09.2026 (Vorabentscheidung durch die BA- Vorsitzende) b) Giesing is a feeling (Aktualisierung)
+- TOP 6.5.5.: Anträge
+- TOP 6.5.6.: Sonstiges
+- TOP 7.: Sonstige Fälle (FF alle UA)
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Bewerbung der kommunalen Wärmeplanung bei BA-Sitzungen und Bürgerversammlungen – Zusammenarbeit mit dem Referat für Klima- und Umweltschutz (Vertagt aus der Sept. Sitzung)
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Ankündigungen
+- TOP 8.1.1.: UA-Sitzungstermine im Oktober 2026
+- TOP 8.2.: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
