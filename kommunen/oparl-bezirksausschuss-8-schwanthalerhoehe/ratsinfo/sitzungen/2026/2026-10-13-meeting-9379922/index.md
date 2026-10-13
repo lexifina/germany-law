@@ -1,0 +1,96 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379922
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379922
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 3.1.: Einführung der Gelben Tonne in München ab 01.01.2027
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Überprüfung und Entfernung der Sitzbank vor der Ligsalzstr 22
+- TOP 4.2.: Beschwerde über die Situation der Anwohner während der Wiesn
+- TOP 4.3.: Beschwerde wegen wiederholter nächtlicher Lärmbelästigung Westendstraße
+- TOP 4.4.: Prüfung regelmäßiger gewerblicher Outdoortrainings im Hans-Dürmeier-Weg / Heimeranstraße
+- TOP 4.5.: Dringende Prüfung der Baumstandorte in der Fäustlestraße
+- TOP 4.6.: Verkehrssituation vordere Gollierstraße während des Oktoberfestes
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Grasserstraße 5 und 7
+- TOP 6.2.2.: Bauvorhaben Kazmairstraße 83
+- TOP 6.2.3.: Bauvorhaben Ganghoferstraße 25
+- TOP 6.2.4.: Bauvorhaben Georg-Freundorfer-Platz
+- TOP 6.2.5.: Bauvorhaben Landsberger Straße 102
+- TOP 6.2.6.: Termin für das Jahresgespräch mit dem Planungsreferat - Stadtplanung und Lokalbaukommission
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Gesamtliste mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 7.3.2.: Einsatzort für das Beteiligungsprojekt Ran an die Stadtteil-Koffer
+- TOP 7.3.3.: Reparatur- und Ausbesserungsarbeiten Teile der EPDM-Flächen auf der Theresienhöhe - Bahndeckel
+- TOP 7.3.4.: Stärkung des Sicherheitsempfindens von Jugendlichen im öffentlichen Raum (Jugendversammlung Antrag 2)
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Oktoberfest 2026; Schluss- und Erfahrungsbericht
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung "Spiel mich! 2026" im Franziska-Bilek-Weg im Zeitraum am 08.10.2026
+- TOP 8.3.2.: Versammlung im Georg-Freundorfer-Platz am 20.09.2026
+- TOP 8.3.3.: Versammlung Theresienhöhe, Heimeranstraße Ecke Franziska-Bilek-Weg am 03.10.2026
+- TOP 8.3.4.: Ergebnisprotokoll Anwohnenden-Gespräch zu den Munich Urban Celebrations MUCs am 29.06.2026
+- TOP 8.3.5.: Versammlung Landsberger Str 110 am 12.10.2026
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Informationsveranstaltung Neugestaltung Grünfläche im Innenhof von St. Benedikt am 22.10.2026
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Abendrunde des RKU mit den Bezirksausschüssen am 28.10.2026
+- TOP 9.3.2.: Bescheid Baumfällung Ridlerstraße 75
+- TOP 9.3.3.: Projekt Fäustlestraße - Baumpflanzungen im Straßenraum
+- TOP 9.3.4.: Flyer Fernwärme Astallerstraße
+- TOP 9.3.5.: Verkehrsrechtliche Anordnung: Anbringung Verkehrszeichen Gollierstraße
+- TOP 9.3.6.: Verkehrsrechtliche Anordnung Anordnung einer Lieferzone in der Landsberger Straße
+- TOP 9.3.7.: Flyer Fernwärme Astallerstraße
+- TOP 9.3.8.: Errichtung einer Fahrplananzeige in der U-Bahnstation Schwanthalerhöhe
+- TOP 9.3.9.: Meldeliste Bauvorhaben SWM
+- TOP 9.3.10.: Anzeigendisplay an der Bushaltestelle Trappentreustraße Ecke Kazmairstraße (Jugendversammlung Antrag 7)
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Eigenmittel und Getränkespende der Augustiner-Brauerei für den BA-Jahresempfang am 12. November 2026
+- TOP 11.2.: Einsatz vorhandener Restmittel aus dem BA Budget Teilantrag a) Austausch und Aufstellung zusätzlicher öffentlicher Tischtennisplatten an zentralen Plätzen Teilantrag b) Errichtung von zwei Skate-Ledges im Westend Teilantrag c) Installation von Sitzbänken vor dem Ankunftszentrum am Heimeranplatz Teilantrag d) Erneuerung der Schachfiguren für das Boden-Schachbrett am Georg-Freundorfer-Platz
+- TOP 11.3.: Antwortschreiben der Referate zusätzlich in Einfacher Sprache
+- TOP 11.4.: Anschaffung von mobilen Gartenduschen für die 34 Kindertagesstätten im Stadtbezirk; für die Anschaffung stellt der BA 8 maximal 20.000 Euro aus seinem Haushaltsetat zur Verfügung
+- TOP 11.5.: Finanzierung von Ferien-und Familienpässen für bedürftige Kinder und Jugendliche als städtische Leistung im Stadtbezirk Schwanthalerhöhe; € 2680,-
+- TOP 11.6.: Aufwertung des Trinkbrunnens an der U-Bahn-Haltestelle Schwanthalerhöhe durch Aufstellung eines Pflanzkübels und einer Bank
+- TOP 11.7.: Aufwertung der Kreuzung Ganghofer-/Gollierstraße mit einer Tischgruppe
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.2.1.: Einladung: Workshop zur Evaluation des MünchenBudgets
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Einladung des AWM: Nachbarschaftstage neu gedacht am 21.10.2026
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
