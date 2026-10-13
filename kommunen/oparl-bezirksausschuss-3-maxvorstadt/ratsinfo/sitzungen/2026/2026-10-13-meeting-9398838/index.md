@@ -1,0 +1,130 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2026-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9398838
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9398838
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Anliegen von Bürger*innen
+- TOP 5.1: Die Bürger*innen haben das Wort
+- TOP 5.2: Vorstellungen
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Beteiligung des BA3 bei der Revitalisierung und dem Erhalt der U-Bahnhöfe in der Maxvorstadt
+- TOP 6.2.: Sitzgelegenheit Haltestelle Königsplatz Richtung Hauptbahnhof
+- TOP 6.3.: Einrichtung von Fahrradstellplätzen an der Kreuzung Adalbertstraße/ Barer Straße
+- TOP 6.4.: Leerstand Türkenstraße 50, 52 und 54 verhindern
+- TOP 6.5.: Nachverfolgung Mietenprellung Türkenstr. 94
+- TOP 6.6.: Vermüllung der Maxvorstadt entgegenwirken – Nachbarschaftstage – AWM München am Ackermannbogen als Vorbild nehmen
+- TOP 6.7.: Leerstand seit einem Jahr in der Heßstraße 49 WEG – Aufteilung im Erhaltungssatzungsgebiet durch die Hintertüre?
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragte*r
+- TOP 7.2: Mieterbeirätin
+- TOP 7.3: Kinder- und Jugendbeauftragte*r
+- TOP 7.4: Beauftragte*r für Menschen mit Behinderung
+- TOP 7.5: REGSAM- Beauftragter
+- TOP B: Klima, Umwelt und Planung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Baumanpflanzung in der Amalienstraße
+- TOP 1.2: Anträge
+- TOP 1.2.1.: „Gelber Sack“ als Alternative für Orte ohne „Gelbe Tonne“ in der Maxvorstadt
+- TOP 1.2.2.: Schutzwürdige Esche an der Schellingstr. 3 als Naturdenkmal ausweisen
+- TOP 1.2.3.: Vorgriffsbeschluss „Hitzewellen-Schutz“ – kostenloser Eintritt in städtische bzw. stadtnahe Museen bei Hitzewellen (ab 30°C Außenlufttemperatur)
+- TOP 1.2.4.: Ausverkauf von Landesliegenschaften in der Maxvorstadt verhindern: Kein Verkauf der Seidlstraße 7 durch den Freistaat Bayern
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: LBK Listen KW37, KW38, KW39, KW40
+- TOP 2.1.2.: WEB Listen 01. - 15.09.2026
+- TOP 2.1.3.: Königinstr. 24, Renovierung und Umbau eines Mehrfamilienhauses, Ausbau des Daches
+- TOP 2.1.4.: Amalienstr. 25, Abbruch und Neubau des Rückgebäudes eines Hotels
+- TOP 2.1.5.: Dachauer Str. 12, Aufstockung der Dachterrasse Vordergebäude mit 6. Obergeschoss für zwei Apartments
+- TOP 2.1.6.: Gaiglstr. 20, Neuerrichtung zweier Einhausungen an zwei Außenaufzügen an einem Wohngebäude (Gaiglstr. 20 / Lothstr. 28)
+- TOP 2.1.7.: Königinstr. 31, Sanierung eines denkmalgeschützten Wohnhauses mit Abbruch und Neuerrichtung des Dachstuhls
+- TOP 2.1.8.: Fürstenstr. 11, Bürohaus Fürstenstraße 11: Nutzungsänderung Untergeschoss - Änderung von La-gerräumen in Sportstudio Nutzungsänderung Erdgeschoss - Änderung von Büro in Sportstudio Tektur - Änderungen innere Aufteilung, Er-gänzung Innentreppe, Ergänzung Lichtschächte - ÄNDERUNGSANTRAG zu 1.201-2019-28567-22
+- TOP 2.1.9.: Theresienstr. 132, Neubau Rückgebäude als Mehrfamilienhaus mit 8 Wohneinheiten - mit Mobili-tätskonzept
+- TOP 2.1.10.: Arnulfstr. 16, Nutzungsänderung eines Bürogebäudes in ein Boardinghaus einschließlich zwei-ten notwendigen Treppenhauses; viergeschossiger Anbau, Dachumbau und eingeschossige Aufstockung mit Gemeinschaftsbereich und Dachterrasse – VORBESCHEID
+- TOP 2.1.11.: Gabelsbergerstr. 32, Neuerrichtung eines 2-geschossigen Dachstuhls samt Gauben und eines Dachterrasseneinschnitts zur Erstellung einer weiteren Wohneinheit, Anbau von straßenseiti-gen und hofseitigen Balkonen
+- TOP 2.1.12.: Lothstr. 62, Umnutzung des Rückgebäudes zu Wohnheim für Studierende - befristet bis 2037
+- TOP 2.1.13.: Schönfeldstr. 30, Abbruch eines Rückgebäudes, Neubau eines Wohn- und Geschäftshauses
+- TOP 2.1.14.: Gabelsbergerstr. 44-46, Aufstockung straßenseitiges Bestandsgebäude und (Neubau) Ergän-zung Rückgebäude mit Aufstockung- VORBESCHEID Gabelsberger Str 44-46
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Barer Str. 33 Baumfällung
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP C: Mobilität und öffentlicher Raum
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.1.1.: Tram/Autos Arnulfstraße/Deroystr
+- TOP 1.1.2.: Neues Lokal B. in der Türkenstraße
+- TOP 1.1.3.: Maßmannpark
+- TOP 1.1.4.: Situation im Bereich Schelling/Amalien/Türkenstr
+- TOP 1.1.5.: Parksituation Lothstraße
+- TOP 1.1.6.: Fahrradparkplatz Prinz-Ludwig-Strasse
+- TOP 1.1.7.: Verwahrlosung Königsplatz
+- TOP 1.1.8.: Kreuzung Görresstraße - Winzererstraße
+- TOP 1.1.9.: Beschwerde: Dauerhafte Baustellen- und Haltverbotsproblematik in der Amalienstraße – erhebliche Beeinträchtigung ansässiger Gewerbebetriebe
+- TOP 1.1.10.: Temporäres nächtliches Durchfahrtsverbot für Teile der Schellingstraße
+- TOP 1.1.11.: Einführung zentraler Abstellflächen für E-Roller im Univiertel
+- TOP 1.1.12.: Verbesserung der Müllentsorgung im öffentlichen Raum im Univiertel
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Der Königsplatz wird zur politisch neutralen Zone
+- TOP 1.2.2.: Bushaltestellen Hauptbahnhof Nord
+- TOP 1.2.3.: Grüner Pfeil für den Radverkehr an den Einmündungen zur Gabelsbergerstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Anordnung zweier absoluter Haltverbote in der Karlstraße;
+- TOP 2.1.2.: Parkraummanagement Änderungen im Lizenzgebiet TU-Viertel - Änderung der Parkregelung- Anhörung
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Anhörung Bezirksausschüsse: SV Nr. 26-32 / V 01240 Änderung Straßenreinigungssatzung
+- TOP 2.2.2.: Vorabstimmung eines möglichen Standorts für einen mobilen Verkaufsanhänger 1. Josephsplatz, 2. Pinakothek der Moderne / Bereich Türkentor – Fläche des Bauern-markts 3. Klaus-Mann-Platz 4. Arnulfpark / Erika-Mann-Straße
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.: Bescheid: Lothstr. 84 (Notmaßnahme unter Vollsperre der Fahrbahn)
+- TOP 3.4.: Baumaßnahmen der SWM
+- TOP 3.5.: Suchkreismeldungen, Mobilfunkstandorte
+- TOP D: Soziales und Bildung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 4.2.: Aktualisierung der Gesamtliste mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen und Aktualisierung der Daten über Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen im GeoPortal
+- TOP E: Kultur und Demokratieförderung
+- TOP 1.: Bürger*innenschreiben und Anträge
+- TOP 1.1: Bürger*innenschreiben
+- TOP 1.2: Anträge
+- TOP 1.2.1.: Keine Förderung antisemitischer Strukturen – Überprüfung der Förderfähigkeit des Import-Export
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des/der Unterausschussvorsitzenden
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Verwendungsnachweise Stadtbezirksbudget
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP 1: BA-Angelegenheiten
+- TOP 1.1.: Anhörung zur BA-Satzungsänderung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 1.2.: Entsendung Plenum Kunstareal
+- TOP 1.3.: BA-Antrag Gelder Aufstellung Christbaum
+- TOP 1.4.: Gedenkveranstaltung anlässlich des 88. Jahrestages der Pogromnacht des 9. November 1938 1.000 Euro aus dem Budgetanteil für eigene Veranstaltungen
+- TOP 2.: Sonstiges
+- TOP G: Nicht öffentliche Sitzung
