@@ -1,0 +1,60 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-13T17:00:00+02:00
+- Ende: 2026-10-13T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29475
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29475
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599631.pdf
+- Ergebnisprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599631.pdf
+- Wortprotokoll: 1. Nachtrag http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00599631.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen und Anregungen aus der Bürgerschaft
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Mündliche Berichte
+- TOP 4.1: Kommunale Wärmeplanung für den Stadtbezirk 3 (mdl. Bericht) - zur Kenntnis genommen
+- TOP 4.2: Sachstand Stadtsauberkeitsoffensive (mdl. Bericht) - zur Kenntnis genommen
+- TOP 5: Bau- und Planungsangelegenheiten
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwaltungsvorlagen
+- TOP 6.1: Umsetzungsstrategie Zukunft Altstadt / Innenstadt (Teilbaustein des Förderprojektes KreativRaum D) - einstimmig beschlossen
+- TOP 6.2: Entfall Haltestelle Gilbachstraße - einstimmig beschlossen
+- TOP 6.3: ZUKUNFT QUARTIER.DÜSSELDORF - Einführung eines Nachbarschaftsfonds im Handlungsraum 05, Teilbereich Oberbilk Nord - zur Kenntnis genommen
+- TOP 6.4: Grimlinghauser Straße / Uedesheimer Straße - Ergebnisse zu den Geschwindigkeitsmessungen vor und nach Einbahnstraßendrehung - zur Kenntnis genommen
+- TOP 7: Bezirklicher Bauunterhalt und Zuschüsse
+- TOP 7.1: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 3 - städtische Gebäude ohne Schulen - Haushalt 2026 - einstimmig beschlossen
+- TOP 8: Beratung Haushaltsentwurf 2027/2028 mit Anlagen - Entwurf des bezirksbezogenen Haushaltsansatz 2027/2028 für den Stadtbezirk 3 - einstimmig beschlossen
+- TOP 8.1: Haushalt 2027/2028: Kirchfeldstraße als Fahrradstraße (Antrag Bündnis 90/Die Grünen, SPD, Volt) - einstimmig beschlossen
+- TOP 8.2: Haushalt 2027/2028: Verwendung der bezirksbezogenen Haushaltsmittel 2027/2028 (Antrag Bündnis 90/Die Grünen, CDU, SPD/Volt) - einstimmig beschlossen
+- TOP 8.3: Haushalt 2027/2028: Haushaltsmittel der BV3 - Mittelübertragung (Antrag Bündnis 90/Die Grünen, CDU, SPD) - einstimmig beschlossen
+- TOP 9: Anfragen
+- TOP 9.1: Anfragen aus vorherigen Sitzungen
+- TOP 9.1.1: Entwicklung der Parkplatzsituation im Stadtbezirk 3 (Anfrage AfD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.2: Bußgelder für falsch geparkte E-Scooter (Anfrage Fraktion SPD/Volt) - zur Kenntnis genommen
+- TOP 9.1.3: Anfrage zur Veranstaltung „Rock gegen Rechts“ (Anfrage AfD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.4: Anfrage zu Verwaltungsvorgängen und zum Umfeld des Gehry-Ensembles am Neuen Zollhof (Anfrage AfD-Fraktion) - zur Kenntnis genommen
+- TOP 9.1.5: Schulstraßen-Konzept und Walking Bus zur Verbesserung der Schulwegsicherheit im Stadtbezirk 3 (Anfrage Fraktion Bündnis90/Die Grünen) - vertagt
+- TOP 9.1.6: Nächtliches Tempo 30 auf der Corneliusstraße aus Lärm- und Gesundheitsschutzgründen (Anfrage Fraktion Bündnis 90/Die Grünen) - zur Kenntnis genommen
+- TOP 9.2: Aktuelle Anfragen
+- TOP 9.2.1: Radschnellweg RS 5 entlang des Südrings – Sachstand und weiteres Vorgehen (Anfrage Bündnis 90/Die Grünen) - zur Kenntnis genommen
+- TOP 9.2.2: Einrichtung eines Fußgängerüberwegs an der Kreuzung Palmenstraße / Bachstraße zur Verbesserung der Schulwegsicherheit (Anfrage Bündnis 90/Die Grünen) - vertagt
+- TOP 9.2.3: Entwicklung und Zukunft des Kulturraums Bilker Allee 233 (Anfrage Die Linke) - vertagt
+- TOP 10: Anträge
+- TOP 10.1: Mehr Verkehrssicherheit auf dem Südring (Antrag Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.2: Umsetzung des Begrünungsvorschlags für den Vorplatz der Düsseldorf Arcaden (Antrag Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.3: Sachstandsbericht Abenteuerspielplatz (Antrag Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.4: Sachstandsbericht Bilker Allee/Bachstraße (Antrag Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 10.5: Tempo 30 auf der Ellerstraße (Antrag SDP/Volt, Bündnis 90/Die Grünen, Die Linke) - einstimmig beschlossen
+- TOP 11: Informationsvorlagen
+- TOP 11.1: Sitzungstermine 2027 - zur Kenntnis genommen
+- TOP 11.2: Errichtung eines Fußgängerweges zwischen Varnhagenstraße und Erna-Eckstein-Straße - zur Kenntnis genommen
+- TOP 11.3: Verkehrsteilnehmendeninformationen rund um den Schuljahresbeginn des Luisen-Gymnasium an neuen Standort Völklinger Straße durch geeignete Warnhinweise - zur Kenntnis genommen
+- TOP 11.4: Prüfung Verbesserung Schulwegsicherheit Wim-Wenders-Gymnasium, Gan-gelplatz/Oberbilker Allee - zur Kenntnis genommen
+- TOP 12: Mitteilungen des Bezirksbürgermeisters
