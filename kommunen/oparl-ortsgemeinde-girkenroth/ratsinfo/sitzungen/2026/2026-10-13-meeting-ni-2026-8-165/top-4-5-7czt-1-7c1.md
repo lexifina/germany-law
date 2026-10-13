@@ -1,0 +1,7 @@
+# TOP 4: Beratung und Beschlussfassung über einen neuen Sammelplatz der Container. Grüncontainer/Glascontainer/Altkleidercontainer
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Girkenroth (2026-10-13)
+- Körperschaft: Ortsgemeinde Girkenroth
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2026-8-165%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 4 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-8-165%7Czt_1%7C1
