@@ -1,0 +1,84 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-10-14T17:00:00+02:00
+- Ende: 2026-10-14T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29721
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29721
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der öffentlichen und nicht-öffentlichen Niederschrift vom 08.07.2026 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - zurückgezogen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Barrierefreier Ausbau der Bushaltestellen „Meisenweg“ Steig 1 und 2 - abweichend beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen (wurden bereits übermittelt)
+- TOP 7: Anfrage der CDU-Fraktion: Tarifzonen der neuen Parkausweisregelung - schriftlich beantwortet
+- TOP 8: Anfrage der Fraktion BÜ90/Die Grünen: Fahrradabstellanlage am Bahnhof Düsseldorf-Flughafen / Ahrensplatz - schriftlich beantwortet
+- TOP 9: Anfrage der Fraktion BÜ90/Die Grünen: Reparatur des Turnhallenbodens in der Grundschule Max-Halbe-Straße - vertagt
+- TOP 10: Anfrage der SPD-Fraktion: Umsetzung der Ertüchtigung von Bushaltepunkten am Beispiel des Mörsenbroicher Weges - schriftlich beantwortet
+- TOP -: Anfragen
+- TOP 11: Anfrage des Luca Meyer (Die Linke): Auswirkungen von Verkehrsbehinderungen auf der Westfalenstraße auf die Linien U71 und 701 - schriftlich beantwortet
+- TOP 12: Anfrage des Luca Meyer (Die Linke): Verkehrssicherheit an der Kreuzung Hamborner Straße/Kürtenstraße - schriftlich beantwortet
+- TOP 13: Anfrage der Fraktion BÜ90/Die Grünen: Altkleidercontainer im Bezirk am Beispiel Rather Kreuzweg und Wilseder Weg - schriftlich beantwortet
+- TOP 14: Anfrage der Fraktion BÜ90/Die Grünen: Telefonanlagen der Telekom im öffentlichen Raum - schriftlich beantwortet
+- TOP 15: Anfrage der SPD-Fraktion: Westfalenstraße sicher queren - schriftlich beantwortet
+- TOP 16: Anfrage der Katharina Weyers (SPD): Entwicklung der Unterkünfte für Geflüchtete im Stadtbezirk 6 - vertagt
+- TOP 17: Anfrage der AfD-Fraktion: Antwort der Verwaltung auf unsere Anfragen BV6/081/2026 und BV6/082/2026 – Nachfrage - schriftlich beantwortet
+- TOP 18: Anfrage der AfD-Fraktion: Verbesserung des Verkehrsflusses im Stadtbezirk 6 - vertagt
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 20: Antrag der CDU-Fraktion: Bepflanzung von drei Baumscheiben an der Straße „Am Röttchen“ - einstimmig beschlossen
+- TOP 21: Antrag der CDU-Fraktion: Konsequentes Vorgehen gegen Vermüllung an Altkleidercontainern im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 22: Antrag der CDU-Fraktion: Nachnutzung des Jungen Schauspiels an der Münsterstraße als Kulturort - einstimmig beschlossen
+- TOP 23: Antrag der CDU-Fraktion: Umwidmung des Teilstücks Lichtenbroicher Weg 29 – 37 zur Fahrradstraße - einstimmig beschlossen
+- TOP 24: Antrag des Luca Meyer (Die Linke): Prüfung der Einrichtung von Zebrastreifen auf dem Lichtenbroicher Weg - mehrheitlich beschlossen
+- TOP 25: Antrag der SPD-Fraktion: Benennung eines Flurstücks an der Münsterstraße - einstimmig beschlossen
+- TOP 26: Antrag der SPD-Fraktion: Beschattung Kinderspielplatz Heideweg - einstimmig beschlossen
+- TOP 27: Antrag der SPD-Fraktion: Entwicklung der Wochenmärkte im Stadtbezirk 6 - abweichend beschlossen
+- TOP 28: Antrag der SPD-Fraktion: Verwendung eines Ladenlokals in Lichtenbroich als Jugendbegegnungsstätte - zurückgezogen
+- TOP -: Verwaltungsvorlagen
+- TOP 29: Kunst und Bau Wettbewerb für die Franz-Marc-Schule - Empfehlung mehrheitlich beschlossen
+- TOP 30: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der KGS Rather Kreuzweg - St. Martin 2026 - einstimmig beschlossen
+- TOP 31: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Selbstverwaltetes Wohnprojekt Theodorstraße e. V. - Sommerfest 2026 - einstimmig beschlossen
+- TOP 32: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Rather Karnevalsgesellschaft 1950 "Rather Aape" e. V. - Jubiläumsfrühstück und -empfang - einstimmig beschlossen
+- TOP 33: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der GGS Max-Halbe-Straße - St. Martinsfeier und Laternenausstellung/Adventszeit und Weihnachtsfeier - einstimmig beschlossen
+- TOP 34: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Fest- und Förderverein Leetebrok e. V. - St. Martin 2026 - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Fest- und Förderverein Leetebrok e. V. - Unterstützung Weihnachten 2026 - einstimmig beschlossen
+- TOP 36: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag der KGS Rather Kreuzweg - "Die große Nein-Tonne" & "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 37: Verfügungsmittel 2026 - Zuschussvergabe 2025 | Antrag des Erstes Frauen Orchester Düsseldorf e. V. - Her Story - Konzert
+- TOP 38: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Fördervereins der St. Franziskus Schule e. V. - Umzug St. Martin 2026 - mehrheitlich beschlossen
+- TOP 39: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Studios Rahab Mosaic Art - DIALOG - DOMO-Wanderausstellung und öffentliche Vernissage - mehrheitlich beschlossen
+- TOP 40: Verfügungsmittel 2026 - Zuschussvergabe 2026 Antrag des Bürgervereins Mörsenbroich 1928 e.V. - Weihnachtsbaum am Kreitenplatz - einstimmig beschlossen
+- TOP 41: Bauunterhaltungsmittel 2026 Teil A "Schulen" - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 42: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Weihnachtsbaum auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 43: Bauunterhaltungsmittel 2026 Teil B "sonstige städtische Einrichtungen" Maßnahmenvorschläge 2026: Sportamt - Vorlage BV6/061/2026 - einstimmig beschlossen
+- TOP 44: "Jugend checkt Düsseldorf" im Stadtbezirk 6 - Beteiligungsaktion für Spielplatz Sermer Weg - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 45: Beratung des doppischen Entwurfes - zur Kenntnis genommen
+- TOP 46: Vorläufige Mittelbereitstellungen 2027/2028 für den Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 47: Entwicklung des Parkplatzbestandes im Stadtbezirk 6 - Vorlage BV6/091/2026 - zur Kenntnis genommen
+- TOP 48: Bereitstellung von Laubkörben auf dem Lichtenbroicher Weg und Amt Stock im Herbst - Vorlage BV6/095/2026 - zur Kenntnis genommen
+- TOP 49: Fahrradabstellanlage Röhrenstraße - Vorlage BV6/222/2022 und BV6/116/2023 - zur Kenntnis genommen
+- TOP 50: Nutzung und Zustand geöffneter Schulhofflächen außerhalb der Unterrichtszeiten im Stadtbezirk 6 - Vorlage BV6/096/2026 - zur Kenntnis genommen
+- TOP 51: Errichtung eines Trinkwasserspenders und Nutzung des Platzes am Rather Carré - Vorlage BV6/081/2025 - zur Kenntnis genommen
+- TOP 52: Behinderung von Radfahrenden auf der Westfalenstraße - Vorlage BV6/086/2026 - zur Kenntnis genommen
+- TOP 53: Falschparker auf dem Lichtenbroicher Weg - Vorlage BV6/087/2026 - zur Kenntnis genommen
+- TOP 54: Installierung von Strom- und Wasseranschlüssen am Rather Carré - Vorlage BV6/119/2022 - zur Kenntnis genommen
+- TOP 55: Baumfällungen im Stadtbezirk 6 ab der 32. Kalenderwoche 2026 - zur Kenntnis genommen
+- TOP 56: Änderung der Verkehrsführung auf dem Lichtenbroicher Weg zwischen Kreisverkehr und Einmündung in die Hamborner Straße/Theodorstraße - Vorlage BV6/046/2026 - zur Kenntnis genommen
+- TOP 57: Grütersaaper Weg – Vorstellung der Konzeptstudie zur Instandsetzung und ökologischen Aufwertung der Wegeverbindung - zur Kenntnis genommen
+- TOP 58: Baumfällungen im Stadtbezirk 6 ab der 40. Kalenderwoche 2026 - zur Kenntnis genommen
+- TOP 59: Beseitigung der Wurzelschäden auf dem Boskampweg - Vorlage BV6/076/2026 - zur Kenntnis genommen
+- TOP 60: Sitzungstermine der Bezirksvertretung 6 im Jahr 2027 - zur Kenntnis genommen
+- TOP 61: Erschließung des Weges vom Parkplatz Waldstraße zur Haltestelle Oberrath und Aufnahme in den Wegeplan der Stadt Düsseldorf - BV6/067/2022 und BV6/214/2023 - zur Kenntnis genommen
+- TOP 62: Umwidmung der Wilhelm-Raabe-Straße zu einer Fahrradstraße im Bereich von der Artusstraße bis zur Derfflingerstraße - Vorlage BV6/077/2026 - zur Kenntnis genommen
+- TOP 63: Entfernung der Container-Textilsammelstelle Münsterstraße - Vorlage BV6/118/2026 - zur Kenntnis genommen
+- TOP 64: Beseitigung eines Altkleidercontainers an der Unterrather Straße 160 - Vorlage BV6/044/2026 - zur Kenntnis genommen
