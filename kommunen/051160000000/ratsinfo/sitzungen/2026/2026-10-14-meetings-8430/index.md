@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2026-10-14T15:00:00+02:00
+- Ende: 2026-10-14T17:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8430
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/8430
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271555.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271555.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00271555.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates vom 15.07.2026 - öffentlicher Teil - - Niederschrift mit Einwendung (s. nächste Niederschrift)
+- TOP 2: 21. Konferenz der Ratsmitglieder im Städtetag Nordrhein-Westfalen am 09. Dezember 2026 - Gewählt nach Hare Niemeyer
+- TOP 3: Neuregelung der Präsente bei Alters- und Ehejubiläen - Einstimmiger Beschluss
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Ersatzwahl eines Mitglieds und eines stellvertretenden Mitglieds für die Zweckverbandsversammlung der ITK Rheinland - Einstimmiger Beschluss
+- TOP 6: Einbringung des Entwurfs des Haushaltes 2027/2028; Haushaltssatzung einschließlich Anlagen - Ohne Abstimmung
+- TOP 6.1: Einbringung des Entwurfs der Beratungsvorlage zum Stellenplan 2027/2028 einschließlich Anlagen - Ohne Abstimmung
+- TOP 7: Verschmelzung der Kreisbau AG auf die Gemeinnützige Wohnungs- und Siedlungsgesellschaft mbH // Bericht zum Ratsbeschluss Vorlage 2173/X Wohnungsbauoffensive Mönchengladbach vom 29.03.2023 und Folgeberichte zu BV 2561/X und 2717/X - Kenntnisnahme
+- TOP 8: Beteiligung der EWMG-Entwicklungsgesellschaft der Stadt Mönchengladbach mbH; hier: WFMG-Wirtschaftsförderung Mönchengladbach GmbH, Erweiterung des Gesellschafterkreises - Einstimmiger Beschluss
+- TOP 9: Beteiligung der NEW-Kommunalholding an der NEW AG hier: Veräußerung der von NEW Niederrhein Energie und Wasser GmbH mittelbar über die Trianel GmbH gehaltene Beteiligung an der Trianel Gasspeicher Epe GmbH& Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2026 (3. Nachweisung) - Kenntnisnahme
+- TOP 11: Bereitstellung überplanmäßiger Haushaltsmittel 2026 im Bereich der Wirtschaftlichen Altenhilfe - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 12: Bereitstellung überplanmäßiger Haushaltsmittel in Höhe von 22.000.000 € im Bereich "Hilfe zur Erziehung" - Mit Stimmenmehrheit beschlossen
+- TOP 13: Bereitstellung überplanmäßiger Haushaltsmittel 2026 für den Transferaufwand im städtischen Haushalt zum Ausgleich des Wirtschaftsplans 2026 des GMMG aufgrund unplanbarer Ereignisse - Einstimmiger Beschluss
+- TOP 14: Wirtschaftsplan 2027 der mags AöR hier: Einbringung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15: Wahl der Mitglieder für die Veranstaltergemeinschaft "Radio Mönchengladbach e. V." - Gewählt nach D´Hondt
+- TOP 16: Beschluss einer Anlage zum Rettungsdienstbedarfsplan zur Etablierung des Telenotarztsystems für die Trägergemeinschaft Telenotarzt Niederrhein - Einstimmiger Beschluss
+- TOP 17: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen - Mit Stimmenmehrheit beschlossen
+- TOP 18: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen am 13.12.2026 - Mit Stimmenmehrheit beschlossen
+- TOP 18.1: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen am 13.12.2026 anlässlich "Advent in Rheydt" - Mit Stimmenmehrheit beschlossen
+- TOP 19: Kulturentwicklungsplan Mönchengladbach 2035 – Bestätigung als strategischer Orientierungs- und Steuerungsrahmen und Einleitung der Umsetzungsphase - Abweichende Beschlussempfehlung
+- TOP 20: Fortsetzung des Bundesprogramms "Demokratie leben!" - Mit Stimmenmehrheit beschlossen
+- TOP 21: Zweckgebundene Zuwendung an den Mönchengladbacher Tafel e.V. - Einstimmiger Beschluss
+- TOP 22: Zweckgebundene Zuwendung an den AFbJ e.V. - Einstimmiger Beschluss
+- TOP 23: Einrichtung eines Mönchengladbacher Netzwerks Kinder- und Jugendpartizipation - Mit Stimmenmehrheit beschlossen
+- TOP 24: Fortsetzung der Zuschussgewährung für die Schuldnerberatung bei rechtlichem Übergang - Einstimmiger Beschluss
+- TOP 25: Berichtswesen & Grundsatzangelegenheiten, Jahresabschluss des gmmg für das Wirtschaftsjahr 2025 - Einstimmiger Beschluss
+- TOP 26: Jahresabschluss 2025 der eigenbetriebsähnlichen Einrichtung Neue Verwaltungsgebäude Rheydt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: Wirtschaftsplan EäE Neue Verwaltungsgebäude Rheydt 2027 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Neuorganisation der Feuerwachen - Einstimmiger Beschluss
+- TOP 29: Orffstraße 5-7, Wickrath; Bildungszentrum der Feuerwehr Mönchengladbach - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 810/W „Voigtshofer Allee" Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 31: 253. Änderung des Flächennutzungsplans der Stadt Mönchengladbach „Voigtshofer Allee" - Einstimmiger Beschluss
+- TOP 32: Bauliche Schulentwicklung, Gesamtschule Breite Straße (7. Gesamtschule) - Mit Stimmenmehrheit beschlossen
+- TOP 33: Verkehrssicherung Haltestelle Bismackplatz - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Antrag auf Berichterstattung: Auswirkungen veränderter OGS-Förderbedingungen auf die städtische Investitions- und Ausbauplanung - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Prüfung von zentralen Silvesterangeboten als freiwillige Alternative zum privaten Feuerwerk; hier: Fraktionsantrag der - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Umbesetzung von Mitglieder des Polizeibeirates; hier: Antrag der AfD-Ratsfraktion vom 02.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Umbesetzung von Mitgliedern für den örtlichen Beirat des Jobcenter Mönchengladbach; hier: Antrag der AfD-Ratsfraktion vom 02.07.2026 - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Prüfung eines rechtssicheren und datenschutzkonformen Verfahrens zur Erstellung und Pflege des Wählerverzeichnisses für die Wahlen des Ausschusses für Chancengerechtigkeit und Integration (ACI) - An den Ausschuss für Chancengerechtigkeit und Integration verwiesen
+- TOP 39: Prüfung und Entwicklung eines rechtssicheren Informations- und Wahlbenachrichtigungskonzeptes für die Wahlen des Ausschusses für Chancengerechtigkeit und Integration (ACI) - An den Ausschuss für Chancengerechtigkeit und Integration verwiesen
+- TOP 40: Verbindliche Beteiligung des Ausschusses für Chancengerechtigkeit und Integration (ACI) bei integrations und teilhaberelevanten Angelegenheiten - Mit Stimmenmehrheit beschlossen
+- TOP 41: Einführung einer verbindlichen jährlichen Berichtspflicht der Verwaltung gegenüber dem Ausschuss für Chancengerechtigkeit und Integration (ACI) - Mit Stimmenmehrheit beschlossen
+- TOP 42: Anfragen und Mitteilungen
+- TOP 42.1: Anfrage RF Gutsche (CDU)
+- TOP 42.2: Anfrage RH Wyen (FDP / VOLT)
+- TOP 42.3: Anfrage RH Dr. Wolkowski (BÜNDNIS 90 / DIE GRÜNEN)
+- TOP 42.4: Anfrage RH Dr. Wolkowski (BÜNDNIS 90 / DIE GRÜNEN)
+- TOP 42.5: Anfrage RH Zabci (DIE LINKE / Die PARTEI)
+- TOP 42.6: Anfrage RF Zabci (DIE LINKE / Die PARTEI)
+- TOP 42.7: Anfrage RF Zabci (DIE LINKE / Die PARTEI)
+- TOP 42.8: Anfrage RH Giebels (AfD)
+- TOP 42.9: Anfrage RH Giebels (AfD)
+- TOP 42.10: Anfrage RF Walker (AfD)
+- TOP 42.11: Anfrage RF Walker (AfD)
+- TOP 42.12: Anfrage RH Holmes (AfD)
+- TOP 42.13: Anfrage RH Karl(AfD)
+- TOP 42.14: Persönliche Erklärung RH Immel (AfD)
