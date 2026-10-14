@@ -1,0 +1,66 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-10-14T17:00:00+02:00
+- Ende: 2026-10-14T23:59:59+02:00
+- Ort: Rathaus
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000445
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000445
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift über die Sitzung vom 15.07.2026 (öffentlicher Teil)
+- TOP 4: „Aachen wehrhaft und handlungsfähig“ – Strategische Vorbereitung der Stadt Aachen auf die Aufgaben der Zivilen Verteidigung
+- TOP 5: 19. Änderung der Hauptsatzung der Stadt Aachen
+- TOP 6: 6. Änderung der Geschäftsordnung für den Rat und die Bezirksvertretungen der Stadt Aachen und die Ratsausschüsse vom 15.12.1995
+- TOP 7: Darstellung der Erläuterungen von Beschlussvorlagen
+- TOP 8: Haushaltskonsolidierung - Grundsätze der Konsolidierung und nächste Schritte
+- TOP 9: Haushaltsplanentwurf der Städteregion Aachen für die Haushaltsjahre 2027 und 2028
+- TOP 10: Satzungsänderung der Stiftungen
+- TOP 11: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Mitte: Turpinstraße 136, 138, 140, 142 hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes, hier: Turpinstraße, Neubau zweier Wohngebäude mit fünf Vollgeschossen und einem Staffelgeschoss mit Studierendenwohnungen auf einer gemeinsamen Tiefgarage sowie der Aufstockung der Bestandswohnhäuser um zwei Geschosse mit Studierendenwohnungen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Eilendorf: Forster Straße hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes, hier: Möglichkeit einer Wohnbebauung der Parzelle 420, Flur 18, Gemarkung Eilendorf
+- TOP 14: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Mitte: Krugenofen 51 und 51a hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes, hier: Errichtung eines Mehrfamilienhauses mit Tiefgarage und Staffelgeschoss im Hofbereich
+- TOP 15: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Kornelimünster/Walheim: Korneliusstraße 32 hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes hier: Abriss Garage alt - Neubau Garage - Whg. über Garage
+- TOP 16: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Kornelimünster/Walheim: Schmithofer Weg hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes hier: Errichtung von 4 Doppelhaushälften mit Garagen als Nachverdichtung des Schmithofer Weges (BA 1)
+- TOP 17: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Kornelimünster/Walheim: Schmithofer Weg hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes hier: Errichtung von 5 Doppelhaushälften mit Garagen als Nachverdichtung des Schmithofer Weges (BA 2)
+- TOP 18: Entscheidung über die Zustimmung der Gemeinde gemäß § 36 a BauGB im Stadtbezirk Aachen-Mitte: Karl-Marx-Allee 100 hier: Antrag auf Vorbescheid gem. § 77 BauO NRW 2018 zu Fragen des Bauplanungsrechtes hier: Errichtung eines zweigeschossigen Wohnhauses
+- TOP 19: Integriertes Stadtentwicklungskonzept "Zukunft Forst"
+- TOP 20: Flächenerweiterung der Dr. Leo-Löwenstein-Kaserne - Stellungnahme gegenüber der Bezirksregierung Köln
+- TOP 21: Lintertstraße – Radvorrangroute Aachen Brand Hier: Bereitstellung überplanmäßiger Mittel
+- TOP 22: Süsterfeldstraße - Ausbau Gehwege Hier: Bereitstellung überplanmäßiger Mittel
+- TOP 23: Roermonder Straße (Abschnitt Ponttor bis Kohlscheider Straße): Ergebnisse der Bürger*innenbeteiligung und Umgestaltung im Nachgang zur Maßnahme der Regionetz GmbH hier: Planungsbeschluss und Bereitstellung außerplanmäßige Mittel
+- TOP 24: Haus der Neugier - Zukünftige Betriebsform
+- TOP 25: Besetzung des Ausschusses für Schule und Weiterbildung - Wahl sachkundiger Einwohner*innen
+- TOP 26: Personalwirtschaftliche Maßnahmen im Kontext der Haushaltssperre: Bewirtschaftung des Stellenplans 2026
+- TOP 27: Notwendiger Ersatz des Softwareverfahrens Migewa durch VOIS/GESO für die Umsetzung des bundesweiten Pilotprojektes der Stadt Aachen „Schneller Gründen“ Hier: Bereitstellung außerplanmäßiger Mittel 2026
+- TOP 28: Ratsantrag 042/19 der Fraktionen CDU, Grüne, SPD, Linke, Volt, FDP: "Entwicklung des Flurstücks Christus unser Friede"
+- TOP 29: Senior*innenratswahl 2027 – Änderung der Wahlordnung
+- TOP 30: Instandsetzung Burtscheider Brücke - hier: Planungs-, Bau- und Ausführungsbeschluss sowie Bereitstellung einer überplanmäßigen Verpflichtungsermächtigung
+- TOP 31: Anfragen
+- TOP 31.1: Ratsanfragen
+- TOP 31.2: Stellungnahmen der Verwaltung zu Anfragen
+- TOP 32: Ratsanträge
+- TOP 33: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 33.1: Umbesetzungsantrag der Ratsgruppe UP vom 18.09.2026
+- TOP 33.2: Umbesetzungsantrag der Ratsgruppe UP vom 18.09.2026 (Eingang am 05.10.2026)
+- TOP 33.3: Umbesetzungsantrag der GRÜNE-Fraktion vom 08.10.2026
+- TOP 33.4: Umbesetzungsantrag der AfD-Fraktion vom 09.10.2026
+- TOP 33.5: Umbesetzungsantrag der AfD-Fraktion vom 12.10.2026
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
