@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Zivilsenat-06a"
 aktenzeichen: "VIa ZR 938/23"
 decided: "2026-10-14"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_938-23.html"
 corpus_doc_id: "rss:801018"
 cites_law: ["germany/bund/acts/bgb/0826.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0138.md", "germany/bund/acts/zpo/0544.md"]
