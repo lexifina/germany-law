@@ -12,6 +12,7 @@
 - [§ 3 Registrierung von Marktakteuren](0003.md)
 - [§ 4 Registrierung von Behörden](0004.md)
 - [§ 5 Registrierung von Einheiten und von EEG- und KWK-Anlagen](0005.md)
+- [§ 5a Registrierung von Daten zu Einheiten und technischen Lokationen](0005a.md)
 - [§ 6 Erforderliche Daten zur Registrierung](0006.md)
 - [§ 7 Registrierung von Änderungen](0007.md)
 
@@ -19,11 +20,11 @@
 
 - [§ 8 Registrierungsverfahren](0008.md)
 - [§ 9 Verarbeitung von Daten](0009.md)
-- [§ 10 Überprüfung und Änderung der gespeicherten Daten](0010.md)
+- [§ 10 Überprüfung, Änderung und Vervollständigung der Daten](0010.md)
 - [§ 11 (weggefallen)](0011.md)
 - [§ 12 (weggefallen)](0012.md)
 - [§ 13 Überprüfung gespeicherter Daten durch die Netzbetreiber](0013.md)
-- [§ 14 Daten zu technischen Lokationen](0014.md)
+- [§ 14 (weggefallen)](0014.md)
 
 ## Abschnitt 4 Nutzung des Marktstammdatenregisters
 
