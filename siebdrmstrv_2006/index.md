@@ -13,4 +13,5 @@ der Meisterprüfung im Siebdrucker-Handwerk
 - [§ 8 Gliederung, Prüfungsdauer und Bestehen des Teils II](0008.md)
 - [§ 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0009.md)
 - [§ 10 Übergangsvorschrift](0010.md)
-- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [§ 10a Außerkrafttreten](0010a.md)
+- [§ 11 Inkrafttreten](0011.md)

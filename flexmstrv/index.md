@@ -21,4 +21,5 @@ Prüfung (Teil I)](0002.md)
 
 - [§ 6 Übergangsvorschrift](0006.md)
 - [§ 7 Weitere Anforderungen](0007.md)
+- [§ 7a Außerkrafttreten](0007a.md)
 - [§ 8 Inkrafttreten](0008.md)
