@@ -1,15 +1,16 @@
 # Geschäftsordnung des Rates der Stadt Gütersloh
 
 - Gemeinde: Stadt Gütersloh (ARS 057540008008)
-- Datum: 2025-11-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.guetersloh.de/de-wAssets/docs/ortsrecht/Geschaeftsordnung-des-Rates.pdf
+- Datum: 2026-10-15 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.guetersloh.de/de-wAssets/docs/ortsrecht/GeschO-i-d-F-der-I-Aenderungsordnung.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Geschäftsordnung des Rates der Stadt Gütersloh vom 14.11.2025
-Aufgrund der Vorschriften der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (GV. NW. S. 666), zuletzt geändert durch Gesetz vom 10.07.2025 (GV. NRW. S. 618), hat der Rat der Stadt Gütersloh in seiner Sitzung am 14.11.2025 folgende Geschäftsordnung beschlossen:
+in der Fassung der I. Änderungsordnung vom 15.10.2026
+Der Rat der Stadt Gütersloh hat am 14.11.2025 folgende Geschäftsordnung beschlossen:
 I. Geschäftsführung des Rates
 1. Vorbereitung der Ratssitzungen
 §1 Einberufung der Ratssitzungen
@@ -21,10 +22,11 @@ I. Geschäftsführung des Rates
 §2 Ladungsfrist
 (1) Die Einberufung gilt als rechtzeitig erfolgt, wenn die Einladung spätestens am sechsten Tage (Sonnabende, Sonn- und Feiertage nicht mitgerechnet) vor dem Sitzungstage im Ratsinformationssystem abrufbar ist oder per Post zugestellt wurde.
 (2) In besonders dringenden Fällen kann der Bürgermeister im Benehmen mit den Fraktionsvorsitzenden die Ladungsfrist bis auf drei volle Tage abkürzen. Die Dringlichkeit ist in der Einladung zu begründen.
+§3 Aufstellung der Tagesordnung
+(1) Der Bürgermeister setzt die Tagesordnung fest. Er hat dabei Vorschläge aufzunehmen, die ihm in schriftlicher Form spätestens am neunten Tage vor dem Sitzungstag
 1 (17)
 
-§3 Aufstellung der Tagesordnung
-(1) Der Bürgermeister setzt die Tagesordnung fest. Er hat dabei Vorschläge aufzunehmen, die ihm in schriftlicher Form spätestens am neunten Tage vor dem Sitzungstag (Sonnabende, Sonn- und Feiertage sowie der Sitzungstag nicht mitgerechnet) von mindestens einem Fünftel der Ratsmitglieder oder von einer Fraktion vorgelegt werden.
+(Sonnabende, Sonn- und Feiertage sowie der Sitzungstag nicht mitgerechnet) von mindestens einem Fünftel der Ratsmitglieder oder von einer Fraktion vorgelegt werden.
 (2) Der Bürgermeister legt ferner die Reihenfolge der einzelnen Tagesordnungspunkte fest; er bestimmt unter Beachtung der gesetzlichen Vorschriften und § 5 dieser Geschäftsordnung, welche Tagesordnungspunkte in nichtöffentlicher Sitzung behandelt werden sollen.
 (3) Jeder Verhandlungsgegenstand muss hinreichend bestimmt sein.
 (4) Ein Vorschlag zur Aufnahme eines Tagesordnungspunktes mit dem Antrag der Änderung oder Aufhebung eines früheren Beschlusses darf unter den Voraussetzungen des Abs. 1 Satz 2 einmal vorgelegt werden. Wird dieser Antrag abgelehnt, so darf innerhalb von sechs Monaten ein erneuter Vorschlag mit gleichem Antrag nur vorgelegt werden, wenn er schriftlich von der Mehrheit der gesetzlichen Zahl der Ratsmitglieder unterstützt wird.
@@ -37,9 +39,9 @@ a) Allgemeines
 §5 Öffentlichkeit der Ratssitzungen
 (1) Die Sitzungen des Rates sind grundsätzlich öffentlich. Jedermann hat das Recht, als Zuhörender an öffentlichen Ratssitzungen teilzunehmen, soweit dies die räumlichen Verhältnisse gestatten. Die Zuhörenden sind - außer im Falle des § 21 dieser Geschäftsordnung (Einwohnerfragestunde) - nicht berechtigt, das Wort zu ergreifen oder sich sonst an den Verhandlungen des Rates zu beteiligen.
 (2) Für folgende Angelegenheiten wird die Öffentlichkeit ausgeschlossen: a) Personalangelegenheiten, b) Grundstücksangelegenheiten, c) Einzelfälle in Finanzangelegenheiten, d) Angelegenheiten der zivilen Verteidigung, e) Auftragsvergaben, f) Angelegenheiten der Rechnungsprüfung mit Ausnahme der Beratung des Jahresabschlusses und der Entlastung des Bürgermeisters.
+Dies gilt nicht, wenn nachweisbar ist, dass im Einzelfall weder Gründe des öffentlichen Wohls noch berechtigte Ansprüche oder Interessen Einzelner den Ausschluss der Öffentlichkeit rechtfertigen.
 2 (17)
 
-Dies gilt nicht, wenn nachweisbar ist, dass im Einzelfall weder Gründe des öffentlichen Wohls noch berechtigte Ansprüche oder Interessen Einzelner den Ausschluss der Öffentlichkeit rechtfertigen.
 (3) Die Beratungen in nichtöffentlicher Sitzung unterliegen der Verschwiegenheit. Dieses gilt für Beratungsergebnisse nur, wenn deren Geheimhaltung besonders vorgeschrieben, ihrer Natur nach erforderlich oder vom Rat beschlossen ist.
 (4) Mitglieder der Ausschüsse können als Zuhörende an den nichtöffentlichen Sitzungen des Rates teilnehmen, soweit ihr Aufgabenbereich durch den Beratungsgegenstand berührt wird. Sie haben sich in dem für die Zuhörenden bestimmten Teil des Sitzungsraumes aufzuhalten. Die Teilnahme als Zuhörende begründet keinen Anspruch auf Ersatz des Verdienstausfalls und auf Zahlung von Sitzungsgeld.
 § 5a Livestream
@@ -51,10 +53,11 @@ Dies gilt nicht, wenn nachweisbar ist, dass im Einzelfall weder Gründe des öff
 §6 Vorsitz
 (1) Der Bürgermeister führt den Vorsitz im Rat. Im Falle seiner Verhinderung übernimmt die ehrenamtliche Stellvertreterin / der ehrenamtliche Stellvertreter des Bürgermeisters den Vorsitz. Die Reihenfolge der Stellvertretung bestimmt sich aufgrund des Wahlergebnisses nach § 67 Abs. 2 GO.
 (2) Der Bürgermeister leitet die Verhandlungen, eröffnet und schließt die Sitzungen, handhabt die Ordnung und übt das Hausrecht aus.
+§7 Beschlussfähigkeit
+(1) Vor Eintritt in die Tagesordnung stellt der Bürgermeister die ordnungsgemäße Einberufung sowie die Beschlussfähigkeit der Versammlung fest und lässt dies in der Niederschrift vermerken. Der Rat ist beschlussfähig, wenn mehr als die Hälfte der
 3 (17)
 
-§7 Beschlussfähigkeit
-(1) Vor Eintritt in die Tagesordnung stellt der Bürgermeister die ordnungsgemäße Einberufung sowie die Beschlussfähigkeit der Versammlung fest und lässt dies in der Niederschrift vermerken. Der Rat ist beschlussfähig, wenn mehr als die Hälfte der gesetzlichen Mitgliederzahl anwesend ist. Er gilt als beschlussfähig, solange seine Beschlussunfähigkeit nicht festgestellt ist (§ 49 Absatz 1 GO).
+gesetzlichen Mitgliederzahl anwesend ist. Er gilt als beschlussfähig, solange seine Beschlussunfähigkeit nicht festgestellt ist (§ 49 Absatz 1 GO).
 Ist eine Angelegenheit wegen Beschlussunfähigkeit zurückgestellt worden und wird der Rat zur Behandlung über denselben Gegenstand einberufen, so ist er ohne Rücksicht auf die Zahl der Erschienenen beschlussfähig, wenn bei der zweiten Einberufung auf diese Bestimmung ausdrücklich hingewiesen worden ist (§ 49 Absatz 2 GO).
 §8 Befangenheit
 (1) Muss ein Ratsmitglied annehmen, nach §§ 50 Absatz 6, 43 Abs. 2, 31 GO von der Mitwirkung an der Beratung und Entscheidung ausgeschlossen zu sein, so hat es den Ausschließungsgrund vor Eintritt in die Verhandlung unaufgefordert dem Bürgermeister anzuzeigen und den Sitzungsraum zu verlassen; bei einer öffentlichen Sitzung kann das Ratsmitglied sich in dem für die Zuhörenden bestimmten Teil des Sitzungsraumes aufhalten.
@@ -68,11 +71,11 @@ a) die Reihenfolge der Tagesordnungspunkte zu ändern (einschließlich der Über
 b) Tagesordnungspunkte zu teilen oder miteinander zu verbinden,
 c) Tagesordnungspunkte abzusetzen.
 (2) Die Tagesordnung kann in der Sitzung durch Beschluss des Rates erweitert werden, wenn es sich um Angelegenheiten handelt, die keinen Aufschub dulden oder die von äußerster Dringlichkeit sind (§ 48 Absatz 1 Satz 5 GO).
-(3) Ist aufgrund des Vorschlags einer Fraktion oder eines Fünftels der Ratsmitglieder eine Angelegenheit in die Tagesordnung aufgenommen worden, die nicht in den
+(3) Ist aufgrund des Vorschlags einer Fraktion oder eines Fünftels der Ratsmitglieder eine Angelegenheit in die Tagesordnung aufgenommen worden, die nicht in den Aufgabenbereich der Stadt fällt, setzt der Rat durch Geschäftsordnungsbeschluss die Angelegenheit von der Tagesordnung ab.
+(4) Wird nach Aufruf eines Tagesordnungspunktes, der eine Angelegenheit betrifft, die nicht in den Aufgabenbereich der Stadt fällt, ein Geschäftsordnungsantrag nach Abs. 3 aus der
 4 (17)
 
-Aufgabenbereich der Stadt fällt, setzt der Rat durch Geschäftsordnungsbeschluss die Angelegenheit von der Tagesordnung ab.
-(4) Wird nach Aufruf eines Tagesordnungspunktes, der eine Angelegenheit betrifft, die nicht in den Aufgabenbereich der Stadt fällt, ein Geschäftsordnungsantrag nach Abs. 3 aus der Mitte des Rates nicht gestellt, stellt der Bürgermeister von Amts wegen den Antrag und lässt darüber abstimmen.
+Mitte des Rates nicht gestellt, stellt der Bürgermeister von Amts wegen den Antrag und lässt darüber abstimmen.
 § 10 Ablauf der Sitzung
 (1) Der Rat verhandelt in der Regel wie folgt:
 1. Eröffnung der Sitzung durch den Bürgermeister,
@@ -90,10 +93,10 @@ Aufgabenbereich der Stadt fällt, setzt der Rat durch Geschäftsordnungsbeschlus
 (3) Wird eine Angelegenheit beraten, die auf Vorschlag einer Fraktion oder von einem Fünftel der Ratsmitglieder in die Tagesordnung aufgenommen worden ist (§ 3 Absatz 1 dieser Geschäftsordnung), so ist zunächst den Antragstellern Gelegenheit zu geben, ihren Antrag zu begründen. Ist eine Berichterstattung vorgesehen, so erhält zunächst der Berichterstatter das Wort.
 § 11 Redeordnung
 (1) Ein Ratsmitglied, das das Wort ergreifen will, meldet sich durch Aufheben der Hand. Das Mitglied darf erst sprechen, wenn ihm der Bürgermeister das Wort erteilt hat.
-5 (17)
-
 (2) Der Bürgermeister erteilt das Wort in der Reihenfolge der Wortmeldungen. Melden sich gleichzeitig mehrere Ratsmitglieder, so entscheidet der Bürgermeister über die Reihenfolge.
 (3) Bei Wortmeldungen "zur Geschäftsordnung" (§ 12) ist das Wort außer der Reihe zu erteilen.
+5 (17)
+
 (4) Der Bürgermeister kann in Ausübung seines Amtes als Sitzungsleiter jederzeit das Wort ergreifen.
 (5) Das Verlesen längerer Schriftstücke ist nur mit ausdrücklicher Erlaubnis des Bürgermeisters gestattet.
 (6) Die Redezeit soll in der Regel 10 Minuten nicht überschreiten. Dies gilt nicht für die Person, die die Berichterstattung übernimmt, sowie für die jeweils zuständige Vertretung der Verwaltung.
@@ -111,9 +114,9 @@ Ist einer Person das Wort entzogen worden, so darf es dieser Person für diesen 
 (2) Wird ein Antrag zur Geschäftsordnung gestellt, so darf noch je ein Ratsmitglied für jede Fraktion sowie jedes fraktionslose Ratsmitglied zu diesem oder gegen diesen Antrag sprechen. Alsdann ist über den Geschäftsordnungsantrag abzustimmen.
 In den Fällen des Absatz 1 Ziffer 7 bedarf es dann keiner Abstimmung, wenn der Antrag von der in § 16 Abs. 4 und 5 dieser Geschäftsordnung vorgeschriebenen Anzahl an Ratsmitgliedern unterstützt wird sowie wenn jemand einer offenen Wahl widerspricht oder es sonst gesetzlich vorgeschrieben ist.
 (3) Über Anträge zur Geschäftsordnung hat der Rat gesondert vorab zu entscheiden. Werden mehrere Anträge zur Geschäftsordnung gleichzeitig gestellt, so ist über den jeweils weitestgehenden Antrag zuerst abzustimmen. In Zweifelsfällen bestimmt der Bürgermeister die Reihenfolge der Abstimmung.
+(4) Bemerkungen zur Geschäftsordnung dürfen sich nur auf die geschäftsordnungsmäßige Behandlung der zur Beratung anstehenden Tagesordnung beziehen und nicht länger als drei Minuten dauern.
 6 (17)
 
-(4) Bemerkungen zur Geschäftsordnung dürfen sich nur auf die geschäftsordnungsmäßige Behandlung der zur Beratung anstehenden Tagesordnung beziehen und nicht länger als drei Minuten dauern.
 § 13 Anträge
 (1) Jedes Ratsmitglied hat das Recht, zu Punkten der Tagesordnung Anträge zu stellen, und zwar:
 a) Anträge, die ein bestimmtes sachliches Anliegen enthalten (Sachanträge),
@@ -128,11 +131,16 @@ c) Anträge zur Geschäftsordnung.
 Der Bürgermeister schließt die Aussprache, wenn sich niemand mehr zu Wort meldet oder ein Antrag auf Beendigung der Aussprache angenommen worden ist.
 § 16 Abstimmung
 (1) Nach Schluss der Aussprache stellt der Bürgermeister die zu dem Tagesordnungspunkt gestellten Anträge zur Abstimmung. Zunächst ist einzeln über die Änderungsanträge zu den ursprünglichen Sachanträgen, sodann einzeln über die Sachanträge selbst abzustimmen. Wird ein Änderungsantrag angenommen, so ist nur noch über den Sachantrag in seiner geänderten Form abzustimmen. Der weitestgehende Antrag hat jeweils Vorrang. In Zweifelsfällen bestimmt der Bürgermeister die Reihenfolge der Abstimmung.
+(2) Die Abstimmung beginnt, wenn der Bürgermeister einen Antrag oder eine Vorlage zur Abstimmung stellt. Nach diesem Zeitpunkt kann das Wort nur noch zur Klärung des Gegenstandes und des Verfahrens der Abstimmung erteilt werden.
+(3) Die Abstimmung erfolgt im Regelfall durch Handzeichen.
 7 (17)
 
-(2) Die Abstimmung beginnt, wenn der Bürgermeister einen Antrag oder eine Vorlage zur Abstimmung stellt. Nach diesem Zeitpunkt kann das Wort nur noch zur Klärung des Gegenstandes und des Verfahrens der Abstimmung erteilt werden.
-(3) Die Abstimmung erfolgt im Regelfall durch Handzeichen. (4) Auf Antrag von mindestens vier Ratsmitgliedern erfolgt die Abstimmung namentlich. Bei
-namentlicher Abstimmung sind die Stimmabgabe und das Stimmverhalten jedes Ratsmitgliedes in der Niederschrift zu vermerken. (5) Auf Antrag mindestens eines Fünftels der Ratsmitglieder wird geheim abgestimmt. Geheime Abstimmung erfolgt durch Abgabe von Stimmzetteln. (6) Wird zum selben Tagesordnungspunkt sowohl ein Antrag auf namentliche als auch auf geheime Abstimmung gestellt, so hat der Antrag auf geheime Abstimmung Vorrang. (7) Bei offener Abstimmung kann jedes Ratsmitglied verlangen, dass in der Niederschrift vermerkt wird, wie es abgestimmt hat. (8) Das Abstimmungsergebnis wird von dem Bürgermeister bekannt gegeben und in der Niederschrift festgehalten. (9) Ist über einen Antrag abgestimmt worden, so kann dieser Beschluss in der gleichen Sitzung des Rates nur aufgehoben oder geändert werden, wenn zuvor die Dringlichkeit einer erneuten Beschlussfassung mit Zweidrittelmehrheit bejaht worden ist.
+(4) Auf Antrag von mindestens vier Ratsmitgliedern erfolgt die Abstimmung namentlich. Bei namentlicher Abstimmung sind die Stimmabgabe und das Stimmverhalten jedes Ratsmitgliedes in der Niederschrift zu vermerken.
+(5) Auf Antrag mindestens eines Fünftels der Ratsmitglieder wird geheim abgestimmt. Geheime Abstimmung erfolgt durch Abgabe von Stimmzetteln.
+(6) Wird zum selben Tagesordnungspunkt sowohl ein Antrag auf namentliche als auch auf geheime Abstimmung gestellt, so hat der Antrag auf geheime Abstimmung Vorrang.
+(7) Bei offener Abstimmung kann jedes Ratsmitglied verlangen, dass in der Niederschrift vermerkt wird, wie es abgestimmt hat.
+(8) Das Abstimmungsergebnis wird von dem Bürgermeister bekannt gegeben und in der Niederschrift festgehalten.
+(9) Ist über einen Antrag abgestimmt worden, so kann dieser Beschluss in der gleichen Sitzung des Rates nur aufgehoben oder geändert werden, wenn zuvor die Dringlichkeit einer erneuten Beschlussfassung mit Zweidrittelmehrheit bejaht worden ist.
 § 17 Wahlen (1) Wahlen werden durch offene Abstimmung vollzogen. Die Abstimmung erfolgt im Regelfall durch Handzeichen. (2) Wenn das Gesetz es bestimmt oder wenn ein Fünftel der Ratsmitglieder der offenen Abstimmung widerspricht, erfolgt die Wahl geheim durch Abgabe von Stimmzetteln.
 § 18 Fragerecht der Ratsmitglieder (1) Jedes Ratsmitglied ist berechtigt, schriftliche Anfragen, die sich auf Angelegenheiten der Stadt beziehen, an den Bürgermeister zu richten. Anfragen sind mindestens einen Werktag vor Beginn der Ratssitzung dem Bürgermeister zuzuleiten. (2) Erklärt der Bürgermeister in der Sitzung, dass die Beantwortung eine längere Vorbereitung erfordere, so wird die Anfrage in der nächsten ordentlichen Ratssitzung beantwortet. (3) Eine Aussprache ist möglich.
 8 (17)
@@ -200,7 +208,7 @@ Abweichend von § 48 Absatz 1 Satz 4 GO brauchen Zeit und Ort der Ausschusssitzu
 (4) Beratungsgegenstände zum Punkt „Verschiedenes“ müssen der Verwaltung einen Werktag vor der Sitzung schriftlich zugeleitet werden. Die Verwaltung leitet diese den Fraktionen unmittelbar zu.
 12 (17)
 
-(5) Einwohnerfragestunden finden in folgenden Ausschüssen statt:  Kulturausschuss (auch als Betriebsausschuss der Kultur Räume)  Ausschuss für Planung, Bauen und Immobilien (auch als Denkmalausschuss)  Ausschuss für Soziales, Familien und Senioren  Ausschuss für Umwelt und Klimaschutz  Bildungsausschuss  Finanzausschuss  Jugendhilfeausschuss  Mobilitätsausschuss  Sportausschuss
+(5) Einwohnerfragestunden finden in folgenden Ausschüssen statt: − Kulturausschuss (auch als Betriebsausschuss der Kultur Räume) − Ausschuss für Planung, Bauen und Immobilien (auch als Denkmalausschuss) − Ausschuss für Soziales, Familien und Senioren − Ausschuss für Umwelt und Klimaschutz − Bildungsausschuss − Finanzausschuss − Jugendhilfeausschuss − Mobilitätsausschuss − Sportausschuss
 § 29 Einspruch gegen Beschlüsse entscheidungsbefugter Ausschüsse
 (1) Beschlüsse von Ausschüssen in Angelegenheiten, in denen sie Entscheidungsbefugnis besitzen, können erst durchgeführt werden, wenn innerhalb von drei Tagen, den Tag der Beschlussfassung nicht eingerechnet, weder von dem Bürgermeister noch von mindestens einem Fünftel der Ausschussmitglieder schriftlich Einspruch eingelegt worden ist.
 (2) Der Einspruch ist schriftlich oder zu Protokoll an den Vorsitzenden des Ausschusses über den Bürgermeister zu richten.
@@ -216,7 +224,7 @@ Dem Bürgermeister oder den Beamten und Angestellten, die ihn im Ausschuss vertr
 
 (5) Die Berichterstattung obliegt dem federführenden Ausschuss.
 § 32 Sitzungsniederschriften
-Die Niederschrift über Ausschusssitzungen ist von der oder dem Ausschussvorsitzenden und dem Schriftführer zu unterzeichnen. Sie ist den Mitgliedern des Rates, den Ausschussmitgliedern, den stellvertretenden Ausschussmitgliedern und dem Bürgermeister im Regelfall im Ratsinformationssystem bereitzustellen.
+Über Ausschusssitzungen ist eine Niederschrift aufzunehmen. Die Niederschrift wird durch die Schriftführung erstellt und ist durch die Ausschussvorsitzende oder den Ausschussvorsitzenden in der Regel dokumentiert im Ratsinformationssystem freizugeben oder alternativ zu unterzeichnen. Nach der dokumentierten Freigabe im Ratsinformationssystem oder der Unterzeichnung ist die Niederschrift den Mitgliedern des Rates, den Ausschussmitgliedern, den stellvertretenden Ausschussmitgliedern und dem Bürgermeister im Regelfall im Ratsinformationssystem bereitzustellen.
 III. Fraktionen
 § 33 Bildung von Fraktionen
 (1) Ratsmitglieder können sich auf Grundlage grundsätzlicher politischer Übereinstimmung zu möglichst gleichgerichtetem Wirken zu einer Fraktion zusammenschließen. Eine Fraktion muss aus mindestens drei Ratsmitgliedern bestehen. Jedes Ratsmitglied kann nur einer Fraktion angehören.
@@ -227,10 +235,9 @@ III. Fraktionen
 IV. Kinder- und Jugendvertretung
 § 34 Kinder- und Jugendvertretung
 (1) In der Stadt Gütersloh besteht eine Jugendvertretung in Form des Jugendparlaments gemäß § 27a Absatz 1 Gemeindeordnung NRW. Das Jugendparlament dient der Interessenvertretung der Gütersloher Kinder und Jugendlichen, fördert ihre politische Mitwirkung und stärkt die Beteiligung an kommunalen Entscheidungsprozessen.
-(2) Das Jugendparlament wird für die Dauer von zwei Jahren gewählt. Das aktive und passive Wahlrecht sowie das Wahlverfahren richten sich nach der vom Jugendparlament
 14 (17)
 
-beschlossenen Wahlordnung in der jeweils geltenden Fassung. Die Durchführung der Wahl erfolgt mit Unterstützung der Stadtverwaltung.
+(2) Das Jugendparlament wird für die Dauer von zwei Jahren gewählt. Das aktive und passive Wahlrecht sowie das Wahlverfahren richten sich nach der vom Jugendparlament beschlossenen Wahlordnung in der jeweils geltenden Fassung. Die Durchführung der Wahl erfolgt mit Unterstützung der Stadtverwaltung.
 (3) Das Jugendparlament gibt sich eine eigene Satzung, in der insbesondere seine Aufgaben, Arbeitsweise und Gremien geregelt werden. Die Satzung bedarf der Zustimmung des Fachbereiches Jugend und Familie und ist dem Rat zur Kenntnis zu geben.
 (4) Das Jugendparlament wählt aus seiner Mitte ein Sprecherteam. Dieses vertritt das Jugendparlament nach innen und außen und ist Ansprechpartner gegenüber Rat, Ausschüssen und Verwaltung.
 (5) Von dem Jugendparlament entsandte Mitglieder können an den Sitzungen des Rates und seiner Ausschüsse in Angelegenheiten teilnehmen, die Kinder und Jugendliche betreffen. Ihnen stehen ein Rede-, ein Anhörungs- und ein Anregungsrecht zu. Das Jugendparlament ist frühzeitig in alle Themen einzubeziehen, die die Belange von Kindern und Jugendlichen betreffen. Es können jeweils bis zu zwei Vertreterinnen und Vertreter sowie deren Stellvertretungen benannt werden, ausnahmsweise dürfen sie auch die Altersgrenze von 16 Jahren unterschreiten. Die Vertreterinnen oder Vertreter und ihre Stellvertretungen werden vom Jugendparlament zu Beginn ihrer Wahlperiode benannt.
@@ -258,14 +265,14 @@ verlangt.
 
 15 (17)
 
-V. Datenschutz
+VI. Datenschutz
 § 36 Datenschutz
 (1) Die Mitglieder des Rates und der Ausschüsse, die im Rahmen der Ausübung ihrer ehrenamtlichen Tätigkeit Zugang zu vertraulichen Unterlagen, die personenbezogene Daten erhalten, haben bzw. von ihnen Kenntnis erlangen, dürfen solche Daten nur zu dem jeweiligen, der rechtmäßigen Aufgabenerfüllung dienenden Zweck verarbeiten oder offenbaren.
 (2) Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
 (3) Vertrauliche Unterlagen sind alle Schriftstücke, automatisierte Dateien und sonstige Datenträger, die als solche gekennzeichnet sind oder personenbezogene Daten enthalten. Hierzu zählen auch mit vertraulichen Unterlagen in Zusammenhang stehende handschriftliche oder andere Notizen.
 § 37 Datenverarbeitung
 (1) Die Mitglieder des Rates und der Ausschüsse sind verpflichtet, vertrauliche Unterlagen so aufzubewahren, dass sie ständig vor Kenntnisnahme und Zugriff Dritter (z.B. Familienangehörige, Gäste, Parteifreunde, Nachbarn etc.) gesichert sind. Dieses gilt auch für den Transport der Unterlagen. In begründeten Einzelfällen ist dem Bürgermeister auf Verlangen Auskunft über die getroffenen Datensicherheitsmaßnahmen zu geben.
-(2) Eine Weitergabe von vertraulichen Unterlagen oder Mitteilung über den Inhalt an Dritte, ausgenommen im erforderlichen Umfang bei Verhinderung an die Stellvertretung, ist nicht zulässig. Dies gilt auch für die Zeit nach Ausscheiden aus dem Rat.
+(2) Eine Weitergabe von vertraulichen Unterlagen oder Mitteilung über den Inhalt an Dritte, ausgenommen im erforderlichen Umfang bei Verhinderung an die Stellvertreterin, ist nicht zulässig. Dies gilt auch für die Zeit nach Ausscheiden aus dem Rat.
 (3) Die Mitglieder des Rates und der Ausschüsse sind bei einem Auskunftsersuchen eines Betroffenen nach dem Landesdatenschutzgesetz verpflichtet, dem Bürgermeister auf Anfrage schriftlich Auskunft über die bei ihnen aufgrund dieser Tätigkeit zu einer bestimmten Person gespeicherten Daten zu erteilen (vgl. § 49 Abs. 1 DSG NRW). Zu beachten ist hierbei die Beschränkung des Auskunftsrechts gem. § 12 DSG NRW.
 (4) Vertrauliche Unterlagen sind unverzüglich und dauerhaft zu vernichten bzw. zu löschen, wenn diese für die Aufgabenerfüllung nicht mehr benötigt werden. Bei vertraulichen Beschlussunterlagen einschließlich aller damit in Zusammenhang stehenden Unterlagen ist dieses regelmäßig anzunehmen, wenn die Niederschrift über die Sitzung, in der der jeweilige Tagesordnungspunkt abschließend behandelt wurde, genehmigt ist.
 (5) Bei einem Ausscheiden aus dem Rat oder einem Ausschuss sind alle vertraulichen Unterlagen sofort dauerhaft zu vernichten bzw. zu löschen.
@@ -273,10 +280,9 @@ V. Datenschutz
 16 (17)
 
 (7) Die ausgeschiedenen Mitglieder haben die Vernichtung bzw. die Löschung aller vertraulichen Unterlagen gegenüber dem Bürgermeister schriftlich zu bestätigen.
-VI. Auslegung, Änderung und Inkrafttreten dieser Geschäftsordnung § 38
+VII. Auslegung, Änderung und Inkrafttreten dieser Geschäftsordnung § 38
 Auslegung der Geschäftsordnung Über die Auslegung der Geschäftsordnung entscheidet im Einzelfall der Bürgermeister bzw. der/die Ausschussvorsitzende. Grundsätzliche über den Einzelfall hinausgehende Auslegungen beschließt der Rat nach Prüfung durch den Hauptausschuss.
 § 39 Änderung der Geschäftsordnung Eine Änderung der Geschäftsordnung ist nur zulässig, wenn der Änderungsantrag als Beratungspunkt auf die Tagesordnung des Rates gesetzt und gemäß § 1 dieser Geschäftsordnung den Ratsmitgliedern zugestellt worden ist. Die Änderung der Geschäftsordnung durch Dringlichkeitsbeschluss ist unzulässig.
 § 40 Personen- und Funktionsbezeichnungen Alle in dieser Geschäftsordnung verwendeten Personen- und Funktionsbezeichnungen gelten gleichermaßen für alle Geschlechter
 § 41 Inkrafttreten Diese Geschäftsordnung tritt am Tage nach der Beschlussfassung durch den Rat in Kraft. Gleichzeitig tritt die Geschäftsordnung des Rates der Stadt Gütersloh vom 30.10.2009 in der Fassung der VIII. Änderungsordnung vom 28.03.2025 außer Kraft.
-Bekanntmachung im Amtsblatt am 28.11.2025
 17 (17)
