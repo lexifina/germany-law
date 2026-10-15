@@ -1,0 +1,7 @@
+# TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Interkultureller Beirat (4. Sitzung) (2026-10-15)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/71695
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
