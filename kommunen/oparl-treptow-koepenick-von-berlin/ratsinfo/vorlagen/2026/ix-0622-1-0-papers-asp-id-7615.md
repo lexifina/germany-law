@@ -1,0 +1,27 @@
+# Autistische Kinder in Treptow-Köpenick bedarfsgerecht beschulen
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Drucksache/Vorlage: IX/0622
+- Art: Schlussbericht in MdV
+- Datum: 2026-10-16
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=7615
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/papers.asp?id=7615
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=130&id=412559
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6704 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7087 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7088 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7089 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7090 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7091 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7092 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7093 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7145 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7359 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7381 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7724 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=113
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7011 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=139
+- Beratung: Empfehlung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7581 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=141
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7308 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung  https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=at&id=326
