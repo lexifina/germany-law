@@ -44,6 +44,7 @@ Abschnitt 8 Jagdverwaltung
 Abschnitt 9 Ermächtigungen, Entschädigung
 § 35 Rechtsverordnungen
 § 36 Entschädigung
+§ 36a Schadensausgleich bei der Tierart Wolf
 Abschnitt 10 Ordnungswidrigkeiten
 § 37 Ordnungswidrigkeiten, Einziehung und Verbot der Jagdausübung (zu §§ 40, 41a und 42 Bundesjagdgesetz)
 § 38 Sachliche Zuständigkeit bei Ordnungswidrigkeiten
