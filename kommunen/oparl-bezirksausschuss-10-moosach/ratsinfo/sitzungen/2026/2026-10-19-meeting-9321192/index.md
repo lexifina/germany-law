@@ -1,0 +1,70 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9321192
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9321192
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 21.09.2026
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Benennung einer*s Gleichstellungsbeauftragten
+- TOP 1.4.: Änderung im Unterausschuss Verkehr (Fraktion CSU) - Benennung eines neuen Mitglieds
+- TOP 1.5.: Änderungen in den Unterausschüssen (Fraktion CSU) - Benennung von Vertreter*innen in den Unterausschüssen
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Unzulässiges Abstellen von Leihautos in der Adernacher Straße
+- TOP 2.2.: Fremdparkende, dauerhaft abgestellte Fahrzeuge in der Ohlauer Straße
+- TOP 2.3.: Lärmbelästigung durch Motorradfahrende auf der Landshuter Allee
+- TOP 2.4.: Schließung des Edeka-Marktes in der Waldhornstraße 54
+- TOP 2.5.: Radl-Zustände in Moosach
+- TOP 2.6.: Anregung zur Begrünung und Baumpflanzung in der Dachauer Straße
+- TOP 3.: Berichte
+- TOP 3.1: UA Soziales, Bildung und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau und Planung
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Alfred-Drexel-Straße 3
+- TOP 3.3.1.2.: Am Neubruch
+- TOP 3.3.1.3.: Pirschstraße 6
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.2.1.: Weishauptstraße 3
+- TOP 3.3.2.2.: Dachauer Straße 322-324
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: UA Gesundheit und Umwelt
+- TOP 3.5: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Baumpflanzungen auf städtischen Anwesen
+- TOP 4.1.2.: Anfrage: Einrichtung der ausgewiesenen gemeinsamen Abstellfläche (GAF) am Mobilitätspunkt Olympia Einkaufszentrum Süd in der Ehrenbreitsteiner Straße
+- TOP 4.1.3.: Zukunftssicherung auf soziale Angebote
+- TOP 4.2: Sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget FC Olympia Moosach Anschaffung eines neuen Zeltes 1.922,50€; Az. 0262.100-10-0492
+- TOP 5.2.: (E) Stadtbezirksbudget EMMY - Förderverein der Staatlichen Grundschule an der Emmy-Noether-Straße e.V. PrÄViG - Prävention in der Grundschule vom 12.10.2026 - 31.07.2027 10.710,00€; Az. 0262.100-10-0491
+- TOP 6.: Anhörungen
+- TOP 6.1.: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026"
+- TOP 6.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Franz-Mader-Straße; Einrichtung eines absoluten Haltverbotes als Hol- und Bringzone für die Rudolf-Diesel-Realschule und die Realschule München IV; Anbringung von Gefahrzeichen
+- TOP 6.3.: Aufhebung einer verkehrsrechtlichen Anordnung gemäß § 45 Abs. 3 Satz 1 i.V.m Abs. 1 Satz 1 StVO: Dachauer Straße; Widerruf Tempo 30 km/h im Bereich der Dachauer Eisenbahnüberführung
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Lärmbelästigung durch Hubschrauber
+- TOP 7.2.: Austausch des Sands auf dem Spielplatz „Spielplatz am Eck“ (neben der Wittenberger Straße 3)
+- TOP 7.3.: Bearbeitungsstand eines Antrags aus der Bürgerversammlung vom 16.10.2025
+- TOP 7.4.: Missstände in der Andernacher Straße
+- TOP 7.5.: Schmierereien am St.-Martins-Platz / Pelkovenschlössl
+- TOP 7.6.: Schwierige Situation im Park beim boomerang sowie an der U-Bahn-Haltestelle am OEZ
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: -->Arbeiten im Straßenraum: - Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße: (Straßenbauarbeiten, BPh 540, BPh 705, BPh 710, BPh 715) vom 05.10.2026 bis 11.12.2026 - Hanauer Straße 4, mit Seite Dachauer Straße (Verlegung Strom) -Verlängerung- vom 19.09.2026 bis 30.10.2026
+- TOP 8.2.: (U) Einführung eines Mietenmonitors Aktive Information von Mieter*innen und Vermieter*innen bei Mietpreisüberhöhung
+- TOP 8.3.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 8.4.: Förderung bürgerschaftlichen Engagements (BE); Stellungnahme der Stadtverwaltung zum 8. Bericht des Fachbeirats Bürgerschaftliches Engagement München
+- TOP 8.5.: Sanierungsgebiet "Aubing-Neuaubing-Westkreuz" Sanierungsgebiet "Moosach" Verlängerung des Stadtteilmanagements der Münchener Gesellschaft für Stadterneuerung mbH (MGS) Stadtbezirk 10 - Moosach Stadtbezirk 22 - Aubing-Lochhausen-Langwied
+- TOP 8.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Dachauer Str. 399; Aufhebung einer Kurzparkzone zum 31.08.2026
+- TOP 8.7.: (U) Investitionszuschuss für den hoheitlichen Denkmalschutzanteil der Generalinstandsetzung des Westfriedhofs, Baldurstr. 28, 80637 München, Teilprojekt C1 - Historische Gebäudeanlage Eckdatenbeschluss 2027 – GSR-002 Stadtbezirk 10, Moosach
+- TOP 8.8.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes -nicht öffentlich-
