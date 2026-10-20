@@ -1,0 +1,148 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2026-10-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9318186
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9318186
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung über die form- und fristgerechte Ladung, Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokollentwürfe (öffentliche + nicht-öffentliche Sitzung) der Sitzung vom 29.09.2026
+- TOP 2.1: Anliegen von Bürger*innen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Mobilität
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Anliegen von Bürger*innen, Anträge
+- TOP 3.2.1.: Antrag - Übernahme des öffentlichen Raumes durch das Mobilitätsreferat
+- TOP 3.2.2.: Maximaler Stress auf minimalem Raum
+- TOP 3.2.3.: Dringender Handlungsbedarf Laimer Tunnel - Gefährliche Verkehrssituation und ungenutzte Flächen
+- TOP 3.2.4.: Anfrage wegen Fahrradverkehr auf den Gehwegen Paschstraße (+ Anliegen eines weiteren Bürgers zu dem Thema)
+- TOP 3.2.5.: Heideckstraße, Fußgängerbrücke Braganzastraße, Kreuzung Ebenauer Straße / Dachauer Straße
+- TOP 3.2.6.: Verkehrsgefährdendes Abstellen von E-Scootern in der Trojanostraße am Käthe-Kollwitz-Gymnasium
+- TOP 3.2.7.: Parkraumbewirtschaftung Hanebergstraße / Bitte um Überprüfung und Offenlegung der Erhebungsdaten
+- TOP 3.2.8.: CSU-Fraktion: Antrag - Entfernung der beschädigten Holzhütte an der südlichen Auffahrtsallee
+- TOP 3.2.9.: FDP-Fraktion: Antrag - Fußgänger-Ampelschaltung über die Landshuter Allee optimieren
+- TOP 3.2.10.: FDP-Fraktion / Freie Wähler / CSU-Fraktion: Antrag - Sanierung des Landshuter Allee-Tunnels zum Anlass nehmen - Verlängerung nach Norden ernsthaft prüfen
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Erinnerungsverfahren Straßenunterhalt - Böcklinstraße 15 - Antrag auf Bordsteinabsenkung im Auftrag der AWM - Stellungnahmeersuchen des BAU mit Frist bis zum 23.10.2026 -
+- TOP 3.3.2.: Bürgeranliegen an den Bezirksausschuss 9 zum Thema "Antrag auf Errichtung von Fahrradabstellplätzen am Steubenplatz" - Antwortschreiben des BAU + Bitte des BAU an den BA 9 um Einverständnis bezüglich der Standortvorschläge - Bezug: TOP 3.2.29 aus 06/2026 -
+- TOP 3.3.3.: BA-Anhörung: Errichtung von absoluten Halteverboten in den Zugangsbereichen zum Astrid-Lindgren-Spielplatz - Stellungnahmeersuchen des MOR -
+- TOP 3.3.4.: BA-Anhörung zur Aufhebung einer verkehrsrechtlichen Anordnung gemäß § 45 Abs. 3 Satz 1 i.V.m. Abs. 1 Satz 1 StVO: Volkartstraße; Aufhebung der Parkregelung "nur vorwärts einparken" - Stellungnahmeersuchen des MOR -
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Replik des MOR auf die Rückmeldung des BA 9 zu BA-Antrag Nr. 20-26 / B 08694 Neuen Aufzug UVR Laim barrierefrei und fußgängerfreundlich umsetzen - Bezug: TOP 3.4.5 aus 06/2026 -
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Landshuter Allee-Tunnel Sicherheitstechnische Nachrüstung und Instandsetzung im 9. Stadtbezirk Neuhausen - Nymphenburg Umsetzung des Eckdatenbeschlusses 2027 (BAU-020) 1. Projektgenehmigung 2. Genehmigung zur Durchführung von Vorwegmaßnahmen 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 – 2030
+- TOP 3.5.2.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 3.5.3.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der StVO --> Arbeiten im Straßenraum; - Wotanstraße zwischen Herthastraße und Gaßnerstraße Bereich Gaßnerstraße bis Kemnatenstraße Bauphase 5.2.1 Bereich Kemnatenstraße bis Herthastraße / Laimer Kreisel 5.2 TramWestTangente vom 15.09.2026 bis 28.09.2026 - Wotanstraße zwischen Herthastraße und Gaßnerstraße Bereich Gaßnerstraße bis Kemnatenstraße Bauphase 5.2.2 Bereich Kemnatenstraße bis Herthastraße / Laimer Kreisel 5.2 TramWestTangente vom 25.09.2026 bis 09.10.2026 - Wotanstraße zwischen Herthastraße und Gaßnerstraße Bereich Gaßnerstraße bis Kemnatenstraße Bauphase 5.2.2 Bereich Kemnatenstraße bis Herthastraße / Laimer Kreisel 5.3 TramWestTangente vom 1.10.2026 bis 15.10.2026
+- TOP 3.5.4.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 der StVO --> Arbeiten im Straßenraum; - Instandsetzung BW 40 - 55; Landshuter Allee / Dachauer Straße Straßenbauarbeiten, Sanierung Stützwände, Austausch Übergangskonstruktion, Herstellung von Notunterstützungen Ausbesserungsarbeiten an Außenkappen und Mittelkappe in beiden Fahrtrichtungen auf dem Mittleren Ring vom 18.09.2026, 21:00 Uhr, bis 19.09.2026, 06:00 Uhr - Instandsetzung BW 40 - 55; Landshuter Allee und Dachauer Straße Rückbau der Mittelteilerüberfahrten Bauphasen 40, Landshuter Allee vom 24.09.2026 bis 16.10.2026 (5 AT) - Rupprechtstraße zwischen Klarastraße und Birkerstraße (Fahrbahnasphaltierung) vom 12.10.2026 bis 30.10.2026 (15 Arbeitstage) - Stupfstraße / Menradstraße (Neubau Fernwärme) Änderung Flächennutzung Phase 3.1 und 4.1 vom 02.10.2026 bis 04.12.2026 - Landshuter Allee Tunnel - Mittlerer Ring (Wartungsarbeiten) (Vollsperrung beider Röhren) vom 14.10.2026 bis 15.10.2026 (1 Nacht von 22 - 5 h)
+- TOP 3.5.5.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 b Nr. 2 StVO: - Verlegung eines allgemeinen Sonderparkplatzes für Menschen mit Schwerbehinderung vom Bereich Nymphenburger Straße 171 in die Aldringenstraße, Südseite, im Bereich Hausnummer 1
+- TOP 3.5.6.: Vollzug der § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9, § 46 StVO und des Art. 21 BayStrWG: --> Arbeitsstelle im Straßenraum; - Tizianstraße 1 (Ausnahmegenehmigung vom Verbot, Hindernisse auf die Straße zu bringen) vom 05.10.2026 bis 16.10.2026 - Schlörstraße 6 (Ausnahmegenehmigung vom Verbot, Hindernisse auf die Straße zu bringen) Änderung / Ergänzung des Bescheids vom 18.03.2026 vom 19.10.2026 bis 08.11.2026
+- TOP 3.5.7.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: Winthirstraße 25; Errichtung einer Kita-Hol- und Bringzone
+- TOP 3.5.8.: Information des BAU zu städtischer Asphaltverlegung - Beginn der Bauarbeiten am 12.10.2026 in der Rupprechtstraße
+- TOP 3.5.9.: Antwortschreiben UA-Vorsitzender
+- TOP 3.6: Verschiedenes
+- TOP 3.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 3.6.2.: Weiteres Vorgehen nach OT Prinzenstraße
+- TOP 4.: Unterausschuss für Bau- und Stadtplanung
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Anliegen von Bürger*innen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Brunhildenstraße 24 Umbau eines Untergeschosses mit Tiefgarage und Einbau eines Indoor-Pools und Parksystems mit 5 Stellplätzen - ÄNDERUNGSANTRAG
+- TOP 4.3.2.: Nymphenburger Straße 112 TEILBAUGENEHMIGUNG - Revitalisierung und Erweiterung eines Bürogebäudes mit zwei Untergeschossen und einer zweigeschossigen Tiefgarage inklusive Abbruch Hofgebäude und Rampenbereich Durch die Teilbaugenehmigung soll vor Erteilung der Baugenehmigung gestattet werden: der Beginn der Bauarbeiten für einzelne Bauteile oder Bauabschnitte. Im Zuge des Teilabbruchs sollen die Fassadenfertigteile, das Hauptdach und das Hofgebäude abgebrochen werden
+- TOP 4.3.3.: Schulstraße 3 Schulbauoffensive - Umnutzung Rudolf-Diesel-Realschule zu temporärer Grundschule
+- TOP 4.3.4.: Nibelungenstraße 57 Neubau einer Wohnanlage mit Tiefgarage
+- TOP 4.3.5.: Rotkreuzplatz 8 Umnutzung Hochhaus der Geschosse 3, 5 - 8, des Schwesternwohnheim
+- TOP 4.3.6.: Landshuter Allee 30 -38 (I) Neubau einer Aufstockung eines Vollgeschosses auf einem Bestands Vorderhaus - VORBESCHEID
+- TOP 4.3.7.: Landshuter Allee 30 - 38 (II) Neubau eines Wohngebäudes zum Teil aufgeständert über einem bestehenden Supermarkt - VORBESCHEID
+- TOP 4.3.8.: Maria-Ward-Straße 11 Nutzungsänderung des Kirchentrakts mit Kirchenraum und Besucherräumen des Ordens zu einem Veranstaltungsraum für kulturelle Zwecke, einem Kunst-Schaudepot sowie Wohn- und Arbeitsräumen
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.6: Verschiedenes
+- TOP 4.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 4.6.2.: Jahrestermin des UA Bau mit dem Planungsreferat am 28.10.2026, um 17:00 Uhr
+- TOP 4.6.3.: Stellungnahme des BA 9 an die LBK zu: - Maria-Ward-Straße 11 (Nutzungsänderung des Kirchentrakts mit Kirchenraum und Besucherräumen des Ordens zu einem Veranstaltungsraum für kulturelle Zwecke, einem Kunst-Schaudepot sowie Wohn- und Arbeitsräumen; Anhörungsfrist: 19.10.2026)
+- TOP 4.6.4.: LEO_ Anfrage zum Stand der Patenschaft für die Obstbäume im Projekt " Grünfläche Archiv Leonrodstraße 57" - Bezug: TOP 4.2.1 aus 03/2026 -
+- TOP 5.: Unterausschuss für Umwelt und Klimaschutz
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Stadtbezirksbudget Kritische Nachhaltigkeit in Theorie und Praxis e.V. „Veranstaltungsreihe "Ökonomie des Rechtsrucks" vom 01.01.2027 bis 15.05.2027“ 5.970,00 Euro; Az. 0262.100-9-1017
+- TOP 5.2: Anliegen von Bürger*innen, Anträge
+- TOP 5.2.1.: ÖDP: Antrag - Testlauf: Pfandringe für öffentliche Mülleimer im Hirschgarten und am Rotkreuzplatz
+- TOP 5.2.2.: ÖDP: Antrag - Schilder: Tauben füttern verboten
+- TOP 5.2.3.: Belästigungen, Behinderungen und Vermüllung am "TENT" (In den Kirschen 30) --> Weiterleitung des Anliegens durch den BA 10
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: BA-Anhörung: Suchkreismitteilung im 9. Stadtbezirk - Anhörungsersuchen des RKU -
+- TOP 5.3.2.: Anhörung zu Baumfällungsantrag: Wendl-Dietrich-Straße 48 - 50
+- TOP 5.3.3.: Anhörung zu Baumfällungsantrag: Wendl-Dietrich-Straße 48 - 50 (II)
+- TOP 5.3.4.: Anhörung zu Baumfällungsantrag: Hohenlohestraße 69 B
+- TOP 5.3.5.: Anhörung zu Baumfällungsantrag: Rüdigerstraße 10
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Antrag - Trinkwasserbrunnen am Leonrodplatz und Romanplatz
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV --> Grabenlose Kanalsanierung Lothstraße --> Klarastraße und Umgebung; Mülleinsammlung Partie 18 - 120
+- TOP 5.5.2.: Unterrichtung der LBK über den Vollzug der Baumschutzverordnung: - Baumfällung Dall&#039;Armistraße 57 - Baumfällung Landshuter Allee 77 - 81
+- TOP 5.5.3.: Unterrichtung des BAU über die Beseitigung eines Gefahrenbaums: - Grünwaldpark
+- TOP 5.6: Verschiedenes
+- TOP 5.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 5.6.2.: Austausch und Vorbereitung des AWM-Termins im November
+- TOP 5.6.3.: Einladung Austauschtreffen BA-Baumschutzbeauftragte
+- TOP 6.: Unterausschuss für Soziales, Integration und Wohnen
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Kulturzentrum GOROD / Gesellschaft für Integration und Kultur in Europa (GIK) e.V. „Kulturtreff TREMPEL“ vom 06.07. bis 31.12.2026 1.400,00 €; Az. 0262.100-9-0993
+- TOP 6.2: Anliegen von Bürger*innen, Anträge
+- TOP 6.2.1.: Massive Kritik an den Kürzungen bei ASP Neuhausen - Kinder dürfen nicht die Leidtragenden sein
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Bürgeranliegen zum Thema "Beschwerde Veranstaltung im ZIRKA" - Antwortschreiben des KVR
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 6.6.2.: Termine und Berichte der Beauftragten
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Kath. Kirchenstiftung Herz Jesu „Mozart Requiem am 22.11.2026“ 3.000,00 €; Az. 0262.100-9-1015
+- TOP 7.1.2.: (E) Stadtbezirksbudget Tanztendenz München e.V. „side.kicks + vom 26. bis 29.11.2026“ 1.500,00 Euro; Az. 0262.100-9-1016
+- TOP 7.2: Anliegen von Bürger*innen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Errichtung einer Betonkompaktstation an der Renatastraße gegenüber Hausnummer 40 - schriftliche Erwiderung der SWM auf die Stellungnahme des BA 9 vom 24.06.2026 --> Künstlerische Gestaltung der Betonkompaktstation: - Bezug: TOP 4.3.5 aus 09/2026 - WV in 10/2026 -
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Beschluss des BA 9 über die Durchführung einer Stadtteilwoche in Neuhausen-Nymphenburg - Bezug: TOP 7.4.1 aus 06/2026 -
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 7.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 7.6.2.: Berichte Veranstaltungen
+- TOP 8.: Unterausschuss für Bildung, Sport und Gesundheit
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Freunde des Rupprecht-Gymnasiums e.V. „Outdoor Tischtennisplatte für den Pausenhof im Schuljahr 2025/2026“ 825,00 €; Az. 0262.100-9-0971
+- TOP 8.1.2.: (E) Stadtbezirksbudget Fördergemeinschaft der Samuel-Heinicke-Schulen Dolmetscherkosten (Deutsche Gebärdensprache) Inklusion vom 27.06.2026 - 26.06.2027 2.500,00€; Az. 0262.100-9-0997 - Bezug: TOP 8.1.3 aus 09/2026 - WV in 10/2026 -
+- TOP 8.1.3.: (E) Stadtbezirksbudget BIKU gGmbH „Mädchen an den Ball", Mädchenfußball im 9. Stadtbezirk 2027 8.379,00 €; Az. 0262.100-9-1007 - Bezug: TOP 8.1.5 aus 09/2026 - WV in 10/2026 -
+- TOP 8.1.4.: (E) Stadtbezirksbudget Ackermannbogen e.V. Anschaffungen im Rahmen von "Sport im Ganztag" an der Gertrud-Bäumer-Schule 993,86 €; Az. 0262.100-9-1012 - Bezug: TOP 8.1.6 aus 09/2026 - WV in 10/2026 -
+- TOP 8.2: Anliegen von Bürger*innen, Anträge
+- TOP 8.2.1.: FDP-Fraktion: Antrag - Nächste Phase der Olympia-Bewerbung - konkrete Planungen benötigen konkretere Informationen für Anlieger vor Ort - Bezug: TOP 8.2.4 aus 12/25 + TOP 8.4.1 aus 06/2026 -
+- TOP 8.2.2.: Anliegen: Bibliothek - Käthe-Kollwitz-Gymnasium
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: BA-Anhörung: Entwurf der Beschlussvorlage "Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026"
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Antrag - Smart Glasses im Dantebad?
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 8.6.1.: Öffentlichkeitsarbeit des UA
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: BA 9: Budget-Beschluss - Weihnachtsfeier 2026
+- TOP 9.2: Anliegen von Bürger*innen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: BA-Anhörung: Öffentlich-rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG für Märkte sowie Festsetzung einer Veranstaltung gemäß § 69 GewO hier: Weihnachtsmarkt Rotkreuzplatz Südseite - Neuhauser Weihnachtsmarkt e.V. vom 20.11.2026 - 23.12.2026 (Aufbau ab 14.11.2026, Abbau bis 24.12.2026) - Anhörungsersuchen des KVR mit Frist bis zum 23.10.2026 -
+- TOP 9.3.2.: BA-Anhörung: Öffentlich-Rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG für Märkte sowie Festsetzung einer Veranstaltung gemäß § 69 GewO hier: Weihnachtsmarkt Rotkreuzplatz Nordseite - vom 20.11.2026 bis 23.12.2026 (Aufbau ab 13.11.2026, Abbau bis 24.12.2026) - Anhörungsersuchen des KVR mit Frist bis zum 30.10.2026 -
+- TOP 9.3.3.: Ausnahmegenehmigung nach der Grünanlagensatzung sowie Festsetzung einer Veranstaltung gemäß § 69 GewO hier: Märchenbazar vom 26.11. - 28.12.2026 auf dem Theaterfestivalgelände Spiridon-Louis-Ring 100 - Anhörungsersuchen des KVR mit Frist bis zum 06.11.2026 -
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Förderung bürgerschaftlichen Engagements (BE); Stellungnahme der Stadtverwaltung zum 8. Bericht des Fachbeirats Bürgerschaftliches Engagement München
+- TOP 9.6: Verschiedenes
+- TOP 10.: Nicht-öffentliche Sitzung
