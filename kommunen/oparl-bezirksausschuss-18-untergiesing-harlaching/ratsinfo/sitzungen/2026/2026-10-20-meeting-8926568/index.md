@@ -1,0 +1,224 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2026-10-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8926568
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8926568
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 1.3.1.: Genehmigung des Protokolls der Sitzung des BA 18 vom 15.09.2026
+- TOP 2.: Aktuelles
+- TOP 2.1: Vorstellungen / Vorträge von Organisationen und städtischen Referaten
+- TOP 2.1.1.: Der Abfallwirtschaftsbetrieb München zur Einführung der Gelben Tonne zum 1. Januar 2027
+- TOP 2.1.2.: Vorstellung der Planung zur Generalinstandsetzung Wittelsbacherbrücke
+- TOP 2.2: Bürger*innensprechstunde
+- TOP 2.3: Fragen an Polizei und Bezirksinspektion
+- TOP 2.4: Bericht der Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Kultur und Budget
+- TOP 3.1.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.1.1.: (E) Stadtbezirksbudget Mobil und sicher im Alltag e. V. Stadtbezirkskarte mit den barrierefreien TOP 100 Orten des täglichen Bedarfs vom 01.05. - 31.12.2026 3.550,00 €; Az. 0262.100-18-0457
+- TOP 3.1.1.2.: (E) Stadtbezirksbudget Luma e.V. „Kulturprogramm Adventszeit Gans Woanders vom 12.11.2026 - 23.12.2026“ 9.908,00 € / AZ: 0262.100-18-0479
+- TOP 3.1.1.3.: (E) Stadtbezirksbudget Init. "Schiri" „Jung-Schiri-Ausbildung vom 14.09.2026 - 26.06.2027“ 2.600,00 € / AZ: 0262.100-18-0485
+- TOP 3.1.1.4.: (E) Stadtbezirksbudget Schön089 „Mensch-Handwerk-Musik live am 17.10.2026“ 1.300,00 € / AZ: 0262.100-18-0484
+- TOP 3.1.1.5.: (E) Stadtbezirksbudget Init. "Windows96" „Windows96 vom 10.11.2026 - 31.12.2026“ 2.000,00 € / AZ: 0262.100-18-0487
+- TOP 3.1.1.6.: (E) Stadtbezirksbudget Naturkindergarten Hasenklee e.V. „Anschaffung eines Bauwagens“ 5.000,00 €; Az. 0262.100-18-0486
+- TOP 3.1.1.7.: (E) Bewilligte Vermögensgegenstande des Familienbaum e.V. hier: Zweckentsprechende Weiternutzung (Spielturm)
+- TOP 3.1.1.8.: (E) Stadtbezirksbudget Die Färberei - Kreisjugendring München Stadt KdöR "Tiere schauen dich an" - Wilde Wände im Schyrenbad vom 02.11.2026 - 23.12.2026“ 1.000,00 € / AZ: 0262.100-18-0488
+- TOP 3.1.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.3: Anträge
+- TOP 3.1.4: Bürger*innenschreiben
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.6.1.: Verwendungsnachweise für vom BA 18 geförderte Budgetanträge
+- TOP 3.1.6.2.: Status Quo der Zuschussanträge des Stadtbezirksbudgets vom 3. Quartal 2026
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Mobilität
+- TOP 3.2.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.1.1.: (E) Bessere Rad-Querung in der Chiemgauer Straße
+- TOP 3.2.1.2.: (E) Bauliche Veränderung der Säbener Straße ab Naupliastraße und des asphaltierten Wegs zwischen Harlaching (Tennisanlage) und Kugler Alm zur Reduzierung des Sportradverkehrs
+- TOP 3.2.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.2.1.: Erneute Anfrage zu Sitzungsvorlage Nr. 20-26 / V14709: Bessere Radquerung in der Chiemgauer Straße
+- TOP 3.2.2.2.: Austausch einer Lichtsignalanlage (LSA) - Standort Humboldt-/Pilgersheimer Str.
+- TOP 3.2.2.3.: Fahrbahnsanierung in der Bezoldstraße
+- TOP 3.2.2.4.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 StVO für die südliche Lincolnstraße (im Bereich zwischen Cincinnatistraße und Münchner-Kindl-Weg)
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Forderung der Versetzung der Fahrradständer an der Tramhaltestelle Klinikum Harlaching; CSU-Fraktion
+- TOP 3.2.3.2.: Sicherere Gestaltung der Rad- und Fußwege an der Pilgersheimer Straße; Linke-Fraktion
+- TOP 3.2.3.3.: Beleuchtung der U-Bahn-Station Wettersteinplatz; SPD-Fraktion
+- TOP 3.2.3.4.: Einrichtung einer MyRadl-Station am Klinikum Harlaching; SPD-Fraktion
+- TOP 3.2.3.5.: Einrichtung von Fahrradstellplätzen mit Fahrradbügeln in der Thusneldastraße; SPD-Fraktion
+- TOP 3.2.3.6.: Einrichtung eines Fahrgast-Ticket-Automaten an der Trambahn-Haltestelle vor dem neuen Harlachinger Krankenhaus; CSU-Fraktion
+- TOP 3.2.4: Bürger*innenschreiben
+- TOP 3.2.4.1.: Antrag für Tempo 30 in der Tegernseer Landstraße 164 (ab Ausgang Tunnel)
+- TOP 3.2.4.2.: Zunehmende Gefährdung von Fußgängern durch Radfahrer im Bereich Hochleite/Menterschwaige
+- TOP 3.2.4.3.: Bitte um Verbesserung des Tram-Taktes im Bereich 81545 München
+- TOP 3.2.4.4.: Geplanter Parkscheinautomat in der Miesbacher Straße
+- TOP 3.2.4.5.: Abgestellte Wohnwägen am Parkplatz am Perlacher Forst
+- TOP 3.2.4.6.: Trennung von Fuß- und Radverkehr auf der Hochleite / Isarweg ab Marienklausensteg bis Grünwald
+- TOP 3.2.4.7.: Reparatur der Langsamfahrstelle an der Haltestelle der Tram 25 am Authariplatz
+- TOP 3.2.4.8.: Anfrage zur Erlaubnis von Gehwegparken
+- TOP 3.2.4.9.: Verkehrssituation im Wohnviertel zwischen Tegernseer Landstraße und Rotbuchenstraße
+- TOP 3.2.4.10.: Bitte um Unterstützung für mehr Schulwegsicherheit in der Naupliastraße
+- TOP 3.2.4.11.: Aufstellung von Parkscheinautomaten am Resedenweg
+- TOP 3.2.4.12.: Bauliche Maßnahme zur Freihaltung der Einfahrt in den Perlacher Forst
+- TOP 3.2.4.13.: Aufstellen von Tempo-30-Schildern in Neu-Harlaching
+- TOP 3.2.4.14.: Maßnahmen zur Lärmreduzierung in der Humboldtstraße (im Bereich Oefelestraße Richtung Wittelsbacherbrücke)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Nutzungsbedingungen für den Parkplatz am Bad Giesing-Harlaching
+- TOP 3.2.5.2.: Nutzungsmöglichkeit der Einbahnstraße in der Freibadstraße für den Radverkehr in Gegenrichtung
+- TOP 3.2.5.3.: Verkehrsknotenpunkt Großhesseloher Brücke. Zukunft Verkehrswende sichern!
+- TOP 3.2.5.4.: Ergänzung des Grünlichts in der Ampelanlage an der Kreuzung Stadelheimer Straße (stadtauswärts) / Tegernseer Landstraße (Sitzungsvorlage Nr. 20-26 / E 02845)
+- TOP 3.2.5.5.: Zukünftige Verkehrsentwicklung 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 3.2.5.6.: Tempo 30 beim Tierpark Hellabrunn
+- TOP 3.2.5.7.: Leihroller- und Fahrräderabstellplatz an der Haushamer Straße 2
+- TOP 3.2.5.8.: Fehlende Zeitanzeige der zu erwartenden Ankunfts-/Abfahrtszeit an den Bushaltestellen in der Griechen- und Autharistraße
+- TOP 3.2.5.9.: Lärmbelastung durch Trambahn (Linie 25) am Authariplatz
+- TOP 3.2.5.10.: Geschwindigkeitsüberschreitungen in der Tempo-30-Zone der Autharistraße
+- TOP 3.2.5.11.: Lärmbelastung aufgrund der Bauarbeiten beim FC Bayern
+- TOP 3.2.5.12.: Gehwegparken in Harlaching
+- TOP 3.2.5.13.: Abgestellter Anhänger steht im Kurvenbereich in der Hellabrunner Straße
+- TOP 3.2.5.14.: Installation von Abfahrtszeitenanzeigen an den Haltestellen der Tram 25
+- TOP 3.2.5.15.: Überprüfung und Optimierung der Ampelschaltung sowie der Geschwindigkeitsüberwachung in der Humboldtstraße
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Verkehrseinschränkungen im Bereich der Wittelsbacher Brücke
+- TOP 3.2.6.2.: Verkehrsrechtliche Anordnungen zum Straßenbau, Radwegneubau am Giesinger Berg Arbeiten im Straßenraum: Bauphasen 50 und 60
+- TOP 3.2.6.3.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 3.2.6.4.: „Gemeinsam und sicher unterwegs im Perlacher Forst – gemeinsam für einen sicheren Radverkehr!“ Verkehrspräventionsveranstaltung am 12.09.2026 am Säbener Platz
+- TOP 3.2.6.5.: Verkehrsrechtliche Anordnung für die Tegernseer Landstraße: (Fahrtrichtung Nord zwischen Spixstraße und Kreuzung Grünwalder-/Candidstraße) Geschwindigkeitsbeschränkung auf 30 km/h und Piktogrammkette Fahrrad
+- TOP 3.2.6.6.: Verkehrsrechtliche Anordnung für die Theodolindenstraße / Schönchenstraße: Grenzmarkierung (Z. 299 StVO) in den Kurvenverläufen
+- TOP 3.2.6.7.: Arbeiten im Straßenraum in der Halbigstraße (zwischen Schönstraße und Albrecht-Dürer-Straße): Erneuerung der Versorgungstrinkwasserleitung + 2 Hausanschlüsse - Terminverlängerung mit Vollsperre bis 23.10.
+- TOP 3.2.6.8.: Status Quo zur Baustelle in der Theodolindenstraße
+- TOP 3.2.6.9.: Straßenbau und Radwegneubau Giesinger Berg: Arbeiten im Straßenraum - Bauphasen 60 und 65
+- TOP 3.2.6.10.: Arbeitsstelle im Straßenraum mit Vollsperre in der Lindenstraße
+- TOP 3.2.7: Sonstiges
+- TOP 3.3: UA Umwelt und öffentlicher Raum
+- TOP 3.3.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.1.1.: (E) Nachtkerzen entlang Tram 25 schützen
+- TOP 3.3.1.2.: (E) Starkregen am 29. und 30.6.2026
+- TOP 3.3.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.2.1.: Änderungsentwurf der Straßenreinigungssatzung
+- TOP 3.3.2.2.: Hundeverbotspfosten am Hollerbusch
+- TOP 3.3.2.3.: Suche eines Mobilfunkstandortes der Netzbetreiberfirma Telekom Deutschland in Harlaching
+- TOP 3.3.2.4.: Suche eines Mobilfunkstandortes der Netzbetreiberfirma Telekom Deutschland am Mangfallplatz
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Bürger*innenschreiben
+- TOP 3.3.4.1.: Müllproblematik in den Grünanlagen Untergiesings
+- TOP 3.3.4.2.: Austausch der Mülleimer am Karneidplatz
+- TOP 3.3.4.3.: Rückschnitt und Verjüngung der Pflanzen auf der Grünfläche vor der Edeka-Filiale in der Säbener Straße
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Frei laufende Hunde im Perlacher Forst
+- TOP 3.3.5.2.: Nächtliche Lärmbelästigung in den Isarauen
+- TOP 3.3.5.3.: Standort des geplanten Mobilfunkmastes im Tierpark Hellabrunn
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Informationen über die derzeit anstehenden und laufenden Bauvorhaben der Stadtwerke München
+- TOP 3.3.6.2.: Plakatierungserlaubnis zur Onlinebefragung "Zukunftsprojekt Mangfallplatz"
+- TOP 3.3.7: Sonstiges
+- TOP 3.4: UA Soziales, Bildung und Gesundheit
+- TOP 3.4.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.2.1.: St. Martinsfeier - Biene Maja Kindergarten auf der Grünanlage am Griechenplatz (ehem. Karolinger Allee) am 11.11.2026
+- TOP 3.4.2.2.: Entwurf der Beschlussvorlage: Bildungsbauoffensive – Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 3.4.2.3.: Entwurf der Beschlussvorlage Nr. 26-32 / V 01770: Notquartier Sachsenstr. 33 - Generalsanierung
+- TOP 3.4.2.4.: Entwurf der Beschlussvorlage Nr. 26-32 / V 00537: Einrichtungen zur Unterbringung wohnungsloser Männer - Baumaßnahmen in der Pilgersheimer Straße 11 und Chiemgaustraße 120
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Bürger*innenschreiben
+- TOP 3.4.4.1.: Nächtliches Glockenläuten des Templerordens an der Birkenleiten
+- TOP 3.4.4.2.: Anhaltende Verunreinigungen am Wettersteinplatz
+- TOP 3.4.4.3.: Krippenspiel in der Kirche St. Helena: Suche nach einem Ausweichquartier
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Lärmbelästigung in der Schyrenstraße
+- TOP 3.4.5.2.: Ferienpassgutscheine für den BA 18
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Aktualisierte Gesamtliste mit Unterkunftsstandorten für Geflüchtete und Wohnungslose ab 48 Bettplätzen
+- TOP 3.4.6.2.: Absage "Zirkus Roberto" vom 16.10 - 25.10.2026
+- TOP 3.4.6.3.: Aktuelle Situation am Kolumbusplatz auf beiden Seiten der Humboldtstraße Protokoll zum Ortstermin am 5.10.2026
+- TOP 3.4.6.4.: Entwicklungsmöglichkeiten am Karneidplatz Protokoll zum Ortstermin am 5.10.2026
+- TOP 3.4.7: Sonstiges
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.2.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.2.1.1.: Schmorellplatz 3: Neubau eines Mehrfamilienwohnhauses und einer Tiefgarage
+- TOP 3.5.2.1.2.: Friedrich-Ebert-Str. 5: Neuerrichtung eines Doppelhauses mit Carport (Haushälfte Süden)
+- TOP 3.5.2.1.3.: Friedrich-Ebert-Str. 5: Neuerrichtung eines Doppelhauses mit Carport (Haushälfte Norden)
+- TOP 3.5.2.1.4.: Holzkirchner Str. 3: Neubau eines Mehrfamilienhauses mit Tiefgarage (ÄNDERUNGSANTRAG)
+- TOP 3.5.2.1.5.: Sommerstr. 52: Umbau und Sanierung des denkmalgeschützten Vordergebäudes und Neubau von 15 Wohnungen auf dem rückwärtigen Grundstück (mit Mobilitätskonzept)
+- TOP 3.5.2.1.6.: Sommerstr. 50: Erweiterung und Aufstockung des Vordergebäudes. Aufstockung der Hofbebauung. Teilrückbau eines eingeschossigen Baukörpers (VORBESCHEID)
+- TOP 3.5.2.1.7.: Söltlstr. 8: Neubau eines Einfamilienhauses
+- TOP 3.5.2.1.8.: Brehmstr. 2-12: Abbruch bestehender Balkone und Errichtung einer Terrasse
+- TOP 3.5.2.1.9.: Konradinstr. 4: Nutzungsänderung einer Büroeinheit im Erdgeschoss zu einer Kindertageseinrichtung für 35 Kinder mit baulichen Änderungen
+- TOP 3.5.2.1.10.: Mondstr. 9: Dachaufstockung, Teilabbruch und Umnutzung eines eingeschossigen Rückgebäudes (1952) von einer Werkstattnutzung zu Wohnnutzung (VORBESCHEID)
+- TOP 3.5.2.2: Anhörungen zu Baumfällungen
+- TOP 3.5.2.2.1.: Widdersteinstr. 20
+- TOP 3.5.2.2.2.: Lindenstr. 6
+- TOP 3.5.2.2.3.: Kreuzdornweg 5
+- TOP 3.5.2.2.4.: Friedrich-Ebert-Str. 12
+- TOP 3.5.2.2.5.: Tierparkstr. 30
+- TOP 3.5.2.2.6.: Eschenstr. 33
+- TOP 3.5.2.2.7.: Asenweg 18
+- TOP 3.5.2.2.8.: Lohstr. 46
+- TOP 3.5.2.2.9.: Meichelbeckstr. 4
+- TOP 3.5.2.3: Sonstige Anhörungen
+- TOP 3.5.2.3.1.: Vollzug des Bayerischen Denkmalschutzgesetzes (BayDSchG) Denkmalliste – Teil A: Baudenkmäler – Landeshauptstadt München hier: Benediktenwandstraße 11 Nachtrag in die Denkmalliste
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Bürger*innenschreiben
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Candidplatz als Stadtteilzentrum stärken: Zukunftskonzept entwickeln!
+- TOP 3.5.5.2.: Bauvorhaben in der Claude-Lorrain-Straße 18
+- TOP 3.5.5.3.: Entfernung von zwei Bäumen in der Grünwalder Straße 248
+- TOP 3.5.5.4.: Auskunft zu dem geplanten Bauvorhaben in der Arminiusstraße 7
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Baumfällbescheide (Unterrichtungen): - Ehlersstr. 3 - Königswarter Str. 12
+- TOP 3.5.7: Sonstiges
+- TOP 3.6: UA Vereine, Veranstaltungen und lokale Wirtschaft
+- TOP 3.6.1: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.1.1.: Aufstellen eines Foodtrucks am Säbener Platz
+- TOP 3.6.2: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Bürger*innenschreiben
+- TOP 3.6.4.1.: Kündigung des Vereinsheims des FC Alemannia München e.V. in der Rotbuchenstraße
+- TOP 3.6.4.2.: Anfrage zur Nahversorgung rund um den Wettersteinplatz
+- TOP 3.6.4.3.: Anfrage zur Entwicklung eines Padel-Social-Clubs im Münchener Süden
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Prüfung der Genehmigungspraxis am Tierpark Hellabrunn (Flamingo Kiosk)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Versammlungsanzeigen im Stadtbezirk 18
+- TOP 3.6.6.2.: Drehgenehmigungen im Stadtbezirk 18
+- TOP 3.6.7: Sonstiges
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3: Sonstige Anträge
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten
+- TOP 5.1: Kinder
+- TOP 5.2: Jugend
+- TOP 5.3: Menschen mit Behinderungen
+- TOP 5.4: Gleichstellung
+- TOP 5.4.1.: Aktuelle Informationen der Gleichstellungsbeauftragten
+- TOP 5.5: Migration / Integration
+- TOP 5.6: Gegen Rechtsextremismus
+- TOP 5.7: Senior*innen
+- TOP 5.8: Regsam
+- TOP 5.9: Mieterbeirat
+- TOP 5.10: Mieten / Wohnen
+- TOP 5.11: Schulwegsicherheit
+- TOP 5.12: Fuß- und Radverkehr
+- TOP 5.13: Baumschutz
+- TOP 5.14: Internet / Digitales
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
