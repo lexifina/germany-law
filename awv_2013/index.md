@@ -174,7 +174,7 @@
 - [§ 74 Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern](0074.md)
 - [§ 75 Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter](0075.md)
 - [§ 76 Ausnahmen von § 74 Absatz 1 und § 75](0076.md)
-- [§ 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen](0076a.md)
+- [§ 76a Ausnahmen von § 74 Absatz 1 und § 75 sowie von Verboten aus Rechtsakten der Europäischen Union in Einzelfällen](0076a.md)
 
 ### Abschnitt 2 Einfuhr- und Verbringungsverbote
 
