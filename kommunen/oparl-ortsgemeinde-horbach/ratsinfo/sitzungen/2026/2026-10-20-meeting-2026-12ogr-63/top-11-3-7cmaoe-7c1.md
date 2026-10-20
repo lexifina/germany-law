@@ -1,0 +1,6 @@
+# TOP 11: Mitteilungen und Anfragen
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Horbach (2026-10-20)
+- Körperschaft: Ortsgemeinde Horbach
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/2026-12OGR-63%7CMAoe%7C1
