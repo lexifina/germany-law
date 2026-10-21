@@ -1,0 +1,19 @@
+# Im Burggarten, I. Abschnitt 7. Änderung
+
+- Herausgeber: Verbandsgemeinde Weißenthurm
+- Datum: 2026-10-21 (Katalogangabe issued/modified)
+- Kennung: https://komserv4gdi.service24.rlp.de/7ca2244d-364d-5433-8f5e-14f366537bef
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/im-burggarten-i-abschnitt-7-anderung
+- Quelle: GovData (CKAN-API), Datensatz 98e8574a-e897-416e-b0e7-38a887e6e1a7
+- temporal_start: 2021-11-18
+- temporal_end: 2024-11-29
+- Ressource: Original Metadaten HTML https://www.geoportal.rlp.de/mapbender/php/mod_exportIso19139.php?url=https%3A%2F%2Fwww.geoportal.rlp.de%2Fmapbender%2Fphp%2Fmod_dataISOMetadata.php%3FoutputFormat%3Diso19139%26id%3D7ca2244d-364d-5433-8f5e-14f366537bef http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Online Karte https://www.geoportal.rlp.de/mapbender/extensions/mobilemap/map.php?layerid=87859 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: GeoPortal.rlp https://www.geoportal.rlp.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=87859 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.rlp.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=87859 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id=87859&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+
+---
+
+7. Änderung des Bebauungsplanes "Im Burggarten, l. Abschnitt"
