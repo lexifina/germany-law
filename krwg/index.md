@@ -79,8 +79,11 @@
 - [§ 39 Bestehende Abfallbeseitigungsanlagen](0039.md)
 - [§ 40 Stilllegung](0040.md)
 - [§ 41 Emissionserklärung](0041.md)
-- [§ 42 Zugang zu Informationen](0042.md)
+- [§ 42 (weggefallen)](0042.md)
 - [§ 43 Anforderungen an Deponien](0043.md)
+- [§ 43a Anforderungen an Deponien nach der Richtlinie 2010/75/EU](0043a.md)
+- [§ 43b Emissionsbegrenzungen und Umweltleistungsbegrenzungen für Deponien nach der Richtlinie 2010/75/EU](0043b.md)
+- [§ 43c Schadensersatz](0043c.md)
 - [§ 44 Kosten der Ablagerung von Abfällen](0044.md)
 
 ## Teil 5 Absatzförderung und Abfallberatung
@@ -91,6 +94,7 @@
 ## Teil 6 Überwachung
 
 - [§ 47 Allgemeine Überwachung](0047.md)
+- [§ 47a Überwachung von Deponien nach der Richtlinie 2010/75/EU](0047a.md)
 - [§ 48 Abfallbezeichnung, gefährliche Abfälle](0048.md)
 - [§ 49 Registerpflichten](0049.md)
 - [§ 50 Nachweispflichten](0050.md)
@@ -130,3 +134,4 @@
 - [Anlage 3 Kriterien zur Bestimmung des Standes der Technik](anlage-3.md)
 - [Anlage 4 Beispiele für Abfallvermeidungsmaßnahmen nach § 33](anlage-4.md)
 - [Anlage 5 (zu § 6 Absatz 3)Beispiele für wirtschaftliche Instrumente und andere Maßnahmen zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie](anlage-5.md)
+- [Anlage 6 (zu § 43a Absatz 3 Satz 5, § 43b Absatz 2 Satz 5)Kriterien für die Prüfung der Verhältnismäßigkeit der Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten](anlage-6.md)

@@ -103,6 +103,9 @@
 
 ### Abschnitt 2 Abwasserbeseitigung
 
+
+#### Unterabschnitt 1 Gemeinsame Bestimmungen
+
 - [§ 54 Begriffsbestimmungen für die Abwasserbeseitigung](0054.md)
 - [§ 55 Grundsätze der Abwasserbeseitigung](0055.md)
 - [§ 56 Pflicht zur Abwasserbeseitigung](0056.md)
@@ -111,6 +114,18 @@
 - [§ 59 Einleiten von Abwasser in private Abwasseranlagen](0059.md)
 - [§ 60 Abwasseranlagen](0060.md)
 - [§ 61 Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen](0061.md)
+
+#### Unterabschnitt 2 Beseitigung von Abwasser aus Anlagen nach der Richtlinie 2010/75/EU über Industrieemissionen
+
+- [§ 61a Anwendungsbereich](0061a.md)
+- [§ 61b Weitere Begriffsbestimmungen](0061b.md)
+- [§ 61c Zusätzliche Anforderungen an das Einleiten von Abwasser in Gewässer; Verordnungsermächtigung](0061c.md)
+- [§ 61d Bewertung und Überwachung der Schadstoffkonzentration im aufnehmenden Oberflächengewässer](0061d.md)
+- [§ 61e Tiefgreifende industrielle Transformation von Anlagen](0061e.md)
+- [§ 61f Abweichungen von Emissionsgrenzwerten im Falle einer Krise](0061f.md)
+- [§ 61g Zusätzliche Anforderungen an Indirekteinleitungen; Verordnungsermächtigung](0061g.md)
+- [§ 61h Abweichende Anforderungen an Indirekteinleitungen im Hinblick auf nachgeschaltete Abwasserbehandlungsanlagen; Verordnungsermächtigung](0061h.md)
+- [§ 61i Zusätzliche Bestimmungen für Abwasserbehandlungsanlagen; Untersagung des Betriebs; Stilllegung; Verordnungsermächtigung](0061i.md)
 
 ### Abschnitt 3 Umgang mit wassergefährdenden Stoffen
 
@@ -174,13 +189,14 @@
 - [§ 94 Mitbenutzung von Anlagen](0094.md)
 - [§ 95 Entschädigung für Duldungs- und Gestattungsverpflichtungen](0095.md)
 
-## Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht
+## Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht, Schadensersatz
 
 - [§ 96 Art und Umfang von Entschädigungspflichten](0096.md)
 - [§ 97 Entschädigungspflichtige Person](0097.md)
 - [§ 98 Entschädigungsverfahren](0098.md)
 - [§ 99 Ausgleich](0099.md)
 - [§ 99a Vorkaufsrecht](0099a.md)
+- [§ 99b Schadensersatz](0099b.md)
 
 ## Kapitel 5 Gewässeraufsicht
 

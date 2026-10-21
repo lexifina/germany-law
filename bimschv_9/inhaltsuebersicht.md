@@ -33,8 +33,8 @@
 |  | Erörterungstermin |
 | § 14 | Zweck |
 | § 15 | Besondere Einwendungen |
-| § 16 | Wegfall |
-| § 17 | Verlegung |
+| § 16 | (weggefallen) |
+| § 17 | (weggefallen) |
 | § 18 | Verlauf |
 | § 19 | Niederschrift |
 | Vierter Abschnitt |

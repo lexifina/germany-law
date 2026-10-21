@@ -38,8 +38,7 @@
 
 - [§ 14 Zweck](0014.md)
 - [§ 15 Besondere Einwendungen](0015.md)
-- [§ 16 Wegfall](0016.md)
-- [§ 17 Verlegung](0017.md)
+- [(XXXX) §§ 16 und 17 (weggefallen)](xxxx-16-und-17.md)
 - [§ 18 Verlauf](0018.md)
 - [§ 19 Niederschrift](0019.md)
 

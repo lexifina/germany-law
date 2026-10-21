@@ -23,7 +23,7 @@ Beschränkung der Haftung
 - [§ 9 Zulassung als Umweltgutachter](0009.md)
 - [§ 10 Zulassung als Umweltgutachterorganisation](0010.md)
 - [§ 10a Ausländische Unterlagen und Nachweise; Verfahren](0010a.md)
-- [§ 11 Bescheinigungs- und Zulassungsverfahren](0011.md)
+- [§ 11 Bescheinigungs- und Zulassungsverfahren; Verordnungsermächtigung](0011.md)
 - [§ 12 Mündliche Prüfung](0012.md)
 - [§ 13](0013.md)
 - [§ 14 Zulassungsregister](0014.md)

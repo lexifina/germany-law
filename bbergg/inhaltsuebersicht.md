@@ -93,6 +93,17 @@
 |  |  |  | Verordnungsermächtigung | § 57c |
 |  |  |  | Zulassungsverfahren für störfallrelevante Vorhaben | § 57d |
 |  |  |  | Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff | § 57e |
+|  |  |  | Maßgaben für die Zulassung von Betriebsplänen für Vorhaben, die dem Geltungsbereich der Industrieemissions-Richtlinie unterliegen | § 57f |
+|  |  |  | Anwendung der BVT-Merkblätter und der BVT-Schlussfolgerungen, die in Bezug auf Vorhaben nach § 57f Absatz 1 erlassen werden | § 57g |
+|  |  |  | Besondere Bedingungen für die Zulassung von Betriebsplänen nach Maßgaben des § 57f | § 57h |
+|  |  |  | Zusätzliche Angaben für Betriebspläne nach Maßgaben des § 57f | § 57i |
+|  |  |  | Zusätzliche Verfahrensanforderungen und Berichtspflichten bei der Errichtung und Führung von Betrieben nach Maßgaben des § 57f | § 57j |
+|  |  |  | Überwachungsauflagen, Umweltinspektionen | § 57k |
+|  |  |  | Grenzüberschreitende Auswirkungen | § 57l |
+|  |  |  | Zukunftstechniken | § 57m |
+|  |  |  | Tiefgreifende industrielle Transformation | § 57n |
+|  |  |  | Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu | § 57o |
+|  |  |  | Abweichungen im Fall einer Krise | § 57p |
 |  | Drittes Kapitel |  |
 |  |  | Verantwortliche Personen |  |
 |  |  |  | Personenkreis | § 58 |
@@ -111,6 +122,7 @@
 |  |  |  | Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde | § 66 |
 |  |  |  | Technische und statistische Unterlagen, Markscheidewesen | § 67 |
 |  |  |  | Erlaß von Bergverordnungen | § 68 |
+|  |  |  | Vorgaben für nach § 57f Absatz 1 Nummer 6 erforderliche Umweltmanagementsysteme; Verordnungsermächtigung | § 68a |
 | Fünfter Teil |  |
 |  | Bergaufsicht |  |
 |  |  |  | Allgemeine Aufsicht | § 69 |
@@ -192,6 +204,7 @@
 |  |  |  | Mitwirkung eines Dritten | § 119 |
 |  |  |  | Bergschadensvermutung | § 120 |
 |  |  |  | Verhältnis zu anderen Vorschriften | § 121 |
+|  |  |  | Schadensersatz bei Tätigkeiten nach § 57f | § 121a |
 |  |  |  | Zweiter Unterabschnitt |  |
 |  |  |  |  | Bergschadensausfallkasse |  |
 |  |  |  | Ermächtigung | § 122 |
@@ -265,6 +278,7 @@
 |  |  | Sonstige Übergangs- und Schlußvorschriften |  |
 |  |  |  | Bestehende Hilfsbaue | § 166 |
 |  |  |  | Fortgeltung von Betriebsplänen und Anerkennungen | § 167 |
+|  |  |  | Übergangsvorschrift zu § 57f | § 167a |
 |  |  |  | Erlaubnisse für Transit-Rohrleitungen | § 168 |
 |  |  |  | Genehmigungen im Bereich der Erweiterung des Küstenmeeres | § 168a |
 |  |  |  | Vorhandene Unterwasserkabel | § 168b |

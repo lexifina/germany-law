@@ -16,7 +16,7 @@
 | § 8 | Fachkenntnisbescheinigung |
 | § 9 | Zulassung als Umweltgutachter |
 | § 10 | Zulassung als Umweltgutachterorganisation |
-| § 11 | Bescheinigungs- und Zulassungsverfahren |
+| § 11 | Bescheinigungs- und Zulassungsverfahren; Verordnungsermächtigung |
 | § 12 | Mündliche Prüfung |
 | § 13 | (weggefallen) |
 | § 14 | Zulassungsregister |

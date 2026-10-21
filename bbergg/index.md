@@ -120,6 +120,17 @@ Betriebschronik](0053.md)
 - [§ 57c Verordnungsermächtigung](0057c.md)
 - [§ 57d Zulassungsverfahren für störfallrelevante Vorhaben](0057d.md)
 - [§ 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen sowie mit Vorhaben zur Untergrundspeicherung von Wärme oder Wasserstoff](0057e.md)
+- [§ 57f Maßgaben für die Zulassung von Betriebsplänen für Vorhaben, die dem Geltungsbereich der Industrieemissions-Richtlinie unterliegen](0057f.md)
+- [§ 57g Anwendung der BVT-Merkblätter und der BVT-Schlussfolgerungen, die in Bezug auf Vorhaben nach § 57f Absatz 1 erlassen werden](0057g.md)
+- [§ 57h Besondere Bedingungen für die Zulassung von Betriebsplänen nach Maßgaben des § 57f](0057h.md)
+- [§ 57i Zusätzliche Angaben für Betriebspläne nach Maßgaben des § 57f](0057i.md)
+- [§ 57j Zusätzliche Verfahrensanforderungen und Berichtspflichten bei der Errichtung und Führung von Betrieben nach Maßgaben des § 57f](0057j.md)
+- [§ 57k Überwachungsauflagen, Umweltinspektionen](0057k.md)
+- [§ 57l Grenzüberschreitende Auswirkungen](0057l.md)
+- [§ 57m Zukunftstechniken](0057m.md)
+- [§ 57n Tiefgreifende industrielle Transformation](0057n.md)
+- [§ 57o Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu](0057o.md)
+- [§ 57p Abweichungen im Fall einer Krise](0057p.md)
 
 ### Drittes Kapitel Verantwortliche Personen
 
@@ -143,6 +154,7 @@ Bergverordnungen
 - [§ 66 Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde](0066.md)
 - [§ 67 Technische und statistische Unterlagen, Markscheidewesen](0067.md)
 - [§ 68 Erlaß von Bergverordnungen](0068.md)
+- [§ 68a Vorgaben für nach § 57f Absatz 1 Nummer 6 erforderliche Umweltmanagementsysteme; Verordnungsermächtigung](0068a.md)
 
 ## Fünfter Teil Bergaufsicht
 
@@ -247,6 +259,7 @@ Bestimmungen
 - [§ 118 Mitwirkendes Verschulden](0118.md)
 - [§ 119 Mitwirkung eines Dritten](0119.md)
 - [§ 120 Bergschadensvermutung](0120.md)
+- [§ 120a Schadensersatz bei Tätigkeiten nach § 57f](0120a.md)
 - [§ 121 Verhältnis zu anderen Vorschriften](0121.md)
 
 ##### Zweiter Unterabschnitt Bergschadensausfallkasse
@@ -344,6 +357,7 @@ Schlußvorschriften
 
 - [§ 166 Bestehende Hilfsbaue](0166.md)
 - [§ 167 Fortgeltung von Betriebsplänen und Anerkennungen](0167.md)
+- [§ 167a Übergangsvorschrift zu § 57f](0167a.md)
 - [§ 168 Erlaubnisse für Transit-Rohrleitungen](0168.md)
 - [§ 168a Genehmigungen im Bereich der Erweiterung des Küstenmeeres](0168a.md)
 - [§ 168b Vorhandene Unterwasserkabel](0168b.md)
