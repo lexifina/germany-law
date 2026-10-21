@@ -1,0 +1,19 @@
+# In der Bitz bis Hellenpfad Bebauungsplan II Änderung Kindertagesstätte Lohweg
+
+- Herausgeber: Stadt Bendorf
+- Datum: 2026-10-21 (Katalogangabe issued/modified)
+- Kennung: https://komserv4gdi.service24.rlp.de/a5a2e61d-5346-589b-feeb-a98e6a1c2945
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/in-der-bitz-bis-hellenpfad-bebauungsplan-ii-anderung-kindertagesstatte-lohweg
+- Quelle: GovData (CKAN-API), Datensatz e5c57e2a-4a4f-45f5-a07b-1ef24e092e7f
+- temporal_start: 2015-07-15
+- temporal_end: 2016-10-07
+- Ressource: Original Metadaten HTML https://www.geoportal.rlp.de/mapbender/php/mod_exportIso19139.php?url=https%3A%2F%2Fwww.geoportal.rlp.de%2Fmapbender%2Fphp%2Fmod_dataISOMetadata.php%3FoutputFormat%3Diso19139%26id%3Da5a2e61d-5346-589b-feeb-a98e6a1c2945 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Online Karte https://www.geoportal.rlp.de/mapbender/extensions/mobilemap/map.php?layerid=73867 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: GeoPortal.rlp https://www.geoportal.rlp.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=73867 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.rlp.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=73867 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id=73867&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+
+---
+
+Bebauungsplan
