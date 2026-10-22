@@ -12,7 +12,7 @@ Berufsausbildung](0003.md)
 - [§ 8 Zwischenprüfung](0008.md)
 - [§ 9 Abschlußprüfung](0009.md)
 - [§ 10 Übergangsregelung](0010.md)
-- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [§ 11 Außerkrafttreten](0011.md)
 - [Anlage I (zu § 5)
 
 Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
