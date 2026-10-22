@@ -1,0 +1,130 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2026-10-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9380317
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9380317
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Anliegen von Bürger*innen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 3.1.: offene Bürger*innenanliegen
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Hybridsitzungen 2027
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Antrag der Kinder- und Jugendbeauftragten: Einwohner*innenversammlung statt Bürger*innenversammlung, TOP 2026.08 A 4.1, TOP 2026.09 A 5.3
+- TOP 6: Bericht des/der Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP B: Planen, Bauen, Wohnen + Infrastruktur
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Antrag des BA Altstadt-Lehel: Dauerhaftes Wohnen und quartiersbezogene Gewerbeflächen statt weiterer Kurzzeitapartments
+- TOP 1.2.: Bürger*innenanliegen: Wiedererrichtung der 3 Spielplatzflächen und Reduzierung der darauf befindlichen Freischankflächen Asamhöfe
+- TOP 1.3.: Bürger*innenanliegen: Münzarkaden, Maximilianstraße 6 - 8: Fehlende Allegorische Figuren
+- TOP 1.4.: Bürger*innenanliegen: Werbung verschandelt Karlsplatz
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Wiedererrichtung der 3 Spielplatzflächen und Reduzierung der darauf befindlichen Freischankflächen Asamhöfe
+- TOP 2.2.: (E) Öffnung des westlichen Stadtgrabenbaches
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Heiliggeiststr. 1 Nutzungsänderung des Büros im 2.OG zu einem Büro in Wechselnutzung mit Beherbergungsraum für Kurzzeitaufenthalt (6 Betten); Frist: 30.10.2026
+- TOP 3.1.2.: Maximilianstr. 53 Ersatzneubau eines Bürogebäudes mit Konferenzbereich und Tiefgarage; Frist: 13.11.2026
+- TOP 3.1.3.: Bruderstr. 9 Aufstockung eines Gebäudeteils im Verwaltungsgebäude des Bezirks Oberbayern (Bruderstr. 9 / Prinzregentenstr. 14); Frist: 13.11.2026
+- TOP 3.1.4.: Sonnenstr. 11 Aufstockung und Anpassung der Firsthöhen, Dachform und Gebäudehöhe von zwei Bürogebäuden, Sonnenstraße 11 und 13 mit Rückgebäuden. – VORBESCHEID; Frist: 13.11.2026
+- TOP 3.1.5.: Neuhauser Str. 8-10 Um- und Neubau eines Gebäudes mit 53 Wohnungen, Einzelhandel, Büro und Gastronomie mit Wirtsgarten sowie einer Tiefgarage mit 58 KFZ-Stellplätzen - ÄNDERUNGSANTRAG zu 1.1-2020-8450-21 (hier: Änderungen beim Bauteil 1 Hettlage sowie Reduzierung der Kfz-Stellplätze von 58 auf 54); Frist: 13.11.2026 ergänzte und überarbeitete Unterlagen, nochmals Stellungnahme
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Fällungsantrag, Isartorplatz; Frist: 06.11.2026
+- TOP 3.3: Sonstige
+- TOP 3.3.1.: Baumpaket 2027 Fußgängerzone
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP C: Mobilität und öffentlicher Raum + Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Bürger*innenanliegen: Abstellmöglichkeit für Fahrräder und E-Scooter im Bereich Unsöldstraße 10/12
+- TOP 1.2.: Bürger*innenanliegen: Situation rund um den Isartorpatz
+- TOP 1.3.: Bürger*innenanliegen: Baustelle in der Tattenbachstr.16
+- TOP 1.4.: Bürgerinitiative für mehr Sicherheit und Lebensqualität rund um das Sendlinger Tor
+- TOP 1.5.: Fahrbahnmarkierung für Radwege
+- TOP 1.6.: Bürger*innenanliegen: Lärmbelästigung durch die Baustelle in der Liebherrstraße
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Alfons-Goppel-Straße - Maßnahmen zur Erhöhung der Verkehrssicherheit durch bessere Ordnung des Reisebusverkehrs und der Verkehrsberuhigung
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP D: Kultur, Soziales, Bildung + Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Anliegen von Bürger*innen
+- TOP 1.1.: Zukünftige Gestaltung MünchenBudget, TOP 2026.09 A6
+- TOP 2: Entscheidungen
+- TOP 2.1: Budgetanträge
+- TOP 2.1.1.: (E) Stadtbezirksbudget Bürgerhaus Glockenbachwerkstatt e.V. 4thaloclas vom 02.02. -07.12.2027 1.306,25€; Az. 0262.100-1-0478
+- TOP 2.1.2.: (E) Stadtbezirksbudget Seniorpartner in School -Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 -31.07.2027 2.000,00€; Az. 0262.100-1-0471
+- TOP 2.1.3.: (E) Stadtbezirksbudget Init. "XAY" XAY CMNTY TOUR am 24.10.2026 4.280,48€; Az. 0262.100-1-0477
+- TOP 2.2: Sonstiges
+- TOP 2.2.1.: Kunst im öffentlichen Raum-Projekt Isar-Balkonnischen zwischen Maximiliansbrücke und Luitpoldbrücke
+- TOP 2.2.2.: Bestellung einer städtischen Leistung: Transportkosten für die Aufstellung von Stadtmobiliar für die St. Anna Straße, 5.000€
+- TOP 3: Anhörungen
+- TOP 3.1.: Chanukka-Feier am 07.12.2026 und Aufstellen eines Chanukka-Leuchters vom 30.11. – 17.12.26 ; Frist: 10.11.2026
+- TOP 3.2.: Münchner Eiszauber vom 13.11.2026 - 10.01.2027; Frist: 23.10.2026
+- TOP 3.3.: Krampuslauf am 13.12.2026; Frist: 31.10.2026
+- TOP 3.4.: Festakt 20 Jahre Hauptsynagoge Ohel Jakob am 09.11.2026; Frist: 29.10.2026
+- TOP 3.5.: HIV Testbus am 01.12.2026; Odeonsplatz; Frist: 23.10.2026
+- TOP 3.6.: "WeinMünchenWinter" vom 14-15.11.2026; Frist: 09.11.2026
+- TOP 3.7.: NFL-Fandest am 13./14.11.2026 auf dem sog. Odeonsplatz und untere Ludwigstr./Galeriestr.; Frist: 30.10.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP E: Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürger*innenanliegen
+- TOP 1.1.: Bürger*innenanliegen: zu wenige Mülleimer Spielplatz am Hirschanger, TOP 2026.09 A3
+- TOP 1.2.: Zunehmende Verschmutzung Innenstadt/ häufigere Straßenreinigung, TOP 2026.09 A 3
+- TOP 1.3.: Pilotprojekt Innenstadt München 2027- Mobile Smoothie und Coffee Bar, TOP 2026.09 E 1.2
+- TOP 1.4.: Kulturstrand, TOP 2026.08
+- TOP 1.5.: Bürger*innenanliegen: Beeinträchtigung Bereich Liebherrstraße / Breiter Hof / Isartor
+- TOP 1.6.: Bürger*innenanliegen: Marathon München-bitte künftig Lärmschutz beachten
+- TOP 1.7.: Straßenreinigungsumlage, TOP 2026.07 E 2.2.2
+- TOP 2: Entscheidungen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Beschlussvorlage Freischankfläche Platzl
+- TOP 2.2: Sonstiges
+- TOP 3: Anhörungen
+- TOP 3.1.: Weihnachtsmarkt vom 20.11. bis 22.12.2026 am Sendlinger Tor Platz; Frist: 29.10.2026
+- TOP 3.2.: Münchner Christkindlmarkt vom 20.11. bis 24.12.2026; Frist: 27.10.2026
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP 5: Bericht der Beauftragten
+- TOP F: Verschiedenes / Termine
+- TOP -: Unterrichtungen
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen + Infrastruktur
+- TOP B 4.1.: Baulisten
+- TOP B 4.2.: Baumaßnahmen der Stadtwerke München
+- TOP B 4.3.: Bürger*innenanliegen: Dringende Bitte um Unterstützung Verstoß gegen Stiftungszweck und Untätigkeit bei Nachbarschaftsterror durch Münchner Wohnen – Herrnstraße 36, TOP 2026.08 B 1.1
+- TOP B 4.4.: Bescheid Thierschstr. 37
+- TOP B 4.5.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP B 4.6.: Sendlinger Str. 17, Nutzungsänderung einer Büroeinheit im 2. OG zu einer gewerblichen Wohnnutzung (Ferienwohnung), Antwort Referat für Stadtplanung und Bauordnung
+- TOP C 4: Unterrichtungen - Mobilität, öffentlicher Raum + Umwelt
+- TOP C 4.1.: Verkehrsrechtliche Anordnungen
+- TOP C 4.2.: Lehel Mitte/Nord – Isarparallele/Isarradweg; TOP 2026.07 A 3, Antwort Mobilitätsreferat
+- TOP C 4.3.: Antrag auf geschützten Gehweg Müllerstraße 46-50, um das „absolute Halteverbot“ durchzusetzen, Antwortschreiben Mobilitätsreferat
+- TOP C 4.4.: Müllsituation Isar, Antwort Baureferat
+- TOP C 4.5.: Müllsituation „Isarstrand“ Praterinsel unterhalb des Kabelsteges, TOP 2026.07 A3, Antwort Baureferat
+- TOP C 4.6.: Preisgebundene Anwohnerparkplatzkontingente bei zukünftig geplanten Anwohnergaragen
+- TOP C 4.7.: Ausnahmezulassung gem. § 7 Abs. 2 Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Firma: AWM, Standort: Lehel
+- TOP D 4: Unterrichtungen - Kultur, Soziales, Bildung + Budget
+- TOP D 4.1.: Stadtbezirksbudget – Nachweise und Berichte
+- TOP D 4.2.: Veranstaltungsgenehmigungen
+- TOP D 4.3.: Erläuterungsschild Lion-Feuchtwanger-Platz
+- TOP E 4: Unterrichtungen - Wirtschaft, Kommunales, Veranstaltungen + Gastronomie
+- TOP E 4.1.: Gaststättenfortführungen
+- TOP E 4.2.: Veranstaltungsgenehmigungen
