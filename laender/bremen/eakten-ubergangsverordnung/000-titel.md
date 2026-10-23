@@ -1,0 +1,1 @@
+# Verordnung über die vorübergehende Fortführung von Papierakten bis zur Einführung der elektronischen Akte in den Bußgeldstellen der Ordnungsämter im Land Bremen (eAkten-Übergangsverordnung) vom 16. Oktober 2026
