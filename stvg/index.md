@@ -20,6 +20,7 @@
 - [§ 2a Fahrerlaubnis auf Probe](0002a.md)
 - [§ 2b Aufbauseminar bei Zuwiderhandlungen innerhalb der Probezeit](0002b.md)
 - [§ 2c Unterrichtung der Fahrerlaubnisbehörden durch das Kraftfahrt-Bundesamt](0002c.md)
+- [§ 2d Digitaler Führerschein](0002d.md)
 - [§ 3 Entziehung der Fahrerlaubnis](0003.md)
 - [§ 4 Fahreignungs-Bewertungssystem](0004.md)
 - [§ 4a Fahreignungsseminar](0004a.md)
@@ -146,7 +147,6 @@
 ## VII. Gemeinsame Vorschriften, Übergangsbestimmungen
 
 - [§ 64 Gemeinsame Vorschriften](0064.md)
-- [§ 65 Übergangsbestimmungen](0065.md)
 - [§ 66 (weggefallen)](0066.md)
 - [Anlage (zu § 24a)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 1099)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)
