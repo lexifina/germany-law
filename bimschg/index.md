@@ -16,14 +16,16 @@
 - [§ 4 Genehmigung](0004.md)
 - [§ 5 Pflichten der Betreiber genehmigungsbedürftiger Anlagen](0005.md)
 - [§ 6 Genehmigungsvoraussetzungen](0006.md)
-- [§ 7 Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen](0007.md)
+- [§ 7 Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen; Verordnungsermächtigung](0007.md)
+- [§ 7a Rechtsverordnungen über Anforderungen an Anlagen nach der Industrieemissions-Richtlinie; Verordnungsermächtigung](0007a.md)
 - [§ 8 Teilgenehmigung](0008.md)
 - [§ 8a Zulassung vorzeitigen Beginns](0008a.md)
 - [§ 9 Vorbescheid](0009.md)
-- [§ 10 Genehmigungsverfahren](0010.md)
+- [§ 10 Genehmigungsverfahren; Verordnungsermächtigung](0010.md)
 - [§ 10a Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001](0010a.md)
 - [§ 11 Einwendungen Dritter bei Teilgenehmigung und Vorbescheid](0011.md)
 - [§ 12 Nebenbestimmungen zur Genehmigung](0012.md)
+- [§ 12a Emissionsbegrenzungen und Umweltleistungsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie](0012a.md)
 - [§ 13 Genehmigung und andere behördliche Entscheidungen](0013.md)
 - [§ 14 Ausschluss von privatrechtlichen Abwehransprüchen](0014.md)
 - [§ 14a Vereinfachte Klageerhebung](0014a.md)
@@ -57,13 +59,14 @@
 - [§ 29 Kontinuierliche Messungen](0029.md)
 - [§ 29a Anordnung sicherheitstechnischer Prüfungen](0029a.md)
 - [§ 29b Bekanntgabe von Stellen und Sachverständigen](0029b.md)
+- [§ 29c Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu bei Anlagen nach der Industrieemissions-Richtlinie](0029c.md)
 - [§ 30 Kosten der Messungen und sicherheitstechnischen Prüfungen](0030.md)
 - [§ 31 Auskunftspflichten des Betreibers](0031.md)
 
-### Vierter Abschnitt Sonderregelungen zur Bewältigung einer Gasmangellage
+### Vierter Abschnitt Sonderregelungen zur Bewältigung einer Gasmangellage oder einer sonstigen Krise
 
-- [§ 31a Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU](0031a.md)
-- [§ 31b Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU](0031b.md)
+- [§ 31a Abweichungen nach Artikel 30 Absatz 5 der Industrieemissions-Richtlinie](0031a.md)
+- [§ 31b Abweichungen nach Artikel 30 Absatz 6 der Industrieemissions-Richtlinie](0031b.md)
 - [§ 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193](0031c.md)
 - [§ 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193](0031d.md)
 - [§ 31e (weggefallen)](0031e.md)
@@ -74,6 +77,7 @@
 - [§ 31j (weggefallen)](0031j.md)
 - [§ 31k (weggefallen)](0031k.md)
 - [§ 31l Übergangsregelungen zu den §§ 31e bis 31k](0031l.md)
+- [§ 31m Abweichungen im Fall einer Krise](0031m.md)
 
 ## Dritter Teil Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen
 
@@ -141,8 +145,9 @@
 - [§ 51a Kommission für Anlagensicherheit](0051a.md)
 - [§ 51b Sicherstellung der Zustellungsmöglichkeit](0051b.md)
 - [§ 52 Überwachung, Einschränkungen von Grundrechten](0052.md)
-- [§ 52a Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie](0052a.md)
-- [§ 52b Mitteilungspflichten zur Betriebsorganisation](0052b.md)
+- [§ 52a Überwachung von Anlagen nach der Industrieemissions-Richtlinie](0052a.md)
+- [§ 52b Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie](0052b.md)
+- [§ 52c Mitteilungspflichten zur Betriebsorganisation](0052c.md)
 - [§ 53 Bestellung eines Betriebsbeauftragten für Immissionsschutz](0053.md)
 - [§ 54 Aufgaben](0054.md)
 - [§ 55 Pflichten des Betreibers](0055.md)
@@ -153,7 +158,8 @@
 - [§ 58b Aufgaben des Störfallbeauftragten](0058b.md)
 - [§ 58c Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten](0058c.md)
 - [§ 58d Verbot der Benachteiligung des Störfallbeauftragten, Kündigungsschutz](0058d.md)
-- [§ 58e Erleichterungen für auditierte Unternehmensstandorte](0058e.md)
+- [§ 58e Pflicht der Betreiber von Anlagen nach der Industrieemissions-Richtlinie zur Umsetzung eines Umweltmanagementsystems; Verordnungsermächtigung](0058e.md)
+- [§ 58f Erleichterungen für auditierte Unternehmensstandorte](0058f.md)
 - [§ 59 Zuständigkeit bei Anlagen der Landesverteidigung](0059.md)
 - [§ 60 Ausnahmen für Anlagen der Landesverteidigung](0060.md)
 - [§ 61 Berichterstattung an die Europäische Kommission](0061.md)
@@ -161,7 +167,8 @@
 - [§ 62a Bußgeldvorschriften zur Verordnung (EU) 2023/2405](0062a.md)
 - [§ 63 Rechtsbehelfe und Entfall der aufschiebenden Wirkung](0063.md)
 - [§ 64 Datenübermittlung](0064.md)
-- [§ 65 (weggefallen)](0065.md)
+- [§ 64a Elektronische Kommunikation](0064a.md)
+- [§ 65 Schadensersatz](0065.md)
 
 ## Achter Teil Schlussvorschriften
 
@@ -170,4 +177,5 @@
 - [§ 67a Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands](0067a.md)
 - [(XXXX) §§ 68 bis 72 (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften)](xxxx-68-bis-72.md)
 - [§ 73 Bestimmungen zum Verwaltungsverfahren](0073.md)
-- [Anlage (zu § 3 Abs. 6)Kriterien zur Bestimmung des Standes der Technik](anlage.md)
+- [Anlage 1 (zu § 3 Absatz 6 Satz 2) Kriterien zur Bestimmung des Standes der Technik](anlage-1.md)
+- [Anlage 2 (zu § 7a Absatz 3 Satz 4, § 12a Absatz 2 Satz 5, § 48 Absatz 3 Satz 4) Kriterien für die Prüfung der Verhältnismäßigkeit der Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten](anlage-2.md)

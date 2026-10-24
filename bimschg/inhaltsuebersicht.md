@@ -12,14 +12,16 @@ Genehmigungsbedürftige Anlagen
 | § 4 | Genehmigung |
 | § 5 | Pflichten der Betreiber genehmigungsbedürftiger Anlagen |
 | § 6 | Genehmigungsvoraussetzungen |
-| § 7 | Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen |
+| § 7 | Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen; Verordnungsermächtigung |
+| § 7a | Rechtsverordnungen über Anforderungen an Anlagen nach der Industrieemissions-Richtlinie; Verordnungsermächtigung |
 | § 8 | Teilgenehmigung |
 | § 8a | Zulassung vorzeitigen Beginns |
 | § 9 | Vorbescheid |
-| § 10 | Genehmigungsverfahren |
+| § 10 | Genehmigungsverfahren; Verordnungsermächtigung |
 | § 10a | Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001 |
 | § 11 | Einwendungen Dritter bei Teilgenehmigung und Vorbescheid |
 | § 12 | Nebenbestimmungen zur Genehmigung |
+| § 12a | Emissionsbegrenzungen und Umweltleistungsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie |
 | § 13 | Genehmigung und andere behördliche Entscheidungen |
 | § 14 | Ausschluss von privatrechtlichen Abwehransprüchen |
 | § 14a | Vereinfachte Klageerhebung |
@@ -52,18 +54,25 @@ und Immissionen, sicherheitstechnische Prüfungen
 | § 29 | Kontinuierliche Messungen |
 | § 29a | Anordnung sicherheitstechnischer Prüfungen |
 | § 29b | Bekanntgabe von Stellen und Sachverständigen |
+| § 29c | Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu bei Anlagen nach der Industrieemissions-Richtlinie |
 | § 30 | Kosten der Messungen und sicherheitstechnischen Prüfungen |
 | § 31 | Auskunftspflichten des Betreibers |
 Vierter Abschnitt
 Sonderregelungen zur
-Bewältigung einer Gasmangellage
-| § 31a | Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU |
-| § 31b | Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU |
+Bewältigung einer Gasmangellage oder einer sonstigen Krise
+| § 31a | Abweichungen nach Artikel 30 Absatz 5 der Industrieemissions-Richtlinie |
+| § 31b | Abweichungen nach Artikel 30 Absatz 6 der Industrieemissions-Richtlinie |
 | § 31c | Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193 |
 | § 31d | Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193 |
-| §§ 31e bis 31j | (weggefallen) |
+| § 31e | (weggefallen) |
+| § 31f | (weggefallen) |
+| § 31g | (weggefallen) |
+| § 31h | (weggefallen) |
+| § 31i | (weggefallen) |
+| § 31j | (weggefallen) |
 | § 31k | (weggefallen) |
 | § 31l | Übergangsregelungen zu den §§ 31e bis 31k |
+| § 31m | Abweichungen im Fall einer Krise |
 Dritter Teil
 Beschaffenheit von Anlagen,
 Stoffen, Erzeugnissen, Brennstoffen,
@@ -131,8 +140,9 @@ Gemeinsame Vorschriften
 | § 51a | Kommission für Anlagensicherheit |
 | § 51b | Sicherstellung der Zustellungsmöglichkeit |
 | § 52 | Überwachung, Einschränkung von Grundrechten |
-| § 52a | Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie |
-| § 52b | Mitteilungspflichten zur Betriebsorganisation |
+| § 52a | Überwachung von Anlagen nach der Industrieemissions-Richtlinie |
+| § 52b | Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie |
+| § 52c | Mitteilungspflichten zur Betriebsorganisation |
 | § 53 | Bestellung eines Betriebsbeauftragten für Immissionsschutz |
 | § 54 | Aufgaben |
 | § 55 | Pflichten des Betreibers |
@@ -143,7 +153,8 @@ Gemeinsame Vorschriften
 | § 58b | Aufgaben des Störfallbeauftragten |
 | § 58c | Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten |
 | § 58d | Verbot der Benachteiligung des Störfallbeauftragten, Kündigungsschutz |
-| § 58e | Erleichterungen für auditierte Unternehmensstandorte |
+| § 58e | Pflicht der Betreiber von Anlagen nach der Industrieemissions-Richtlinie zur Umsetzung eines Umweltmanagementsystems; Verordnungsermächtigung |
+| § 58f | Erleichterungen für auditierte Unternehmensstandorte |
 | § 59 | Zuständigkeit bei Anlagen der Landesverteidigung |
 | § 60 | Ausnahmen für Anlagen der Landesverteidigung |
 | § 61 | Berichterstattung an die Europäische Kommission |
@@ -151,12 +162,14 @@ Gemeinsame Vorschriften
 | § 62a | Bußgeldvorschriften zur Verordnung (EU) 2023/2405 |
 | § 63 | Rechtsbehelfe und Entfall der aufschiebenden Wirkung |
 | § 64 | Datenübermittlung |
-| § 65 | (weggefallen) |
+| § 64a | Elektronische Kommunikation |
+| § 65 | Schadensersatz |
 Achter Teil
 Schlussvorschriften
 | § 66 | Fortgeltung von Vorschriften |
 | § 67 | Übergangsvorschrift |
 | § 67a | Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands |
-| §§ 68bis 72 | (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften) |
+| §§ 68 bis 72 | (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften) |
 | § 73 | Bestimmungen zum Verwaltungsverfahren |
-Anlage (zu § 3 Absatz 6) Kriterien zur Bestimmung des Standes der Technik
+| Anlage 1 (zu § 3 Absatz 6 Satz 2) | Kriterien zur Bestimmung des Standes der Technik |
+| Anlage 2 (zu § 7a Absatz 3 Satz 4, § 12a Absatz 2 Satz 5,§ 48 Absatz 3 Satz 4) | Kriterien für die Prüfung der Verhältnismäßigkeit der Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten |
