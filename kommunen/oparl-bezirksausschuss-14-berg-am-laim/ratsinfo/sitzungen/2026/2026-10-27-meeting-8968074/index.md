@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2026-10-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8968074
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8968074
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2.: Protokolle
+- TOP 1.2.1.: Protokoll der Sitzung vom 29.09.2026
+- TOP 1.3.: Ausläufe
+- TOP 1.3.1.: Nachbereitung der Sitzung vom 29.09.2026
+- TOP 1.4.: Fragen von anwesenden Bürger*innen sowie Kindern und Jugendlichen und/oder deren Vertretung
+- TOP 1.5.: Berichte aus den Unterausschüssen
+- TOP 1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 3.1.1.: Heinrich-Wieland-Str. 27 - Errichtung eines Mehrfamilienhauses (9WE) mit Tiefgarage (9STpl)
+- TOP 3.1.2.: Entfernung der Bank im Bereich Bad-Schachener-Str. 37; Anliegen aus der Bürgerschaft - vertagt aus der Plenumssitzung vom 29.09.2026 -
+- TOP 3.1.3.: Rofanstr. 34 - Neubau 2 Mehrfamilienhäuser mit je 5 WE und eine Tiefgarage mit 10 STPL
+- TOP 3.1.4.: Truderinger Str. - Neubau einer Wohnanlage mit Wohnungen, gewerblichen Nutzungen / Nichtwohnnutzungen und Tiefgarage - mit Mobilitätskonzept - ÄNDERUNGSANTRAG zu 1.2-2023-18005-32
+- TOP 3.1.5.: Blombergstr. 9 - Neubau eines Wohnhauses mit 10 Wohneinheiten inkl. Tiefgarage nach Abbruch des bestehendem Wohnhauses mit rückwärtigem Garagengebäude - VORBESCHEID
+- TOP 3.1.6.: Mühldorfstr. 39 - Neubau eines Mehrfamilienwohnhauses mit Tiefgarage - VORBESCHEID
+- TOP 3.1.7.: Rosenheimer Str. 139 - Neubau eines Büro- und Geschäftsgebäudes mit Tiefgarage als Ersatzbau für ein Verwaltungsgebäudes - ÄNDERUNGSANTRAG zu 1.111-2025-913-32
+- TOP 3.1.8.: Gratlspitzstr. 16 - Neubau Mehrfamilienhaus - VORBESCHEID
+- TOP 3.1.9.: Kranzhornstr. 31 - Neubau von 2 Einfamilienhäusern mit Garagen - VORBESCHEID
+- TOP 3.1.10.: Entfernung der Bank im Bereich Josephsburgstr. 69
+- TOP 3.1.11.: Zusagen beim SWM-Projekt Heinrich-Wieland-Straße/St.-Michael-Straße einhalten: Öffentliche Durchwegung und Querung des Hachinger Bachs sichern!; Antrag der CSU-Fraktion
+- TOP 3.1.12.: Zusagen beim SWM-Projekt Heinrich-Wieland-Straße/St.-Michael-Straße einhalten: Kinderbetreuung an die deutlich erhöhte Wohnungszahl anpassen!; Antrag der CSU-Fraktion
+- TOP 3.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 3.2.1.: Zebrastreifen in der Friedenstraße; Anhörung des Mobilitätsreferats
+- TOP 3.2.2.: Unverhältnismäßige Sperrung von Fahrradhauptverkehrsroute bei Berg-am-Laim-Straße; Anliegen aus der Bürgerschaft
+- TOP 3.2.3.: Kreuzung Bad-Schachener-Straße / Innsbrucker Ring — Umsetzungstermin für Belegungssensor und aktuelle Verkehrszählung einfordern; Anliegen aus der Bürgerschaft
+- TOP 3.2.4.: Zusagen beim SWM-Projekt Heinrich-Wieland-Straße/St.-Michael-Straße einhalten: U-Bahnhof Michaelibad endlich mit einem Aufzug versehen!; Antrag der CSU-Fraktion
+- TOP 3.2.5.: Zusagen beim SWM-Projekt Heinrich-Wieland-Straße/St.-Michael-Straße einhalten: P+R-Anlage Michaelibad erhalten!; Antrag der CSU-Fraktion
+- TOP 3.2.6.: Prüfung einer möglichen Nachnutzung der langfristig leerstehenden Gewerbefläche an der Ecke Berg-am-Laim- Straße/Ampfingstraße; Antrag der CSU-Fraktion
+- TOP 3.2.7.: Täglich zugeparkte öffentliche Carsharing-Stellplätze in der Haager Str./Grafinger Str.; Anliegen aus der Bürgerschaft
+- TOP 3.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 3.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 3.5.: Bereich Budget und Organisation
+- TOP 3.5.1.: (E) Stadtbezirksbudget Förderverein Grundschule St.-Veit-Straße München e.V. Neue Bücher für den Kooperativen Ganztag vom 21.09. - 30.10.2026 1.080,00 Euro, Az.: 0262.100-14-0523
+- TOP 3.5.2.: (E) Stadtbezirksbudget ESV München-Ost e. V. Wettkampf- und Trainingsausrüstung für Abteilungen vom 09.11. - 15.12.2026 7.252,00 €; Az. 0262.100-14-0526
+- TOP 3.5.3.: (E) Stadtbezirksbudget Seniorpartner in School - Landesverband Bayern e.V. Konfliktmediation an Grundschulen vom 01.10.2026 - 31.07.2027 2.000,00 Euro, Az.: 0262.100-14-0522 - vertagt aus der Plenumssitzung vom 29.09.2026 -
+- TOP 3.5.4.: (E) Stadtbezirksbudget BIKU gGmbH Mädchen an den Ball/ Mädchenfußball im Bezirk 14 Berg am Laim vom 01.01.2027 - 31.12.2027 6.680,00€; Az. 0262.100-14-0518 - vertagt aus der Plenumssitzung vom 29.09.2026 -
+- TOP 3.5.5.: (E) Stadtbezirksbudget MAGs - München Aktiv für Gesundheit e.V., Nachbarschaftstreff baum20 Lebensmittelrettung fürs Quartier - Erweiterung um einen Kühlschrank ab 15.11.2026 994,36€; Az. 0262.100-14-0527
+- TOP 3.5.6.: (E) Stadtbezirksbudget CultureClouds e.V. Die Raumveränderer 2027 - Neumarkter Straße vom 01.01.-31.12.2027 6.000,00 €; Az. 0262.100-14-0529
+- TOP 3.5.7.: Informationsmaterial der Landeshauptstadt München über die Bezirksausschüsse speziell für Kinder und Jugendliche; Antrag der Kinder- und Jugendbeauftragten des BA 14
+- TOP 3.6.: Baumschutz
+- TOP 3.6.1.: Heinrich-Wieland-Str. 27
+- TOP 3.6.2.: Friedenstr.
+- TOP 3.6.3.: Blombergstr. 9
+- TOP 3.6.4.: Kreillerstr. 98
+- TOP 3.6.5.: Kranzhornstr. 31
+- TOP 3.6.6.: Rechtzeitiger Ersatz für Eschen Michaeliburgstraße; Antrag der Grünen-Fraktion
+- TOP 4.: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 4.1.1.: Baulisten September 2026
+- TOP 4.1.2.: Falls Taubenschlag nicht aufgestellt werden kann: Maßnahmen für Tauben- und Krähenvergrämung am Grünen Markt und Teilen des Behrparks prüfen
+- TOP 4.1.3.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 4.1.4.: Bericht von SteG: Situation in der Wohnanlage an der Isareckstr.
+- TOP 4.2.: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 4.2.1.: Haltverbot in der Truderinger Straße
+- TOP 4.2.2.: Arbeiten im Straßenraum: Gotteszeller Straße 26-32
+- TOP 4.2.3.: Arbeiten im Straßenraum: Friedenstraße
+- TOP 4.2.4.: Arbeiten im Straßenraum: Ruhpoldinger Straße
+- TOP 4.2.5.: Arbeiten im Straßenraum: Berg-am-Laim-Str.
+- TOP 4.2.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchv, Jahresgenehmigung
+- TOP 4.2.7.: Anbringen von Gefahrzeichen in der Echardinger Straße
+- TOP 4.2.8.: Wie ist der aktuelle Stand der Umbauarbeiten der S-Bahn Haltestelle Leuchtenbergring?
+- TOP 4.2.9.: Absolutes Haltverbot in der Helmut-Dietl-Str.
+- TOP 4.3.: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 4.4.: Bereich Soziales, Integration, Senioren und Familie
+- TOP 4.5.: Bereich Budget und Organisation
+- TOP 4.5.1.: BA 14: QE 03/2026 Übersicht Stadtbezirksbudget
+- TOP 4.6.: Baumschutz
+- TOP 4.6.1.: Schlüsselbergstraße 8
+- TOP 4.6.2.: Markierungen Auslichtungen und Baumpflanzungen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Bereich Planung, Bauvorhaben, Baumschutz, Umweltschutz und öffentlicher Raum
+- TOP 5.1.2: Bereich Strukturentwicklung, Mobilität, Wohnen und Gewerbe
+- TOP 5.1.3: Bereich Bildung, Kinderbetreuung, Sport und Kultur
+- TOP 5.1.4: Bereich Soziales, Integration, Senioren und Familie
+- TOP 5.1.5: Bereich Budget und Organisation
+- TOP 5.2.: Ankündigungen
+- TOP 5.3.: Sonstiges/Verschiedenes
