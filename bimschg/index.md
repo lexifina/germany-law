@@ -69,14 +69,6 @@
 - [§ 31b Abweichungen nach Artikel 30 Absatz 6 der Industrieemissions-Richtlinie](0031b.md)
 - [§ 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193](0031c.md)
 - [§ 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193](0031d.md)
-- [§ 31e (weggefallen)](0031e.md)
-- [§ 31f (weggefallen)](0031f.md)
-- [§ 31g (weggefallen)](0031g.md)
-- [§ 31h (weggefallen)](0031h.md)
-- [§ 31i (weggefallen)](0031i.md)
-- [§ 31j (weggefallen)](0031j.md)
-- [§ 31k (weggefallen)](0031k.md)
-- [§ 31l Übergangsregelungen zu den §§ 31e bis 31k](0031l.md)
 - [§ 31m Abweichungen im Fall einer Krise](0031m.md)
 
 ## Dritter Teil Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen

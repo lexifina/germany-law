@@ -71,7 +71,7 @@ Bewältigung einer Gasmangellage oder einer sonstigen Krise
 | § 31i | (weggefallen) |
 | § 31j | (weggefallen) |
 | § 31k | (weggefallen) |
-| § 31l | Übergangsregelungen zu den §§ 31e bis 31k |
+| § 31l | (weggefallen) |
 | § 31m | Abweichungen im Fall einer Krise |
 Dritter Teil
 Beschaffenheit von Anlagen,

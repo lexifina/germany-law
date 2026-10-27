@@ -98,6 +98,7 @@
 
 ### 10. Begleitetes Fahren ab 17 Jahre
 
+- [§ 48a Voraussetzungen](0048a.md)
 - [§ 48b Evaluation](0048b.md)
 
 ## III. Register
@@ -164,6 +165,7 @@
 - [Anlage 8c (zu § 25b Absatz 2)Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926](anlage-8c.md)
 - [Anlage 8d (zu § 25b Absatz 3)Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968](anlage-8d.md)
 - [Anlage 8e (zu § 24a Absatz 2 Satz 1)Umtausch vor dem 19. Januar 2013 ausgestellter Führerscheine](anlage-8e.md)
+- [Anlage 9 (zu § 25 Absatz 3)Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein](anlage-9.md)
 - [Anlage 10 (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr](anlage-10.md)
 - [Anlage 11 (zu § 31)Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis](anlage-11.md)
 - [Anlage 12 (zu § 34)Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)](anlage-12.md)

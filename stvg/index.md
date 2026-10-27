@@ -147,6 +147,7 @@
 ## VII. Gemeinsame Vorschriften, Übergangsbestimmungen
 
 - [§ 64 Gemeinsame Vorschriften](0064.md)
+- [§ 65 Übergangsbestimmungen](0065.md)
 - [§ 66 (weggefallen)](0066.md)
 - [Anlage (zu § 24a)](anlage.md)
 - [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 1099)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)

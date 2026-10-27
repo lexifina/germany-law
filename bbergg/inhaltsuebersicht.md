@@ -203,8 +203,8 @@
 |  |  |  | Mitwirkendes Verschulden | § 118 |
 |  |  |  | Mitwirkung eines Dritten | § 119 |
 |  |  |  | Bergschadensvermutung | § 120 |
+|  |  |  | Schadensersatz bei Tätigkeiten nach § 57f | § 120a |
 |  |  |  | Verhältnis zu anderen Vorschriften | § 121 |
-|  |  |  | Schadensersatz bei Tätigkeiten nach § 57f | § 121a |
 |  |  |  | Zweiter Unterabschnitt |  |
 |  |  |  |  | Bergschadensausfallkasse |  |
 |  |  |  | Ermächtigung | § 122 |
