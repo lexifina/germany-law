@@ -1,0 +1,158 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2026-10-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9399904
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9399904
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A: Allgemeines
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des/der Vorsitzenden
+- TOP 4.: Berichte
+- TOP 4.1: Bericht aus dem Stadtrat
+- TOP 4.2: Bericht aus Freimann
+- TOP 5.: Kurzbericht der Polizei
+- TOP 6.: Anträge
+- TOP 7.: Entscheidungen
+- TOP 8.: Anhörungen
+- TOP 8.1.: Anhörung der Bezirksausschüsse zu Änderungen der BA-Satzung (Anlage 1) infolge der Änderung der Baumschutzverordnung
+- TOP 9.: Unterrichtungen
+- TOP 10.: sonstiges
+- TOP 10.1.: Vorstellung der Machbarkeitsstudie zum Grundstück Showpalast / Mini München
+- TOP B.: Stadtplanung, Architektur und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Errichtung eines Fitnessparcours an der Biedersteiner Straße
+- TOP 2.2.: Beschluss: Öffentliche Grünfläche ÖG 4 (Westteil - Ehemalige Bayernkaserne)
+- TOP 3.: Anhörungen
+- TOP 3.1.: Hohenzollernstr. 7-9, Aufstockung und Erweiterung eines gewerblich genutzten Gebäudes mit Tiefgarage - VORBESCHEID
+- TOP 3.2.: Sammelbeschluss Studentenstadt Freimann
+- TOP 3.3.: Ballesweg 4, Wohnraumerweiterung durch die Aufstockung des östlichen Anbaus und die Errichtung eines Anbaus im Süden - VORBESCHEID
+- TOP 3.4.: Parkstadt Schwabing, "Grünzug Nord", Herstellung einer öffentlichen Grünfläche an der Herbert-Bayer-Straße
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Entfernung der Werbesäule: Ungererstraße - Ecke Domagkstraße
+- TOP 4.2.: Standorte für einen mobilen Verkaufsanhänger
+- TOP 4.3.: Übermäßige Ausbreitung von Schanigärten und Lärmbelästigung in der Willhelmstr. und Umgebung
+- TOP 4.4.: Beleuchtung Fußweg von Osterwaldstrasse zur Bushaltestelle Isarring
+- TOP 4.5.: Nachverdichtung Franz-Joseph-Str. 16
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Bearbeitungsstand von Maßnahmen gegen Aufstauung von Grundwasser an der Genter Str.
+- TOP 5.2.: Sonstige Unterrichtungen
+- TOP 5.2.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 5.2.2.: (U) Biedersteiner Tunnel - Isarring Sicherheitstechnische Nachrüstung und Instandsetzung im 12. Stadtbezirk Schwabing - Freimann Umsetzung des Eckdatenbeschlusses 2027 (Bau-021) - Ertüchtigung baulicher Brandschutz - Projektgenehmigung - Genehmigung zur verwaltungsinternen Ausführungsgenehmigung - Sicherheitstechnische Nachrüstung und Instandsetzung - Genehmigung von Untersuchungs- und Planungsleistungen zur Erstellung der Bedarfs- und Konzeptgenehmigung Anmeldung zum Mehrjahresinvestitionsprogramm 2026 – 2030
+- TOP C.: Kultur und Budget
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Fast Fashion" „Fast Fashion - Pop up Tanztheater und Kleidertausch vom 21.11. bis 30.12.2026“ 600,00 €; Az. 0262.100-12-0806
+- TOP 3.: Anhörungen
+- TOP 3.1.: Ergänzung des Erläuterungstextes zur Lotte-Branz-Straße und Finanzierung von Schildern über das Stadtbezirksbudget
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: Fortführung einer Schank- und Speisewirtschaft, Margarete-Schütte-Lihotzky-Str. 15
+- TOP 5.2.2.: Fortführung einer Schank- und Speisewirtschaft, Siegfriedstr. 14
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Verwendungsnachweise genehmigter Budgetanträge
+- TOP 5.3.2.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 3. Quartal 2026
+- TOP D.: Umwelt-, Baum- und Klimaschutz
+- TOP 1.: Anträge
+- TOP 1.1.: Lebendiges Schwabing - Zahl der schallintensiven abendlichen Großveranstaltungen an den Wochenenden auf der Leopoldstraße begrenzen!
+- TOP 1.2.: Errichtung von Schattenspalieren zur Verschattung und Verbesserung des Mikroklimas
+- TOP 1.3.: Einrichtung von öffentlichen Trinkwasserstellen in Schwabing-Freimann
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.: Baumfällungen
+- TOP 3.1.1.: Baumfällungsantrag, Kaiserstr. 15
+- TOP 3.1.2.: Baumfällungsantrag, Lützelsteiner Str. 3-7b
+- TOP 3.1.3.: Baumfällungsantrag, Leopoldstr. 234
+- TOP 3.1.4.: Baumfällungsantrag, Wagnerstr. 8
+- TOP 3.1.5.: Baumfällungsantrag, Fröttmaninger Str. 24d
+- TOP 3.1.6.: Baumfällungsantrag, Fröttmaninger Str. 24e
+- TOP 3.1.7.: Baumfällungsantrag, Brandenburger Straße 2-24
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Unterstützung bei Reaktivierung des Gartens "Stadtgemüse"
+- TOP 4.2.: Papierkörbe und verstopfte Gullys im Bereich Fritz-Hommel-Weg
+- TOP 4.3.: Müllsituation Leopoldstr. / Ungererstr.
+- TOP 4.4.: Nachverdichtung Franz-Joseph-Str. 16
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.2.1.: Fällungsgenehmigung, Grasrainweg 9
+- TOP 5.2.2.: Fällungsgenehmigung, Ungererstr. 98
+- TOP 5.2.3.: Fällungsgenehmigung, Luxemburger Str. 2
+- TOP 5.2.4.: Fällungsgenehmigung, Situlistr.
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Antwort auf Bürgeranliegen: Beleuchtung (Weg zwischen der Allerheiligenkirche und der Neuchinger Straße)
+- TOP 5.3.2.: Germaniastraße, Baumpflanzungen im Straßenraum
+- TOP 5.3.3.: Clemensstraße und Morawitzkystraße, Vier neue Baumstandorte
+- TOP E.: Bildung, Soziales und Budget
+- TOP 1.: Anträge
+- TOP 1.1.: Erneute Überprüfung der Schulwegsicherheit am Bildungscampus Neufreimann und erneute Gewährung des kostenfreien 365-Euro-MVV-Tickets
+- TOP 1.2.: Evaluation der Nutzung des Schulschwimmbad in Neufreimann mit Ermöglichung der Nutzung auch durch nicht-privilegierte / örtliche Vereine
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.: Ersatztennisplätze für SV Studentenstadt Freimann: Stadt steht in der Schuld Antrag Nr. 20-26 / A 05799 von der Die Linke / Die PARTEI Stadtratsfraktion München vom 24.07.2025
+- TOP 3.2.: Anhörung zur BA-Satzungsänderung aufgrund der Verabschiedung des Rahmenkonzepts „Kommunale Kinder- und Jugendpartizipation“
+- TOP 3.3.: Antrag des Bezirksausschuss Schwanthalerhöhe (BA 8): Antworten der Referate zusätzlich in Einfacher Sprache
+- TOP 3.4.: Info-Veranstaltung einer KITA, Münchner Freiheit am 03.11.2026
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Nutzung des Schulschwimmbads in Neufreimann
+- TOP 5.2.: Sonstige Unterrichtungen
+- TOP 5.2.1.: Verwendungsnachweise genehmigter Budgetanträge
+- TOP 5.2.2.: Beteiligungsprojekt „Ran an die Stadtteil-Koffer!“ - Entscheidung für den 09. Stadtbezirk Neuhausen-Nymphenburg für den Einsatz 2027
+- TOP 5.2.3.: Übersicht der Zuschussanträge des Stadtbezirksbudget vom 3. Quartal 2026
+- TOP F.: Mobilität
+- TOP 1.: Anträge
+- TOP 1.1.: Sofortiger Stopp der weiteren Planung und Umsetzung der Tram 24 - Übergangslösung mit Bussen und unverzügliche Planung der U26 bis zur Allianz Arena
+- TOP 1.2.: Öffentlicher Parkraum ist kein kostenloser Dauerstellplatz – Initiative zur Begrenzung des Dauerparkens
+- TOP 1.3.: Beschleunigung von Straßenbaustellen im Stadtbezirk 12 sowie Prüfung temporärer Zwischennutzungen
+- TOP 1.4.: Überprüfung und Anpassung des Haltverbots in der Ottl-Aicher-Straße zur Verbesserung der Verkehrssicherheit an der Garagenausfahrt zwischen den Hausnummern 16 und 20
+- TOP 1.5.: Erneute Überprüfung der Schulwegsicherheit am Bildungscampus Neufreimann und erneute Gewährung des kostenfreien 365-Euro-MVV-Tickets
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.1.1.: Münchner Freiheit 12; Grundstückszufahrt
+- TOP 3.1.2.: Luxemburger Straße 12a, Verlängerung eines bestehenden Haltverbotes
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Einrichtung eines öffentlichen Fahrradständers vor dem Ladengeschäft Ainmillerstr. 17
+- TOP 3.2.2.: Isarring Fahrbahnsanierung 2027 (Erinnerungsverfahren Straßenunterhalt)
+- TOP 4.: Anliegen von Bürger*innen
+- TOP 4.1.: Zebrastreifen vor der St. Ursula Kirche
+- TOP 4.2.: Möchte der BA12 einen Radwegausbau im Naturschutzgebiet einleiten oder verhindern? (BA-Antrag „Befahrbarkeit auf dem U-Bahn-begleitenden Radweg entlang der U6 bei Fröttmaning verbessern“ - 07/2026)
+- TOP 4.3.: Verkehrssicherheit, Fahrradabstellflächen und Schanigärten in der Hohenzollernstraße
+- TOP 4.4.: Fehlende Fahrradabstellplätze Hohenzollernstraße 5
+- TOP 4.5.: Fahrrad- und Lastenradabstellplätze in der Hohenzollernstraße
+- TOP 4.6.: Parkraummanagement Wohngebiet Berliner Straße – Sektor VI Teil 3
+- TOP 4.7.: Alte Fahrräder vor der Stadtbibliothek in der Hohenzollernstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Aufbau Ladestationen München
+- TOP 5.1.2.: Installation einer öffentlichen Toilettenanlage im U-Bahnhof Freimann
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Helmut-Kohl-Allee 51, Einrichtung einer Schulbushaltestelle
+- TOP 5.2.2.: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Anton-Webern-Weg 10
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: SWM Stromprojekt Clemensstraße
+- TOP 5.3.2.: Arbeiten im Straßenraum; Tram Münchner Norden; Baulos 3 - Vorabmaßnahme
+- TOP 5.3.3.: Antwort auf Bürgeranliegen: U-Bahnhof Giselastraße, Seniorengerechte Bänke
+- TOP 5.3.4.: SWM Stromprojekt Trautenwolfstraße
+- TOP 5.3.5.: Sondernutzung für die Grünfläche Hans-Jensen-Weg 10 (Technische Basis U-Bahn)
+- TOP 5.3.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV/Jahresgenehmigung - Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)
+- TOP 5.3.7.: Antwort auf Bürgeranliegen: Tram-Baustelle Heidemannstr. / Kieferngartenstr.
+- TOP 5.3.8.: Antwort auf Bürgeranliegen: Umwandlung der Feilitzschstraße in eine Fußgängerzone – Für ein lebenswertes Schwabing
+- TOP G.: Sonstiges / Termine
+- TOP 1.: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP H.: Nichtöffentliche Angelegenheiten
