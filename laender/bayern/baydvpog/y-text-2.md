@@ -1,0 +1,2 @@
+– Art. 4 Abs. 4 und Art. 6 Abs. 5 des Polizeiorganisationsgesetzes – POG – (BayRS 2012-2-1-I), zuletzt geändert durch § 1 des Gesetzes vom 26. Juli 1997 (GVBl S. 342), und
+– Art. 12 Abs. 3 des Gesetzes zur Ausführung des Gesetzes über Personalausweise und des Paßgesetzes (AGPersPaßG) vom 7. März 1987 (GVBl S. 72, BayRS 210-1-I), zuletzt geändert durch § 3 des Gesetzes vom 26. Juli 1997 (GVBl S. 342),
