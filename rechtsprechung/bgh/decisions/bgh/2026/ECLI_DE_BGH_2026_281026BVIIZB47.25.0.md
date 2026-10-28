@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Zivilsenat-07"
 aktenzeichen: "VII ZB 47/25"
 decided: "2026-10-28"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZB__47-25.html"
 corpus_doc_id: "rss:801800"
 cites_law: ["germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/jveg/0022.md", "germany/bund/acts/zpo/0002.md", "germany/bund/acts/zpo/0003.md", "germany/bund/acts/zpo/0139.md", "germany/bund/acts/zpo/0574.md", "germany/bund/acts/zpo/0577.md"]
