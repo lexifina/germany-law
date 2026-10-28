@@ -4,7 +4,7 @@ court: "Bundesgerichtshof"
 spruchkoerper: "Zivilsenat-01"
 aktenzeichen: "I ZR 91/25"
 decided: "2026-10-28"
-typ: "U"
+typ: "B"
 source_url: "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR__91-25.html"
 corpus_doc_id: "rss:801714"
 cites_law: ["germany/bund/acts/gkg_2004/0045.md", "germany/bund/acts/zpo/0552a.md", "germany/bund/acts/zpo/0554.md"]
