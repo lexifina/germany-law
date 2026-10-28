@@ -35,6 +35,7 @@
 - [§ 14 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung](0014.md)
 - [§ 15 Einigungsstellen](0015.md)
 - [§ 15a Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs](0015a.md)
+- [§ 15b Sondervorschriften zum Dritten Gesetz zur Änderung des Gesetzes gegen den unlauteren Wettbewerb](0015b.md)
 
 ## Kapitel 4 Straf- und Bußgeldvorschriften
 

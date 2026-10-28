@@ -29,8 +29,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 |  |  |
 | Abbildung 9 Prüfzeichen der Beschaffungsstellen für die Bundeswehr, der Bundespolizei und die Bereitschaftspolizeien der Länder (§ 9 Abs. 1 Satz 3) |
 |  | Beschussbei Schusswaffen, die vom Bundesamt für Wehrtechnik und Beschaffung beschossen wurden |
-|  | Erstbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
-|  | Instandsetzungsbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
+|  | Erstbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
+|  | Instandsetzungsbeschussbei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
 |  |
 |  | Abbildung 10Kennzeichen für Schusswaffen, deren Geschossen eine Bewegungsenergie von nicht mehr als 7,5 J erteilt wird (§ 7 Abs. 1 Satz 2 Nr. 1 und § 9 Abs. 2 Satz 1 Nr. 1 des Gesetzes) |
 | Abbildung 11 Zulassungszeichen nach Bauartprüfungen gemäß § 9 Abs. 1 des Gesetzes |
