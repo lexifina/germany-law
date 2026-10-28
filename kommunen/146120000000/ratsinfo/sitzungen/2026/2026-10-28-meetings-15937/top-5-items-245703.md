@@ -1,0 +1,8 @@
+# TOP 5: Arbeitspflicht für Asylbewerber
+
+- Sitzung: 13. Sitzung des Integrations- und Ausländerbeirates (2026-10-28)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/245703
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/71444
