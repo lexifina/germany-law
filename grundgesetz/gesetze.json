@@ -1,0 +1,3924 @@
+[
+ {
+  "nr": 0,
+  "title": "Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949.",
+  "short": "Grundgesetz (1949)",
+  "passed": null,
+  "signed": null,
+  "promulgated": "1949-05-23",
+  "inForce": "1949-05-24",
+  "inForceSource": "1949-05-24",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1949 S. 1"
+  ],
+  "signers": [
+   {
+    "name": "Konrad Adenauer",
+    "role": "Präsident des Parlamentarischen Rates"
+   },
+   {
+    "name": "Adolph Schönfelder",
+    "role": "1. Vizepräsident"
+   },
+   {
+    "name": "Hermann Schäfer",
+    "role": "2. Vizepräsident"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": null,
+  "initiative": null,
+  "changes": []
+ },
+ {
+  "nr": 1,
+  "title": "Strafrechtsänderungsgesetz",
+  "short": "1. Änderung (1951)",
+  "passed": "1951-07-11",
+  "signed": "1951-08-30",
+  "promulgated": "1951-08-31",
+  "inForce": "1951-08-31",
+  "inForceSource": "1951-08-31",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1951 S. 739"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Thomas Dehler",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "1",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "143",
+    "kind": "repealed"
+   }
+  ]
+ },
+ {
+  "nr": 2,
+  "title": "Gesetz zur Einfügung eines Artikels 120 a in das Grundgesetz",
+  "short": "2. Änderung (1952)",
+  "passed": "1952-05-15",
+  "signed": "1952-08-14",
+  "promulgated": "1952-08-18",
+  "inForce": "1952-08-18",
+  "inForceSource": "1952-08-18",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1952 S. 445"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Thomas Dehler",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 303,
+   "no": 18,
+   "abstentions": 21
+  },
+  "votesSource": null,
+  "term": "1",
+  "initiative": "CDU/CSU, FDP und DP/DPB",
+  "changes": [
+   {
+    "key": "120a",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 3,
+  "title": "Gesetz zur Änderung des Artikels 107 des Grundgesetzes",
+  "short": "3. Änderung (1953)",
+  "passed": "1952-12-11",
+  "signed": "1953-04-20",
+  "promulgated": "1953-04-22",
+  "inForce": "1953-04-23",
+  "inForceSource": "1953-04-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1953 S. 130"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Franz Blücher",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Beate Schäffer",
+    "role": "Bundesministerin der Finanzen"
+   },
+   {
+    "name": "Robert Lehr",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Thomas Dehler",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "1",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "107",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 4,
+  "title": "Gesetz zur Ergänzung des Grundgesetzes",
+  "short": "4. Änderung (1954)",
+  "passed": "1954-02-26",
+  "signed": "1954-03-26",
+  "promulgated": "1954-03-27",
+  "inForce": "1954-03-28",
+  "inForceSource": "1954-03-28",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1954 S. 45"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Franz Blücher",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Fritz Neumayer",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 334,
+   "no": 144,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "2",
+  "initiative": "zwei Entwürfe, CDU/CSU, GB/BHE und DP sowie der FDP",
+  "changes": [
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "79",
+    "kind": "updated"
+   },
+   {
+    "key": "142a",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 5,
+  "title": "Zweites Gesetz zur Änderung des Artikels 107 des Grundgesetzes",
+  "short": "5. Änderung (1954)",
+  "passed": "1954-12-15",
+  "signed": "1954-12-25",
+  "promulgated": "1954-12-30",
+  "inForce": "1954-12-31",
+  "inForceSource": "1954-12-31",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1954 S. 517"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Franz Blücher",
+    "role": "Bundesminister für wirtschaftliche Zusammenarbeit (für den Bundesminister der Finanzen)"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Fritz Neumayer",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 421,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "2",
+  "initiative": "CDU/CSU, FDP, GB/BHE und DP",
+  "changes": [
+   {
+    "key": "107",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 6,
+  "title": "Gesetz zur Änderung und Ergänzung der Finanzverfassung (Finanzverfassungsgesetz)",
+  "short": "6. Änderung (1955)",
+  "passed": "1954-11-19",
+  "signed": "1955-12-23",
+  "promulgated": "1955-12-28",
+  "inForce": "1956-04-01",
+  "inForceSource": "1956-04-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1955 S. 817"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Fritz Schäffer",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "2",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "106",
+    "kind": "updated"
+   },
+   {
+    "key": "107",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 7,
+  "title": "Gesetz zur Ergänzung des Grundgesetzes",
+  "short": "7. Änderung (1956)",
+  "passed": "1956-03-06",
+  "signed": "1956-03-19",
+  "promulgated": "1956-03-21",
+  "inForce": "1956-03-22",
+  "inForceSource": "1956-03-22",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1956 S. 111"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Theodor Blank",
+    "role": "Bundesminister für Verteidigung"
+   }
+  ],
+  "votes": {
+   "yes": 390,
+   "no": 20,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "2",
+  "initiative": "drei Entwürfe, davon einer von CDU/CSU, GB/BHE und DP sowie zwei von der FDP",
+  "changes": [
+   {
+    "key": "1",
+    "kind": "updated"
+   },
+   {
+    "key": "12",
+    "kind": "updated"
+   },
+   {
+    "key": "17a",
+    "kind": "created"
+   },
+   {
+    "key": "36",
+    "kind": "updated"
+   },
+   {
+    "key": "45a",
+    "kind": "created"
+   },
+   {
+    "key": "45b",
+    "kind": "created"
+   },
+   {
+    "key": "49",
+    "kind": "updated"
+   },
+   {
+    "key": "59a",
+    "kind": "created"
+   },
+   {
+    "key": "60",
+    "kind": "updated"
+   },
+   {
+    "key": "65a",
+    "kind": "created"
+   },
+   {
+    "key": "87a",
+    "kind": "created"
+   },
+   {
+    "key": "87b",
+    "kind": "created"
+   },
+   {
+    "key": "96",
+    "kind": "updated"
+   },
+   {
+    "key": "96a",
+    "kind": "created"
+   },
+   {
+    "key": "137",
+    "kind": "updated"
+   },
+   {
+    "key": "143",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 8,
+  "title": "Gesetz zur Änderung und Ergänzung des Artikels 106 des Grundgesetzes",
+  "short": "8. Änderung (1956)",
+  "passed": "1956-12-13",
+  "signed": "1956-12-24",
+  "promulgated": "1956-12-29",
+  "inForce": "1958-04-01",
+  "inForceSource": "1958-04-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1956 S. 1077"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Franz Blücher",
+    "role": "Vertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Fritz Schäffer",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans-Joachim von Merkatz",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 376,
+   "no": 1,
+   "abstentions": 3
+  },
+  "votesSource": null,
+  "term": "2",
+  "initiative": "interfraktionell von CDU/CSU, SPD, FDP, GB/BHE und DP",
+  "changes": [
+   {
+    "key": "106",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 9,
+  "title": "Gesetz zur Einfügung eines Artikels 135 a in das Grundgesetz",
+  "short": "9. Änderung (1957)",
+  "passed": "1957-08-29",
+  "signed": "1957-10-22",
+  "promulgated": "1957-10-26",
+  "inForce": "1957-10-27",
+  "inForceSource": "1957-10-27",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1957 S. 1745"
+  ],
+  "signers": [
+   {
+    "name": "Theodor Heuss",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Fritz Schäffer",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans-Joachim von Merkatz",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 407,
+   "no": 54,
+   "abstentions": 14
+  },
+  "votesSource": null,
+  "term": "2",
+  "initiative": "CDU/CSU und SPD",
+  "changes": [
+   {
+    "key": "135a",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 10,
+  "title": "Gesetz zur Ergänzung des Grundgesetzes",
+  "short": "10. Änderung (1959)",
+  "passed": "1959-12-03",
+  "signed": "1959-12-23",
+  "promulgated": "1959-12-31",
+  "inForce": "1960-01-01",
+  "inForceSource": "1960-01-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1959 S. 813"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Siegfried Balke",
+    "role": "Bundesminister für Atomkernenergie und Wasserwirtschaft"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "3",
+  "initiative": "SPD",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   },
+   {
+    "key": "87c",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 11,
+  "title": "Gesetz zur Einfügung eines Artikels über die Luftverkehrsverwaltung in das Grundgesetz (11. Änderung des Grundgesetzes)",
+  "short": "11. Änderung (1961)",
+  "passed": "1960-09-28",
+  "signed": "1961-02-06",
+  "promulgated": "1961-02-15",
+  "inForce": "1961-02-16",
+  "inForceSource": "1961-02-16",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1961 S. 65"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Konrad Adenauer",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Christoph Seebohm",
+    "role": "Bundesminister für Verkehr"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Fritz Schäffer",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 368,
+   "no": 0,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "3",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "87d",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 12,
+  "title": "Zwölftes Gesetz zur Änderung des Grundgesetzes",
+  "short": "12. Änderung (1961)",
+  "passed": "1961-01-25",
+  "signed": "1961-03-06",
+  "promulgated": "1961-03-11",
+  "inForce": "1961-03-12",
+  "inForceSource": "1961-03-12",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1961 S. 141"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Ludwig Erhard",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Fritz Schäffer",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister für Verteidigung"
+   }
+  ],
+  "votes": {
+   "yes": 410,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "3",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "96",
+    "kind": "updated"
+   },
+   {
+    "key": "96a",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 13,
+  "title": "Dreizehntes Gesetz zur Änderung des Grundgesetzes",
+  "short": "13. Änderung (1965)",
+  "passed": "1965-04-07",
+  "signed": "1965-06-16",
+  "promulgated": "1965-06-26",
+  "inForce": "1965-06-27",
+  "inForceSource": "1965-06-27",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1965 S. 513"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Ludwig Erhard",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hermann Höcherl",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "4",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 14,
+  "title": "Vierzehntes Gesetz zur Änderung des Grundgesetzes",
+  "short": "14. Änderung (1965)",
+  "passed": "1965-05-26",
+  "signed": "1965-07-30",
+  "promulgated": "1965-08-05",
+  "inForce": "1965-08-05",
+  "inForceSource": "1965-08-05",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1965 S. 649"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Erich Mende",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Hans Georg Dahlgrün",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Hermann Höcherl",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Karl Weber",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "4",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "120",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 15,
+  "title": "Fünfzehntes Gesetz zur Änderung des Grundgesetzes",
+  "short": "15. Änderung (1967)",
+  "passed": "1967-05-10",
+  "signed": "1967-06-08",
+  "promulgated": "1967-06-13",
+  "inForce": "1967-06-14",
+  "inForceSource": "1967-06-14",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1967 S. 581"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Kurt Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Karl Schiller",
+    "role": "Bundesminister für Wirtschaft"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Paul Lücke",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 336,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "109",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 16,
+  "title": "Sechzehntes Gesetz zur Änderung des Grundgesetzes",
+  "short": "16. Änderung (1968)",
+  "passed": "1968-05-08",
+  "signed": "1968-06-18",
+  "promulgated": "1968-06-22",
+  "inForce": "1968-06-23",
+  "inForceSource": "1968-06-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1968 S. 657"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Kurt Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz (für den Bundesminister des Innern)"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Hans Katzer",
+    "role": "Bundesminister für Arbeit und Sozialordnung"
+   }
+  ],
+  "votes": {
+   "yes": 362,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "92",
+    "kind": "updated"
+   },
+   {
+    "key": "95",
+    "kind": "updated"
+   },
+   {
+    "key": "96",
+    "kind": "updated"
+   },
+   {
+    "key": "96a",
+    "kind": "repealed"
+   },
+   {
+    "key": "99",
+    "kind": "updated"
+   },
+   {
+    "key": "100",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 17,
+  "title": "Siebzehntes Gesetz zur Ergänzung des Grundgesetzes",
+  "short": "17. Änderung (1968)",
+  "passed": "1968-05-30",
+  "signed": "1968-06-24",
+  "promulgated": "1968-06-27",
+  "inForce": "1968-06-28",
+  "inForceSource": "1968-06-28",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1968 S. 709"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Hans Katzer",
+    "role": "Bundesminister für Arbeit und Sozialordnung"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundesminister der Verteidigung"
+   },
+   {
+    "name": "Carlo Schmid",
+    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder"
+   }
+  ],
+  "votes": {
+   "yes": 384,
+   "no": 100,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "9",
+    "kind": "updated"
+   },
+   {
+    "key": "10",
+    "kind": "updated"
+   },
+   {
+    "key": "11",
+    "kind": "updated"
+   },
+   {
+    "key": "12",
+    "kind": "updated"
+   },
+   {
+    "key": "12a",
+    "kind": "created"
+   },
+   {
+    "key": "19",
+    "kind": "updated"
+   },
+   {
+    "key": "20",
+    "kind": "updated"
+   },
+   {
+    "key": "35",
+    "kind": "updated"
+   },
+   {
+    "key": "53a",
+    "kind": "created"
+   },
+   {
+    "key": "59a",
+    "kind": "repealed"
+   },
+   {
+    "key": "65a",
+    "kind": "updated"
+   },
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "80a",
+    "kind": "created"
+   },
+   {
+    "key": "87a",
+    "kind": "updated"
+   },
+   {
+    "key": "91",
+    "kind": "updated"
+   },
+   {
+    "key": "115a",
+    "kind": "created"
+   },
+   {
+    "key": "115b",
+    "kind": "created"
+   },
+   {
+    "key": "115c",
+    "kind": "created"
+   },
+   {
+    "key": "115d",
+    "kind": "created"
+   },
+   {
+    "key": "115e",
+    "kind": "created"
+   },
+   {
+    "key": "115f",
+    "kind": "created"
+   },
+   {
+    "key": "115g",
+    "kind": "created"
+   },
+   {
+    "key": "115h",
+    "kind": "created"
+   },
+   {
+    "key": "115i",
+    "kind": "created"
+   },
+   {
+    "key": "115k",
+    "kind": "created"
+   },
+   {
+    "key": "115l",
+    "kind": "created"
+   },
+   {
+    "key": "142a",
+    "kind": "repealed"
+   },
+   {
+    "key": "143",
+    "kind": "repealed"
+   }
+  ]
+ },
+ {
+  "nr": 18,
+  "title": "Achtzehntes Gesetz zur Änderung des Grundgesetzes (Artikel 76 und 77)",
+  "short": "18. Änderung (1968)",
+  "passed": "1968-10-23",
+  "signed": "1968-11-15",
+  "promulgated": "1968-11-19",
+  "inForce": "1968-11-20",
+  "inForceSource": "1968-11-20",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1968 S. 1177"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Kurt Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Carlo Schmid",
+    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 391,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Bundesratsvorlage",
+  "changes": [
+   {
+    "key": "76",
+    "kind": "updated"
+   },
+   {
+    "key": "77",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 19,
+  "title": "Neunzehntes Gesetz zur Änderung des Grundgesetzes",
+  "short": "19. Änderung (1969)",
+  "passed": "1968-12-11",
+  "signed": "1969-05-12",
+  "promulgated": "1969-05-14",
+  "inForce": "1969-05-15",
+  "inForceSource": "1969-05-15",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 97"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Kurt Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 371,
+   "no": 0,
+   "abstentions": 4
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "SPD und FDP",
+  "changes": [
+   {
+    "key": "93",
+    "kind": "updated"
+   },
+   {
+    "key": "94",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 20,
+  "title": "Zwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "20. Änderung (1969)",
+  "passed": "1968-12-11",
+  "signed": "1969-05-12",
+  "promulgated": "1969-05-14",
+  "inForce": "1969-05-15",
+  "inForceSource": "1969-05-15",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 357"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 354,
+   "no": 42,
+   "abstentions": 2
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, eine von CDU/CSU und von SPD (Drs. V/2861,V/3040,V/3515,V/1086,V/2280,V/3483)",
+  "changes": [
+   {
+    "key": "109",
+    "kind": "updated"
+   },
+   {
+    "key": "110",
+    "kind": "updated"
+   },
+   {
+    "key": "112",
+    "kind": "updated"
+   },
+   {
+    "key": "113",
+    "kind": "updated"
+   },
+   {
+    "key": "114",
+    "kind": "updated"
+   },
+   {
+    "key": "115",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 21,
+  "title": "Einundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Finanzreformgesetz)",
+  "short": "21. Änderung (1969)",
+  "passed": "1968-12-11",
+  "signed": "1969-05-12",
+  "promulgated": "1969-05-14",
+  "inForce": "1970-01-01",
+  "inForceSource": "1970-01-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 359"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Hurt Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "5",
+  "initiative": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, einer von CDU/CSU und von SPD (Drs. V/2861, V/3040,V/3515,V/1086,V/2280,V/3483)",
+  "changes": [
+   {
+    "key": "91a",
+    "kind": "created"
+   },
+   {
+    "key": "91b",
+    "kind": "created"
+   },
+   {
+    "key": "104a",
+    "kind": "created"
+   },
+   {
+    "key": "105",
+    "kind": "updated"
+   },
+   {
+    "key": "106",
+    "kind": "updated"
+   },
+   {
+    "key": "107",
+    "kind": "updated"
+   },
+   {
+    "key": "108",
+    "kind": "updated"
+   },
+   {
+    "key": "115c",
+    "kind": "updated"
+   },
+   {
+    "key": "115k",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 22,
+  "title": "Zweiundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "22. Änderung (1969)",
+  "passed": "1968-12-11",
+  "signed": "1969-05-12",
+  "promulgated": "1969-05-14",
+  "inForce": "1969-05-15",
+  "inForceSource": "1969-05-15",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 363"
+  ],
+  "signers": [
+   {
+    "name": "Heinrich Lübke",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": null,
+  "votesSource": null,
+  "term": "5",
+  "initiative": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, einer von CDU/CSU und von SPD",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   },
+   {
+    "key": "75",
+    "kind": "updated"
+   },
+   {
+    "key": "96",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 23,
+  "title": "Dreiundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "23. Änderung (1969)",
+  "passed": "1969-06-11",
+  "signed": "1969-07-17",
+  "promulgated": "1969-07-22",
+  "inForce": "1969-07-23",
+  "inForceSource": "1969-07-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 817"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Carlo Schmid",
+    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 409,
+   "no": 0,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "interfraktionell eingebracht von CDU/CSU, SPD und FDP",
+  "changes": [
+   {
+    "key": "76",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 24,
+  "title": "Vierundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "24. Änderung (1969)",
+  "passed": "1969-05-14",
+  "signed": "1969-07-28",
+  "promulgated": "1969-07-31",
+  "inForce": "1969-08-01",
+  "inForceSource": "1969-08-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 985"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 346,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "120",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 25,
+  "title": "Fünfundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "25. Änderung (1969)",
+  "passed": "1969-07-02",
+  "signed": "1969-08-19",
+  "promulgated": "1969-08-22",
+  "inForce": "1969-08-23",
+  "inForceSource": "1969-08-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 1241"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Franz Josef Strauß",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Carlo Schmid",
+    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder"
+   }
+  ],
+  "votes": {
+   "yes": 371,
+   "no": 6,
+   "abstentions": 21
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "SPD",
+  "changes": [
+   {
+    "key": "29",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 26,
+  "title": "Sechsundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 96)",
+  "short": "26. Änderung (1969)",
+  "passed": "1969-06-11",
+  "signed": "1969-08-26",
+  "promulgated": "1969-08-29",
+  "inForce": "1969-08-30",
+  "inForceSource": "1969-08-30",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1969 S. 1357"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Georg Kiesinger",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Ernst Benda",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Horst Ehmke",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 402,
+   "no": 0,
+   "abstentions": 6
+  },
+  "votesSource": null,
+  "term": "5",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "96",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 27,
+  "title": "Siebenundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "27. Änderung (1970)",
+  "passed": "1970-06-18",
+  "signed": "1970-07-31",
+  "promulgated": "1970-08-05",
+  "inForce": "1970-08-06",
+  "inForceSource": "1970-08-06",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1970 S. 1161"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Willy Brand",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 441,
+   "no": 0,
+   "abstentions": 10
+  },
+  "votesSource": null,
+  "term": "6",
+  "initiative": "Drei Entwürfe, davon eine Regierungsvorlage, zwei von CDU/CSU-Fraktion und Abgeordneten der CDU/CSU",
+  "changes": [
+   {
+    "key": "38",
+    "kind": "updated"
+   },
+   {
+    "key": "91a",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 28,
+  "title": "Achtundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 a GG)",
+  "short": "28. Änderung (1971)",
+  "passed": "1971-03-03",
+  "signed": "1971-03-18",
+  "promulgated": "1971-03-20",
+  "inForce": "1971-03-21",
+  "inForceSource": "1971-03-21",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1971 S. 206"
+  ],
+  "signers": [
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Willy Brand",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gerhard Jahn",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 404,
+   "no": 16,
+   "abstentions": 11
+  },
+  "votesSource": null,
+  "term": "6",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "74a",
+    "kind": "created"
+   },
+   {
+    "key": "75",
+    "kind": "updated"
+   },
+   {
+    "key": "98",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 29,
+  "title": "Neunundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "29. Änderung (1971)",
+  "passed": "1971-03-03",
+  "signed": "1971-03-18",
+  "promulgated": "1971-03-20",
+  "inForce": "1971-03-21",
+  "inForceSource": "1971-03-21",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1971 S. 207"
+  ],
+  "signers": [
+   {
+    "name": "Josef Ertl",
+    "role": "Bundesminister für Ernährung"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Willy Brand",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gerhard Jahn",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 428,
+   "no": 7,
+   "abstentions": 7
+  },
+  "votesSource": null,
+  "term": "6",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 30,
+  "title": "Dreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 GG - Umweltschutz)",
+  "short": "30. Änderung (1972)",
+  "passed": "1972-03-02",
+  "signed": "1972-04-12",
+  "promulgated": "1972-04-14",
+  "inForce": "1972-04-15",
+  "inForceSource": "1972-04-15",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1972 S. 593"
+  ],
+  "signers": [
+   {
+    "name": "Josef Ertl",
+    "role": "Bundesminister für Ernährung"
+   },
+   {
+    "name": "Gustav Heinemann",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Willy Brand",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gerhard Jahn",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 432,
+   "no": 0,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "6",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 31,
+  "title": "Einunddreißigstes Gesetz zur Änderung des Grundgesetzes",
+  "short": "31. Änderung (1972)",
+  "passed": "1972-06-22",
+  "signed": "1972-07-28",
+  "promulgated": "1972-08-02",
+  "inForce": "1972-08-03",
+  "inForceSource": "1972-08-03",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1972 S. 1305"
+  ],
+  "signers": [
+   {
+    "name": "Georg Leber",
+    "role": "Bundesminister der Verteidigung"
+   },
+   {
+    "name": "Heinz Kühn",
+    "role": "Für den Bundespräsidenten - der Präsident des Bundesrates"
+   },
+   {
+    "name": "Willy Brand",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Gerhard Jahn",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 432,
+   "no": 1,
+   "abstentions": 5
+  },
+  "votesSource": null,
+  "term": "6",
+  "initiative": "Zwei Entwürfe, davon eine Regierungsvorlage und eine Bundesratsvorlage",
+  "changes": [
+   {
+    "key": "35",
+    "kind": "updated"
+   },
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "74",
+    "kind": "updated"
+   },
+   {
+    "key": "87",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 32,
+  "title": "Zweiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 45 c)",
+  "short": "32. Änderung (1975)",
+  "passed": "1975-02-27",
+  "signed": "1975-07-15",
+  "promulgated": "1975-07-18",
+  "inForce": "1975-07-19",
+  "inForceSource": "1975-07-19",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1975 S. 1901"
+  ],
+  "signers": [
+   {
+    "name": "Walter Scheel",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Schmidt",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Werner Maihofer",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans-Jochen Vogel",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 381,
+   "no": 0,
+   "abstentions": 5
+  },
+  "votesSource": null,
+  "term": "7",
+  "initiative": "eingebracht interfraktionell",
+  "changes": [
+   {
+    "key": "45c",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 33,
+  "title": "Dreiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 29 und 39)",
+  "short": "33. Änderung (1976)",
+  "passed": "1976-07-01",
+  "signed": "1976-08-23",
+  "promulgated": "1976-08-27",
+  "inForce": "1976-08-28",
+  "inForceSource": "1976-12-14 (Art. 39, Abs. 1 und 2; Art. 45; Art. 45a, Abs. 1, Satz 2; Art. 49)",
+  "correction": {
+   "why": "The law took effect on the day after promulgation (27 August 1976), except its changes to Articles 39, 45, 45a and 49, which took effect on 14 December 1976, the first day of the next Bundestag.",
+   "sources": [
+    "https://dserver.bundestag.de/btd/07/055/0705527.pdf"
+   ]
+  },
+  "gazette": [
+   "BGBl. I 1976 S. 2381"
+  ],
+  "signers": [
+   {
+    "name": "Albert Osswald",
+    "role": "Präsident des Bundesrates (für den Bundespräsidenten)"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Werner Maihofer",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans-Jochen Vogel",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 336,
+   "no": 13,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "7",
+  "initiative": "zusammengeführt aus Regierungsvorlage und Bundestags-Initiative von CDU/CSU",
+  "changes": [
+   {
+    "key": "29",
+    "kind": "updated"
+   },
+   {
+    "key": "39",
+    "kind": "updated"
+   },
+   {
+    "key": "45",
+    "kind": "repealed"
+   },
+   {
+    "key": "45a",
+    "kind": "updated"
+   },
+   {
+    "key": "49",
+    "kind": "repealed"
+   }
+  ]
+ },
+ {
+  "nr": 34,
+  "title": "Vierunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 Nr. 4 a)",
+  "short": "34. Änderung (1976)",
+  "passed": "1976-07-01",
+  "signed": "1976-08-23",
+  "promulgated": "1976-08-27",
+  "inForce": "1976-08-28",
+  "inForceSource": "1976-08-28",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1976 S. 2383"
+  ],
+  "signers": [
+   {
+    "name": "Albert Osswald",
+    "role": "Präsident des Bundesrates (für den Bundespräsidenten)"
+   },
+   {
+    "name": "Hans-Dietrich Genscher",
+    "role": "Stellvertreter des Bundeskanzlers"
+   },
+   {
+    "name": "Werner Maihofer",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans-Jochen Vogel",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 374,
+   "no": 5,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "7",
+  "initiative": "beim Bundesrat eingebracht von Niedersachsen",
+  "changes": [
+   {
+    "key": "74",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 35,
+  "title": "Fünfunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 21 Abs. 1)",
+  "short": "35. Änderung (1983)",
+  "passed": "1983-12-01",
+  "signed": "1983-12-21",
+  "promulgated": "1983-12-23",
+  "inForce": "1984-01-01",
+  "inForceSource": "1984-01-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1983 S. 1481"
+  ],
+  "signers": [
+   {
+    "name": "Karl Carstens",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Friedrich Zimmermann",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Hans A. Engelhard",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 453,
+   "no": 2,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "10",
+  "initiative": "CDU/CSU, FDP",
+  "changes": [
+   {
+    "key": "21",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 36,
+  "title": "Gesetz zu dem Vertrag vom 31. August 1990 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands -- Einigungsvertragsgesetz -- und der Vereinbarung vom 18. September 1990",
+  "short": "36. Änderung (1990)",
+  "passed": "1990-09-20",
+  "signed": "1990-09-23",
+  "promulgated": "1990-09-28",
+  "inForce": "1990-09-29",
+  "inForceSource": "1990-09-29",
+  "correction": null,
+  "gazette": [
+   "BGBl. II 1990 S. 885"
+  ],
+  "signers": [
+   {
+    "name": "Richard von Weizsäcker",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 440,
+   "no": 47,
+   "abstentions": 3
+  },
+  "votesSource": null,
+  "term": "11",
+  "initiative": "Regierungsvorlage, textidentisch eingebracht von CDU/CSU, FDP",
+  "changes": [
+   {
+    "key": "praeambel",
+    "kind": "updated"
+   },
+   {
+    "key": "23",
+    "kind": "repealed"
+   },
+   {
+    "key": "51",
+    "kind": "updated"
+   },
+   {
+    "key": "135a",
+    "kind": "updated"
+   },
+   {
+    "key": "143",
+    "kind": "created"
+   },
+   {
+    "key": "146",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 37,
+  "title": "Gesetz zur Änderung des Grundgesetzes",
+  "short": "37. Änderung (1992)",
+  "passed": "1992-04-30",
+  "signed": "1992-07-14",
+  "promulgated": "1992-07-21",
+  "inForce": "1992-07-22",
+  "inForceSource": "1992-07-22",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1992 S. 1254"
+  ],
+  "signers": [
+   {
+    "name": "Richard von Weizsäcker",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Rudolf Seiters",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Günther Krause",
+    "role": "Bundesminister für Verkehr"
+   }
+  ],
+  "votes": {
+   "yes": 556,
+   "no": 13,
+   "abstentions": 3
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "CDU/CSU, FDP",
+  "changes": [
+   {
+    "key": "87d",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 38,
+  "title": "Gesetz zur Änderung des Grundgesetzes",
+  "short": "38. Änderung (1992)",
+  "passed": "1992-12-02",
+  "signed": "1992-12-21",
+  "promulgated": "1992-12-24",
+  "inForce": "1992-12-25",
+  "inForceSource": "1992-12-25",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1992 S. 2086"
+  ],
+  "signers": [
+   {
+    "name": "Richard von Weizsäcker",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Rudolf Seiters",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Klaus Kinkel",
+    "role": "Bundesminister des Auswärtigen"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Jürgen Möllemann",
+    "role": "Bundesminister für Wirtschaft"
+   }
+  ],
+  "votes": {
+   "yes": 547,
+   "no": 17,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "23",
+    "kind": "created"
+   },
+   {
+    "key": "24",
+    "kind": "updated"
+   },
+   {
+    "key": "28",
+    "kind": "updated"
+   },
+   {
+    "key": "45",
+    "kind": "created"
+   },
+   {
+    "key": "50",
+    "kind": "updated"
+   },
+   {
+    "key": "52",
+    "kind": "updated"
+   },
+   {
+    "key": "88",
+    "kind": "updated"
+   },
+   {
+    "key": "115e",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 39,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 16 und 18)",
+  "short": "39. Änderung (1993)",
+  "passed": "1993-05-26",
+  "signed": "1993-06-28",
+  "promulgated": "1993-06-29",
+  "inForce": "1993-06-30",
+  "inForceSource": "1993-06-30",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1993 S. 1002"
+  ],
+  "signers": [
+   {
+    "name": "Richard von Weizsäcker",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Rudolf Seiters",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 521,
+   "no": 132,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "CDU/CSU, SPD und FDP",
+  "changes": [
+   {
+    "key": "16",
+    "kind": "updated"
+   },
+   {
+    "key": "16a",
+    "kind": "created"
+   },
+   {
+    "key": "18",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 40,
+  "title": "Gesetz zur Änderung des Grundgesetzes",
+  "short": "40. Änderung (1993)",
+  "passed": "1993-12-02",
+  "signed": "1993-12-20",
+  "promulgated": "1993-12-22",
+  "inForce": "1993-12-23",
+  "inForceSource": "1993-12-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1993 S. 2089"
+  ],
+  "signers": [
+   {
+    "name": "Richard von Weizsäcker",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Matthias Wissmann",
+    "role": "Bundesminister für Verkehr"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 558,
+   "no": 13,
+   "abstentions": 4
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "80",
+    "kind": "updated"
+   },
+   {
+    "key": "87",
+    "kind": "updated"
+   },
+   {
+    "key": "87e",
+    "kind": "created"
+   },
+   {
+    "key": "106a",
+    "kind": "created"
+   },
+   {
+    "key": "143a",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 41,
+  "title": "Gesetz zur Änderung des Grundgesetzes",
+  "short": "41. Änderung (1994)",
+  "passed": "1994-06-29",
+  "signed": "1994-09-02",
+  "promulgated": "1994-08-30",
+  "inForce": "1994-09-03",
+  "inForceSource": "1994-09-03",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1994 S. 2245"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Wolfgang Bötsch",
+    "role": "Bundesminister für Post und Telekommunikation"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 470,
+   "no": 92,
+   "abstentions": 21
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "80",
+    "kind": "updated"
+   },
+   {
+    "key": "87",
+    "kind": "updated"
+   },
+   {
+    "key": "87f",
+    "kind": "created"
+   },
+   {
+    "key": "143b",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 42,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 3, 20a, 28, 29, 72, 74, 75, 76, 77, 80, 87, 93, 118a und 125a)",
+  "short": "42. Änderung (1994)",
+  "passed": "1994-09-06",
+  "signed": "1994-10-27",
+  "promulgated": "1994-11-03",
+  "inForce": "1994-11-15",
+  "inForceSource": "1994-11-15",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1994 S. 3146"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Sabina Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 571,
+   "no": 13,
+   "abstentions": 1
+  },
+  "votesSource": null,
+  "term": "12",
+  "initiative": "Interfraktionelle Vorlage (in der Fassung der Beschlussempfehlung des Vermittlungsausschusses)",
+  "changes": [
+   {
+    "key": "3",
+    "kind": "updated"
+   },
+   {
+    "key": "20a",
+    "kind": "created"
+   },
+   {
+    "key": "28",
+    "kind": "updated"
+   },
+   {
+    "key": "29",
+    "kind": "updated"
+   },
+   {
+    "key": "72",
+    "kind": "updated"
+   },
+   {
+    "key": "74",
+    "kind": "updated"
+   },
+   {
+    "key": "75",
+    "kind": "updated"
+   },
+   {
+    "key": "76",
+    "kind": "updated"
+   },
+   {
+    "key": "77",
+    "kind": "updated"
+   },
+   {
+    "key": "80",
+    "kind": "updated"
+   },
+   {
+    "key": "87",
+    "kind": "updated"
+   },
+   {
+    "key": "93",
+    "kind": "updated"
+   },
+   {
+    "key": "118a",
+    "kind": "created"
+   },
+   {
+    "key": "125a",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 43,
+  "title": "Gesetz zur Änderung des Grundgesetzes",
+  "short": "43. Änderung (1995)",
+  "passed": "1995-09-21",
+  "signed": "1995-11-03",
+  "promulgated": "1995-11-10",
+  "inForce": "1995-11-11",
+  "inForceSource": "1995-11-11",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1995 S. 1492"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabina Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 541,
+   "no": 64,
+   "abstentions": 2
+  },
+  "votesSource": null,
+  "term": "13",
+  "initiative": "CDU/CSU, SPD und FDP",
+  "changes": [
+   {
+    "key": "106",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 44,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 28 und 106)",
+  "short": "44. Änderung (1997)",
+  "passed": "1997-09-11",
+  "signed": "1997-10-20",
+  "promulgated": "1997-10-24",
+  "inForce": "1997-10-25",
+  "inForceSource": "1997-10-25",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1997 S. 2470"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Theo Waigel",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Edzard Schmidt-Jortzig",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 618,
+   "no": 0,
+   "abstentions": 2
+  },
+  "votesSource": null,
+  "term": "13",
+  "initiative": "Regierungsvorlage eingebracht von CDU/CSU, SPD, Bündnis 90/Die Grünen, FDP",
+  "changes": [
+   {
+    "key": "28",
+    "kind": "updated"
+   },
+   {
+    "key": "106",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 45,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 13)",
+  "short": "45. Änderung (1998)",
+  "passed": "1998-01-16",
+  "signed": "1998-03-26",
+  "promulgated": "1998-03-31",
+  "inForce": "1998-04-01",
+  "inForceSource": "1998-04-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1998 S. 1998-01-16"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Edzard Schmidt-Jortzig",
+    "role": "Bundesminister der Justiz"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 452,
+   "no": 184,
+   "abstentions": 5
+  },
+  "votesSource": null,
+  "term": "13",
+  "initiative": null,
+  "changes": [
+   {
+    "key": "13",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 46,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 39)",
+  "short": "46. Änderung (1998)",
+  "passed": "1998-05-28",
+  "signed": "1998-07-16",
+  "promulgated": "1998-07-22",
+  "inForce": "1998-10-27",
+  "inForceSource": "1998-10-27",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 1998 S. 1822"
+  ],
+  "signers": [
+   {
+    "name": "Roman Herzog",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Helmut Kohl",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Manfred Kanther",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Edzard Schmidt-Jortzig",
+    "role": "Bundesminister der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 613,
+   "no": 1,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "13",
+  "initiative": "CDU/CSU, SPD, Bündnis 90/Die Grünen, FDP",
+  "changes": [
+   {
+    "key": "39",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 47,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 16)",
+  "short": "47. Änderung (2000)",
+  "passed": "2000-10-27",
+  "signed": "2000-11-29",
+  "promulgated": "2000-12-01",
+  "inForce": "2000-12-02",
+  "inForceSource": "2000-12-02",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2000 S. 1633"
+  ],
+  "signers": [
+   {
+    "name": "Johannes Rau",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Werner Müller",
+    "role": "Bundesminister für Wirtschaft und Technologie"
+   }
+  ],
+  "votes": {
+   "yes": 528,
+   "no": 1,
+   "abstentions": 2
+  },
+  "votesSource": null,
+  "term": "14",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "16",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 48,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 12a)",
+  "short": "48. Änderung (2000)",
+  "passed": "2000-10-27",
+  "signed": "2000-12-19",
+  "promulgated": "2000-12-22",
+  "inForce": "2000-12-23",
+  "inForceSource": "2000-12-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2000 S. 1755"
+  ],
+  "signers": [
+   {
+    "name": "Johannes Rau",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Däubler-Gmelin",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Schily",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 512,
+   "no": 5,
+   "abstentions": 26
+  },
+  "votesSource": null,
+  "term": "14",
+  "initiative": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP",
+  "changes": [
+   {
+    "key": "12a",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 49,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 108)",
+  "short": "49. Änderung (2001)",
+  "passed": "2001-06-29",
+  "signed": "2001-11-26",
+  "promulgated": "2001-11-29",
+  "inForce": "2001-11-30",
+  "inForceSource": "2001-11-30",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2001 S. 3219"
+  ],
+  "signers": [
+   {
+    "name": "Johannes Rau",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Hans Eichel",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Schily",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Däubler-Gmelin",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 572,
+   "no": 1,
+   "abstentions": 1
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/14/14180.pdf",
+  "term": "14",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "108",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 50,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Staatsziel Tierschutz)",
+  "short": "50. Änderung (2002)",
+  "passed": "2002-05-17",
+  "signed": "2002-07-26",
+  "promulgated": "2002-07-31",
+  "inForce": "2002-08-01",
+  "inForceSource": "2002-08-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2002 S. 2862"
+  ],
+  "signers": [
+   {
+    "name": "Johannes Rau",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Schily",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Däubler Gmelin",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 542,
+   "no": 19,
+   "abstentions": 15
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/14/14237.pdf",
+  "term": "14",
+  "initiative": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP",
+  "changes": [
+   {
+    "key": "20a",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 51,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 96)",
+  "short": "51. Änderung (2002)",
+  "passed": "2002-06-14",
+  "signed": "2002-07-26",
+  "promulgated": "2002-07-31",
+  "inForce": "2002-08-01",
+  "inForceSource": "2002-08-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2002 S. 2863"
+  ],
+  "signers": [
+   {
+    "name": "Johannes Rau",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Gerhard Schröder",
+    "role": "Bundeskanzler"
+   },
+   {
+    "name": "Däubler-Gmelin",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 531,
+   "no": 0,
+   "abstentions": 1
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/14/14243.pdf",
+  "term": "14",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "96",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 52,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 22, 23, 33, 52, 72, 73, 74, 74a, 75, 84, 85, 87c, 91a, 91b, 93, 98, 104a, 104b, 105, 107, 109, 125a, 125b, 125c, 143c)",
+  "short": "52. Änderung (2006)",
+  "passed": "2006-06-30",
+  "signed": "2006-08-28",
+  "promulgated": "2006-08-31",
+  "inForce": "2006-09-01",
+  "inForceSource": "2006-09-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2006 S. 2034"
+  ],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Peer Steinbrück",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 428,
+   "no": 161,
+   "abstentions": 3
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16044.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD",
+  "changes": [
+   {
+    "key": "22",
+    "kind": "updated"
+   },
+   {
+    "key": "23",
+    "kind": "updated"
+   },
+   {
+    "key": "33",
+    "kind": "updated"
+   },
+   {
+    "key": "52",
+    "kind": "updated"
+   },
+   {
+    "key": "72",
+    "kind": "updated"
+   },
+   {
+    "key": "73",
+    "kind": "updated"
+   },
+   {
+    "key": "74",
+    "kind": "updated"
+   },
+   {
+    "key": "74a",
+    "kind": "repealed"
+   },
+   {
+    "key": "75",
+    "kind": "repealed"
+   },
+   {
+    "key": "84",
+    "kind": "updated"
+   },
+   {
+    "key": "85",
+    "kind": "updated"
+   },
+   {
+    "key": "87c",
+    "kind": "updated"
+   },
+   {
+    "key": "91a",
+    "kind": "updated"
+   },
+   {
+    "key": "91b",
+    "kind": "updated"
+   },
+   {
+    "key": "93",
+    "kind": "updated"
+   },
+   {
+    "key": "98",
+    "kind": "updated"
+   },
+   {
+    "key": "104a",
+    "kind": "updated"
+   },
+   {
+    "key": "104b",
+    "kind": "created"
+   },
+   {
+    "key": "105",
+    "kind": "updated"
+   },
+   {
+    "key": "107",
+    "kind": "updated"
+   },
+   {
+    "key": "109",
+    "kind": "updated"
+   },
+   {
+    "key": "125a",
+    "kind": "updated"
+   },
+   {
+    "key": "125b",
+    "kind": "created"
+   },
+   {
+    "key": "125c",
+    "kind": "created"
+   },
+   {
+    "key": "143c",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 53,
+  "title": "Gesetz zur Änderung des Grundgesetz (Artikel 23, 45 und 93)",
+  "short": "53. Änderung (2008)",
+  "passed": "2008-04-24",
+  "signed": "2008-10-08",
+  "promulgated": "2008-10-16",
+  "inForce": "2009-12-01",
+  "inForceSource": "2009-12-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2008 S. 1926"
+  ],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 519,
+   "no": 8,
+   "abstentions": 49
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16157.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD, Bündnis 90/Die Grünen",
+  "changes": [
+   {
+    "key": "23",
+    "kind": "updated"
+   },
+   {
+    "key": "45",
+    "kind": "updated"
+   },
+   {
+    "key": "93",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 54,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 106, 106b, 107, 108)",
+  "short": "54. Änderung (2009)",
+  "passed": "2009-02-13",
+  "signed": "2009-03-19",
+  "promulgated": "2009-03-25",
+  "inForce": "2009-07-01",
+  "inForceSource": "2009-07-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2009 S. 606"
+  ],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Peer Steinbrück",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 562,
+   "no": 0,
+   "abstentions": 0
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16206.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD",
+  "changes": [
+   {
+    "key": "106",
+    "kind": "updated"
+   },
+   {
+    "key": "106b",
+    "kind": "created"
+   },
+   {
+    "key": "107",
+    "kind": "updated"
+   },
+   {
+    "key": "108",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 55,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 45d)",
+  "short": "55. Änderung (2009)",
+  "passed": "2009-05-29",
+  "signed": "2009-07-17",
+  "promulgated": "2009-07-22",
+  "inForce": "2009-07-23",
+  "inForceSource": "2009-07-23",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2009 S. 1977"
+  ],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   }
+  ],
+  "votes": {
+   "yes": 445,
+   "no": 54,
+   "abstentions": 29
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD, FDP",
+  "changes": [
+   {
+    "key": "45d",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 56,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 87d)",
+  "short": "56. Änderung (2009)",
+  "passed": "2009-05-28",
+  "signed": "2009-05-29",
+  "promulgated": "2009-07-31",
+  "inForce": "2009-08-01",
+  "inForceSource": "2009-08-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2009 S. 2247"
+  ],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Wolfgang Tiefensee",
+    "role": "Bundesminister für Verkehr"
+   }
+  ],
+  "votes": {
+   "yes": 459,
+   "no": 59,
+   "abstentions": 44
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD",
+  "changes": [
+   {
+    "key": "87d",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 57,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91c, 91d, 104b, 109, 109a, 115, 143d)",
+  "short": "57. Änderung (2009)",
+  "passed": "2009-05-29",
+  "signed": "2009-07-29",
+  "promulgated": "2009-07-31",
+  "inForce": "2009-08-01",
+  "inForceSource": "2009-08-01",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Horst Köhler",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Brigitte Zypries",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Peer Steinbrück",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 418,
+   "no": 109,
+   "abstentions": 48
+  },
+  "votesSource": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf",
+  "term": "16",
+  "initiative": "CDU/CSU, SPD",
+  "changes": [
+   {
+    "key": "91c",
+    "kind": "created"
+   },
+   {
+    "key": "91d",
+    "kind": "created"
+   },
+   {
+    "key": "104b",
+    "kind": "updated"
+   },
+   {
+    "key": "109",
+    "kind": "updated"
+   },
+   {
+    "key": "109a",
+    "kind": "created"
+   },
+   {
+    "key": "115",
+    "kind": "updated"
+   },
+   {
+    "key": "143d",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 58,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91e)",
+  "short": "58. Änderung (2010)",
+  "passed": "2010-06-17",
+  "signed": "2010-07-21",
+  "promulgated": "2010-07-26",
+  "inForce": "2010-07-27",
+  "inForceSource": null,
+  "correction": {
+   "why": "The source gives no date. Article 2 of the law puts it in force on the day after promulgation, and it was promulgated in BGBl. I Nr. 38 of 26 July 2010.",
+   "sources": [
+    "https://www.buzer.de/gesetz/5041/l.htm",
+    "https://www.umwelt-online.de/recht/allgemei/z10_0944.htm"
+   ]
+  },
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Peter Müller",
+    "role": "Präsident des Bundesrates (für den Bundespräsidenten)"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Thomas de Maizière",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Ursula von der Leyen",
+    "role": "Bundesministerin für Arbeit und Soziales"
+   }
+  ],
+  "votes": {
+   "yes": 515,
+   "no": 71,
+   "abstentions": 0,
+   "notVoted": 36
+  },
+  "votesSource": "http://www.bundestag.de/bundestag/plenum/abstimmung/grafik/index.jsp",
+  "term": "17",
+  "initiative": "CDU/CSU, SPD, FDP",
+  "changes": [
+   {
+    "key": "91e",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 59,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 93)",
+  "short": "59. Änderung (2012)",
+  "passed": "2012-05-24",
+  "signed": "2012-07-11",
+  "promulgated": "2012-07-16",
+  "inForce": "2012-07-17",
+  "inForceSource": "2012-07-17",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Joachim Gauck",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Sabine Leutheusser-Schnarrenberger",
+    "role": "Bundesministerin der Justiz"
+   },
+   {
+    "name": "Hans-Peter Friedrich",
+    "role": "Bundesminister des Innern"
+   }
+  ],
+  "votes": {
+   "yes": 510,
+   "no": 0,
+   "abstentions": 66,
+   "notVoted": 44,
+   "invalid": 0
+  },
+  "votesSource": "http://www.bundestag.de/bundestag/plenum/abstimmung/2012/20120524.pdf",
+  "term": "17",
+  "initiative": "CDU/CSU, SPD, FDP, Bündnis 90/Die Grünen",
+  "changes": [
+   {
+    "key": "93",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 60,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91b)",
+  "short": "60. Änderung (2014)",
+  "passed": "2014-11-13",
+  "signed": "2014-12-23",
+  "promulgated": "2014-12-31",
+  "inForce": "2015-01-01",
+  "inForceSource": "2015-01-01",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Joachim Gauck",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Thomas de Maizière",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Johanna Wanka",
+    "role": "Bundesministerin für Bildung und Forschung"
+   }
+  ],
+  "votes": {
+   "yes": 482,
+   "no": 54,
+   "abstentions": 56,
+   "notVoted": 39,
+   "invalid": 0
+  },
+  "votesSource": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=309",
+  "term": "18",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "91b",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 61,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 21)",
+  "short": "61. Änderung (2017)",
+  "passed": "2017-06-22",
+  "signed": "2017-07-13",
+  "promulgated": "2017-07-19",
+  "inForce": "2017-07-20",
+  "inForceSource": "2017-07-20",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Frank-Walter Steinmeier",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Thomas de Maizière",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Heiko Maas",
+    "role": "Bundesminister der Justiz und für Verbraucherschutz"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister der Finanzen"
+   }
+  ],
+  "votes": {
+   "yes": 502,
+   "no": 57,
+   "abstentions": 20,
+   "notVoted": 51,
+   "invalid": 0
+  },
+  "votesSource": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=481",
+  "term": "18",
+  "initiative": "CDU/CSU, SPD",
+  "changes": [
+   {
+    "key": "21",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 62,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)",
+  "short": "62. Änderung (2017)",
+  "passed": "2017-06-01",
+  "signed": "2017-07-13",
+  "promulgated": "2017-07-19",
+  "inForce": "2017-07-20",
+  "inForceSource": "2017-07-20",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Frank-Walter Steinmeier",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Wolfgang Schäuble",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Thomas de Maizière",
+    "role": "Bundesminister des Innern"
+   },
+   {
+    "name": "Heiko Maas",
+    "role": "Bundesminister der Justiz und für Verbraucherschutz"
+   },
+   {
+    "name": "Alexander Dobrindt",
+    "role": "Bundesminister für Verkehr und digitale Infrastruktur"
+   }
+  ],
+  "votes": {
+   "yes": 455,
+   "no": 87,
+   "abstentions": 61,
+   "notVoted": 27,
+   "invalid": 0
+  },
+  "votesSource": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472",
+  "term": "18",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "90",
+    "kind": "updated"
+   },
+   {
+    "key": "91c",
+    "kind": "updated"
+   },
+   {
+    "key": "104b",
+    "kind": "updated"
+   },
+   {
+    "key": "104c",
+    "kind": "created"
+   },
+   {
+    "key": "107",
+    "kind": "updated"
+   },
+   {
+    "key": "108",
+    "kind": "updated"
+   },
+   {
+    "key": "109a",
+    "kind": "updated"
+   },
+   {
+    "key": "114",
+    "kind": "updated"
+   },
+   {
+    "key": "125c",
+    "kind": "updated"
+   },
+   {
+    "key": "143d",
+    "kind": "updated"
+   },
+   {
+    "key": "143e",
+    "kind": "created"
+   },
+   {
+    "key": "143f",
+    "kind": "created"
+   },
+   {
+    "key": "143g",
+    "kind": "created"
+   }
+  ]
+ },
+ {
+  "nr": 63,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 104b, 104c, 104d, 125c, 143e)",
+  "short": "63. Änderung (2019)",
+  "passed": "2019-02-21",
+  "signed": "2019-03-28",
+  "promulgated": "2019-04-03",
+  "inForce": "2019-04-04",
+  "inForceSource": "2019-04-04",
+  "correction": null,
+  "gazette": [],
+  "signers": [
+   {
+    "name": "Frank-Walter Steinmeier",
+    "role": "Bundespräsident"
+   },
+   {
+    "name": "Angela Merkel",
+    "role": "Bundeskanzlerin"
+   },
+   {
+    "name": "Olaf Scholz",
+    "role": "Bundesminister der Finanzen"
+   },
+   {
+    "name": "Horst Seehofer",
+    "role": "Bundesminister des Innern, für Bau und Heimat"
+   },
+   {
+    "name": "Katarina Barley",
+    "role": "Bundesministerin der Justiz und für Verbraucherschutz"
+   },
+   {
+    "name": "Andreas Scheuer",
+    "role": "Bundesminister für Verkehr und digitale Infrastruktur"
+   },
+   {
+    "name": "Anja Karliczek",
+    "role": "Bundesministerin für Bildung und Forschung"
+   }
+  ],
+  "votes": {
+   "yes": 574,
+   "no": 74,
+   "abstentions": 0,
+   "notVoted": 61,
+   "invalid": 0
+  },
+  "votesSource": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=574",
+  "term": "19",
+  "initiative": "Regierungsvorlage",
+  "changes": [
+   {
+    "key": "104b",
+    "kind": "updated"
+   },
+   {
+    "key": "104c",
+    "kind": "updated"
+   },
+   {
+    "key": "104d",
+    "kind": "created"
+   },
+   {
+    "key": "125c",
+    "kind": "updated"
+   },
+   {
+    "key": "143e",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 64,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 72, 105 und 125b)",
+  "short": "64. Änderung (2019)",
+  "passed": "2019-10-18",
+  "signed": "2019-11-15",
+  "promulgated": "2019-11-20",
+  "inForce": "2019-11-21",
+  "inForceSource": "2019-11-21",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2019 S. 1546"
+  ],
+  "signers": [],
+  "votes": null,
+  "votesSource": null,
+  "term": "19",
+  "initiative": "Fraktionen der CDU/CSU und SPD (BT-Drs. 19/11084)",
+  "changes": [
+   {
+    "key": "72",
+    "kind": "updated"
+   },
+   {
+    "key": "105",
+    "kind": "updated"
+   },
+   {
+    "key": "125b",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 65,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 104a und 143h)",
+  "short": "65. Änderung (2020)",
+  "passed": "2020-09-17",
+  "signed": "2020-09-29",
+  "promulgated": "2020-10-07",
+  "inForce": "2020-10-08",
+  "inForceSource": "2020-10-08",
+  "correction": {
+   "why": "Article 143h expired under Article 2, second sentence, of the 65th amending law: \"Artikel 143h des Grundgesetzes tritt am 31. Dezember 2020 außer Kraft.\" The Bundestag's Datenhandbuch (chapter 13.2) gives 31 December 2021, which the law's text contradicts; its chapter 13.3 agrees with the law.",
+   "sources": [
+    "https://media.offenegesetze.de/bgbl1/2020/bgbl1_2020_44.pdf#page=2"
+   ]
+  },
+  "gazette": [
+   "BGBl. I 2020 S. 2048"
+  ],
+  "signers": [],
+  "votes": null,
+  "votesSource": null,
+  "term": "19",
+  "initiative": "Fraktionen der CDU/CSU und SPD (BT-Drs. 19/20595)",
+  "changes": [
+   {
+    "key": "104a",
+    "kind": "updated"
+   },
+   {
+    "key": "143h",
+    "kind": "created"
+   },
+   {
+    "key": "143h",
+    "kind": "repealed"
+   }
+  ]
+ },
+ {
+  "nr": 66,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 87a)",
+  "short": "66. Änderung (2022)",
+  "passed": "2022-06-03",
+  "signed": "2022-06-28",
+  "promulgated": "2022-06-30",
+  "inForce": "2022-07-01",
+  "inForceSource": "2022-07-01",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2022 S. 968"
+  ],
+  "signers": [],
+  "votes": null,
+  "votesSource": null,
+  "term": "20",
+  "initiative": "Regierungsvorlage (BT-Drs. 20/1410)",
+  "changes": [
+   {
+    "key": "87a",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 67,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 82)",
+  "short": "67. Änderung (2022)",
+  "passed": "2022-12-01",
+  "signed": "2022-12-19",
+  "promulgated": "2022-12-23",
+  "inForce": "2022-12-24",
+  "inForceSource": "2022-12-24",
+  "correction": null,
+  "gazette": [
+   "BGBl. I 2022 S. 2478"
+  ],
+  "signers": [],
+  "votes": null,
+  "votesSource": null,
+  "term": "20",
+  "initiative": "Regierungsvorlage (BT-Drs. 20/2729)",
+  "changes": [
+   {
+    "key": "82",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 68,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 93 und 94)",
+  "short": "68. Änderung (2024)",
+  "passed": "2024-12-19",
+  "signed": "2024-12-20",
+  "promulgated": "2024-12-27",
+  "inForce": "2024-12-28",
+  "inForceSource": "2024-12-28",
+  "correction": null,
+  "gazette": [
+   "BGBl. 2024 I Nr. 439"
+  ],
+  "signers": [],
+  "votes": null,
+  "votesSource": null,
+  "term": "20",
+  "initiative": "Fraktionen von BÜNDNIS 90/DIE GRÜNEN, CDU/CSU, FDP und SPD (BT-Drs. 20/12977)",
+  "changes": [
+   {
+    "key": "93",
+    "kind": "updated"
+   },
+   {
+    "key": "94",
+    "kind": "updated"
+   }
+  ]
+ },
+ {
+  "nr": 69,
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 109, 115 und 143h)",
+  "short": "69. Änderung (2025)",
+  "passed": "2025-03-18",
+  "signed": "2025-03-22",
+  "promulgated": "2025-03-24",
+  "inForce": "2025-03-25",
+  "inForceSource": "2025-03-25",
+  "correction": null,
+  "gazette": [
+   "BGBl. 2025 I Nr. 94"
+  ],
+  "signers": [],
+  "votes": {
+   "yes": 512,
+   "no": 206,
+   "abstentions": 0
+  },
+  "votesSource": null,
+  "term": "20",
+  "initiative": "Fraktionen der CDU/CSU und SPD (BT-Drs. 20/15096)",
+  "changes": [
+   {
+    "key": "109",
+    "kind": "updated"
+   },
+   {
+    "key": "115",
+    "kind": "updated"
+   },
+   {
+    "key": "143h",
+    "kind": "created"
+   }
+  ]
+ }
+]

@@ -1,0 +1,56 @@
+{
+ "corpus": "de/bund/acts",
+ "name": "germany-law",
+ "label": "Germany",
+ "language": "de",
+ "history_from": "1949-05-24",
+ "record_to": "2026-10-28",
+ "record_note": "Grundgesetz from 1949 (DocPatch reconciled with the official text, then Gesetze im Internet); all other federal law from 10 June 2019 (Gesetze im Internet via QuantLaw's daily archive). Checked against Gesetze im Internet on the record_to day.",
+ "in_force_trailer": "In-Kraft",
+ "baseline_trailer": "Beobachtet",
+ "correction_trailer": "In-Kraft-laut-Fussnote",
+ "has_future_branch": false,
+ "dates": {
+  "commit": "in-force",
+  "other_trailers": [
+   "Beschlossen",
+   "Ausgefertigt",
+   "Verkuendet",
+   "In-Kraft-laut-Fussnote",
+   "Beobachtet"
+  ],
+  "time": "12:00 Europe/Berlin",
+  "before_1970": "git cannot store dates before 1970: those commits are dated 1970-01-01T00:00:00Z, one second apart in order; the real date is in the In-Kraft trailer and the in-kraft/YYYY-MM-DD tag",
+  "federal_in_force": "for federal acts other than the Grundgesetz, the day Gesetze im Internet published the change; In-Kraft-laut-Fussnote gives the date the footnotes state where it differs"
+ },
+ "modifies": {
+  "trailer": null,
+  "kinds": [],
+  "note": "no record yet of law that changes in effect while its words stay the same"
+ },
+ "changes": {
+  "kinds": {
+   "changed": "the text of an act changed",
+   "added": "an act first published (Neu aufgenommen, or under its amending law)",
+   "removed": "an act no longer published for 14 days (Nicht mehr veröffentlicht)"
+  },
+  "note": "One commit per amending law per in-force day, across every act it changed; the author is the law."
+ },
+ "scope": {
+  "trailer": null,
+  "groups": null,
+  "conditions": null,
+  "when_absent": "no scope note is recorded in this history (no Applies lines yet); not a statement that a change reaches every case",
+  "default_reach": {
+   "rule": "Rückwirkungsverbot (prohibition of retroactivity)",
+   "meaning": "a law may not attach new burdens to facts already completed before its promulgation (true retroactivity, echte Rückwirkung), save narrow exceptions; it may in principle reach facts that began earlier and are still ongoing (false retroactivity, unechte Rückwirkung), subject to proportionality and legitimate expectations; criminal law is never retroactive (Art. 103(2) GG)",
+   "authority": "Rechtsstaatsprinzip, Art. 20(3) GG, as applied by the Bundesverfassungsgericht (e.g. BVerfGE 135, 1); Art. 103(2) GG",
+   "decided_here": false
+  }
+ },
+ "citation": {
+  "file": "(grundgesetz/artikel)/0*([0-9]+[a-z]?)\\.md",
+  "cites": "(Artikel|Art\\.) ?{n}([^0-9a-z]|$)"
+ },
+ "tool": "python tools/stand_am.py DATE [ARTICLE ...] | python tools/stand_am.py DATE --gesetz <act>"
+}
