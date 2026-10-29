@@ -1,3 +1,3 @@
-# Art 3
+# Art 3 Änderungsvorschrift
 
--
+
