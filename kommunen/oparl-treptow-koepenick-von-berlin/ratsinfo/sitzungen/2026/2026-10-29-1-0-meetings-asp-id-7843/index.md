@@ -1,0 +1,56 @@
+# 1. (konstituierende, öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2026-10-29T17:00:00+01:00
+- Ende: 2026-10-29T21:18:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7843
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7843
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konstituierung der BVV - erledigt
+- TOP 2: Bestätigung der Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Beschlussfassung zur Geschäftsordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Wahl des Vorstandes - (offen)
+- TOP 4.1: Wahl der Vorsteherin / des Vorstehers - gewählt
+- TOP 4.2: Wahl der stellv. Vorsteherin / des stellv. Vorstehers - (offen)
+- TOP 4.2.1: Wahl der stellv. Vorsteherin / des stellv. Vorstehers - gewählt
+- TOP 4.2.2: Wahl der stellv. Vorsteherin / des stellv. Vorstehers - in der BVV abgelehnt
+- TOP 4.3: Wahl einer Beisitzerin / eines Beisitzers - vertagt
+- TOP 4.4: Wahl einer weiteren Beisitzerin / eines weiteren Beisitzers - gewählt
+- TOP 4.5: Wahl einer weiteren Beisitzerin / eines weiteren Beisitzers - vertagt
+- TOP 4.6: Wahl einer weiteren stellv. Schriftführerin / eines weiteren stellv. Schriftführers - gegenstandslos
+- TOP 5: Feststellung der Stärkeverhältnisse der Fraktionen - erledigt
+- TOP 6: Bildung des Ältestenrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Sitzungstermine der BVV der X. Wahlperiode im Jahr 2026 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mitteilungen des Vorstehers Nr. IX-45 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - mit Änderungen in der BVV beschlossen
+- TOP 8.1: Zwischenberichte - (offen)
+- TOP 8.1.1: Geschwindigkeitsbegrenzung vor Ampel anpassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.2: Kreuzung Schönefelder Chaussee Ecke Dankmarsteig sicherer gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.3: Aktionsplan "Inklusion und Barrierefreiheit" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.4: Sichere Querung Straßenbahnstation Nixenstraße endlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1.5: Errichtung eines Verkehrsschutzgitters zwischen Gehweg und Fahrbahn vor der Mittelpunktbibliothek Alte Feuerwache - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Schlussberichte - (offen)
+- TOP 8.2.1: Hundekotbeseitigung in Baumschulenweg unterstützen - überwiesen
+- TOP 8.2.2: Skateranlage an Minna-Todenhagen-Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.3: Bürgerbeteiligungsverfahren zur Erarbeitung des Verkehrsberuhigungskonzeptes in Oberschöneweide fortführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.4: Standortkonferenz Schöneweide - Zwischenbilanz und Perspektiven - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.5: Eine "Rote Bank" für Treptow-Köpenick - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.6: Parkbänke auf dem Ehrenfelder Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.7: Gebärdensprachdolmetschen bei öffentlichen Veranstaltungen gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.8: Ortsteilkonferenz für Köpenick-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.9: Skaterpark unter der Minna-Todenhagen-Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.10: Gedenken an den 7. Oktober 2023 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.11: Öffentlichen Spielplatz in Bohnsdorf attraktiver gestalten - überwiesen
+- TOP 8.2.12: Bessere Information, transparente Kommunikation und sozialverträgliche Lösungen bei den Erholungsgrundstücken an der Seddinpromenade in Schmöckwitz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.13: Mehr Schliff im Straßenland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2.14: Tag für psychische Gesundheit - Frühe Medienkompetenz stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 9.1: Jugendangebote aufs Handy – Klub-App für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 11: Weitere Anträge - (offen)
