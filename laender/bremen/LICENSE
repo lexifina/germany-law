@@ -6,10 +6,19 @@ Vorschriften section of the Transparenzportal Bremen, Freie Hansestadt Bremen, w
 - Copyright: "Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste
   Leitsätze zu Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 Urheberrechtsgesetz)
 - The portal's licence overview lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" for official works such as
-  Gesetze. Its pages also carry a general notice that their contents are under Creative Commons BY-NC-ND "sofern nicht
-  anders angegeben"; the law texts are official works exempt from copyright under § 5 Abs. 1 UrhG, to which that
-  notice cannot apply. Its Nutzungsbedingungen ask users to name the "Verantwortliche Stelle" and "Freie Hansestadt
-  Bremen" and not to imply endorsement; this repository is not endorsed by the Freie Hansestadt Bremen.
+  Gesetze.
+- The portal's Nutzungsbedingungen say that users "dürfen die Daten für alle Zwecke verwenden, so lange nicht gegen die
+  Nutzungsbedingungen und geltendes Recht verstoßen wird", and ask them to name the "Verantwortliche Stelle" and
+  "Freie Hansestadt Bremen" (https://www.transparenz.bremen.de/transparenzportal-bremen/nutzungsbedingungen-3964).
+- The portal's Impressum, under "Besonderheiten bei den Gesetzen, Rechtsverordnungen und Vorschriften", says that "Die
+  von unserem Dienstleister redaktionell aufbereitete Fassung der Gesetze, Rechtsverordnungen und Vorschriften"
+  includes extras available only on the portal, among them "die Anzeige früherer Versionen", and: "Aus diesem Grund
+  stehen diese Einträge unter der Lizenz Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitung"
+  (https://www.transparenz.bremen.de/transparenzportal-bremen/impressum-1478). Its page footers carry the same notice
+  "Sofern nicht anders angegeben". This repository holds the words of the laws, current and earlier versions, as the
+  portal publishes them. Whether that notice can extend to those words, which § 5 Abs. 1 UrhG exempts from copyright,
+  is not settled here: it is quoted so that users can judge for themselves.
+- This repository is not endorsed by the Freie Hansestadt Bremen.
 - The texts are not the official version: only the Bremisches Gesetzblatt is authoritative.
 
 Attribution: Quelle: Transparenzportal Bremen, Freie Hansestadt Bremen, www.transparenz.bremen.de.
