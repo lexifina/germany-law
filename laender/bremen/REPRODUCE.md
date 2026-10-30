@@ -20,6 +20,10 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
 | Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
 | Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
+| Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
+| Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
+| Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
+| Transparenzportal Bremen (Freie Hansestadt Bremen), Vorschriften: current and earlier versions of each act ("Frühere Fassungen") | <https://www.transparenz.bremen.de/vorschriften-72741> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection; the portal lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" among its licences. Its pages carry a general CC BY-NC-ND notice "sofern nicht anders angegeben", which cannot extend to texts § 5 UrhG exempts. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -594,20 +598,134 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `vo-65878` | Bremische Bisamverordnung vom 23. November 1994 | 3 | 1994-12-08 to 2009-12-09 |
 | `vo-74749` | Durchführungsverordnung zum Erstattungsgesetz vom 29. Juni 1937 | 4 | 1964-07-01 to 2015-01-01 |
 | `bremfeuv` | Bremische Feuerungsverordnung (BremFeuV) vom 16. Dezember 2010 | 6 | 2000-02-19 to 2019-05-01 |
+| `bremdsauditv` | Bremische Datenschutzauditverordnung (BremDSAuditV) vom 5. Oktober 2004 | 4 | 2004-10-15 to 2015-01-01 |
+| `vo-76208` | Verordnung über die Aufnahme in Gesamtschulen vom 20. März 1995 | 3 | 1995-03-20 to 2004-02-25 |
+| `vo-68072` | Verordnung über die Durchführung der Kriegsopferfürsorge vom 17. April 1962 | 9 | 1962-06-01 to 2018-06-08 |
+| `vo-69899` | Verordnung über die Zuständigkeiten in Staatsangehörigkeitsangelegenheiten vom 2. Februar 1993 | 7 | 1993-02-18 to 2008-08-01 |
+| `vo-74839` | Verordnung über die Aufnahme in Gymnasien vom 21. April 1997 | 8 | 1997-04-15 to 2004-02-25 |
+| `vo-75094` | Durchführungsverordnung zum Vieh- und Fleischgesetz vom 14. Juni 1955 | 4 | 1955-07-20 to 2013-07-30 |
+| `vo-66837` | Verordnung über die Zuständigkeiten nach dem Gaststättengesetz vom 23. März 1971 | 4 | 1971-04-06 to 2009-05-01 |
+| `vo-110647` | Verordnung zur Abgeltung der Bürokosten der Gerichtsvollzieher vom 16. September 1998 | 21 | 1998-01-01 to 2019-01-01 |
+| `biwikostv` | Kostenverordnung der Bildungs- und Wissenschaftsverwaltung (BiWiKostV) vom 15. August/16. August 2002 | 13 | 2002-10-01 to 2017-02-01 |
+| `vo-70219` | Verordnung über die Festlegung abweichender Unterrichtsverpflichtungen vom 8. Mai 2003 | 4 | 2003-05-24 to 2015-08-01 |
+| `vo-68160` | Verordnung über die kaufmännische Berufsfachschule vom 5. September 1994 | 10 | 1994-08-01 to 2013-08-01 |
+| `vo-67731` | Verordnung über die Berufsfachschule für hauswirtschaftliche Dienstleistungen vom 5. August 2005 | 4 | 2005-08-01 to 2013-08-01 |
+| `vo-164255` | Verordnung über den Mindestlohn nach dem Landesmindestlohngesetz vom 9. Februar 2021 | 3 | 2014-10-01 to 2022-07-06 |
+| `vo-67192` | Verordnung über die Verarbeitung von Studentendaten im Hochschulbereich vom 16. Dezember 1992 | 3 | 1992-09-01 to 2009-01-01 |
+| `vo-169514` | Erste Verordnung für unterstützende Pädagogik vom 22. Mai 2013 | 5 | 2013-08-01 to 2023-08-01 |
+| `vo-74979` | Verordnung für die an das oldenburgische Pferdezuchtgebiet angegliederten bremischen Gebietsteile auf dem linken Weserufer über eine Abänderung des oldenburgischen Pferdezuchtgesetzes vom 29. Mai 1923 vom 4. August 1924 | 1 | 1964-07-01 to 1964-07-01 |
+| `vo-66047` | Verordnung über die höhere Verzinsung öffentlicher Darlehen und über die Herabsetzung von Zins- und Tilgungshilfen sowie Aufwendungshilfen bei mit öffentlichen Mitteln geförderten Wohnungen vom 16. August 1982 | 6 | 1982-08-31 to 2002-06-04 |
+| `vo-70694` | Verordnung zur Übertragung der Aufgaben der Kammer für Wertpapierbereinigung auf die Kammern für Handelssachen bei dem Landgericht Bremen vom 5. März 1974 | 1 | 1974-04-01 to 1974-04-01 |
+| `vo-66193` | Verordnung zur Übertragung von Aufgaben nach dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland auf die Hanseatische Rechtsanwaltskammer Bremen vom 26. Juni 2000 | 1 | 2000-07-14 to 2000-07-14 |
+| `vo-311058` | Verordnung über die vorübergehende Fortführung von Papierakten bis zur Einführung der elektronischen Akte in den Bußgeldstellen im Geschäftsbereich der Senatorin für Umwelt, Klima und Wissenschaft vom 23. Dezember 2025 | 1 | 2026-01-01 to 2026-01-01 |
+| `vo-72267` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz zur Regelung der Wohnungsvermittlung vom 1. August 1972 | 2 | 1972-08-17 to 1998-11-17 |
+| `vo-296415` | Verordnung über die für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den §§ 144, 145, 146, 147 a und 147 b der Gewerbeordnung zuständigen Behörden vom 25. Juni 1996 | 5 | 1996-07-11 to 2025-06-30 |
+| `vo-65237` | Bremische Verordnung über die Ausbildung und Prüfung für die Laufbahngruppe 2, erstes Einstiegsamt in der Fachrichtung Allgemeine Dienste zur Verwendung im Archivdienst im Land Bremen vom 11. Dezember 2012 | 1 | 2011-10-01 to 2011-10-01 |
+| `vo-65764` | Verordnung über die Teilnahmeverpflichtung an ärztlichen Untersuchungen für Schülerinnen und Schüler an Werkschulen, an beruflichen Schulen, an Sekundarschulen und an Förderzentren im Land Bremen vom 18. Juli 1997 | 6 | 1997-08-06 to 2015-12-04 |
+| `vo-87401` | Verordnung über die Errichtung und das Verfahren der Landesschiedsstelle und der erweiterten Landesschiedsstelle nach dem Fünften Buch Sozialgesetzbuch vom 17. Dezember 1991 | 7 | 1992-01-11 to 2015-07-28 |
+| `vo-69019` | Verordnung über die Einrichtung eines automatisierten Abrufverfahrens beim Rechnungsprüfungsamt der Stadt Bremerhaven für das vom Personalamt der Stadt Bremerhaven unterhaltene Personalabrechnungs-Programmsystem vom 10. Juni 1997 | 5 | 1997-06-25 to 2015-08-29 |
+| `nsp-msa-v` | Verordnung über die Prüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler zur Erlangung des Mittleren Schulabschlusses (NSP-MSA-V) vom 16. September 2014 | 5 | 2008-08-01 to 2015-07-28 |
+| `bremabwabfverbrv` | Verordnung zur Umsetzung der Anforderungen der Richtlinie 2000/76/EG über die Verbrennung von Abfällen an die ordnungsgemäße Abwasserbeseitigung in Bremen (BremAbwAbfVerbrV) vom 11. April 2003 | 1 | 2003-05-10 to 2003-05-10 |
+| `vo-66923` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Weiterbildung in den Gesundheitsfachberufen vom 15. Dezember 1992 | 1 | 1993-01-15 to 1993-01-15 |
+| `nsp-v` | Verordnung über die Abiturprüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler im Lande Bremen (NSP-V) vom 22. Dezember 2005 | 10 | 1991-09-01 to 2015-07-28 |
+| `vo-170853` | Bremische Verordnung über die Ausbildung und Prüfung für die Laufbahngruppe 1, zweites Einstiegsamt in der Fachrichtung Justiz zur Verwendung im Vollzugs- und Werkdienst vom 18. Juni 2013 | 2 | 2013-08-01 to 2021-08-01 |
+| `vo-296956` | Verordnung über die Festsetzung eines Wasserschutzgebietes für die Trinkwasserbrunnen des Wasserwerkes Blumenthal der wesernetz Bremen GmbH in Bremen-Vegesack im Land Bremen vom 5. März 2023 | 2 | 2023-03-31 to 2025-06-30 |
+| `vo-310346` | Verordnung über das Finanz- und Rechnungswesen der Universität Bremen, der Hochschule Bremen, der Hochschule für Künste, der Hochschule Bremerhaven und der Staats- und Universitätsbibliothek vom 18. April 2016 | 10 | 2003-01-01 to 2025-12-19 |
+| `vo-374042` | Verordnung über die Bildungsgänge zum Erwerb der Erweiterten Berufsbildungsreife und zum Erwerb des Mittleren Schulabschlusses an den Schulen für Erwachsene im Lande Bremen vom 17. August 2026 | 1 | 2026-08-01 to 2026-08-01 |
+| `vo-419876` | Verordnung über Abweichungen von den Einkommensgrenzen des § 9 Abs. 2 des Wohnraumförderungsgesetzes auf dem Gebiet der sozialen Wohnraumförderung und des sozialen Wohnungsbaus vom 18. Mai 2009 | 3 | 2002-06-04 to 2026-10-14 |
+| `vo-371424` | Bremische Verordnung über Zuständigkeiten für die Ausführung von Rechtsvorschriften nach dem Gesetz über die Beförderung gefährlicher Güter und dem Gesetz zu dem Übereinkommen über sichere Container vom 14. Juni 2016 | 4 | 2016-06-29 to 2026-08-16 |
+| `vo-371845` | Verordnung über die vorübergehende Fortführung von Papierakten bis zur Einführung der elektronischen Akte bei der Senatorin für Bau, Mobilität und Stadtentwicklung vom 12. August 2026 | 1 | 2026-08-16 to 2026-08-16 |
+| `kapvo` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen sowie zu Ausgleichs-, Qualifizierungs-, Seiten- und Quereinstiegsmaßnahmen im Land Bremen (KapVO) vom 1. September 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `vo-89398` | Verordnung, betreffend das Verbot des Absingens und Spielens nationalsozialistischer oder die Völkerverständigung gefährdender Lieder und Märsche vom 18. September 1951 | 3 | 1951-09-20 to 2005-03-11 |
+| `vo-67898` | Verordnung über Anforderungen an Anlagen zum Lagern und Abfüllen von Jauche, Gülle, Festmist und Silagesickersäften vom 23. April 1997 | 3 | 1997-05-10 to 2018-09-13 |
+| `vo-66167` | Verordnung über die Anforderungen an die Kenntnisse der deutschen Sprache als Voraussetzung für die Einschulung in eine Regelklasse vom 11. Juli 2005 | 3 | 2005-08-01 to 2011-05-07 |
+| `vo-69821` | Verordnung zur Bestimmung von Bremen zu einem Gebiet im Sinne des Gesetzes über eine Sozialklausel in Gebieten mit gefährdeter Wohnungsversorgung vom 8. Juni 1993 | 4 | 1993-06-18 to 2008-01-01 |
+| `vo-105006` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Chemikaliengesetz vom 20. Dezember 2005 | 7 | 1991-02-05 to 2021-07-23 |
+| `vo-75025` | Verordnung über die Öffnungszeiten der Verkaufsstellen für den Verkauf bestimmter Waren an Sonn- und Feiertagen vom 27. Dezember 1957 | 5 | 1958-01-01 to 2007-04-01 |
+| `vo-76206` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gerätesicherheitsgesetz vom 13. August 2002 | 3 | 1993-03-16 to 2004-09-21 |
+| `vo-69743` | Bergverordnung des Oberbergamts für die Freie Hansestadt Bremen in Clausthal-Zellerfeld für die Sicherheitskennzeichnung am Arbeitsplatz vom 27. November 1978 | 3 | 1979-01-01 to 1996-12-24 |
+| `vo-68566` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 14. Januar 2010 | 4 | 2001-11-01 to 2010-05-01 |
+| `vo-69369` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Rundfunkgebührenstaatsvertrag vom 6. März 2007 | 3 | 1970-01-01 to 2010-01-12 |
+| `vergabevo-stiftung` | Verordnung über die zentrale Vergabe von Studienplätzen durch die Stiftung für Hochschulzulassung (VergabeVO Stiftung) vom 5. Oktober 2010 | 19 | 2000-08-01 to 2019-12-03 |
+| `vo-66964` | Verordnung über die Berufsfachschule für Gesundheit, Hauswirtschaft und Sozialwesen im Lande Bremen vom 24. September 1991 | 5 | 1992-08-01 to 2015-08-01 |
+| `vo-65894` | Verordnung über die Festsetzung eines Wasserschutzgebietes für das Wasserwerk Blumenthal der Stadtwerke Bremen AG vom 11. November 1986 | 7 | 1987-01-01 to 2014-02-13 |
+| `vo-89743` | Verordnung über die Genehmigung zur Führung ausländischer Grade vom 8. Februar 1989 | 6 | 1989-02-24 to 2004-03-30 |
+| `vo-72399` | Verordnung über die Zuerkennung eines mit dem Abschluß einer öffentlichen Schule vergleichbaren Bildungsstandes vom 25. Februar 1994 | 7 | 1994-03-12 to 2015-08-01 |
+| `vo-74706` | Zweite Verordnung über die Feststellung besonders gefährdeter Überschwemmungsgebiete vom 25. September 1962 | 5 | 1962-10-03 to 2007-12-08 |
+| `vo-105013` | Verordnung für die Prüfung zur Erlangung des Erweiterten Hauptschulabschlusses vom 26. März 1991 | 4 | 1991-04-17 to 2008-08-01 |
+| `vo-157920` | Verordnung zur Übertragung von Aufgaben der Vertrauensstelle des Bremer Krebsregisters vom 7. April 2015 | 4 | 2015-05-01 to 2025-12-31 |
+| `vo-64003` | Verordnung über den gemeinsamen Bereitschaftsdienst bei den Amtsgerichten Bremen und Bremen-Blumenthal vom 25. November 2002 | 5 | 2003-01-01 to 2019-01-05 |
+| `vo-75019` | Verordnung über die Aufnahme in bilinguale Bildungsgänge in Schulzentren der Sekundarstufe I vom 21. April 1997 | 4 | 1997-04-15 to 2004-02-25 |
+| `vo-74863` | Polizeiverordnung über das Halten von Hunden in der Stadt Bremerhaven vom 7. Juni 2000 | 4 | 1992-11-30 to 2001-10-10 |
+| `vo-68305` | Ausführungsverordnung zum Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung vom 16. Juni 1958 | 7 | 1958-08-01 to 2018-09-27 |
+| `vo-75006` | Verordnung über die öffentliche Bestellung und Vereidigung der Schiffsbesichtiger in Bremen und Bremerhaven vom 30. November 1971 | 4 | 1972-01-01 to 2002-04-05 |
+| `vo-67756` | Verordnung über die Berufsfachschule für Hauswirtschaft und Soziales vom 5. August 2005 | 5 | 2005-08-01 to 2013-08-01 |
+| `vo-67852` | Verordnung über die Eintragungs- und Anzeigeverfahren bei der Ingenieurkammer der Freien Hansestadt Bremen vom 12. Juli 1994 | 6 | 1994-07-30 to 2016-01-01 |
+| `vo-69114` | Verordnung über die zuständigen Behörden nach dem Pflanzenschutzrecht vom 30. November 1999 | 3 | 1999-12-15 to 2014-11-01 |
+| `vo-65950` | Verordnung über die Wahl des Börsenrates der Börse Berlin-Bremen vom 19. Februar 2004 | 7 | 1995-08-29 to 2009-12-09 |
+| `vo-66200` | Verordnung über die nach dem Einheitenrecht und dem Eichrecht zuständigen Behörden vom 17. Februar 1998 | 3 | 1998-03-17 to 2008-02-05 |
+| `vo-66586` | Verordnung über das Baden in den natürlichen, fließenden Gewässern in Bremerhaven vom 25. Mai 1967 | 4 | 1967-07-05 to 2013-07-01 |
+| `vo-70348` | Zweite Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2011 vom 20. Juli 2011 | 4 | 2008-03-05 to 2012-01-01 |
+| `vo-70275` | Verordnung über die Bestimmung des Dienstvorgesetzten der in der Staats- und Universitätsbibliothek tätigen Bediensteten vom 25. Februar 1986 | 4 | 1986-03-11 to 2016-01-01 |
+| `vo-69668` | Verordnung über den Erwerb der Abschlüsse durch Abschlussprüfungen im Sekundarbereich I vom 18. Juli 2005 | 9 | 2005-08-01 to 2013-08-01 |
+| `vo-68040` | Verordnung zum Ausgleich der Kosten der mit Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten vom 15. April 1997 | 4 | 1997-01-01 to 2011-01-01 |
+| `m-a` | Verordnung über die Verleihung des Hochschulgrades Magister/Magistra Artium (M. A.) durch die Universität Bremen vom 25. Juni 1985 | 3 | 1985-07-16 to 2011-01-01 |
+| `vo-68246` | Verordnung zur staatlichen Anerkennung der Kosmetikerinnen und Kosmetiker im Lande Bremen vom 5. Oktober 1990 | 7 | 1990-10-27 to 2016-01-01 |
+| `vo-67707` | Verordnung über die Berufsfachschule für das Hotel- und Gaststättengewerbe vom 5. August 2005 | 5 | 2005-08-01 to 2013-08-01 |
+| `vo-67675` | Verordnung zur Einrichtung einer Härtefallkommission nach dem Aufenthaltsgesetz vom 12. Dezember 2005 | 5 | 2006-01-10 to 2012-07-01 |
+| `vo-74644` | Verordnung zur Ausführung des § 4 des Bremischen Ausführungsgesetzes zum Bundessozialhilfegesetz vom 19. Juni 1962 | 4 | 1962-06-01 to 2007-01-01 |
+| `vo-68434` | Verordnung über die Auflösung des Landesversorgungsamtes Bremen und zur Bestimmung von Zuständigkeiten vom 29. Januar 1974 | 6 | 1974-02-01 to 2018-06-08 |
+| `vo-74702` | Verordnung über die Regelung der künstlichen Besamung zur Förderung der Tierzucht vom 31. Januar 1950 | 7 | 1950-02-18 to 2015-01-01 |
+| `vo-74630` | Verordnung über die nach dem Bundes-Immissionsschutzgesetz zuständigen Behörden vom 11. Februar 1975 | 4 | 1975-03-01 to 2001-05-19 |
+| `vo-74656` | Verordnung, betreffend die in den Geschäftsräumen einer Bremischen Behörde oder einer Verkehrsanstalt gefundenen Sachen vom 18. Juli 1899 | 4 | 1964-07-01 to 2015-01-01 |
+| `vo-74822` | Verordnung über Auslagenpauschsätze nach dem Gesetz über Kosten der Gerichtsvollzieher vom 2. Dezember 1957 | 11 | 1957-10-01 to 2001-05-01 |
+| `vo-74993` | Verordnung über die Voraussetzungen für die Befreiung von der Rundfunkgebührenpflicht vom 4. Mai 1993 | 3 | 1993-06-01 to 2005-04-01 |
+| `vo-91700` | Verordnung über die Bestimmung eines höheren Grundbetrages nach § 86 des Zwölften Buches Sozialgesetzbuch vom 29. April 2008 | 4 | 2008-01-01 to 2020-01-01 |
+| `vo-69543` | Verordnung über die zuständigen Behörden nach dem Schornsteinfeger-Handwerksgesetz und dem Schornsteinfegergesetz vom 1. Oktober 2009 | 8 | 1970-01-16 to 2014-12-03 |
+| `versetzungsordnung` | Verordnung über die Versetzung von Schülerinnen und Schülern an öffentlichen Schulen (Versetzungsordnung) vom 14. Juli 1997 | 12 | 1997-07-29 to 2012-08-01 |
+| `vo-69928` | Verordnung zur Regelung des Gemeingebrauchs an stehenden Gewässern in der Stadtgemeinde Bremen vom 18. Juni 1976 | 3 | 1976-07-13 to 2013-07-01 |
+| `vo-74647` | Verordnung über die Zuständigkeiten nach dem Bundes-Seuchengesetz vom 9. November 1965 | 4 | 1965-11-17 to 2001-07-14 |
+| `vo-74811` | Verordnung über die privaten Fachschulen für Gymnastik, Tanz und Bewegungstherapie vom 13. Januar 1997 | 5 | 1997-02-05 to 2007-01-01 |
+| `vo-67915` | Verordnung für die Prüfung zum Erwerb der Anstellungsfähigkeit als Jugendleiterin/Jugendleiter im Schuldienst vom 28. Februar 1995 | 4 | 1995-03-18 to 2010-08-01 |
+| `fachschulordnung-hauswirtschaft` | Verordnung über die Fachschule für Hauswirtschaft im Lande Bremen (Fachschulordnung Hauswirtschaft) vom 5. März 1991 | 5 | 1991-08-01 to 2015-08-01 |
+| `vo-66582` | Verordnung über das Baden in den natürlichen, fließenden Gewässern in der Stadtgemeinde Bremen vom 16. Juni 1966 | 5 | 1966-06-29 to 2013-07-01 |
+| `vo-68032` | Verordnung zum Ausgleich der Kosten der mit Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten für Hebammen vom 26. März 1996 | 4 | 1996-01-01 to 2011-01-01 |
+| `vo-68504` | Verordnung über die Erste Staatsprüfung für das Lehramt an öffentlichen Schulen vom 7. Oktober 2003 | 6 | 2003-10-22 to 2012-10-01 |
+| `vo-94413` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen im Lande Bremen vom 8. Februar 2017 | 12 | 2004-08-01 to 2017-09-15 |
+| `vo-89394` | Verordnung, betreffend die Gebühren und Auslagen in dem Verfahren vor den Bauerngerichtsbehörden und über die Entschädigung der Laienbesitzer der Bauerngerichtsbehörden vom 19. Juli 1948 | 4 | 1948-08-07 to 2015-01-01 |
+| `vo-68782` | Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über Einheiten im Messwesen und nach dem Eichgesetz vom 22. Januar 2008 | 3 | 1998-03-17 to 2015-02-14 |
+| `vo-65132` | Verordnung über die Führung des Handelsregisters, des Genossenschaftsregisters, des Vereinsregisters und des Güterrechtsregisters in den Bezirken der Amtsgerichte Bremen, Bremerhaven und Bremen-Blumenthal vom 17. Dezember 1986 | 5 | 1987-01-01 to 2013-01-01 |
+| `vo-76184` | Verordnung über die Ferien für die Schulen der Stadtgemeinden Bremen und Bremerhaven für die Schuljahre 2002/2003 bis 2007/2008 vom 26. September 2000 | 4 | 2000-10-21 to 2004-07-01 |
+| `nsp-ebr-v` | Verordnung für die Prüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler zur Erlangung der Erweiterten Berufsbildungsreife (NSP-EBR-V -) vom 20. Juni 2008 | 3 | 2008-08-01 to 2013-08-01 |
+| `bremseefsv` | Verordnung über die Ausbildung und die Prüfung in den angegliederten Bildungsgängen (Fachschulen) für Nautik, Schiffsbetriebstechnik und Seefunk an den Hochschulen im Lande Bremen (BremSeeFSV) vom 24. Juli 1992 | 5 | 1992-08-01 to 2015-08-01 |
+| `vo-68028` | Verordnung zur Bestimmung der wesentlich Beteiligten im Sinne von § 6 Absatz 3 Satz 1 des Gesetzes zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze vom 3. Juli 1973 | 3 | 1973-01-01 to 2011-01-01 |
+| `vo-87601` | Verordnung über die Bildungsgänge zum Erwerb der Erweiterten Berufsbildungsreife und zum Erwerb des Mittleren Schulabschlusses der Schule für Erwachsene vom 22. Mai 2009 | 7 | 2009-08-01 to 2026-08-01 |
+| `vo-66635` | Verordnung über die Zuerkennung eines mit dem Abschluß einer öffentlichen Realschule vergleichbaren Bildungsstandes für Inhaber des Zeugnisses über eine erfolgreich abgelegte Fortbildungsprüfung vom 13. März 1992 | 4 | 1992-04-11 to 2015-08-01 |
+| `vo-154102` | Verordnung über die Ferien für die Schulen der Stadtgemeinden Bremen und Bremerhaven für die Schuljahre 2017/2018 bis 2023/2024 vom 1. November 2015 | 4 | 2015-12-11 to 2024-08-01 |
+| `kapvo-321070` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen sowie zu Ausgleichs-, Qualifizierungs-, Seiten- und Quereinstiegsmaßnahmen im Land Bremen (KapVO) vom 10. März 2026 | 3 | 2025-09-15 to 2026-09-15 |
+| `vo-65354` | Verordnung über die Verteilung von Asylbewerbern im Lande Bremen und die zuständigen Behörden für die Verteilung von Asylbewerbern nach § 50 und § 51 des Asylverfahrensgesetzes vom 6. April 1993 | 4 | 1993-04-29 to 2005-01-01 |
+| `amtssprache` | Verordnung über die Zulassung von Ausländern und Aussiedlern und über die Anerkennung der Sprache des Herkunftslandes (Amtssprache) als Fremdsprache in beruflichen Vollzeitschulen vom 6. August 1986 | 3 | 1986-08-01 to 2006-12-08 |
+| `vo-66490` | Verordnung über die Ferien für die Schulen der Stadtgemeinden Bremen und Bremerhaven für die Schuljahre 2004/2005 bis 2009/2010 vom 28. April 2004 | 3 | 2004-07-01 to 2009-06-01 |
+| `vo-153427` | Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weser in der Stadt Bremerhaven vom 01.04.2020 bis 31.12.2020 vom 18. März 2020 | 3 | 2020-05-23 to 2021-01-01 |
+| `kapvo-265878` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen, zu den Ausgleichsmaßnahmen sowie den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufsq | 6 | 2015-09-15 to 2025-09-15 |
+| `vo-164038` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufs | 3 | 2020-09-15 to 2021-09-15 |
+| `vo-136789` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufs | 9 | 2011-11-01 to 2020-03-15 |
+| `vo-145972` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufs | 3 | 2013-08-01 to 2020-09-15 |
+| `vo-188986` | Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen und zu den Ausgleichsmaßnahmen und den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufs | 16 | 2001-05-01 to 2023-09-15 |
 
-The build made 2965 commits:
+The build made 3412 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 567 | first version of an act |
-| 833 | one law on its in-force day |
-| 1565 | changes no amendment note explains, credited to the publisher |
+| 681 | first version of an act |
+| 985 | one law on its in-force day |
+| 1746 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 65 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 736 laws in the record.
-- 3858 tags.
+- 85 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 861 laws in the record.
+- 4462 tags.
 
 ## Dates
 
@@ -619,13 +737,13 @@ When a law gives no date of its own, the default rule applies: Landesverfassung 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cfbdcab9153200779bdb0bb77ea8725d076bb86fa1c0ee3b2476d270e8320418` (126306442 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `b1631dc827bd65e49591fa078928b6778ad85e10fa0c173aa0a1a9675733130a` (135488727 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-3240 versions of 567 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -729,6 +847,104 @@ No second build of this corpus has been compared yet.
 - The Verordnungen are the entries of the portal's list of Gesetze und Rechtsverordnungen (searched for "Verordnung") whose title names a Verordnung, amending Verordnungen left out, in list order, 50 a part. Rechtsverordnungen titled otherwise ("...ordnung", Satzungen) are not included. Each amending act is labelled by its kind as the Änderungshistorie names it ("Verordnung vom ...").
 - Left out: Verordnung über die Übertragung von Ermächtigungen nach der Grundbuchordnung und der Grundbuchverfügung vom 22. Dezember 1998: a version has no date; left out
 - Left out: Bremische Verordnung über die Durchführung des Sozialen Entschädigungsrechts vom 29. Mai 2018: a version has no date; left out
+- Every version the portal lists under "Frühere Fassungen", plus the current one, is one version here, dated by its "gültig von" day; the current version is dated the day after the newest earlier version ends. The oldest is credited to the publisher as the oldest version available.
+- Each provision that differs from the version before is credited to the latest amendment in the portal's "Änderungshistorie" that names that provision (or says "mehrfach geändert"), is dated on or before the version's first day and has not been credited to an earlier version; if there is none, the change is labelled unexplained.
+- One file per Artikel or Paragraph; headings of Hauptteile and Abschnitte stand above the first provision under them. Numbered entries are one line each; tables are one line per row, cells separated by " | ".
+- The Verordnungen are the entries of the portal's list of Gesetze und Rechtsverordnungen (searched for "Verordnung") whose title names a Verordnung, amending Verordnungen left out, in list order, 50 a part. Rechtsverordnungen titled otherwise ("...ordnung", Satzungen) are not included. Each amending act is labelled by its kind as the Änderungshistorie names it ("Verordnung vom ...").
+- Left out: Verordnung über die Landesmindestlohnkommission vom 2. Juni 2020: a version has no date; left out
+- Left out: Verordnung über Zuständigkeiten im Glücksspielrecht vom 18. Mai 2006: a version has no date; left out
+- Left out: Verordnung über das Wegegeld der Gerichtsvollzieher vom 25. September 1975: a version has no date; left out
+- Left out: Verordnung über die gewerbliche Berufsfachschule vom 17. August 1998: a version has no date; left out
+- Left out: Verordnung über die Kursmaklerschaft an der Bremer Wertpapierbörse vom 15. November 1996: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeiten im Artenschutz vom 3. Juni 1988: a version has no date; left out
+- Left out: Verordnung über Errichtung eines Gemeinde-Unfallversicherungs-Verbandes vom 5. März 1937: a version has no date; left out
+- Left out: Verordnung über Stellenobergrenzen im mittleren Dienst des Justizvollzuges vom 19. Oktober 1999: a version has no date; left out
+- Left out: Verordnung über den Sonntagsverkauf am 24. Dezember vom 13. Dezember 1961: a version has no date; left out
+- Left out: Verordnung zur Übertragung von Aufgaben nach dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland vom 23. Mai 2000: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Geräte- und Produktsicherheitsgesetz vom 31. August 2004: a version has no date; left out
+- Every version the portal lists under "Frühere Fassungen", plus the current one, is one version here, dated by its "gültig von" day; the current version is dated the day after the newest earlier version ends. The oldest is credited to the publisher as the oldest version available.
+- Each provision that differs from the version before is credited to the latest amendment in the portal's "Änderungshistorie" that names that provision (or says "mehrfach geändert"), is dated on or before the version's first day and has not been credited to an earlier version; if there is none, the change is labelled unexplained.
+- One file per Artikel or Paragraph; headings of Hauptteile and Abschnitte stand above the first provision under them. Numbered entries are one line each; tables are one line per row, cells separated by " | ".
+- The Verordnungen are the entries of the portal's list of Gesetze und Rechtsverordnungen (searched for "Verordnung") whose title names a Verordnung, amending Verordnungen left out, in list order, 50 a part. Rechtsverordnungen titled otherwise ("...ordnung", Satzungen) are not included. Each amending act is labelled by its kind as the Änderungshistorie names it ("Verordnung vom ...").
+- Left out: Verordnung über die Verbindlichkeitserklärung des Teilabfallentsorgungsplanes des Landes Bremen für die Entsorgung von Bauabfällen vom 23. Juni 1994 vom 19. Juli 1994: a version has no date; left out
+- Left out: Verordnung zur Übertragung von Ermächtigungen zur Einführung des elektronischen Handels-, Genossenschafts-, Partnerschafts- und Vereinsregisters vom 19. April 2005: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Pflanzenschutzgesetz vom 30. November 1999: a version has no date; left out
+- Left out: Verordnung über die Führung des Partnerschaftsregisters in den Bezirken der Amtsgerichte Bremen und Bremen-Blumenthal vom 20. Juni 1995: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Ausländergesetz vom 10. Dezember 1990: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Handelsklassengesetz vom 15. Januar 1974: a version has no date; left out
+- Left out: Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 14. Oktober 1999: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 17 des Heimgesetzes vom 21. Mai 1985: a version has no date; left out
+- Left out: Verordnung über die Festlegung des Musters eines amtlichen Vordruckes für Erklärungen zur Erhebung der Grundwasserentnahmegebühr vom 15. Oktober 1993: a version has no date; left out
+- Left out: Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen im Lande Bremen vom 24. Oktober 2013: a version has no date; left out
+- Left out: Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 21. Juli 2008: a version has no date; left out
+- Left out: Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 16. Januar 2008: a version has no date; left out
+- Left out: Verordnung über den Verkehr mit Taxen in der Stadtgemeinde Bremen (Taxenordnung) vom 19. September 1978: a version has no date; left out
+- Left out: Verordnung über die Übertragung der Ermächtigungen nach § 22c Abs. 1 Satz 1 des Gerichtsverfassungsgesetzes vom 22. Oktober 2002: a version has no date; left out
+- Left out: Verordnung über die Bestimmung der Ortsmittelpunkte im Bereich der Stadtgemeinden Bremen und Bremerhaven vom 11. Juni 1981: a version has no date; left out
+- Left out: Verordnung zur Übertragung der Ermächtigung nach § 6 Abs. 3 Satz 4 der Bundesnotarordnung vom 29. August 2000: a version has no date; left out
+- Left out: Verordnung über die Einführung des maschinellen Mahnverfahrens und die Bildung eines zentralen Mahngerichts vom 20. September 2001: a version has no date; left out
+- Left out: Verordnung zur Ausführung des Gesetzes über den Zivilschutz vom 20. November 1984: a version has no date; left out
+- Left out: Verordnung zur Übertragung von Ermächtigungen nach dem Staatsangehörigkeitsgesetz vom 15. Juli 2003: a version has no date; left out
+- Left out: Verordnung über Gegenstände und Umfang der Schwerpunktbereiche der ersten juristischen Staatsprüfung (SBV) vom 19. Mai 1995: a version has no date; left out
+- Left out: Polizeiverordnung über das Halten von Hunden in der Stadt Bremerhaven vom 7. Juni 2000: version from 2000-07-04 not after 2000-07-19; left out
+- Left out: Polizeiverordnung über das Halten von Hunden in der Stadt Bremerhaven vom 7. Juni 2000: two versions valid from 2000-07-19; the later one is kept
+- Left out: Verordnung zur Übertragung von Ermächtigungen nach dem Handelsgesetzbuch vom 30. Mai 2000: a version has no date; left out
+- Left out: Verordnung über die Gewährung von Sitzungsgeldern beim Landesamt für Schulpraxis und Lehrerprüfungen vom 11. November 1975: a version has no date; left out
+- Left out: Verordnung zur Ausführung des Gesetzes über die Änderung von Familiennamen und Vornamen vom 22. Dezember 1980: a version has no date; left out
+- Left out: Verordnung über die Mitteilungspflicht der Zentralstelle für die Integration zugewanderter Bürgerinnen und Bürger vom 10. Dezember 1990: a version has no date; left out
+- Every version the portal lists under "Frühere Fassungen", plus the current one, is one version here, dated by its "gültig von" day; the current version is dated the day after the newest earlier version ends. The oldest is credited to the publisher as the oldest version available.
+- Each provision that differs from the version before is credited to the latest amendment in the portal's "Änderungshistorie" that names that provision (or says "mehrfach geändert"), is dated on or before the version's first day and has not been credited to an earlier version; if there is none, the change is labelled unexplained.
+- One file per Artikel or Paragraph; headings of Hauptteile and Abschnitte stand above the first provision under them. Numbered entries are one line each; tables are one line per row, cells separated by " | ".
+- The Verordnungen are the entries of the portal's list of Gesetze und Rechtsverordnungen (searched for "Verordnung") whose title names a Verordnung, amending Verordnungen left out, in list order, 50 a part. Rechtsverordnungen titled otherwise ("...ordnung", Satzungen) are not included. Each amending act is labelled by its kind as the Änderungshistorie names it ("Verordnung vom ...").
+- Left out: Verordnung über die Gewährung von persönlichen Gebührenbefreiungen für den 32. Deutschen Evangelischen Kirchentag e.V. vom 1. April 2008: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 11 des Blindenwarenvertriebsgesetzes vom 4. März 1975: a version has no date; left out
+- Left out: Verordnung über die zuständige Behörde nach § 43 Abs. 4 des Bremischen Landesstraßengesetzes vom 16. Mai 1977: a version has no date; left out
+- Left out: Verordnung über die Zweite Staatsprüfung für das Lehramt an öffentlichen Schulen vom 12. November 2002: a version has no date; left out
+- Left out: Verordnung über die zuständige Behörde nach § 16 Abs. 3 der Handwerksordnung vom 9. Januar 1967: a version has no date; left out
+- Left out: Verordnung über die Einführung des elektronischen Handels-, Partnerschafts-, Genossenschafts- und Vereinsregisters vom 18. Mai 2005: a version has no date; left out
+- Left out: Verordnung über das Antragsrecht nach dem Gesetz zum Schutz deutschen Kulturgutes gegen Abwanderung vom 30. Mai 2006: a version has no date; left out
+- Left out: Verordnung über die Übertragung von Ermächtigungen nach der Zivilprozessordnung vom 11. September 2001: a version has no date; left out
+- Left out: Verordnung zur Übertragung einer Ermächtigung nach dem Rechtspflegergesetz vom 18. Oktober 2005: a version has no date; left out
+- Left out: Verordnung zur Übertragung einer Ermächtigung nach der Bundesrechtsanwaltsordnung vom 17. November 1998: a version has no date; left out
+- Left out: Verordnung zur Aufnahme in die 7. Jahrgangsstufe der weiterführenden Schularten vom 12. Dezember 2003: a version has no date; left out
+- Left out: Verordnung über die Ahndung von Verstößen gegen das Wohnungsbindungsgesetz vom 6. September 1988: a version has no date; left out
+- Left out: Verordnung über die Zulassung von Wetten im Lande Bremen vom 11. Januar 2000: a version has no date; left out
+- Left out: Verordnung zur Übertragung der Ermächtigung nach § 49 Abs. 3 des Bundesbesoldungsgesetzes vom 16. Dezember 1975: a version has no date; left out
+- Left out: Verordnung über die privaten Berufsfachschulen für medizinische Dokumentationsassistenz vom 23. Januar 2001: a version has no date; left out
+- Left out: Verordnung über die Aufnahme von Schülern in die Abendschulen vom 10. Juli 1990: a version has no date; left out
+- Left out: Verordnung über die Festlegung eines städtebaulichen Entwicklungsbereiches in Bremen-Niedervieland (Güterverkehrszentrum) vom 22. März 1982: a version has no date; left out
+- Left out: Verordnung über den Ladenschluss auf dem Flughafen Bremen vom 19. Juli 1994: a version has no date; left out
+- Left out: Verordnung zur Übertragung einer Ermächtigung nach dem Arbeitsgerichtsgesetz vom 31. August 2004: a version has no date; left out
+- Left out: Verordnung über die Bestellung von Vollstreckungs- und Vollziehungsbeamten bei den Trägern der Sozialversicherung vom 26. April 1983: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit der Verwaltungsbehörden nach dem Gesetz über den Ladenschluss vom 6. April 2004: a version has no date; left out
+- Left out: Verordnung über die örtliche Zuständigkeit in Registersachen und das zentrale Vollstreckungsgericht vom 1. Oktober 2012: a version has no date; left out
+- Left out: Verordnung zur Regelung von Besonderheiten bei der Anwendung von Stellenobergrenzen vom 12. September 1977: a version has no date; left out
+- Left out: Verordnung zur Übertragung von Ermächtigungen im Bereich der gerichtlichen Verfahren in Landwirtschaftssachen vom 13. November 2018: a version has no date; left out
+- Left out: Verordnung über die Erhebung von personenbezogenen Daten zum Personalausweis vom 19. Juni 1987: a version has no date; left out
+- Every version the portal lists under "Frühere Fassungen", plus the current one, is one version here, dated by its "gültig von" day; the current version is dated the day after the newest earlier version ends. The oldest is credited to the publisher as the oldest version available.
+- Each provision that differs from the version before is credited to the latest amendment in the portal's "Änderungshistorie" that names that provision (or says "mehrfach geändert"), is dated on or before the version's first day and has not been credited to an earlier version; if there is none, the change is labelled unexplained.
+- One file per Artikel or Paragraph; headings of Hauptteile and Abschnitte stand above the first provision under them. Numbered entries are one line each; tables are one line per row, cells separated by " | ".
+- The Verordnungen are the entries of the portal's list of Gesetze und Rechtsverordnungen (searched for "Verordnung") whose title names a Verordnung, amending Verordnungen left out, in list order, 50 a part. Rechtsverordnungen titled otherwise ("...ordnung", Satzungen) are not included. Each amending act is labelled by its kind as the Änderungshistorie names it ("Verordnung vom ...").
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 69a Abs. 2 Nr. 12a der Straßenverkehrs-Zulassungs-Ordnung vom 26. Januar 1999: a version has no date; left out
+- Left out: Verordnung zur Übertragung der Verwaltungszuständigkeit für die Erhebung einer Zweitwohnungsteuer in der Stadtgemeinde Bremen auf das Finanzamt Bremen-Mitte vom 5. Dezember 1995: a version has no date; left out
+- Left out: Verordnung zur Bestimmung des zuständigen Gerichts für Verfahren über Unterbringungsmaßnahmen nach dem Gesetz über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten vom 21. Januar 1992: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit der Verwaltungsbehörden nach dem Ausländergesetz und dem Gesetz über Maßnahmen für im Rahmen humanitärer Hilfsaktionen aufgenommene Flüchtlinge vom 10. Dezember 1990: a version has no date; left out
+- Left out: Verordnung über die für die Verfolgung und Ahndung von Ordnungswidrigkeiten auf dem Gebiet der Marktüberwachung von energiebetriebenen Produkten zuständige Behörde vom 28. Juli 2009: a version has no date; left out
+- Left out: Verordnung zur Anerkennung von Angeboten zur Unterstützung im Alltag nach § 45a Absatz 1 Nummer 1 bis 3 des Elften Buches Sozialgesetzbuch für das Land Bremen vom 25. April 2017: a version has no date; left out
+- Left out: Verordnung zur Verlängerung der individuellen Regelstudienzeit nach § 2 Absatz 3 Satz 6 des Bremischen Gesetzes über die Juristenausbildung und die erste juristische Staatsprüfung vom 19. April 2021: a version has no date; left out
+- Left out: Verordnung zur Übertragung der Verwaltungszuständigkeit für die Rennwett- und Lotteriesteuer, für die Versicherung- und für die Feuerschutzsteuer vom Finanzamt Bremerhaven auf das Finanzamt Bremen-Mitte vom 9. November 1988: a version has no date; left out
+- Left out: Verordnung, betreffend die Benutzung der Flußufer und die Bebauung der Außendeichsländereien der Weser und ihrer Nebenflüsse im bremischen Staatsgebiet vom 30. Juni 1933: a version has no date; left out
+- Left out: Verordnung über die Pflicht zur Nutzung des elektronischen Rechtsverkehrs für die Fachgerichtsbarkeiten mit Ausnahme des Landessozialgerichts Niedersachsen-Bremen und der Verwaltungsgerichtsbarkeit zum 1. Januar 2021 vom 8. Dezember 2020: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeiten für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 8 Abs. 3 des Gesetzes über die Erweiterung des Katastrophenschutzes vom 10. Mai 1982: a version has no date; left out
+- Left out: Verordnung über die Bestimmung des Bremischen Gemeinde-Unfallversicherungs-Verbandes zum Versicherungsträger für die in § 655 Abs. 1 und 2 der Reichsversicherungsordnung genannten Unternehmen und Versicherten vom 12. November 1984: a version has no date; left out
+- Left out: Verordnung über die Ferien für die Schulen der Stadtgemeinden Bremen und Bremerhaven für die Schuljahre 2008/2009 bis 2016/2017 vom 20. Mai 2009: a version has no date; left out
+- Left out: Verordnung zur Einstufung der Schülerinnen und Schüler in der Sekundarschule in die Schwerpunkte zur Erlangung der Berufsbildungsreife und zur Erlangung des Mittleren Schulabschlusses vom 10. Mai 2007: a version has no date; left out
+- Left out: Verordnung über das Verfahren der vorübergehenden Zuweisung von Schülerinnen und Schülern zur Erfüllung der Schulpflicht zum Regionalen Beratungs- und Unterstützungszentrum (ZuweiReBUZ-VO) vom 13. April 2015: a version has no date; left out
+- Left out: Verordnung zur Übertragung von Ermächtigungen aus dem Schornsteinfegerrecht und über die Zuständigkeiten für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Schornsteinfeger-Handwerksgesetz vom 1. September 2009: a version has no date; left out
+- Left out: Verordnung über die Verbindlicherklärung des Teilabfallbeseitigungsplanes des Landes Bremen für Anlagen im Bereich der Stadtgemeinde Bremen, die der Lagerung oder Behandlung von Autowracks oder Altreifen dienen vom 27. Januar 1984 in der unter dem 12. Mai: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 12a des Gesetzes über Einreise und Aufenthalt von Staatsangehörigen der Mitgliedstaaten der Europäischen Wirtschaftsgemeinschaft vom 23. Juni 1987: a version has no date; left out
+- Left out: Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen, zu den Ausgleichsmaßnahmen sowie den lehramtsbezogenen Qualifizierungsmaßnahmen für Lehrkräfte mit einer ausländischen Lehrkräfteberufsq: a version has no date; left out
+- Left out: Verordnung über die Zuständigkeit zur Anerkennung von Lehrgängen für Fahrzeugführer von Fahrzeugen im Geltungsbereich des Gesetzes zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Stra: a version has no date; left out
 
 ## What AI did and did not do
 
@@ -739,6 +955,10 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: every word, date and credit comes from the Transparenzportal Bremen pages.
