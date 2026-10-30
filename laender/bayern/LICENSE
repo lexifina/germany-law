@@ -1,0 +1,21 @@
+Law texts
+
+The texts in this repository are Bavarian Gesetze in the consolidated, non-official version published by the
+Bürgerservice BAYERN.RECHT of the Bayerische Staatskanzlei (www.gesetze-bayern.de; consolidation by Verlag C.H.Beck
+on behalf of the Free State of Bavaria).
+
+- Copyright: "Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste
+  Leitsätze zu Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 Urheberrechtsgesetz)
+- The publisher's terms ("Rechtliche Hinweise und Nutzungsbedingungen", www.gesetze-bayern.de/Content/Document/Nutzungshinweise):
+  "Im Bürgerservice BAYERN.RECHT eingestellte Vorschriften und Entscheidungen können örtlich, zeitlich und inhaltlich
+  uneingeschränkt genutzt und weiterverwendet werden. Insbesondere ist es ausdrücklich gestattet, diese Inhalte unter
+  Einhaltung der allgemeingültigen rechtlichen Bestimmungen gewerblich und nicht gewerblich zu vervielfältigen, zu
+  verbreiten, öffentlich wiederzugeben und weiterzuverarbeiten sowie auf diese zu verlinken". The same terms state that
+  the database right under §§ 87a ff. UrhG is unaffected.
+- The texts are not the official version: "Rechtlich maßgeblich sind ausschließlich die amtlichen Texte der
+  Verkündungsblätter" (the Bayerisches Gesetz- und Verordnungsblatt).
+
+Attribution: Quelle: Bürgerservice BAYERN.RECHT, Bayerische Staatskanzlei, www.gesetze-bayern.de.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

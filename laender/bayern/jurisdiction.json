@@ -1,0 +1,8 @@
+{
+  "path": "de-by",
+  "code": "DE-BY",
+  "name": "Bavaria",
+  "level": "country",
+  "repo": "https://github.com/lexifina/germany-bavaria-law",
+  "build": "built: Verfassung des Freistaates Bayern, the Bavarian Gesetze and Rechtsverordnungen in force, current consolidated text from BAYERN.RECHT"
+}
