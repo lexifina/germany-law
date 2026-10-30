@@ -1,0 +1,18 @@
+Law texts
+
+The texts in this repository are Bremen Gesetze in the consolidated, non-official versions published in the
+Vorschriften section of the Transparenzportal Bremen, Freie Hansestadt Bremen, www.transparenz.bremen.de.
+
+- Copyright: "Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste
+  Leitsätze zu Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 Urheberrechtsgesetz)
+- The portal's licence overview lists "Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG" for official works such as
+  Gesetze. Its pages also carry a general notice that their contents are under Creative Commons BY-NC-ND "sofern nicht
+  anders angegeben"; the law texts are official works exempt from copyright under § 5 Abs. 1 UrhG, to which that
+  notice cannot apply. Its Nutzungsbedingungen ask users to name the "Verantwortliche Stelle" and "Freie Hansestadt
+  Bremen" and not to imply endorsement; this repository is not endorsed by the Freie Hansestadt Bremen.
+- The texts are not the official version: only the Bremisches Gesetzblatt is authoritative.
+
+Attribution: Quelle: Transparenzportal Bremen, Freie Hansestadt Bremen, www.transparenz.bremen.de.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

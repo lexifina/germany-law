@@ -1,0 +1,8 @@
+{
+  "path": "de-hb",
+  "code": "DE-HB",
+  "name": "Bremen",
+  "level": "country",
+  "repo": "https://github.com/lexifina/germany-bremen-law",
+  "build": "built: Landesverfassung der Freien Hansestadt Bremen, every version since 1947, from the Transparenzportal Bremen"
+}
