@@ -1,0 +1,11 @@
+# Eingliederungshilfe-Arbeitsgemeinschaft-Verordnung
+
+EinglArgeVO · 1 versions, from 2022-12-23 (latest in force: 2022-12-23) · <https://www.revosax.sachsen.de/vorschrift/19774>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Eingangsformel | [000-eingang.md](000-eingang.md) | 0 |  |
+| § 1 Mitglieder | [par-001.md](par-001.md) | 0 |  |
+| § 2 Sitzungen | [par-002.md](par-002.md) | 0 |  |
+| § 3 Geschäftsordnung, Beschlussfassung und Delegation | [par-003.md](par-003.md) | 0 |  |
+| § 4 Inkrafttreten | [par-004.md](par-004.md) | 0 |  |
