@@ -297,7 +297,30 @@ Mitgliedstaat der Europäischen Union
 - [§ 91i Rechtsbehelfe; Aufschub der Übermittlung von Beweismitteln](0091i.md)
 - [§ 91j Ausgehende Ersuchen](0091j.md)
 
-### Abschnitt 3 Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
+### Abschnitt 3 Zusammenarbeit nach Maßgabe der Richtlinie (EU) 2024/1260
+
+
+#### Unterabschnitt 1 Eingehende Ersuchen
+
+- [§ 91k Übermittlung von Informationen auf Ersuchen an Vermögensabschöpfungsstellen anderer Mitgliedstaaten](0091k.md)
+- [§ 91l Inhalt des Ersuchens](0091l.md)
+- [§ 91m Zwingende Ablehnungsgründe](0091m.md)
+- [§ 91n Fakultative Ablehnungsgründe](0091n.md)
+- [§ 91o Fristen](0091o.md)
+- [§ 91p Informationsübermittlung ohne Ersuchen](0091p.md)
+- [§ 91q Verwendung der Informationen in einem Gerichtsverfahren](0091q.md)
+- [§ 91r Vorübergehende Sicherstellung von Vermögenswerten](0091r.md)
+
+#### Unterabschnitt 2 Ausgehende Ersuchen
+
+- [§ 91s Ausgehende Ersuchen um Übermittlung von Informationen an Vermögensabschöpfungsstellen anderer Mitgliedstaaten](0091s.md)
+- [§ 91t Verwendung von nach der Richtlinie (EU) 2024/1260 übermittelten Informationen](0091t.md)
+
+#### Unterabschnitt 3 Kommunikation mit den Vermögensverwaltungsstellen
+
+- [§ 91u Kommunikation mit den Vermögensverwaltungsstellen](0091u.md)
+
+### Abschnitt 4 Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
 
 
 #### Unterabschnitt 1 Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
@@ -315,7 +338,7 @@ Mitgliedstaat der Europäischen Union
 - [§ 92g Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von Polizei-, Finanz- und Zollbehörden an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union](0092g.md)
 - [§ 92h Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen](0092h.md)
 
-### Abschnitt 4 Besondere Formen der Rechtshilfe
+### Abschnitt 5 Besondere Formen der Rechtshilfe
 
 - [§ 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung](0092i.md)
 - [§ 93 Gemeinsame Ermittlungsgruppen](0093.md)

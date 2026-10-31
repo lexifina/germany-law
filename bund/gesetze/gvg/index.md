@@ -192,6 +192,7 @@ in Strafsachen
 - [§ 142](0142.md)
 - [§ 142a](0142a.md)
 - [§ 142b Europäische Staatsanwaltschaft](0142b.md)
+- [§ 142c Vermögensabschöpfung und Vermögensverwaltung](0142c.md)
 - [§ 143](0143.md)
 - [§ 144](0144.md)
 - [§ 145](0145.md)
