@@ -1,0 +1,16 @@
+# Verordnung über die Meisterprüfung in den Teilen I und II im Print- und Medientechnologen (Drucker, Siebdrucker, Flexografen)-Handwerk
+
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Meisterprüfungsberufsbild](0003.md)
+- [§ 4 Ziel und Gliederung der Prüfung in Teil I](0004.md)
+- [§ 5 Meisterprüfungsprojekt](0005.md)
+- [§ 6 Fachgespräch](0006.md)
+- [§ 7 Gewichtung, Bestehen der Prüfung in Teil I](0007.md)
+- [§ 8 Ziel und Gliederung der Prüfung in Teil II](0008.md)
+- [§ 9 Handlungsfeld „Anforderungen von Kunden eines Betriebs im Print- und Medientechnologen-Handwerk analysieren, Lösungen erarbeiten und anbieten“](0009.md)
+- [§ 10 Handlungsfeld „Leistungen eines Betriebs im Print- und Medientechnologen-Handwerk erbringen, kontrollieren und übergeben“](0010.md)
+- [§ 11 Handlungsfeld „Einen Betrieb im Print- und Medientechnologen-Handwerk führen und organisieren“](0011.md)
+- [§ 12 Gewichtung, Bestehen der Prüfung in Teil II](0012.md)
+- [§ 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0013.md)
+- [§ 14 Übergangsvorschrift](0014.md)
