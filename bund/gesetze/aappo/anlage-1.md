@@ -1,6 +1,4 @@
-# Anlage 1 (zu § 2 Abs. 2)
-
-Stoffgebiete des Studiums der Pharmazie
+# Anlage 1 (zu § 2 Abs. 2)Stoffgebiete des Studiums der Pharmazie
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
 Eine Verschiebung von Unterrichtsstunden zwischen einzelnen Stoffgebieten im Umfang bis zu 42 Unterrichtsstunden je Gebiet ist möglich. Der Gesamtumfang an praktischen Übungen und Seminaren einschließlich von Vorlesungen mit Übungen oder mit Seminaren darf jeweils dadurch nicht berührt werden. Die nach Landesrecht zuständige Stelle kann zusätzlich zu den für die Stoffgebiete A bis I angegebenen Bescheinigungen insgesamt bis zu vier weitere Bescheinigungen verlangen.
@@ -50,6 +48,7 @@ Mikrobiologie
 Pharmazeutische Biologie II (Pflanzliche Drogen)
 Zytologische und histologische Grundlagen der Biologie
 Grundlagen der Anatomie und Physiologie
+Grundlagen der Genetik
 Kursus der Physiologie
 Grundlagen der Biochemie
 Grundlagen der Ernährungslehre
@@ -61,7 +60,7 @@ Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu:
 Biochemie und Molekularbiologie
 Grundlagen der Klinischen Chemie und der Pathobiochemie
 Biochemische Untersuchungsmethoden einschließlich Klinischer Chemie
-Pathophysiologie/Pathobiochemie
+Pathologie, einschließlich Pathophysiologie und Pathobiochemie
 Gesamtumfang: 196 Unterrichtsstunden mit einem Anteil von 98 Unterrichtsstunden praktischen Übungen
 Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme
 Stoffgebiet F
@@ -96,6 +95,7 @@ Pharmakologie und Toxikologie
 Klinische Pharmazie
 Krankheitslehre
 Pharmakotherapie
+Pharmakogenomik
 Pharmakologisch-toxikologischer Demonstrationskurs
 Pharmakoepidemiologie und Pharmakoökonomie
 Spezielle Rechtsgebiete für Apotheker

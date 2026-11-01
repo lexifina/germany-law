@@ -1,19 +1,13 @@
-# Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)Bescheinigung über die praktische Ausbildung
+# Anlage 5 (zu § 4 Absatz 3 Satz 3, § 6 Absatz 5 Nummer 2 und Absatz 6 Satz 3)Bescheinigung über die praktische Ausbildung
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500)
-Herr/Frau........................... ist in der Zeit vom ...............
-bis ..................... nach § 4 der Approbationsordnung für Apotheker
-praktisch ausgebildet worden.
-Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Abs. 2
-angeführten Tätigkeiten ausgeführt. Die Ausbildung
-ist vom ................................................................
-bis ......................... unterbrochen/nicht unterbrochen worden.*)
-................, den ...............
-Siegel oder Stempel
-.....................................
-(Name der Ausbildungsstätte)
-.....................................
-(Unterschrift des für die Ausbildung
-Verantwortlichen)
-----------
-*) Nichtzutreffendes streichen.
+| Herrn/Frau ............................................................. ist in der Zeit vom ................................................................... |
+| bis ................................................................... nach § 4 der Approbationsordnung für Apotheker praktisch ausgebildet worden. |
+| Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Absatz 2 angeführten Tätigkeiten ausgeführt. Die Ausbildung |
+| ist vom ................................................................... |
+| bis ................................................................... unterbrochen/nicht unterbrochen worden. |
+| Zusätzlich liegen Fehlzeiten wegen Krankheit oder aus wichtigem Grund vor (durch den/die Studierende/n der Pharmazie gegenüber dem LPA nachzuweisen bzw. glaubhaft zu machen) |
+| von: ................................................................... bis: ................................................................... |
+|  |  |
+|  | ............................................, den ................................................................... |
+|  | ........................................................................................................................ (Name der Ausbildungsstätte) |
+| Siegel oder Stempel | ........................................................................................................................... (Unterschrift des für die Ausbildung Verantwortlichen) |

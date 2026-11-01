@@ -1,4 +1,4 @@
-# Anlage 19 (zu § 22d Absatz 6)Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
+# Anlage 19 (zu § 22d Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
 
 | Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
 | geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
@@ -7,7 +7,7 @@
 | Er/Sie hat die staatliche Eignungsprüfung bestanden/nicht bestanden. |
 | Tragende Gründe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| Mitglieder der Prüfungskommission nach § 22d Absatz 3 der Approbationsordnung für Apotheker: |
+| Mitglieder der Prüfungskommission nach § 22d Absatz 5 der Approbationsordnung für Apotheker: |
 | Als Vorsitzende(r) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | Als weitere Mitglieder |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
@@ -24,4 +24,4 @@
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitgliederder Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| (Unterschriften oder qualifizierte elektronische Signaturen der weiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur der/des Vorsitzenden der Prüfungskommission) |

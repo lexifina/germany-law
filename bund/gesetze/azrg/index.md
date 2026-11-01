@@ -99,5 +99,5 @@ anderer Staaten und über- oder zwischenstaatliche Stellen
 - [§ 40 Rechtsverordnungen](0040.md)
 - [§ 41 Verwaltungsvorschriften](0041.md)
 - [§ 42 Strafvorschriften](0042.md)
-- [§ 43 Aufhebung von Rechtsvorschriften](0043.md)
+- [§ 43 Übergangsregelung](0043.md)
 - [§ 44 Bestimmungen zum Verwaltungsverfahren](0044.md)

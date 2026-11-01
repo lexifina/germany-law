@@ -3,7 +3,7 @@
 Abschnitt 1
 Allgemeine Vorschriften
 | § 1 | Anwendungsbereich |
-| § 2 | Begriffsbestimmungen |
+| § 2 | Begriffsbestimmungen und damit zusammenhängende Regelungen |
 Abschnitt 2
 Neu in Verkehr gebrachte Produkte
 | § 3 | Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen |
@@ -13,7 +13,7 @@ Neu in Verkehr gebrachte Produkte
 | § 7 | Vermutungswirkung |
 | § 8 | Stichprobenkontrollen und Marktüberwachungsmaßnahmen |
 | § 9 | Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen |
-| § 10 | Betretensrechte, Befugnisse und Duldungspflichten |
+| § 10 | Befugnisse und Duldungspflichten |
 | § 11 | Meldeverfahren |
 | § 12 | Berichtspflichten |
 | § 13 | Beauftragte Stelle |
@@ -21,5 +21,5 @@ Neu in Verkehr gebrachte Produkte
 | § 15 | Bußgeldvorschriften; Verordnungsermächtigung |
 Abschnitt 3
 Übergangsregelung
-| § 16 | Berechtigung zur Abrechnung von Etiketten |
+| § 16 | Berechtigung zum Abrechnen von Etiketten |
 | Anlage | Poster zum Energiekostenvergleich |

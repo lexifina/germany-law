@@ -5,7 +5,7 @@
 ## Abschnitt 1 Allgemeine Vorschriften
 
 - [§ 1 Anwendungsbereich](0001.md)
-- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 2 Begriffsbestimmungen und damit zusammenhängende Regelungen](0002.md)
 
 ## Abschnitt 2 Neu in Verkehr gebrachte Produkte
 
@@ -16,7 +16,7 @@
 - [§ 7 Vermutungswirkung](0007.md)
 - [§ 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen](0008.md)
 - [§ 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen](0009.md)
-- [§ 10 Betretensrechte, Befugnisse und Duldungspflichten](0010.md)
+- [§ 10 Befugnisse und Duldungspflichten](0010.md)
 - [§ 11 Meldeverfahren](0011.md)
 - [§ 12 Berichtspflichten](0012.md)
 - [§ 13 Beauftragte Stelle](0013.md)

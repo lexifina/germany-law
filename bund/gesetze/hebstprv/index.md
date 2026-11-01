@@ -121,6 +121,7 @@
 
 - [§ 57 Übergangsvorschriften zur fachschulischen Ausbildung](0057.md)
 - [§ 58 Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben](0058.md)
+- [§ 58a Übergangsvorschrift für Anträge auf Anerkennung ausländischer Berufsqualifikationen](0058a.md)
 - [§ 59 Ausnahmeregelung zur Praxisanleitung](0059.md)
 - [§ 60 Inkrafttreten, Außerkrafttreten](0060.md)
 - [Schlussformel](schlussformel.md)
@@ -129,8 +130,7 @@
 - [Anlage 3 (zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)Inhalt der Praxiseinsätze](anlage-3.md)
 - [Anlage 4 (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-4.md)
 - [Anlage 5 (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-5.md)
-- [Anlage 6 (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“](anlage-6.md)
-- [Anlage 6a (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“](anlage-6a.md)
+- [Anlage 6 (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“](anlage-6.md)
 - [Anlage 7 (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“](anlage-7.md)
 - [Anlage 8 (zu § 47 Absatz 3)Bescheinigung über die Teilnahme am Anpassungslehrgang](anlage-8.md)
 - [Anlage 9 (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“](anlage-9.md)

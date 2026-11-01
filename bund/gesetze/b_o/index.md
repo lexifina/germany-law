@@ -6,6 +6,7 @@
 - [§ 1](0001.md)
 - [§ 2](0002.md)
 - [§ 2a](0002a.md)
+- [§ 2b](0002b.md)
 
 ## II. Die Approbation
 
@@ -18,6 +19,13 @@
 - [§ 9](0009.md)
 - [§ 9a](0009a.md)
 
+## IIa. Anerkennung von außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualifikationen
+
+- [§ 9b](0009b.md)
+- [§ 9c](0009c.md)
+- [§ 9d](0009d.md)
+- [§ 9e](0009e.md)
+
 ## III. Die Erlaubnis
 
 - [§ 10](0010.md)
@@ -26,6 +34,7 @@
 ## IV. Erbringen von Dienstleistungen
 
 - [§ 10b](0010b.md)
+- [§ 10c](0010c.md)
 
 ## V. Gebührenordnung
 
@@ -37,7 +46,7 @@
 
 ## VII. Strafvorschriften
 
-- [§ 13 VII Straf- und Bußgeldvorschriften](0013.md)
+- [§ 13](0013.md)
 - [§ 13a](0013a.md)
 
 ## VIII. Übergangs- und Schlußvorschriften
@@ -45,6 +54,6 @@
 - [§ 14](0014.md)
 - [§ 14a](0014a.md)
 - [§ 14b](0014b.md)
-- [§ 15 (weggefallen)](0015.md)
-- [§ 16](0016.md)
-- [Anlage (zu § 3 Absatz 1 Satz 2)](anlage.md)
+- [§ 15](0015.md)
+- [§ 16 (weggefallen)](0016.md)
+- [Anlage (weggefallen)](anlage.md)

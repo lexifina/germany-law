@@ -2,29 +2,29 @@
 
 Abschnitt 1
 Allgemeine Bestimmungen
-| § 1 | (zukünftig in Kraft) |
-| § 2 | (zukünftig in Kraft) |
+| § 1 | Anwendungsbereich |
+| § 2 | Begriffsbestimmungen und damit zusammenhängende Regelungen |
 | § 3 | Verordnungsermächtigung |
-| § 4 | (zukünftig in Kraft) |
-| § 5 | (zukünftig in Kraft) |
+| § 4 | Beauftragte Stelle |
+| § 5 | Meldeverfahren |
 Abschnitt 2
-(zukünftig in Kraft)
-| § 6 | (zukünftig in Kraft) |
-| § 7 | (zukünftig in Kraft) |
-| § 8 | (zukünftig in Kraft) |
-| § 9 | (zukünftig in Kraft) |
-| § 10 | (zukünftig in Kraft) |
-| § 11 | (zukünftig in Kraft) |
-| § 12 | (zukünftig in Kraft) |
-| § 13 | (zukünftig in Kraft) |
-| § 14 | (zukünftig in Kraft) |
-| § 15 | (zukünftig in Kraft) |
+Umsetzung der Richtlinie 2009/125/EG
+| § 6 | Veröffentlichung von Informationen über noch nicht in Verkehr gebrachte Ökodesign-Produkte |
+| § 7 | Konformitätsbewertung, Konformitätserklärung |
+| § 8 | Inverkehrbringen, Inbetriebnahme |
+| § 9 | Ausstellen |
+| § 10 | Ressourceneffizienz-Anforderungen |
+| § 11 | Kennzeichnungspflichten |
+| § 12 | CE-Kennzeichnung |
+| § 13 | Marktüberwachung |
+| § 14 | Notifizierte Stellen |
+| § 15 | Fachlich kompetente Reparateure |
 Abschnitt 3
-(zukünftig in Kraft)
-| § 16 | (zukünftig in Kraft) |
-| § 17 | (zukünftig in Kraft) |
+Durchführung der Verordnung (EU) 2024/1781
+| § 16 | Ausstellen |
+| § 17 | Vorbeugung der Umgehung und Leistungsverschlechterung |
 Abschnitt 4
-(zukünftig in Kraft)
-| § 18 | (zukünftig in Kraft) |
-| § 19 | (zukünftig in Kraft) |
-| § 20 | (zukünftig in Kraft) |
+Bußgeldvorschriften und Sanktionen
+| § 18 | Bußgeldvorschriften; Verordnungsermächtigung |
+| § 19 | Bußgeldvorschriften zur Verordnung (EU) 2024/1781 |
+| § 20 | Ausschluss von der Vergabe öffentlicher Aufträge |

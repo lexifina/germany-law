@@ -92,5 +92,5 @@
 |  | § 40 | Rechtsverordnungen |
 |  | § 41 | Verwaltungsvorschriften |
 |  | § 42 | Strafvorschriften |
-|  | § 43 | Aufhebung von Rechtsvorschriften |
+|  | § 43 | Übergangsregelung |
 |  | § 44 | Bestimmungen zum Verwaltungsverfahren |

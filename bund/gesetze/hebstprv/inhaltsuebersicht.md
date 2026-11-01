@@ -110,6 +110,7 @@ Teil 5
 Übergangs- und Schlussvorschriften
 | § 57 | Übergangsvorschriften zur fachschulischen Ausbildung |
 | § 58 | Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben |
+| § 58a | Übergangsvorschrift für Anträge auf Anerkennung ausländischer Berufsqualifikationen |
 | § 59 | Ausnahmeregelung zur Praxisanleitung |
 | § 60 | Inkrafttreten, Außerkrafttreten |
 | Anlage 1 | Kompetenzen für die staatliche Prüfung zur Hebamme |
@@ -117,8 +118,8 @@ Teil 5
 | Anlage 3 | Inhalt der Praxiseinsätze |
 | Anlage 4 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
 | Anlage 5 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
-| Anlage 6 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ |
-| Anlage 6a | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger” |
+| Anlage 6 | Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“ |
+| Anlage 6a | (weggefallen) |
 | Anlage 7 | Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“ |
 | Anlage 8 | Bescheinigung über die Teilnahme am Anpassungslehrgang |
 | Anlage 9 | Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“ |

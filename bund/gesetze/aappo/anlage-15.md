@@ -1,7 +1,4 @@
-# Anlage 15 (zu § 19 Abs. 3)
-
-Prüfungsstoff des Dritten Abschnitts der
-Pharmazeutischen Prüfung
+# Anlage 15 (zu § 19 Abs. 3)Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 I. Pharmazeutische Praxis
@@ -16,7 +13,7 @@ I. Pharmazeutische Praxis
     Ökonomische Aspekte des Einsatzes von Arzneimitteln und Medizinprodukten;
     Produkte für die Säuglings- und Kinderernährung sowie für Ernährungsmaßnahmen bei Erkrankungen; Nahrungsergänzungsmittel; Produkte zur enteralen und parenteralen Ernährung;
     Produkte und Gegenstände zur Körperpflege, Pflanzenschutz- und Schädlingsbekämpfungsmittel;
-    Gesundheitsförderung;
+    Aspekte der öffentlichen Gesundheit, einschließlich Epidemiologie und Gesundheitsförderung;
     Unfallverhütung, Arbeitsschutz und Maßnahmen der Ersten Hilfe;
     Betriebswirtschaftliche Grundlagen des Apothekenbetriebs, insbesondere Buchführung, Jahresabschluss, Rentabilität, Rationalisierung, Steuern.
   II. Spezielle Rechtsgebiete für Apotheker

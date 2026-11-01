@@ -24,4 +24,4 @@
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitgliederder Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| (Unterschriften oder qualifizierte elektronische Signaturen derweiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur der/des Vorsitzenden der Prüfungskommission) |

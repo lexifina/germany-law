@@ -20,7 +20,7 @@ Ausbildung
 - [§ 10 Meldung und Zulassung zur Prüfung](0010.md)
 - [§ 11 Versagung der Zulassung](0011.md)
 - [§ 11a Nachteilsausgleich](0011a.md)
-- [§ 12 Anrechnung von Studienzeiten und Studienleistungen](0012.md)
+- [§ 12 Anrechnung von Studienzeiten und Studienleistungen; Gestattung der Fortführung der Ausbildung](0012.md)
 - [§ 13 Art und Bewertung der Prüfung](0013.md)
 - [§ 14 Schriftliche Prüfung](0014.md)
 - [§ 15 Mündlich-praktische Prüfung](0015.md)
@@ -56,30 +56,53 @@ Ausbildung
 - [§ 32 Zeugnis](0032.md)
 - [§ 33 Gesamtnote und Zeugnis für die Ärztliche Prüfung](0033.md)
 
-## Vierter Abschnitt Die Erlaubnis
+## Vierter Abschnitt Die Erlaubnis zur Ausübung des ärztlichen Berufs, die Erlaubnis zur partiellen Berufsausübung und die Approbation
+
+
+### Erster Unterabschnitt Allgemeine Vorgaben für die einzureichenden Unterlagen
+
+- [§ 33a Allgemeine Vorgaben für die einzureichenden Unterlagen](0033a.md)
+
+### Zweiter Unterabschnitt Die Erlaubnis zur Ausübung des ärztlichen Berufs
 
 - [§ 34 Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung](0034.md)
 - [§ 35 Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung](0035.md)
-- [§ 35a Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung](0035a.md)
+- [§ 35a Erlaubnis nach § 10 Absatz 3a der Bundesärzteordnung](0035a.md)
+- [§ 35b Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung](0035b.md)
 
-## Fünfter Abschnitt Die Approbation
+### Dritter Unterabschnitt Erlaubnis zur partiellen Berufsausübung nach § 10b der Bundesärzteordnung
 
-- [§ 36 Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung](0036.md)
-- [§ 37 Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung](0037.md)
-- [§ 38 Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung](0038.md)
-- [§ 39 Antrag auf Approbation](0039.md)
+- [§ 35c Antrag auf Erteilung der Erlaubnis zur partiellen Berufsausübung](0035c.md)
+- [§ 35d Erforderliche Unterlagen](0035d.md)
+- [§ 35e Frist der Behörde für die Bestätigung des Antragseingangs](0035e.md)
+- [§ 35f Entscheidung über den Antrag](0035f.md)
+- [§ 35g Erlaubnis zur partiellen Berufsausübung](0035g.md)
+
+### Vierter Unterabschnitt Die Approbation
+
+- [§ 36 Eignungsprüfung nach § 9c Absatz 7 der Bundesärzteordnung](0036.md)
+- [§ 37 Kenntnisprüfung nach § 9d Absatz 2 und 3 der Bundesärzteordnung](0037.md)
+- [§ 37a Mitteilungspflichten bei Nichtbestehen der Kenntnisprüfung](0037a.md)
+- [§ 38 Bescheid bei Feststellung wesentlicher Unterschiede nach § 9c Absatz 5 der Bundesärzteordnung](0038.md)
+- [§ 39 Antrag auf Erteilung einer Approbation](0039.md)
+- [§ 39a Erforderliche Unterlagen bei einem Antrag auf Erteilung einer Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation](0039a.md)
+- [§ 39b Erforderliche Unterlagen bei Anträgen nach § 9c Absatz 1 und 2 der Bundesärzteordnung](0039b.md)
+- [§ 39c Erforderliche Unterlagen bei Anträgen nach § 9d Absatz 2 der Bundesärzteordnung](0039c.md)
+- [§ 39d Erforderliche Unterlagen bei Anträgen nach § 9c Absatz 4 oder § 9d Absatz 3 der Bundesärzteordnung](0039d.md)
+- [§ 39e Nachweis über das Vorliegen der Voraussetzungen nach § 3 Absatz 1 Satz 1 Nummer 2 und 3 der Bundesärzteordnung durch Antragsteller mit einer außerhalb Deutschlands abgeschlossenen Berufsqualifikation](0039e.md)
+- [§ 39f Entscheidung über den Antrag](0039f.md)
 - [§ 40 Approbationsurkunde](0040.md)
 
-## Sechster Abschnitt Modellstudiengang
+## Fünfter Abschnitt Modellstudiengang
 
 - [§ 41 Modellstudiengang](0041.md)
 
-## Siebenter Abschnitt Übergangsregelungen
+## Sechster Abschnitt Übergangsregelungen
 
 - [§ 42 Anwendung bisherigen Rechts](0042.md)
 - [§ 43 Abweichende Regelungen für die Prüfungen](0043.md)
 
-## Achter Abschnitt Schlussbestimmungen
+## Siebenter Abschnitt Schlussbestimmungen
 
 - [§ 44 Inkrafttreten, Außerkrafttreten](0044.md)
 - [Schlussformel](schlussformel.md)
@@ -101,7 +124,8 @@ Ausbildung
 - [Anlage 13](anlage-13.md)
 - [Anlage 14 (zu § 40 Satz 1)Approbationsurkunde](anlage-14.md)
 - [Anlage 15 (zu § 28 Absatz 3 Satz 2)Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung](anlage-15.md)
-- [Anlage 16 (zu § 34 Absatz 8)Erlaubnis nach § 10 Absatz 1 oder Absatz 1a der Bundesärzteordnung](anlage-16.md)
-- [Anlage 17 (zu § 35a Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung](anlage-17.md)
+- [Anlage 16 (zu § 34 Absatz 8, § 35 Absatz 4 Satz 2, § 35a Absatz 5)Erlaubnis nach § 10 Absatz 1, 1a oder 3a der Bundesärzteordnung](anlage-16.md)
+- [Anlage 17 (zu § 35b Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung](anlage-17.md)
+- [Anlage 17a (zu § 35g)Erlaubnis zur partiellen Berufsausübung nach § 10b der Bundesärzteordnung](anlage-17a.md)
 - [Anlage 18 (zu § 36 Absatz 7)Niederschrift über die staatliche Eignungsprüfung nach § 36 der Approbationsordnung für Ärzte](anlage-18.md)
-- [Anlage 19 (zu § 37 Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte](anlage-19.md)
+- [Anlage 19 (zu § 37 Absatz 12 Satz 3)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte](anlage-19.md)

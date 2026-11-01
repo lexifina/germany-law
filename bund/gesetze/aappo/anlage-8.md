@@ -1,14 +1,13 @@
-# Anlage 8 (zu § 4 Abs. 4 Satz 1)
+# Anlage 8 (zu § 4 Absatz 4 Satz 1)Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
-Stoffgebiete, die während der praktischen Ausbildung
-gelehrt werden
-
-Fundstelle des Originaltextes: BGBl. I 2000, 1720
+I. Pharmazeutische Praxis einschließlich pharmazeutischer Versorgung und Sozialpharmazie
 Grundprinzipien der Rezeptur und Defektur einschließlich der Beurteilung von Herstellungsvorschriften und -verfahren; Entwicklung, Zulassung und Herstellung von Fertigarzneimitteln;
 Planung, Überwachung und Disposition des Wareneinkaufs; technische Verfahren sowie Probleme der Lagerhaltung; Beeinflussung der Haltbarkeit von Arzneimitteln und Medizinprodukten, die in den Apotheken in den Verkehr gebracht werden, durch Transport und Lagerung;
 Beschaffung, Auswertung, Bewertung und Weitergabe von Informationen über Arzneimittel und Medizinprodukte einschließlich Sicherheitsaspekten;
 Information und Beratung von Patienten, Ärzten und Angehörigen anderer Gesundheitsberufe über Arzneimittel und Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden, insbesondere über die sachgemäße Aufbewahrung, Anwendung, Inkompatibilitäten und Wechselwirkungen sowie die Gefahren des Dauergebrauchs und Missbrauchs von Arzneimitteln;
-Kommunikationstechniken für den Umgang mit Gesunden, Patienten und deren Angehörigen, Ärzten und Angehörigen anderer Gesundheitsberufe;
+Kommunikationstechniken für den Umgang mit Gesunden, Patienten und deren Angehörigen;
+Zusammenarbeit mit Ärzten und Angehörigen anderer Gesundheitsberufe, berufsübergreifende Praxis und Kommunikation;
+Relevante Informationstechnologien und digitale Technologien und ihre Anwendung;
 Aspekte der Qualitätssicherung und Qualitätskontrolle;
 Angewandte Pharmakotherapie; Arzneimittelauswahl in der Selbstmedikation; besondere Therapierichtungen; Grenzen der Selbstmedikation; Interpretation ärztlicher, zahnärztlicher und tierärztlicher Verschreibungen sowie deren Terminologie; Pharmazeutische Betreuung; apothekenübliche Dienstleistungen;
 Blut und Blutprodukte;
@@ -17,10 +16,11 @@ Krankenhaushygiene;
 Vergleichende Beurteilung von Produkten für die Säuglings- und Kinderernährung; vergleichende Beurteilung von Ernährungsmaßnahmen einschließlich diätetischer Lebensmittel und Nahrungsergänzungsmittel; vergleichende Beurteilung von Produkten zur enteralen und parenteralen Ernährung;
 Vergleichende Beurteilung von Produkten und Gegenständen zur Körperpflege, von apothekenüblichen Medizinprodukten sowie von Pflanzenschutz- und Schädlingsbekämpfungsmitteln;
 Besonderheiten der Tierarzneimittel;
-Spezielle Aspekte der Gesundheitsförderung;
+Aspekte der öffentlichen Gesundheit einschließlich Epidemiologie und Gesundheitsförderung;
 Unfallverhütung in der Apotheke und in pharmazeutischen Betrieben einschließlich des sachgerechten Umgangs mit Gefahrstoffen, Zytostatika, Radiopharmaka und radioaktiven Diagnostika; allgemeine Maßnahmen bei Unfällen und Vergiftungen (Erste Hilfe);
 Betriebswirtschaft für Apotheker unter Berücksichtigung des Handelsrechts, des Steuerrechts und des kaufmännischen Rechnungswesens;
-Aufgaben und Tätigkeitsfelder des Apothekers;
+Aufgaben und Tätigkeitsfelder des Apothekers.
+II. Rechtskunde
 Allgemeine Rechtskunde, Berufsrecht; Rechtsvorschriften für den Apothekenbetrieb, den Verkehr mit Arzneimitteln, Betäubungsmitteln, Medizinprodukten, diätetischen Lebensmitteln, Produkten zur Körperpflege, Gefahrstoffen und Pflanzenschutzmitteln; Heilmittelwerberecht;
 Besonderheiten des nationalen und internationalen Arzneimittelmarktes;
 Aufgaben und Organisation der Gesundheitsverwaltung bei Bund, Ländern und Gemeinden sowie auf internationaler Ebene;

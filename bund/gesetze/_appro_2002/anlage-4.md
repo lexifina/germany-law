@@ -5,7 +5,6 @@ Der/Die Studierende der Medizin
 | Geburtsdatum |
 | Geburtsort |
 hat regelmäßig und ordnungsgemäß an der unter meiner Leitung in der/dem unten bezeichneten Klinik/Krankenhaus, der Einrichtung der ambulanten Krankenversorgung oder der ärztlichen Praxis durchgeführten Ausbildung teilgenommen. Die Ausbildung erfolgte auf der Abteilung/in der Praxis für
-|  |
 Die Ausbildung wurde in
 ⃞ Vollzeit
 ⃞ Teilzeit mit einem Umfang von % der wöchentlichen Ausbildungszeit
@@ -14,15 +13,12 @@ Dauer der Ausbildung
 | von: | bis: |
 Fehlzeiten:
 ⃞ nein
-⃞ | ja von: | bis: |
+⃞ ja von: bis:
+⃞ davon wegen Krankheit oder aus wichtigem Grund (durch den/die Studierende/n der Medizin gegenüber dem Landesprüfungsamt nachzuweisen bzw. glaubhaft zu machen)
+| von: | bis: |
 ⃞ Das Krankenhaus, die ärztliche Praxis bzw. die Einrichtung der ambulanten Krankenversorgung ist Lehrkrankenhaus, Lehrpraxis bzw. zur Ausbildung bestimmt worden von der Universität
-  |  |
-  |  |
-  |  |
 ⃞ Die Ausbildung ist an einem Krankenhaus der Universität durchgeführt worden.
-| Ort, Datum |
-| Siegel/Stempel |
-|  |
-|  |  |
-|  |
-| (Unterschrift der für die Ausbildung verantwortlichen Ärzte) |
+| Ort, Datum .................................................................................................. , .................................................................................................. |
+|  | .................................................................................................. |
+|  | .................................................................................................. |
+| Siegel/Stempel | (Unterschrift der für die Ausbildung verantwortlichen Ärzte) |
