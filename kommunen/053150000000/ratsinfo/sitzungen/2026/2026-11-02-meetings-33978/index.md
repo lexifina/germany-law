@@ -1,0 +1,70 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-02T16:00:00+01:00
+- Ende: 2026-11-02T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33978
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33978
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe nach § 24 GO NRW - Fahrradstraße in der Straße "Weyertal", Köln-Lindenthal, Aktenzeichen 167/25 - ungeändert beschlossen
+- TOP 5.2: Mitteilungen zur Bürgereingaben
+- TOP 5.2.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Einrichtung einer Wassergebundenen Wegedecke an der Sportanlage von DJK Südwest, Aktenzeichen 69/26 - Kenntnis genommen
+- TOP 5.2.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - „Gesamtschule Lindenthal – ausbleibende Fortschritte; mangelnde Bürgerbeteiligung / Kommunikation“, Aktenzeichen 139/26 - Kenntnis genommen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage Sportplätze für den Breitensport - vertagt
+- TOP 7.2.2: Stand und weiteres Vorgehen bei der Sanierung des Klettenbergparks - vertagt
+- TOP 7.2.3: Radverbindung Lotharstraße – Remigiusstraße – Arnulfstraße: Beschilderung und Möglichkeiten einer konfliktarmen Verkehrsführung - vertagt
+- TOP 7.2.4: Altenbericht NRW 2026 – Auswirkungen auf die Seniorenpolitik im Stadtbezirk Lindenthal - vertagt
+- TOP 7.2.5: Anfrage Versiegelung Ackerwinde 5 - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Tempo 30 auf der Kitschburger Straße - ungeändert beschlossen
+- TOP 8.1.2: Überweg Kitschburger Straße
+- TOP 8.1.3: geschoben von Verwaltung auf nächste Sitzung wegen offener Fragen
+- TOP 8.1.4: Versetzung des Zaunes zwischen GGS Alfons-Nowak-Straße und ehem.Dependance der Ildefons-Herwegen-Grundschule in Köln-Junkersdorf - ungeändert beschlossen
+- TOP 8.1.5: geschoben von Verwaltung auf nächste Sitzung wegen offener Fragen
+- TOP 8.1.6: Herrichten des Sportplatzes Nordfeld - ungeändert beschlossen
+- TOP 8.1.7: Verbesserung der Wahrnehmbarkeit und Einhaltung von Tempo 30 in der Straße „Unter Linden“ in Widdersdorf - ungeändert beschlossen
+- TOP 8.1.8: geschoben zu 8.2.1
+- TOP 8.1.9: Einführung eines digitalen Buchungssystems für die städtische Tennisanlage im Stadtwald - ungeändert beschlossen
+- TOP 8.1.10: Einrichtung einer Mobilstation Aachener Straße/Stadtwaldgürtel - ungeändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP Ö 8.1.10 – Mobilstation Aachener Straße/Gürtel - endgültig zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 8.2.1: Bessere Abstimmung der Schließzeiten von Kindertagesstätten und Offenen Ganztagsschulen - geändert beschlossen
+- TOP -: Ersetzungsantrag 8.2.1 - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Vorlage wurde von der Fachverwaltung zurückgezogen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Fortschreibung der Schulentwicklungsplanung Köln 2026 - ungeändert beschlossen
+- TOP 9.2.2: 297. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Zügigkeitserweiterung der GGS Manderscheider Platz von drei auf vier Züge zum Schuljahr 2027/28 - ungeändert beschlossen
+- TOP 9.2.4: Einrichtung des Erweiterungsbaus mit zwei Einfachturnhallen für die GGS Berrenrather Str. 352, 50937 Köln-Sülz im Haushaltjahr 2027. - ungeändert beschlossen
+- TOP 9.2.5: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.5 - ungeändert beschlossen
+- TOP 9.2.6: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 11.3.2: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
