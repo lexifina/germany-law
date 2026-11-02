@@ -1,0 +1,8 @@
+# TOP 8: Einwendungen gegen den Entwurf der Haushaltssatzung 2027/2028 gemäß § 76 SächsGemO
+
+- Sitzung: 29. Sitzung des Ortschaftsrates Schönfeld-Weißig (2026-11-02)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/246109
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/72000
