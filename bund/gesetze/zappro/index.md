@@ -111,13 +111,15 @@
 ### Unterabschnitt 1 Allgemeine Bestimmungen
 
 - [§ 83 Antrag auf Approbation](0083.md)
-- [§ 84 Antragsunterlagen](0084.md)
+- [§ 83a Allgemeine Vorgaben für die einzureichenden Unterlagen](0083a.md)
+- [§ 84 Antragsunterlagen bei in Deutschland erworbener Berufsqualifikation](0084.md)
+- [§ 84a Antragsunterlagen bei einer außerhalb Deutschlands erworbenen Berufsqualifikation](0084a.md)
 - [§ 85 Bestätigung des Antragseingangs](0085.md)
 - [§ 86 Entscheidung über den Antrag](0086.md)
 - [§ 87 Bescheid über die Feststellung der wesentlichen Unterschiede](0087.md)
 - [§ 88 Approbationsurkunde](0088.md)
 
-### Unterabschnitt 2 Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
+### Unterabschnitt 2 Eignungsprüfung nach § 12a Absatz 7 des Gesetzes über die Ausübung der Zahnheilkunde
 
 - [§ 89 Art der Prüfung](0089.md)
 - [§ 90 Prüfungstermine](0090.md)
@@ -135,7 +137,7 @@
 - [§ 102 Versäumnis](0102.md)
 - [§ 103 Wiederholung](0103.md)
 
-### Unterabschnitt 3 Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
+### Unterabschnitt 3 Kenntnisprüfung nach § 12b Absatz 2 und 3 des Gesetzes über die Ausübung der Zahnheilkunde
 
 - [§ 104 Art der Prüfung](0104.md)
 - [§ 105 Prüfungstermine](0105.md)
@@ -152,13 +154,15 @@
 - [§ 116 Rücktritt von der Prüfung](0116.md)
 - [§ 117 Versäumnis](0117.md)
 - [§ 118 Wiederholung](0118.md)
+- [§ 118a Mitteilungspflichten bei Nichtbestehen der Kenntnisprüfung](0118a.md)
 
-## Abschnitt 5 Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
+## Abschnitt 5 Die Erlaubnis zur Ausübung der Zahnheilkunde
 
 
 ### Unterabschnitt 1 Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
 
 - [§ 119 Antrag auf erstmalige Erteilung der Erlaubnis](0119.md)
+- [§ 119a Allgemeine Vorgaben für die einzureichenden Unterlagen](0119a.md)
 - [§ 120 Antragsunterlagen](0120.md)
 - [§ 121 Bestätigung des Antragseingangs](0121.md)
 - [§ 122 Entscheidung über den Antrag](0122.md)
@@ -172,12 +176,24 @@
 - [§ 127 Entscheidung über den Antrag](0127.md)
 - [§ 128 Verlängerung der Erlaubnis](0128.md)
 
+### Unterabschnitt 2a Erlaubnis nach § 13 Absatz 3b des Gesetzes über die Ausübung der Zahnheilkunde
+
+
+### Unterabschnitt 4 Erlaubnis zur partiellen Berufsausübung
+
+- [§ 128a Antrag auf Erteilung der Erlaubnis](0128a.md)
+- [§ 128b Antragsunterlagen](0128b.md)
+
 ### Unterabschnitt 3 Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
 
 - [§ 129 Antrag auf Erteilung der Erlaubnis](0129.md)
 - [§ 130 Antragsunterlagen](0130.md)
 - [§ 131 Bestätigung des Antragseingangs](0131.md)
 - [§ 132 Entscheidung über den Antrag](0132.md)
+- [§ 132a Antrag auf Erteilung der Erlaubnis](0132a.md)
+- [§ 132b Antragsunterlagen](0132b.md)
+- [§ 132c Bestätigung des Antragseingangs](0132c.md)
+- [§ 132d Entscheidung über den Antrag](0132d.md)
 
 ## Abschnitt 6 Übergangsregelungen
 
@@ -204,8 +220,9 @@
 - [Anlage 18 (zu § 11 Absatz 3 Satz 2, § 81 Nummer 1)Zeugnis über die Zahnärztliche Prüfung](anlage-18.md)
 - [Anlage 19 (zu § 81 Nummer 2)Bescheinigung über die erforderliche Fachkunde im Strahlenschutz](anlage-19.md)
 - [Anlage 20 (zu § 88 Satz 1)Approbationsurkunde](anlage-20.md)
-- [Anlage 21 (zu § 97 Absatz 2 Satz 1)Niederschrift über die Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-21.md)
-- [Anlage 22 (zu § 112 Absatz 2 Satz 1)Niederschrift über die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-22.md)
-- [Anlage 23 (zu § 122 Absatz 7)Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-23.md)
-- [Anlage 24 (zu § 127 Absatz 7)Erlaubnis nach § 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde](anlage-24.md)
+- [Anlage 21 (zu § 97 Absatz 2 Satz 1)Niederschrift über die Eignungsprüfung nach § 12a Absatz 7 Satz 2 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-21.md)
+- [Anlage 22 (zu § 112 Absatz 2 Satz 1)Niederschrift über die Kenntnisprüfung nach § 12b Absatz 2 Satz 1 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-22.md)
+- [Anlage 23 (zu § 122 Absatz 7 und § 127 Absatz 7)Erlaubnis nach § 13 Absatz 1, 1a und 3b des Gesetzes über die Ausübung der Zahnheilkunde](anlage-23.md)
+- [Anlage 24 (weggefallen)](anlage-24.md)
 - [Anlage 25 (zu § 132 Absatz 5)Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde](anlage-25.md)
+- [Anlage 26 (zu § 132d Absatz 3)Erlaubnis zur partiellen Berufsausübung nach § 13a des Gesetzes über die Ausübung der Zahnheilkunde](anlage-26.md)

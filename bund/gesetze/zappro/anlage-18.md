@@ -20,7 +20,7 @@
 | Fach Mund-, Kiefer- und Gesichtschirurgie | Note „........................................“ |
 | Fächergruppe Zahnerhaltung | Note „........................................“ |
 | Er/Sie hat den Dritten Abschnitt der Zahnärztlichen Prüfung mit der Note „..................................................“ bestanden. |
-| Er/Sie hat bis zum Ersten Abschnitt der Zahnärztlichen Prüfung das Wahlfach .................................................. |
+| Er/Sie hat bis zum Dritten Abschnitt der Zahnärztlichen Prüfung das Wahlfach .................................................. |
 | mit der Note „............................................................“ abgeschlossen. | mit der Note „............................................................“ abgeschlossen. |  |
 | Er/Sie hat damit die Zahnärztliche Prüfung am ............................................................ bestanden. |
 | Herr/Frau ............................................................ hat das Studium der Zahnmedizin |
