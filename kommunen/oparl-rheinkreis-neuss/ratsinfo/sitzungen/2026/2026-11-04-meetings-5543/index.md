@@ -1,0 +1,62 @@
+# öffentliche/nicht öffentliche Sitzung des Kreisausschusses
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2026-11-04T15:05:00+01:00
+- Ende: 2026-11-04T17:38:00+01:00
+- Ort: NE, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/2
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5543
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/5543
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreisausschuss 04.11.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00129296.pdf
+- Ergebnisprotokoll: Einladung Kreisausschuss 04.11.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00129296.pdf
+- Wortprotokoll: Einladung Kreisausschuss 04.11.2026 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00129296.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Bürgeranregung nach § 21 KrO NRW vom 22.10.2026 zum Thema "Demokratie-Kosten-Bilanz" - einstimmig beschlossen
+- TOP 3: Sachstandsbericht zum geplanten Neubau der AS Delrath an der A 57/K 33n / Bürgeranregung gemäß §21 KrO vom 26.06.2026 - einstimmig beschlossen
+- TOP 4: Bestätigung von Beschlüssen der Ausschüsse
+- TOP 4.1: Ausschuss für Soziales, Wohnen und Gesundheit am 16.09.2026 - einstimmig beschlossen
+- TOP 4.2: Ausschuss für Strukturwandel und Arbeit am 17.09.2026 - einstimmig beschlossen
+- TOP 4.3: Mobilitätsausschuss am 29.09.2026 - einstimmig beschlossen
+- TOP 4.4: Planungs-, Klimaschutz und Umweltausschuss am 08.10.2026 - einstimmig beschlossen
+- TOP 4.5: Ausschuss für Rettungswesen, Feuer- und Katastrophenschutz am 13.10.2026 - einstimmig beschlossen
+- TOP 4.6: Kulturausschuss am 14.10.2026 - einstimmig beschlossen
+- TOP 5: Kenntnisnahme von Niederschriften
+- TOP 5.1: Finanzausschuss am 15.09.2026 - zur Kenntnis genommen
+- TOP 6: Strukturwandel, Braunkohlenplanung und Energiewirtschaft - einstimmig beschlossen
+- TOP 7: Regionalarbeit - einstimmig beschlossen
+- TOP 8: Wirtschafts- und Beschäftigungsförderung (Stand November 2026) - einstimmig beschlossen
+- TOP 9: SGB II Entwicklung der Kosten der Unterkunft und Bedarfsgemeinschaften - einstimmig beschlossen
+- TOP 9.1: Tischvorlage: SGB II Entwicklung der Kosten der Unterkunft und Bedarfsgemeinschaften
+- TOP 10: Dringlichkeitsentscheidung: Benennung eines weiteren Mitglieds im Aufsichtsrat der Regiobahn - einstimmig beschlossen
+- TOP 10.1: Tischvorlage: Anfrage der Kreistagsfraktion Die Linke/Die Partei vom 04.11.2026 zum Thema "Dringlichkeitsentscheidungen Ö 10 und Ö 11"
+- TOP 11: Tischvorlage: Dringlichkeitsentscheidung: Bestellung einer Stellvertretung in der Gesellschafterversammlung der Verkehrsgesellschaft Kreis Neuss mbH - einstimmig beschlossen
+- TOP 12: Tischvorlage: Dringlichkeitsentscheidung: Bestellung einer Stellvertretung in der Gesellschafterversammlung der Zukunfts.Kraftwerk Frimmersdorf Strategie GmbH - einstimmig beschlossen
+- TOP 13: Eilentscheidung: Über-/ und außerplanmäßige Aufwendungen/Auszahlungen gemäß § 53 KrO NRW i. V. m. § 83 GO NRW - einstimmig beschlossen
+- TOP 14: Änderung der Geschäftsordnung für den Medienbeirat des Kreismedienzentrums - einstimmig beschlossen
+- TOP 15: Schulentwicklungsplan 2025-2029 zur Förderung von Schülerinnen und Schülern mit Bedarf an sonderpädagogischer Unterstützung - einstimmig beschlossen
+- TOP 16: Maßnahmenpaket zur Sicherstellung des Dienstbetriebes und zur Optimierung der Arbeit der Kreisleitstelle - einstimmig beschlossen
+- TOP 17: Durchführung einer Sicherheitsbefragung im Rhein-Kreis Neuss (Jüchen, Korschenbroich, Meerbusch) - einstimmig beschlossen
+- TOP 17.1: Gemeinsamer Antrag der Kreistagsfraktionen SPD und Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 18: Dienststellenstruktur des Straßenverkehrsamtes - einstimmig beschlossen
+- TOP 18.1: Anfrage der SPD-Kreistagsfraktion vom 28.10.2026 zum Thema "Straßenverkehrsamt"
+- TOP 18.1.1: Tischvorlage: Anfrage der SPD-Kreistagsfraktion vom 28.10.2026 zum Thema "Straßenverkehrsamt" und Antwort der Verwaltung
+- TOP 19: Bericht der Verwaltung zum Antrag Hybride Sitzungen im Kreis-Sitzungssaal
+- TOP 20: Rückkehrmanagement im Rhein-Kreis Neuss - Bearbeitung der "Coesfelder Liste" durch die Ausländerbehörde
+- TOP 21: Sachstandsbericht zum Aufbau eines zentralen Fördermittelmanagements
+- TOP 22: Anträge
+- TOP 22.1: Antrag der Kreistagsfraktionen CDU und FDP vom 30.09.2026 zum Thema "Digitales Jugendforum im Rhein-Kreis Neuss" - einstimmig beschlossen
+- TOP 22.2: Antrag der Kreistagsfraktionen CDU und FDP vom 22.10.2026 zum Thema "Kommunales Regelbefreiungsgesetz Nordrhein-Westfalen" - einstimmig beschlossen
+- TOP 23: Mitteilungen
+- TOP 24: Anfragen
+- TOP 24.1: Anfrage der AfD-Kreistagsfraktion zum Thema "Anfrage zu Schlüsselzuweisungen des Landes und zur Vergabe öffentlicher Aufträge" vom 24.10.2026
+- TOP 24.2: Anfrage der Kreistagsfraktion Bündnis 90/Die Grünen vom 26.10.2026 zum Thema "Aktueller Status und Mittelabfluss beim Verhütungsmittelfons im Gesundheitsamt"
+- TOP 24.3: Anfrage der SPD-Kreistagsfraktion vom 28.10.2026 zum Thema "Umgang mit Anfragen von Bürger/innen"
+- TOP 24.3.1: Tischvorlage: Anfrage der SPD-Kreistagsfraktion vom 28.10.2026 zum Thema "Umgang mit Anfragen von Bürger/innen" und Antwort der Verwaltung
+- TOP 24.4: Fördermittel Leitstelle
+- TOP 25: Bericht der Verwaltung/Beschlusskontrolle
+- TOP 26: Einwohnerfragestunde
