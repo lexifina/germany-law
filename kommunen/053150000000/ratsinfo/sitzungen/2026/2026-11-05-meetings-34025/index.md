@@ -1,0 +1,69 @@
+# Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-05T17:00:00+01:00
+- Ende: 2026-11-05T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34025
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34025
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Parkbänke und Verweilmöglichkeiten - Kenntnis genommen
+- TOP 7.1.2: Ausbau Blumenbergsweg / Maßnahmen- und Zeitplan - Kenntnis genommen
+- TOP 7.1.3: Sondernutzungsgebühren Fühlinger See - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bebauungsplan Nr. 62549/03 „Weichselring, Weserpromenade, Werrastraße“ – Aktualität der Festsetzungen und Auswirkungen auf den heutigen Wohnungsbau Anfrage der AfD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Gemeinsame Anfrage zum Baugebiet Kreuzfeld Gemeinsame Anfrage der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis`90/Die Grünen, der BSW und Die Linke - Kenntnis genommen
+- TOP 7.2.3: Schlechter baulicher Zustand der Hackenbroicher Str. in Worringen Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Haushaltsplanberatung 2027/2028 - Bürgerzentrum und Bürgercafe in Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Die Anfrage AN/1738/2026 wurde auf Antrag der anfragestellenden Fraktion in den nichtöffentlichen Teil unter TOP 12.2.1 verschoben
+- TOP 7.3: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Anfrage zur aktuellen und zukünftigen Verkehrssituation in Merkenich, AN/1428/2025 i.d.S. am 11.12.2025
+- TOP 7.3.2: Parkplatzsituation Siedlung Chorweiler Nord, AN/1461/2025 i.d.S. am 11.12.2025
+- TOP 7.3.3: Turbokreisel Emdenerstraße - Causemannstraße - Zufahrt Industriestraße, AN/1465/2025 i.d.S. am 11.12.2025
+- TOP 7.3.4: Ausbau des Pescher Pfads von Pesch nach Auweiler, AN/0759/2026 i.d.S. am 07.05.2026
+- TOP 7.3.5: Anfrage zur Verkehrssicherheit und Lärmbelastung auf der B9 in Fühlingen, AN/1024/2026 i.d.S. am 25.06.2026
+- TOP 7.3.6: Sanierung der Alte Straße in Worringen, AN/1477/2026 i.d.S. am 24.09.2026
+- TOP 7.3.7: Ersatzverkehre auf der S-Bahn-Linie S11; Planungssicherheit und Fahrgastinformation , AN/1482/2026 i.d.S. am 24.09.2026
+- TOP 7.3.8: Spielfläche für Gorodki/Boule mit Teilentsiegelung , AN/1511/2026 i.d.S. am 24.09.2026
+- TOP 7.3.9: Einbürgerungen in Chorweiler, AN/1473/2026 i.d.S. am 24.09.2026
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1a der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Baustellenlogistik und Verkehrskonzept der Klärschlammverbrennungsanlage Köln-Merkenich - Kenntnis genommen
+- TOP 8.1.2: Einrichtung exklusiver Schwimmzeiten für Frauen im Chorweilerbad - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Bezirksorientierte Mittel 2026 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90/Die Grünen, der FDP, Die Linke und BSW - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Sanierung und nachhaltige Pflege des Naturrasen-Fußballplatzes in Roggendorf/Thenhoven Antrag der SPD-Fraktion - geändert beschlossen
+- TOP -: Gemeinsamer Änderungsantrag der SPD-Fraktion und der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Instandsetzung des Sportplatzes in Roggendorf/Thenhoven und Sicherstellung der langfristigen Bespielbarkeit des Naturrasenplatzes Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.3: Transparenz über Sanierungsmaßnahmen an Sportplätzen im Stadtbezirk Chorweiler schaffen und kurzfristige Lösungen zur Sicherung des Spiel- und Trainingsbetriebs ermöglichen Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.4: Umgestaltung der Parkplätze am Weichselring Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.5: Wintermarkt Gemeinsamer Antrag der der Fraktion Bündnis´90/Die Grünen, Die Linke und BSW - vertagt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sanierung der Fenster und Fassaden (exklusiv Sporthalle) und Nachnutzung der freiwerdenden naturwissenschaftlichen Fachräume des Heinrich-Mann-Gymnasiums in 50765 Köln-Chorweiler, Fühlinger Weg 4 durch die Kölner Schulbaugesellschaft mbH - ungeändert beschlossen
+- TOP 9.2.2: Fortschreibung der Schulentwicklungsplanung Köln 2026 - ungeändert beschlossen
+- TOP 9.2.3: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - ungeändert beschlossen
+- TOP 9.2.4: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 10.2.3: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 11: Anfragen der Seniorenvertretung
+- TOP 11.1: Öffentliche Toilettenanlage auf dem Marktplatz in Heimersdorf Anfrage der Seniorenvertretung - Kenntnis genommen
