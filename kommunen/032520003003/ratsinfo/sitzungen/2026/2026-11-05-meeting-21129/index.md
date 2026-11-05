@@ -1,0 +1,51 @@
+# Rat der Stadt Bad Pyrmont (1. Sitzung)
+
+- Körperschaft: Stadt Bad Pyrmont
+- Beginn: 2026-11-05T17:00:00+01:00
+- Ende: 2026-11-05T19:21:00+01:00
+- Ort: Rathaus, Rathausstraße 1, 31812 Bad Pyrmont, Ratssaal
+- Status: 
+- Gremium: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaTzWNO6N_j_vdib4_Y95Fc
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/21129
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdfO2GJWHX-8Ef-MP4XgQ8RbDuOB78oeFmb1Tlb7DXP5/Bekanntmachung_Rat_der_Stadt_Bad_Pyrmont_05.11.2026.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit sowie der/des Vorsitzenden
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Wahl der/des Ratsvorsitzenden
+- TOP 4.: Wahl der Vertretung der/des Ratsvorsitzenden
+- TOP 5.: Feststellung der Tagesordnung
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Verabschiedung ehemaliger Ratsmitglieder
+- TOP 8.: Geschäftsordnung des Rates - Beschluss über die Geschäftsordnung -
+- TOP 9.: Bekanntgabe der Fraktionen und Gruppen im Rat
+- TOP 10.: Erhöhung der Anzahl der Beigeordneten gemäß § 74 Abs. 2 Satz 2 NKomVG
+- TOP 11.: Bestimmung der Beigeordneten
+- TOP 11.1: Feststellung der auf die einzelnen Fraktionen und Gruppen entfallenden Sitze im Verwaltungsausschuss nach Sainte Lague/Scheppers
+- TOP 11.2: Benennung der Beigeordneten
+- TOP 11.3: Bestimmung der Stellvertreterinnen und Stellvertreter für den Verwaltungsausschuss
+- TOP 11.4: Feststellungsbeschluss über die Zusammensetzung des Verwaltungsausschusses
+- TOP 12.: Wahl der ehrenamtlichen Vertreterinnen oder Vertreter des Bürgermeisters aus den Beigeordneten
+- TOP 13.: Vereidigung des Bürgermeisters
+- TOP 14.: Ausschüsse des Rates
+- TOP 14.1: Bildung der Ausschüsse nach § 73 NKomVG (Pflichtausschüsse)
+- TOP 14.2: Bildung der Ausschüsse nach § 71 NKomVG
+- TOP 14.3: Bestimmung der Anzahl der Ausschusssitze
+- TOP 14.4: Feststellung der Sitzverteilung in den Ausschüssen
+- TOP 14.5: Benennung der Ausschussmitglieder und deren Vertreterinnen und Vertreter
+- TOP 14.6: Zuteilung der Ausschussvorsitze und Benennung der Ausschussvorsitzenden
+- TOP 15.: Wahl der Ortsvorsteherinnen und Ortsvorsteher für die Ortsteile Baarsen, Eichenborn, Großenberg, Kleinenberg und Neersen
+- TOP 16.: Benennung der Vertreter/innen der Stadt im Integrationsrat
+- TOP 17.: Verwaltungsrat der Stadtsparkasse Bad Pyrmont
+- TOP 17.1: Bestätigung der Wahl der Beschäftigtenvertreter in den Verwaltungsrat der Stadtsparkasse Bad Pyrmont gemäß § 110 Personalvertretungsgesetz
+- TOP 17.2: Benennung der Vertreter der Stadt Bad Pyrmont für den Verwaltungsrat der Stadtsparkasse Bad Pyrmont
+- TOP 18.: Entsorgung Bad Pyrmont AöR Bestellung der übrigen Mitglieder des Verwaltungsrates gemäß § 145 NKomVG
+- TOP 19.: Vertretung der Stadt Bad Pyrmont in Verbänden, Gesellschaften und Institutionen 1. Kreissiedlungsgesellschaft Hameln-Pyrmont 2. Zweckverband Volkshochschule Hameln-Pyrmont 3. Kuratorium Schloss 4. Landschaftsverband Hameln-Pyrmont e.V. 5. Bad Pyrmont Tourismus GmbH 6. Unterhaltungsverband Emmer-Humme 7. Lenne-Verband 8. Klimaschutzagentur Weserbergland 9. Verkehrsgesellschaft Hameln-Pyrmont mbH (VHP)
+- TOP 20.: Regularien
+- TOP 20.1: Mitteilungen und Berichte
+- TOP 20.2: Bekanntgabe von Eilentscheidungen
+- TOP 21.: Beantwortung von Anfragen
