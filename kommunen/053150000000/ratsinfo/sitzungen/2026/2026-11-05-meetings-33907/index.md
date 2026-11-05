@@ -1,0 +1,74 @@
+# 8. Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-05T16:00:00+01:00
+- Ende: 2026-11-05T20:19:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33907
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33907
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Einwohneranfrage, Verkehrssituation Hildeboldplatz / Im Klapperhof, Stadtbezirk 1 (Innenstadt) - vertagt
+- TOP 1.2: Einwohneranfrage - Markierung einer Sperrfläche am Severinswall Ecke Chlodwigplatz - vertagt
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Errichtung einer City-Light-Säule (CLS) an dem Standort Neumarkt ggü. Nr. 1 - vertagt
+- TOP 3.2: Fortschreibung der Schulentwicklungsplanung Köln 2026 - mit Änderungen empfohlen
+- TOP -: Kinder in der Innenstadt halten – Hauptschule am Rhein weiterentwickeln, Änderungsantrag zu 0124/2026 B90/Die Grünen - geändert beschlossen
+- TOP 3.3: Genehmigung Dringlichkeitsentscheidung - Zügigkeitsreduzierung der Katholischen Grundschule Zugweg 42-44, 50667 Köln-Neustadt/Süd zum Schuljahr 2027/28 - ungeändert empfohlen
+- TOP 3.4: Bedarfsfeststellungsbeschluss für die Beauftragung externer Gutachterleistungen für die Gesamtinstandsetzung der Severinsbrücke - ungeändert empfohlen
+- TOP 3.5: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - ungeändert empfohlen
+- TOP 3.6: Umgestaltung Spielplatz 1 03 04 01 Am Römerturm - Auf dem Berlich - ungeändert beschlossen
+- TOP 3.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Anpassung des Bebauungsplans im Bereich Alter Markt zur Ermöglichung von Außengastronomie - vertagt
+- TOP 4.2: Antrag nach § 24 GO - Bebauungsplan für das Stadtgartenviertel, Aktenzeichen 49/26 - vertagt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Aktuelle und geplante Vorhaben im Georgsviertel und ihre Abhängigkeiten, Antrag B90/Die Grünen - ungeändert beschlossen
+- TOP 5.2.2: Trinkbrunnen in der Innenstadt Köln, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.3: Erinnerung verpflichtet. Jüdisches Leben schützen. Gemeinsam gegen Antisemitismus. Antrag CDU - Sache ist erledigt
+- TOP 5.2.4: Zurückweisung der Mitteilung 2629/2026 und Anrufung des Hauptausschusses, gem. Antrag B90/Die Grünen, CDU und VOLT - ungeändert beschlossen
+- TOP 5.2.5: T30/Fahrradstraße in der Dasselstraße und Abbau eines freilaufenden Rechtsabbiegers, Antrag B90/Die Grünen - vertagt
+- TOP 5.2.6: Rettungswege in der Innenstadt: Widersprüchliche Aussagen aufklären. Gemeinsame Kontrollfahrten ermöglichen. Antrag CDU - vertagt
+- TOP 5.2.7: Beratung der geänderten Vorlage „Köln-Katalog Bestand: Entwicklung von Bestandsquartieren“ (0853/2026), gem. Antrag B90/Die Grünen, CDU und VOLT - ungeändert beschlossen
+- TOP 5.2.8: Aufhebung des Beschlusses „Einrichtung einer zusätzlichen Hundefreilauffläche im August-Sander-Park“, gem. Antrag B90/Die Grünen, Die Linke - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 5.2.8 Aufhebung des Beschlusses „Einrichtung einer zusätzlichen Hundefreilauffläche im August-Sander-Park“ (AN/1694/2026), Ergänzungsantrag CDU - endgültig abgelehnt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Sachstand Verkehrsberuhigung und Begrünung Kaesenstraße (Antrag AN/0643/2021 aus 2021), Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.2: Einnahmenentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens, Anfrage SPD - vertagt
+- TOP -: Einnahmeentwicklung durch Ausweitung von Außengastronomieflächen im Rahmen des neuen Genehmigungsverfahrens (AN/0640/2025) - vertagt
+- TOP 6.1.3: Dringende Sanierung und Neustart für die Bastei, Anfrage CDU - vertagt
+- TOP -: Beantwortung der Anfrage AN/0448/2026: Bastei - vertagt
+- TOP 6.1.4: Update Brüsseler Platz, Anfrage CDU - Sache ist erledigt
+- TOP -: Brüsseler Platz – Sachstand zum Lärmschutz und weiteres Vorgehen der Verwaltung - Kenntnis genommen
+- TOP 6.1.5: Sachstand Weiterführung der Kita Karl-Korn-Straße, Anfrage B90/Die Grünen - Sache ist erledigt
+- TOP 6.1.6: Regelung der Zufahrt auf den Roncalliplatz und zum Dom-Hotel, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.7: Rechtmäßigkeit der Parkplatzstreichungen in der Kölner Innenstadt, Anfrage CDU - vertagt
+- TOP 6.1.8: Fehlende Zahlen zum Nettoverlust von Bäumen und fehlendes Fäll- und Pflanzreporting, Anfrage B90/Die Grünen - vertagt
+- TOP 6.1.9: Illegale Farbsprühereien in der Kölner Innenstadt, Anfrage CDU - vertagt
+- TOP 6.1.10: Taubenverschmutzung an Plätzen und Brücken; Anfrage CDU - vertagt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Anfrage zum Vorhaben Helenenwallstraße von B90/Grüne, Linke, CDU, SPD, Volt - vertagt
+- TOP 6.2.2: Sachstand der Maßnahmen im Apostelnquartier, Anfrage B90/Die Grünen - vertagt
+- TOP 6.2.3: Nachfrage zur Mitteilung Achterstraße (2132/2026), Anfrag B90/Die Grünen - vertagt
+- TOP 7: Mitteilungen der Bezirksbürgermeisterin
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung zu den Bürgereingaben nach § 24 GO NRW - "Einrichten einer musikfreien Zone in der gesamten Schilder-, Krebsgasse, am Neumarkt bis zur Apostelnkirche" und "Saisonales Straßenmusik-Konzept in der Altstadt (Kölner Kultursommer)", Az.: 56/26 - Kenntnis genommen
+- TOP 8.2: Barrierefreier Umbau der Bushaltestelle Ubierring - Kenntnis genommen
+- TOP 8.3: Deutzer Hafen: Haushaltsmäßige Auswirkungen der städtebaulichen Entwicklungsmaßnahme Deutzer Hafen auf Basis der Kosten- und Finanzierungsübersicht, Stand 31.12.2025 - Kenntnis genommen
+- TOP 8.4: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.5: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 8.6: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssituation Aachener Straße stadteinwärts, Übergang zur Richard-Wagner-Straße in Höhe der Kreuzung Moltkestraße, Aktenzeichen 25/26 - Kenntnis genommen
+- TOP 8.7: Sachstandsberichte - Kenntnis genommen
+- TOP 8.8: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
