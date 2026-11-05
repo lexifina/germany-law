@@ -1,0 +1,95 @@
+# 8. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-05T17:30:00+01:00
+- Ende: 2026-11-05T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33914
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33914
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Besuch von Herrn Beigeordneten Egerer
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage Flächennutzung Johannes-Giesberts-Park - vertagt
+- TOP 1.2: Einwohnerfrage Standortentscheidung Bolzplatz Johannes-Giesberts-Park - vertagt
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO – Versetzen einer Bank auf der Neusser Straße, Ecke Scharnhorst Straße Aktenzeichen 141-26 - geändert beschlossen
+- TOP -: Bürgereingabe nach § 24 GO–Versetzen einer Bank auf der Neusser Straße, Ecke Scharnhorst Straße Aktenzeichen 141-26 - endgültig zurückgezogen
+- TOP 2.2: Bürgereingabe nach § 24 GO NRW - Errichtung eines Basketballplatzes in Bilderstöckchen - Az. 203/26 - geändert beschlossen
+- TOP -: Bürgereingabe nach § 24 GO NRW - Errichtung eines Basketballplatzes in Bilderstöckchen - Az. 203/26 - ungeändert beschlossen
+- TOP 2.3: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssicherheit Neusser Straße, Aktenzeichen 140/26 - geändert beschlossen
+- TOP -: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssicherheit Neusser Straße, Altenzeichen 140/26 - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsetzung von AN/0774/2021 LKW-Durchfahrtsverbot in der Kuenstraße - vertagt
+- TOP 7.1.2: Herstellung von Barrierefreiheit im Stadtbezirk - vertagt
+- TOP 7.1.3: Weiterer Zebrastreifen in der Nesselrodestraße - vertagt
+- TOP 7.1.4: Unübersichtliche Situation in der Kautschukstraße zwischen Niehler Straße und Josefine-Clouth-Straße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN aus der Sitzung der Bezirksvertretung Nippes vom 06.02.2025 (AN/0172/2025) betreffend „Unübersichtliche Situation in der Kautschukstraße nahe Niehler Straße“ - Kenntnis genommen
+- TOP 7.1.5: Baustellenabsperrung Lohsestraße und Holbeinstraße - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung vom 22.05.2025 betreff; "Baustellenabsperrung Lohsestraße und Holbeinstraße" (AN/0637/2025) - Kenntnis genommen
+- TOP 7.1.6: Ampelanlagen im Stadtbezirk Nippes - vertagt
+- TOP 7.1.7: Kapazitäten an Tiefgaragenplatzflächen im Bezirk Nippes - Sache ist erledigt
+- TOP 7.1.8: Sicherung der Teilhabe durch barrierefreien Wohnraum – Strategien zur Bewältigung des demografischen Wandels im Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Beantwortung des Antrags AN/1414/2026 „Sicherung der Teilhabe durch barrierefreien Wohnraum – Strategien zur Bewältigung des demografischen Wandels im Stadtbezirk Nippes“ von Bündnis 90/DIE GRÜNEN aus der Bezirksvertretung Nippes vom 13.09.2026 - Kenntnis genommen
+- TOP 7.1.9: Hitzetelefon der Stadt Köln, Nutzung durch Bürger*innen aus dem Stadtbezirk Nippes - Kenntnis genommen
+- TOP -: Beantwortung einer schriftlichen Anfrage der Fraktion Die Grünen aus der Sitzung der BV Nippes vom 24.09.2026 (AN/1416/2026) betreffend Hitzetelefon der Stadt Köln Nutzung im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.10: Zustand und Vitalität des Straßenbaumbestands im Bezirk Nippes - vertagt
+- TOP 7.1.11: Bürgerzentrum Turmstraße – Nutzung, Auslastung und Vergabe des ehemaligen Schulgebäudes mit Hallen - vertagt
+- TOP 7.1.12: Verfahren bei der Ausweisung neuer Park- und Halteverbote - vertagt
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gewaltverbrechen an obdachlosen Menschen im Bezirk
+- TOP -: Gewaltverbrechen an obdachlosen Menschen im Bezirk
+- TOP 7.2.2: Festlegung bezirksbezogene Haushaltsmittel - vertagt
+- TOP 7.2.3: Flutlichtanlage, ökologische Aufwertung und andere Maßnahmen auf der Bezirkssportanlage Weidenpesch - vertagt
+- TOP 7.2.4: Zukunft des Galeria Kaufhof in der Neusser Straße - vertagt
+- TOP 7.2.5: Sachstand zur Prüfung einer Einbahnstraßenregelung auf der Stammheimer Straße in Köln-Riehl - vertagt
+- TOP 7.2.6: Planungsstand Bezirkssportanlage Weidenpesch - vertagt
+- TOP 7.2.7: Sachstand zur weiteren Nutzung des ehemaligen Kinderkrankenhauses Pallenbergstraße 24 und des umgebenden Geländes - vertagt
+- TOP 8: Anträge gemäß §§ 3 und 38 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verkehrssicherheit in der Escher Straße - ungeändert beschlossen
+- TOP 8.1.2: Überplanung des Geländes zwischen Neusser Straße und Bezirkssportanlage Weidenpesch - vertagt
+- TOP 8.1.3: Prüfung der Einrichtung eines Fußgängerüberwegs auf der Alzeyer Straße im Bereich des Haupteingangs der GGS Alzeyer Straße - ungeändert beschlossen
+- TOP 8.1.4: Bewohnerparken in der Schwerinstraße - ungeändert beschlossen
+- TOP 8.1.5: Sparkassenbus in Weidenpesch - ungeändert beschlossen
+- TOP 8.1.6: Antrag für eine Höhenschranke - geändert beschlossen
+- TOP 8.1.7: Geschwindigkeitsmessungen und Prüfung weiterer Maßnahmen zur Verkehrsberuhigung in der Hittorfstraße in Köln-Riehl - ungeändert beschlossen
+- TOP 8.1.8: Freier Bürgersteig an der Schillstraße - Abpollerung gegen illegales Parken - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Bienenhaltestellen und Photovoltaik für Nippes - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel an den Bürgerverein Bilderstöckchen e.V. - ungeändert beschlossen
+- TOP 9.1.2: Vergabe bezirksorientierter Mittel an die KKG Nippeser-Bürgerwehr 1903 e.V. - ungeändert beschlossen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Vergabe bezirksorientierter Mittel an den Teamturbo e.V. - ungeändert beschlossen
+- TOP 9.1.5: Finanzielle Unterstützung der Nippeser Veedelszööch 2027 - geändert beschlossen
+- TOP -: Finanzielle Unterstützung der Nippeser Veedelszöch 2027 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung der Schulentwicklungsplanung Köln 2026 - geändert beschlossen
+- TOP -: Fortschreibung der Schulentwicklungsplanung Köln 2026 - ungeändert beschlossen
+- TOP 9.2.2: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - geändert beschlossen
+- TOP 9.2.3: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Entwurfsplanung sowie Baubeschluss für die Radverbindung Niehler Gürtel zwischen Merheimer Straße und Niehler Kirchweg im GrünZug Nippes - ungeändert beschlossen
+- TOP 9.2.5: Planungsbeschluss für den barrierefreien Ausbau der KVB-Haltestelle Neusser Straße/Gürtel einschl. der Buswendeschleife in Höhe des Bezirksrathauses Nippes Neusser Straße/Gürtel - ungeändert beschlossen
+- TOP 9.2.6: Bildung eines Teilstandortes für das Erich-Kästner-Gymnasium, Castroper Straße 7, 50735 Köln-Nippes, in der Stammheimer Str. 101, 50735 Köln-Nippes - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sitzungstermine der BV Nippes im Jahre 2027 - Kenntnis genommen
+- TOP 10.2.2: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 10.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.7: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 10.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
