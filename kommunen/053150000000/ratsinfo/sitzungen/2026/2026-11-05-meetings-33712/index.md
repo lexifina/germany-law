@@ -1,0 +1,83 @@
+# 8. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-05T17:02:00+01:00
+- Ende: 2026-11-05T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33712
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33712
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Austausch mit Herrn Oberbürgermeister Burmester - abgesetzt für diese Sitzung
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: C - Sachstand Porz Mitte
+- TOP 1: Einwohneranfragen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach §24 GO - "Brückenverbreiterung und Pavillon auf der Brücke über die Hauptstraße in Porz", Aktenzeichen 179/26 - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Brückenverbreiterung und Pavillion auf der Brücke Hauptstraße" - vertagt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Integriertes Stadtentwicklungskonzept Porz-Mitte - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Empfehlungen des Beirates zur Hauptstraße Porz-Mitte, Beschlussvorlage 2160/2026" - vertagt
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Fortschreibung der Schulentwicklungsplanung Köln 2026 - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Fortschreibung der Schulentwicklungsplanung" - vertagt
+- TOP 7.2: Zügigkeitserweiterung der Friedrich-List-Schule, Gemeinschaftsgrundschule, Breitenbachstraße 2, 51149 Köln-Gremberghoven, zum Schuljahr 2027/28 - vertagt
+- TOP -: Änderungsantrag der SPD-Fraktion "Zügigkeitserweiterung der Friedrich-List-Schule" - vertagt
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - ungeändert empfohlen
+- TOP 7.4: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion "Umgestaltung und Entsiegelung des Platzes der Kulturen" - Sache ist erledigt
+- TOP -: Änderungsantrag der SPD-Fraktion "Umgestaltung und Entsiegelung des Platzes der Kulturen, AN/1304/2026" - ungeändert beschlossen
+- TOP -: Stellungnahme zu einem Antrag aus Sitzung der BV 7 am 15.09.2026 "Umgestaltung Platzes der Kulturen in Köln-Porz" - Kenntnis genommen
+- TOP 8.2: Antrag der Fraktion Bündnis90/DieGrünenVolt "Aufwertung des Platzes Langeler Berg / Hintergasse" - vertagt
+- TOP 8.3: Antrag der Fraktionen CDU, SPD und Bündnis90/DieGrünenVolt "Erinnerung verpflichtet. Jüdisches Leben schützen. Gemeinsam gegen Antisemitismus" - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion"Offenlegung Genehmigung Veranstaltungsfreifläche der Open Air Location Südbrücke, Alfred-Schütte-Allee, Köln-Poll" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen SPD und Bündnis90/DieGrünenVolt "Südbrücke " - ungeändert beschlossen
+- TOP -: Stellungnahme zum Beschlussantrag der SPD-Fraktion auf Offenlegung Genehmigung Veranstaltungsfreifläche der Open Air Location Südbrücke - Kenntnis genommen
+- TOP 8.5: Antrag der Fraktionen CDU, SPD und Bündnis90/DieGrünenVolt "Reparatur der defekten Beläge auf den Radwegen der Heidestraße in beiden Fahrtrichtungen in Porz-Wahn, -Wahnheide" - ungeändert beschlossen
+- TOP 8.6: Antrag SPD Fraktion "Weitere Verwendung des bisherigen Kita-Grundstücks Auf dem Sandberg" - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion "Reparatur der defekten Beläge auf den Radwegen der Bergerstraße in beiden Fahrtrichtungen in Porz-Mitte, -Eil" - ungeändert beschlossen
+- TOP 8.8: Antrag SPD Fraktion "Dynamische Fahrgastinformation an KVB-Haltestellen in Wahn, Wahnheide" - ungeändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der Fraktionen CDU, SPD und Bündnis90/DieGrünenVolt "Stadtverschönerungsmittel 2026" - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion zur Sitzung der BV Porz am 23.06.2026 betreffend: "Liegenschaft Sankt-Anno-Str. 18, 51147 Köln" - Kenntnis genommen
+- TOP -: Anfrage der AfD-Fraktion "Liegenschaft Sankt-Anno-Str. 18, 51147 Köln‘‘ - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der CDU-Fraktion bezüglich des Gerüstes an der GGS Heideschule Schützenstraße AN/1389/2026 - Kenntnis genommen
+- TOP -: Anfrage der CDU-Fraktion "Gerüst an der GGS Heideschule" - Sache ist erledigt
+- TOP 9.1.3: Beantwortung einer Anfrage der SPD-Fraktion bezüglich Hallenbad Porz-Wahn, Albert-Schweitzer-Straße 8, 51147 Köln - Kenntnis genommen
+- TOP -: Anfrage der SPD-Fraktion "Hallenbad Porz-Wahn" - Sache ist erledigt
+- TOP 9.1.4: Anfrage der SPD-Fraktion "Verkehrskonzept für Köln-Porz-Gremberghoven" - vertagt
+- TOP 9.1.5: Anfrage der AfD-Fraktion "Reizgas-Attacke Wilhelm-Busch-Realschule" - vertagt
+- TOP 9.1.6: Anfrage der SPD-Fraktion "Treppe Ohmstr./Kaiserstr." - vertagt
+- TOP 9.1.7: Anfrage der Fraktion Bündnis 90/Die Grünen "Frankfurter Straße 210, Porz-Wahn" - vertagt
+- TOP 9.1.8: Anfrage der SPD-Fraktion "Sachstand Offene Schulhöfe im Stadtbezirk Porz" - vertagt
+- TOP 9.1.9: Anfrage der CDU-Fraktion "Parkplatzsituation in Porz-Finkenberg" - vertagt
+- TOP 9.1.10: Anfrage der CDU-Fraktion "Fußgängerzone Porz" - vertagt
+- TOP 9.1.11: Anfrage der Fraktion Bündnis 90/Die Grünen/Volt "E-Scooter im Stadtbezirk Porz" - vertagt
+- TOP 9.1.12: Anfrage der CDU-Fraktion "Ausbau der Frankfurter Straße, Hochkreuz, Steinstraße usw. in Porz-Eil und Gremberghoven" - vertagt
+- TOP 9.1.13: Anfrage der CDU-Fraktion "Wochenmarkt in Porz-Mitte" - vertagt
+- TOP 9.1.14: Anfrage der SPD-Fraktion "Eingezäunte Grünfläche im Umfeld der Pestalozzischule in Wahnheide" - vertagt
+- TOP 9.1.15: Anfrage der SPD-Fraktion "Westhovener Aue - Sondierungsarbeiten, beschädigte Wege und Schutz des Gewässers" - vertagt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion "Parkhaus mit Tiefgarage, Brüsseler Str. Ecke Eupener Str. in 51149 Köln-Porz" - vertagt
+- TOP 9.2.2: Anfrage der SPD Fraktion "Rattenbefall im Bereich Brüsseler Straße in Köln-Porz-Finkenberg" - vertagt
+- TOP 9.2.3: Anfrage SPD Fraktion "Entwicklungsperspektiven für die Grundstücke Heidestraße 40 und 140 in Köln-Porz-Wahn und -Wahnheide - vertagt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2025 der Naturschutzwacht Bezirk Porz Süd - Kenntnis genommen
+- TOP 10.2.2: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Verlängerung der flankierende Maßnahmen Integriertes Stadtentwicklungskonzept Porz-Mitte - Kenntnis genommen
+- TOP 10.2.4: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 10.2.5: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 10.2.6: Schulstraße am Standort Kupfergasse in Köln-Porz - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
