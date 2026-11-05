@@ -1,20 +1,21 @@
 # Bavaria: law history in git
 
-The law of the Free State of Bavaria (Freistaat Bayern) as a git history: one file per Artikel or Paragraph, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is German, the only official language.
+The law of the Free State of Bavaria (Freistaat Bayern) as a git history: generally one file per Artikel or Paragraph, with each of the nine Verwaltungsvorschriften in one text file. The text is German, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 ## What this repository holds
 
-**Current text only, not yet a history.** BAYERN.RECHT publishes only the consolidated version of each act that is in force, so each act is one commit holding its whole current text, dated by the day that version came into force and credited to the publisher ("oldest version available"), not to an amending law. Each act's `000-titel.md` keeps the list of amending acts the portal prints.
+**Current text only, not yet a history.** BAYERN.RECHT publishes only the consolidated version of each act that is in force, so each act is one commit holding its whole current text, dated by the day that version came into force and credited to the publisher ("oldest version available"), not to an amending law. For Gesetze and Rechtsverordnungen, `000-titel.md` keeps the list of amending acts the portal prints.
 
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `bayverf/` | Verfassung des Freistaates Bayern (BayRS 100-1-I) | 1 |
 | other folders | the Bavarian Gesetze listed by BAYERN.RECHT, one folder per act (by its document id, e.g. `baybo/`) | 1 each |
 | other folders | the Bavarian Rechtsverordnungen listed by BAYERN.RECHT (486), one folder per act (by its document id, e.g. `bayabfzustv/`) | 1 each |
+| `bayvwv*` and `bayvv-*` folders | nine Bavarian Verwaltungsvorschriften from BAYERN.RECHT, each with the complete current XML body in one text file | 1 each |
 
-Verwaltungsvorschriften and Staatsverträge are not included yet.
+Other Verwaltungsvorschriften and Staatsverträge are not included yet.
 
 ## Source
 

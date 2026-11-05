@@ -10178,6 +10178,580 @@
      "sha256": "1f03ee93ad61c52e1a8ee20a504cab4397d52eba8ce9dd56020f2ed4a9dc9b89"
     }
    ]
+  },
+  {
+   "slug": "bayvwv151716",
+   "short": "LfFGO",
+   "title": "Geschäftsordnung für das Landesamt für Finanzen (LfFGO)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV151716",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 43,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV151716",
+     "sha256": "f139ff9dc46b2d97f827597d56b9edf25b29302a8306c8e7bcb2610243d389d9"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv101445",
+   "short": "BayVwV101445",
+   "title": "Satzung der Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV101445",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV101445",
+     "sha256": "25d568e5e8ee07eca7c40f673e64b613f14bbdb602be4eb6d97c3c6e16b49669"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv153873",
+   "short": "BayVwV153873",
+   "title": "Dienstvereinbarung über die Einführung, Anwendung und erhebliche Änderung des Fachverfahrens forumSTAR samt Textsystem bei den Gerichten im Geschäftsbereich des Bayerischen Staatsministeriums der Justiz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV153873",
+   "versions": [
+    {
+     "from": "2007-01-23",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV153873",
+     "sha256": "317fac2cb840e56f18ea2413fa63635ecf038a54e0f91caa9d2140f082f03b1c"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv151469",
+   "short": "BayVwV151469",
+   "title": "Vollzug des Polizeiaufgabengesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV151469",
+   "versions": [
+    {
+     "from": "2003-01-27",
+     "units": 76,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV151469",
+     "sha256": "3ea97f3b2f196355abd3ca33e14ff6ab366e3593b704f90553101ed6c63e40da"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv96653",
+   "short": "BayVwV96653",
+   "title": "Mustersatzung für die Erhebung einer Straßenreinigungsgebühr",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96653",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96653",
+     "sha256": "e48ed3bddc747635ed0edc0c22d354f8c327d9f5a27e432f8897a4d00a001f0d"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv123847",
+   "short": "BayVwV123847",
+   "title": "Muster einer Beitrags- und Gebührensatzung zur Entwässerungssatzung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV123847",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 36,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV123847",
+     "sha256": "e9fac9baea4960c8ca2120ab6039f2b34de8d63eb90fc8bf2165d745bb28f08b"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv153871",
+   "short": "JuPersBek",
+   "title": "Personalangelegenheiten (JuPersBek)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV153871",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV153871",
+     "sha256": "96347b52ce640047c4b76c0d8d32e4051b4f39b5b26fb1686938fe226ace5362"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv246830",
+   "short": "ARLPA",
+   "title": "Allgemeine Regelungen des Landespersonalausschusses im Bereich des Laufbahn- und Prüfungsrechts (ARLPA)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV246830",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 10,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV246830",
+     "sha256": "c75684db4b9d45a8c89f1d1db07ac2fb04af54bc6f6d5120411d2b5aa3f4b921"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-108268",
+   "short": "BayVV_108268",
+   "title": "Verfassungstreue im öffentlichen Dienst",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_108268",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_108268",
+     "sha256": "a10a1cd1632bb15abe78f5054b4d5e88fc1ee572919d9ac6885e2eb47015dc5c"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2030-8-3-f-13527",
+   "short": "BayVV_2030_8_3_F_13527",
+   "title": "Vollzug der Bayerischen Beihilfeverordnung; Abführung von Renten- und Arbeitslosenversicherungsbeiträgen für Pflegepersonen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2030_8_3_F_13527",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2030_8_3_F_13527",
+     "sha256": "57b041efce2a42af58985674821457d9a4b7ba48b9133c3eb05a7e546442e8ac"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2030-8-3-f-13046",
+   "short": "BayVV_2030_8_3_F_13046",
+   "title": "Vollzug der Bayerischen Beihilfeverordnung; Abführung von Renten- und Arbeitslosenversicherungsbeiträgen für Pflegepersonen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2030_8_3_F_13046",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2030_8_3_F_13046",
+     "sha256": "617309e4e523a9506dac2120f78873b8082aab6c9fb5463e7c2419c6c6b6dcbe"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv235695",
+   "short": "ErgBBayBhV",
+   "title": "Ergänzende Bestimmungen zum Vollzug der Bayerischen Beihilfeverordnung (ErgBBayBhV)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV235695",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV235695",
+     "sha256": "1f2279d21db0fd1c95be5154dbba6a47bb1bdb47a7566b6dc58de1b2183bbe7b"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv96743",
+   "short": "BayVwV96743",
+   "title": "Reisekostenvergütung, Umzugskostenvergütung und Trennungsgeld; Zuständigkeiten im Geschäftsbereich des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (ohne Staatsforstverwaltung)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96743",
+   "versions": [
+    {
+     "from": "1997-12-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96743",
+     "sha256": "2e1f7d5ef4731b29dddb3fa9ae5adb5951014de3b6aabd216348e38cf311cc4d"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv232531",
+   "short": "BayBTBek",
+   "title": "Beurlaubung und Teilzeitbeschäftigung von Arbeitnehmerinnen und Arbeitnehmern (BayBTBek)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV232531",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 9,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV232531",
+     "sha256": "f84b361fb4831f880a2566f112bfc7ce42ac0d50a33751e2b22ddf6035c4f7ff"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2034-7-f-173",
+   "short": "BayVV_2034_7_F_173",
+   "title": "Gewährung von Beihilfen an Angestellte, Arbeiter, Lehrlinge und Anlernlinge",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2034_7_F_173",
+   "versions": [
+    {
+     "from": "1974-01-14",
+     "units": 7,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2034_7_F_173",
+     "sha256": "8b20725f681879b0621a917fe966a7d3e39e8d31fb5566cd740473c887780867"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv159082",
+   "short": "BayVwV159082",
+   "title": "Ausgestaltung der inhaltlichen Prüfungsanforderungen für die Erste Staatsprüfung nach Kapitel II der Lehramtsprüfungsordnung I zu den einzelnen Fächern (Kerncurricula)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV159082",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 74,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV159082",
+     "sha256": "f63a2b58421e2003b28dc880bb525acdf7505130e4b417a5ee57a7f965f437f6"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2125-g-14409",
+   "short": "BayVV_2125_G_14409",
+   "title": "Bußgeldkatalog „Konsumcannabis“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2125_G_14409",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 11,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2125_G_14409",
+     "sha256": "cd30d0245249a85e13a91aabe0355459e2d54ebf37e6222a9cec0fa27357ad57"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2129-0-u-13237",
+   "short": "FöR-UmwSt",
+   "title": "Richtlinien für die staatliche Anerkennung und Förderung von Umweltstationen (FöR-UmwSt)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2129_0_U_13237",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2129_0_U_13237",
+     "sha256": "a47cae370a441cdf110a333cfab3c345fa09b4227ac97d48e03e6038f3627135"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2129-1-u-031",
+   "short": "BayVV_2129_1_U_031",
+   "title": "Motorisierte Schneefahrzeuge und Sicherheit auf Skiabfahrten und Skiwanderwegen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2129_1_U_031",
+   "versions": [
+    {
+     "from": "1984-12-01",
+     "units": 18,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2129_1_U_031",
+     "sha256": "4c855354a91fcebdaf1ed4c7d1fbcb2c1c6efadcc4d1c498eb06b7c618141bc5"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2160-a-13629",
+   "short": "BayVV_2160_A_13629",
+   "title": "Satzung des Bayerischen Jugendrings",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2160_A_13629",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 68,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2160_A_13629",
+     "sha256": "d8db4082a9c9d6fda11accd99e756973a041cc89c534757a3a9f020071b715e1"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2172-a-14787",
+   "short": "BayVV_2172_A_14787",
+   "title": "Vergabegrundsätze für die Gewährung von Leistungen der „Landesstiftung Hilfe für Mutter und Kind“ an Schwangere in Not",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2172_A_14787",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2172_A_14787",
+     "sha256": "e53a7d30a25b480b6788e36c47e07efb095e8826e79f3f84d75450f54966721b"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2173-a-14786",
+   "short": "BayVV_2173_A_14786",
+   "title": "Vergabegrundsätze für die Gewährung von Leistungen der „Landesstiftung Hilfe für Mutter und Kind“ an Familien in Not",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2173_A_14786",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2173_A_14786",
+     "sha256": "526f0d2de0293a2d8adb4e9a4518188e8899ececc5d8bfe9b3b32cda2715d19b"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2174-a-12788",
+   "short": "BayVV_2174_A_12788",
+   "title": "Richtline für die Förderung von Frauenhäusern, Fachberatungsstellen (Notrufe) und Interventionsstellen in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2174_A_12788",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 16,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2174_A_12788",
+     "sha256": "f512320274d57d3aa27fbcf8b8ef05ead0173f932ca7119bbc26907f72a80ec7"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv294809",
+   "short": "BayVwV294809",
+   "title": "Richtlinie für die Förderung im „Bayerischen Netzwerk Pflege“",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV294809",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV294809",
+     "sha256": "c176bd37fb2ae11481c4b33b6856af2982aab53de23f9752bb1bb62571927125"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2176-i-15397",
+   "short": "BayVV_2176_I_15397",
+   "title": "Förderrichtlinie Werteprojekte",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2176_I_15397",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 44,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2176_I_15397",
+     "sha256": "2c878a28bee0d7931a7fcd85b3d9013f16ad2d06172238cc76cfb55f0296fbc7"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2230-uk-281",
+   "short": "BayVV_2230_UK_281",
+   "title": "Schulberatung in Bayern",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2230_UK_281",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 17,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2230_UK_281",
+     "sha256": "9989c85391573627ba5aba12e2acb1e11e608f05770bd65be25883e1a913e4a8"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2236-2-2-k-15757",
+   "short": "BayVV_2236_2_2_K_15757",
+   "title": "Verwendung von Lehrkräften an kommunalen sowie Einstellung und Verwendung von Lehrkräften an privaten beruflichen Schulen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2236_2_2_K_15757",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 21,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2236_2_2_K_15757",
+     "sha256": "0d4c105c2adebe59dfae5b7c90b22de48ba89f444704aaa559e0b726d9e3bd6f"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2240-k-729",
+   "short": "BayVV_2240_K_729",
+   "title": "Richtlinien über die Gewährung von Zuwendungen des Freistaates Bayern für öffentliche Büchereibauten",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2240_K_729",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2240_K_729",
+     "sha256": "6340ae838c67b0c99c953d30958d19ab2f683e9b156672899521d9e05548e3e3"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2246-wk-1022",
+   "short": "BayVV_2246_WK_1022",
+   "title": "Neufassung der Grundordnung für die Bayerischen Staatstheater",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2246_WK_1022",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 20,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2246_WK_1022",
+     "sha256": "bf218664d4e1a3198b2123ca6d75ad93a7b50e34d502fc8c53bddaa1e502007b"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2253-s-14552",
+   "short": "BayVV_2253_S_14552",
+   "title": "Richtlinien für die Vergabe des Bayerischen Filmpreises",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2253_S_14552",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 21,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2253_S_14552",
+     "sha256": "eed62999b86409c21a00a105b3b64a8b914dfcdbdbe92a1a975d1a0946aeffc1"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-2330-b-13734",
+   "short": "WFB 2023",
+   "title": "Wohnraumförderungsbestimmungen 2023 (WFB 2023)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2330_B_13734",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 68,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_2330_B_13734",
+     "sha256": "0283ae83616dcc7ca9bb36f87860c08aa6309ed7b4ff361b8384a94f8e056657"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv249015",
+   "short": "OrgStA",
+   "title": "Anordnung über Organisation und Dienstbetrieb der Staatsanwaltschaften (OrgStA)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV249015",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 24,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV249015",
+     "sha256": "7cc71ab68a9c6011a6d5ed837a8b3320e5a6f07ad32251f91278a1433cf3a671"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv96449",
+   "short": "Form und Rahmen der Übergabe der Einbürgerungsurkunden",
+   "title": "Form und Rahmen der Übergabe der Einbürgerungsurkunden",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96449",
+   "versions": [
+    {
+     "from": "2001-04-30",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96449",
+     "sha256": "0c5de0c5271bd9ec8f09554aac7c876ae59bcded49ec7c88360e6abebde4cf01"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv312180",
+   "short": "Richtlinien für die Redaktion von Rechtsvorschriften",
+   "title": "Richtlinien für die Redaktion von Rechtsvorschriften",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV312180",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV312180",
+     "sha256": "ad772c93c713df70338d4b82d02fd62dc132b1ac325c11a70b65bdebf31a8d84"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv567158",
+   "short": "Durchführung der Verhältnismäßigkeitsprüfung bei berufsreglementierenden Regelungen im Anwendungsbereich der Richtlinie 2005/36/EG",
+   "title": "Durchführung der Verhältnismäßigkeitsprüfung bei berufsreglementierenden Regelungen im Anwendungsbereich der Richtlinie 2005/36/EG",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV567158",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV567158",
+     "sha256": "1c031ffbd439ff2381eae0a9e47e16d1bd62e6e3abcdff926196e201659e78d1"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv96454",
+   "short": "Stellung der Frauenbeauftragten der Staatsregierung (Frauenbeauftragte-Bekanntmachung - FrauenBek)",
+   "title": "Stellung der Frauenbeauftragten der Staatsregierung (Frauenbeauftragte-Bekanntmachung - FrauenBek)",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96454",
+   "versions": [
+    {
+     "from": "2013-12-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96454",
+     "sha256": "1b8f38766169b6488247c4cdc002113b85d7f085b5ae00ff0c7da9fb10b96caf"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-1102-f-10160",
+   "short": "Richtlinien zur Durchführung der Art. 3a und 3b des Bayerischen Ministergesetzes",
+   "title": "Richtlinien zur Durchführung der Art. 3a und 3b des Bayerischen Ministergesetzes",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_F_10160",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_F_10160",
+     "sha256": "5d73787132e7ecc636685e5709ca7c1c3b92ff7c96d5502436727cca7e66a538"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-1102-s-10337",
+   "short": "Beauftragte der Bayerischen Staatsregierung",
+   "title": "Beauftragte der Bayerischen Staatsregierung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_10337",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_10337",
+     "sha256": "581ff67b3c9f7f5f8d8a9627ca6487294e6b1c002f8038cf1ff3606418d01513"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-1102-s-12662",
+   "short": "Verhaltenskodex für die Interessensvertretung nach dem Bayerischen Lobbyregistergesetz",
+   "title": "Verhaltenskodex für die Interessensvertretung nach dem Bayerischen Lobbyregistergesetz",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_12662",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_12662",
+     "sha256": "f8eafa448083840c90a80dfddab4c9f8be8373475e955939d83953a77f48795e"
+    }
+   ]
+  },
+  {
+   "slug": "bayvv-1102-s-14148",
+   "short": "Erlass über die Stellvertretung der Mitglieder der Bayerischen Staatsregierung",
+   "title": "Erlass über die Stellvertretung der Mitglieder der Bayerischen Staatsregierung",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_14148",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVV_1102_S_14148",
+     "sha256": "a82de1c49f563659fb5666b243970578ee84ed7f7ef585a8d55db4492a129d1c"
+    }
+   ]
+  },
+  {
+   "slug": "bayvwv96463",
+   "short": "Verwendung von Bestandteilen der bayerischen Staatswappen",
+   "title": "Verwendung von Bestandteilen der bayerischen Staatswappen",
+   "url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96463",
+   "versions": [
+    {
+     "from": "1987-04-10",
+     "units": 1,
+     "source_url": "https://www.gesetze-bayern.de/Content/Document/BayVwV96463",
+     "sha256": "7446c1b50b48d8234397bff96448fbf86c7867f671a09154a3f2612c3bb1a0a3"
+    }
+   ]
   }
  ]
 }

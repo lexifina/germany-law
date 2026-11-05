@@ -1,6 +1,6 @@
 # How this repository was made (Bavaria)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -22,6 +22,8 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act | <https://www.gesetze-bayern.de> | 2026-10-30 | BAYERN.RECHT "Rechtliche Hinweise und Nutzungsbedingungen": the Vorschriften may be used and reused without restriction of place, time or content, and expressly reproduced, distributed, made public and processed commercially and non-commercially (simple right of use; database right under §§ 87a ff. UrhG unaffected). § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. |
 | Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act | <https://www.gesetze-bayern.de> | 2026-10-30 | BAYERN.RECHT "Rechtliche Hinweise und Nutzungsbedingungen": the Vorschriften may be used and reused without restriction of place, time or content, and expressly reproduced, distributed, made public and processed commercially and non-commercially (simple right of use; database right under §§ 87a ff. UrhG unaffected). § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. |
 | Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act | <https://www.gesetze-bayern.de> | 2026-10-30 | BAYERN.RECHT "Rechtliche Hinweise und Nutzungsbedingungen": the Vorschriften may be used and reused without restriction of place, time or content, and expressly reproduced, distributed, made public and processed commercially and non-commercially (simple right of use; database right under §§ 87a ff. UrhG unaffected). § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. |
+| Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act | <https://www.gesetze-bayern.de> | 2026-11-05 | BAYERN.RECHT "Rechtliche Hinweise und Nutzungsbedingungen": the Vorschriften may be used and reused without restriction of place, time or content, and expressly reproduced, distributed, made public and processed commercially and non-commercially (simple right of use; database right under §§ 87a ff. UrhG unaffected). § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. |
+| Bürgerservice BAYERN.RECHT (Bayerische Staatskanzlei), XML download of each act | <https://www.gesetze-bayern.de> | 2026-11-05 | BAYERN.RECHT terms permit unrestricted commercial and non-commercial reuse of Vorschriften. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -756,20 +758,61 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bayzustvauslr` | Verordnung über Zuständigkeiten im Ausländerrecht | 1 | 2026-07-16 to 2026-07-16 |
 | `bayzustvmesse` | Verordnung über Zuständigkeiten auf dem Gebiet des Mess- und Eichwesens | 1 | 2015-05-01 to 2015-05-01 |
 | `bayvzblh` | Verordnung über Zuständigkeiten für die Berufsbildung in der Landwirtschaft und in der Hauswirtschaft | 1 | 2026-09-01 to 2026-09-01 |
+| `bayvwv151716` | Geschäftsordnung für das Landesamt für Finanzen (LfFGO) | 1 | 2022-10-01 to 2022-10-01 |
+| `bayvwv101445` | Satzung der Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB) | 1 | 2026-04-30 to 2026-04-30 |
+| `bayvwv153873` | Dienstvereinbarung über die Einführung, Anwendung und erhebliche Änderung des Fachverfahrens forumSTAR samt Textsystem bei den Gerichten im Geschäftsbereich des Bayerischen Staatsministeriums der Justiz | 1 | 2007-01-23 to 2007-01-23 |
+| `bayvwv151469` | Vollzug des Polizeiaufgabengesetzes | 1 | 2003-01-27 to 2003-01-27 |
+| `bayvwv96653` | Mustersatzung für die Erhebung einer Straßenreinigungsgebühr | 1 | 2006-02-27 to 2006-02-27 |
+| `bayvwv123847` | Muster einer Beitrags- und Gebührensatzung zur Entwässerungssatzung | 1 | 2008-06-30 to 2008-06-30 |
+| `bayvwv153871` | Personalangelegenheiten (JuPersBek) | 1 | 2023-11-01 to 2023-11-01 |
+| `bayvwv246830` | Allgemeine Regelungen des Landespersonalausschusses im Bereich des Laufbahn- und Prüfungsrechts (ARLPA) | 1 | 2026-05-21 to 2026-05-21 |
+| `bayvv-108268` | Verfassungstreue im öffentlichen Dienst | 1 | 2025-06-26 to 2025-06-26 |
+| `bayvv-2030-8-3-f-13527` | Vollzug der Bayerischen Beihilfeverordnung; Abführung von Renten- und Arbeitslosenversicherungsbeiträgen für Pflegepersonen | 1 | 2023-01-01 to 2023-01-01 |
+| `bayvv-2030-8-3-f-13046` | Vollzug der Bayerischen Beihilfeverordnung; Abführung von Renten- und Arbeitslosenversicherungsbeiträgen für Pflegepersonen | 1 | 2024-01-01 to 2024-01-01 |
+| `bayvwv235695` | Ergänzende Bestimmungen zum Vollzug der Bayerischen Beihilfeverordnung (ErgBBayBhV) | 1 | 2026-01-01 to 2026-01-01 |
+| `bayvwv96743` | Reisekostenvergütung, Umzugskostenvergütung und Trennungsgeld; Zuständigkeiten im Geschäftsbereich des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (ohne Staatsforstverwaltung) | 1 | 1997-12-01 to 1997-12-01 |
+| `bayvwv232531` | Beurlaubung und Teilzeitbeschäftigung von Arbeitnehmerinnen und Arbeitnehmern (BayBTBek) | 1 | 2025-10-01 to 2025-10-01 |
+| `bayvv-2034-7-f-173` | Gewährung von Beihilfen an Angestellte, Arbeiter, Lehrlinge und Anlernlinge | 1 | 1974-01-14 to 1974-01-14 |
+| `bayvwv159082` | Ausgestaltung der inhaltlichen Prüfungsanforderungen für die Erste Staatsprüfung nach Kapitel II der Lehramtsprüfungsordnung I zu den einzelnen Fächern (Kerncurricula) | 1 | 2026-04-15 to 2026-04-15 |
+| `bayvv-2125-g-14409` | Bußgeldkatalog „Konsumcannabis“ | 1 | 2024-04-01 to 2024-04-01 |
+| `bayvv-2129-0-u-13237` | Richtlinien für die staatliche Anerkennung und Förderung von Umweltstationen (FöR-UmwSt) | 1 | 2022-08-01 to 2022-08-01 |
+| `bayvv-2129-1-u-031` | Motorisierte Schneefahrzeuge und Sicherheit auf Skiabfahrten und Skiwanderwegen | 1 | 1984-12-01 to 1984-12-01 |
+| `bayvv-2160-a-13629` | Satzung des Bayerischen Jugendrings | 1 | 2023-03-09 to 2023-03-09 |
+| `bayvv-2172-a-14787` | Vergabegrundsätze für die Gewährung von Leistungen der „Landesstiftung Hilfe für Mutter und Kind“ an Schwangere in Not | 1 | 2025-01-01 to 2025-01-01 |
+| `bayvv-2173-a-14786` | Vergabegrundsätze für die Gewährung von Leistungen der „Landesstiftung Hilfe für Mutter und Kind“ an Familien in Not | 1 | 2025-01-01 to 2025-01-01 |
+| `bayvv-2174-a-12788` | Richtline für die Förderung von Frauenhäusern, Fachberatungsstellen (Notrufe) und Interventionsstellen in Bayern | 1 | 2022-03-10 to 2022-03-10 |
+| `bayvwv294809` | Richtlinie für die Förderung im „Bayerischen Netzwerk Pflege“ | 1 | 2025-07-31 to 2025-07-31 |
+| `bayvv-2176-i-15397` | Förderrichtlinie Werteprojekte | 1 | 2026-01-01 to 2026-01-01 |
+| `bayvv-2230-uk-281` | Schulberatung in Bayern | 1 | 2023-04-01 to 2023-04-01 |
+| `bayvv-2236-2-2-k-15757` | Verwendung von Lehrkräften an kommunalen sowie Einstellung und Verwendung von Lehrkräften an privaten beruflichen Schulen | 1 | 2026-08-01 to 2026-08-01 |
+| `bayvv-2240-k-729` | Richtlinien über die Gewährung von Zuwendungen des Freistaates Bayern für öffentliche Büchereibauten | 1 | 2002-01-01 to 2002-01-01 |
+| `bayvv-2246-wk-1022` | Neufassung der Grundordnung für die Bayerischen Staatstheater | 1 | 2019-01-01 to 2019-01-01 |
+| `bayvv-2253-s-14552` | Richtlinien für die Vergabe des Bayerischen Filmpreises | 1 | 2024-08-01 to 2024-08-01 |
+| `bayvv-2330-b-13734` | Wohnraumförderungsbestimmungen 2023 (WFB 2023) | 1 | 2024-03-01 to 2024-03-01 |
+| `bayvwv249015` | Anordnung über Organisation und Dienstbetrieb der Staatsanwaltschaften (OrgStA) | 1 | 2021-02-01 to 2021-02-01 |
+| `bayvwv96449` | Form und Rahmen der Übergabe der Einbürgerungsurkunden | 1 | 2001-04-30 to 2001-04-30 |
+| `bayvwv312180` | Richtlinien für die Redaktion von Rechtsvorschriften | 1 | 2026-01-01 to 2026-01-01 |
+| `bayvwv567158` | Durchführung der Verhältnismäßigkeitsprüfung bei berufsreglementierenden Regelungen im Anwendungsbereich der Richtlinie 2005/36/EG | 1 | 2022-04-01 to 2022-04-01 |
+| `bayvwv96454` | Stellung der Frauenbeauftragten der Staatsregierung (Frauenbeauftragte-Bekanntmachung - FrauenBek) | 1 | 2013-12-01 to 2013-12-01 |
+| `bayvv-1102-f-10160` | Richtlinien zur Durchführung der Art. 3a und 3b des Bayerischen Ministergesetzes | 1 | 2025-12-01 to 2025-12-01 |
+| `bayvv-1102-s-10337` | Beauftragte der Bayerischen Staatsregierung | 1 | 2019-04-01 to 2019-04-01 |
+| `bayvv-1102-s-12662` | Verhaltenskodex für die Interessensvertretung nach dem Bayerischen Lobbyregistergesetz | 1 | 2022-01-01 to 2022-01-01 |
+| `bayvv-1102-s-14148` | Erlass über die Stellvertretung der Mitglieder der Bayerischen Staatsregierung | 1 | 2026-09-30 to 2026-09-30 |
+| `bayvwv96463` | Verwendung von Bestandteilen der bayerischen Staatswappen | 1 | 1987-04-10 to 1987-04-10 |
 
-The build made 727 commits:
+The build made 768 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 727 | first version of an act |
+| 768 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
 - 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2312 laws in the record.
-- 727 tags.
+- 768 tags.
 
 ## Dates
 
@@ -781,13 +824,13 @@ When a law gives no date of its own, the default rule applies: Verfassung des Fr
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ce95fa5945fbb572fdc7a364bbbc82b5eb4327c8cad0278226b576a6537ab7c7` (25764115 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a97ff7ea62c3c7595c5668a297d533da0b74373c`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `284c43fbfa40b2bf99d18fd2fe38f0a87912ac759c8c14dcf6c1f50b92cab703` (27091887 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-727 versions of 727 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -857,6 +900,15 @@ No second build of this corpus has been compared yet.
 - Each version is dated by the day BAYERN.RECHT says the consolidated text applies from ("Text gilt ab"; the inkraft date of the XML); if it is missing, by the Ausfertigung date. For some acts that day is earlier than the date of the last amending act the portal lists; the date the portal gives is kept, not guessed over. Days after the retrieval day go on the zukunft branch.
 - One file per Artikel or Paragraph (einzelnorm); headings of the Teile and Abschnitte stand above the first provision under them; "000-titel" holds the title lines, the citation line and the list of amending acts the portal prints.
 - Left out as editorial: footnotes (fn.call) and sentence numbers (satz.nr). Tables are one line per row, cells separated by " | "; images are left out.
+- Verwaltungsvorschriften (NORMTYP vv): every act on BAYERN.RECHT's result list for that type, in the portal's list order.
+- Current text only: BAYERN.RECHT publishes only the consolidated version in force, so each act is one version ("oldest version available"), credited to the publisher, not to an amending act.
+- Each version is dated by the day BAYERN.RECHT says the consolidated text applies from ("Text gilt ab"; the inkraft date of the XML); if it is missing, by the Ausfertigung date; with neither, the act is left out. Days after the retrieval day go on the zukunft branch.
+- One file per Artikel, Paragraph, Nummer or Anlage (einzelnorm/annex); headings of the parts stand above the first provision under them; "000-titel" holds the title lines, the citation line and the list of amending acts the portal prints.
+- Left out as editorial: footnotes (fn.call) and sentence numbers (satz.nr). Tables are one line per row, cells separated by " | ".
+- Acts whose download holds an image (a form, map, formula or table drawn as a picture) or annexes as PDF files are not in this part: they wait until images and PDF annexes are carried (CORPUS-STANDARD §5a). Acts in the older "byrecht-vv" XML format also wait (no parser for it yet).
+- Current consolidated administrative rules, one version each, labelled oldest version available and dated by the source XML bayernrecht_inkraft field.
+- Each XML body is retained as a single text unit; its paragraphs and table cells follow source order. Editorial display markup is not law text.
+- No images occur in these nine XML bodies.
 
 ## What AI did and did not do
 
@@ -883,3 +935,5 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the BAYERN.RECHT XML.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the BAYERN.RECHT XML.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the BAYERN.RECHT XML.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the BAYERN.RECHT XML.
+- GPT-6 wrote extraction code and selected candidate documents. No model-generated words or dates were used as law text.
