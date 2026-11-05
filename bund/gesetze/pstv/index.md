@@ -104,6 +104,7 @@
 - [§ 58 Mitteilungen bei Beurkundung im Eheregister](0058.md)
 - [§ 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister](0059.md)
 - [§ 60 Mitteilungen bei Beurkundung im Sterberegister](0060.md)
+- [§ 60a Mitteilungen für Identitätszwecke](0060a.md)
 - [§ 61 Mitteilungen für statistische Zwecke](0061.md)
 - [§ 62 Besonderheiten bei Mitteilungen](0062.md)
 - [§ 63 Datenübermittlung](0063.md)

@@ -43,6 +43,7 @@ __________
 | 1130 | Religion/Weltanschauung |  | X | X |  |  | 3) |
 | 1180 | Deutsche Staatsangehörigkeit | Nur Erwerb nach § 4 Abs. 3 StAG |  |  | X |  |  |
 | 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1199 | Familiennamensführung nicht nachgewiesen | Nur bei nicht nachgewiesener Identität der Eltern | X |  |  |  |  |
 |  | Angaben zu den Eltern |  |  |  |  |  |  |
 |  | 1. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -64,6 +65,7 @@ __________
 | 1275 | Registernummer | Beispiel: G 399/2010 |  |  | X |  |  |
 | 1280 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1299A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -84,6 +86,7 @@ __________
 | 1371 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 1375 | Registernummer | Beispiel: G 1499/2009 |  |  | X |  |  |
 | 1380 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1399A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
@@ -192,6 +195,7 @@ __________
 | 2175 | Registernummer |  |  |  | X |  |  |
 | 2180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Eheurkunde | X | X | X |  | 4) |
 | 2200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Ehepartner“ anzugeben, Beispiel: „2. Ehefrau“ | X | X |  |  | 4) |
 | 2201 | Familienname vor der Ehe |  | X | X |  | X |  |
@@ -223,6 +227,7 @@ __________
 | 2271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 2275 | Registernummer |  |  |  | X |  |  |
 | 2280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | Auflösung der Ehe |  |  |  |  |  |  |
 | 2390 | Art der Eheauflösung | Beispiel: Scheidung, Aufhebung, Tod, Wiederverheiratung nach Todeserklärung |  | X |  |  | 3) |
@@ -325,6 +330,7 @@ __________
 | 3175 | Registernummer |  |  |  | X |  |  |
 | 3180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Lebenspartnerschaftsurkunde | X | X | X |  | 4) |
 | 3200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Lebenspartner“ oder „Lebenspartnerin“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Lebenspartner“ anzugeben, Beispiel: „2. Lebenspartner“ | X | X |  |  | 4) |
 | 3201 | Familienname vor der Begründung |  | X | X |  | X |  |
@@ -356,6 +362,7 @@ __________
 | 3271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 3275 | Registernummer |  |  |  | X |  |  |
 | 3280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | Auflösung oder Umwandlung der Lebenspartnerschaft in eine Ehe |  |  |  |  |  |  |
 | 3390 | Art der Auflösung | Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der Todeszeit, Umwandlung in Ehe |  | X |  |  | 3) |
@@ -447,6 +454,7 @@ __________
 | 4294 | Anschrift, Ortsteil | Bei landesrechtlicher Vorgabe | X | X |  |  |  |
 | 4297 | Anschrift, Staat | Nur bei Wohnort im Ausland | X | X |  |  |  |
 | 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | Familienstand der verstorbenen Person |  |  |  |  |  |  |
 | 4300 | Familienstand |  | X | X |  |  |  |
@@ -458,6 +466,7 @@ __________
 | 4303 | Vornamen des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
 | 4303A | Ausländische Namensart | Bezeichnung einer ausländischen Namensform des Vornamens | X | X |  |  |  |
 | 4320 | Geschlecht des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
+| 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | Ehe der verstorbenen Person |  |  |  |  |  |  |
