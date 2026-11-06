@@ -1,0 +1,87 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2026-11-06T17:00:00+01:00
+- Ende: 2026-11-06T22:05:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUYIgfNd23H8jMk0sI-xXwY
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5360
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUB5yNqep2BzI5FhFkw6g4KUw8RucTrHp36zm8bfWxqq/Einladung_Rat_06.11.2026.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW-rvl5Zhf1n33evU4Bg5UHjj9tJc9tGduRowtUqzrjv/Oeffentliche_Niederschrift_Rat_06.11.2026.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit des Rates
+- TOP A.2: Vereidigung
+- TOP A.3: Anträge zur Tagesordnung
+- TOP A.4: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 10.07.2026
+- TOP A.5: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.6: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.7: Anregungen gemäß § 24 GO NRW
+- TOP A.7a: Anregung zur Installation von Photovoltaik-Anlagen auf städtischen Gebäuden - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7b: Anregung zur Umbenennung des Rathausplatzes in "Konrad-Adenauer-Platz" - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c: Anregung zur gezielten Fütterung von Tauben an den Hotspots nach dem Augsburger Modell - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.7c)1: Ergänzungsantrag der Fraktion Die Linke
+- TOP A.7c)2: Antrag der Fraktion Die Linke zum Verbot des "Fliegenlassens" von Tauben - Mit 40 Stimmen dafür, drei Stimmen dagegen und drei Enthaltungen wird der geänderte Beschluss getroffen:
+- TOP A.7d: Anregung nach § 24 GO NRW: Prüfauftrag an die Verwaltung zur Aufstellung einer orangefarbenen Bank auf dem Rathausplatz - Mit 37 Stimmen dafür und sechs Stimmen dagegen wird folgender Beschluss getroffen:
+- TOP A.7e: Anregung zur Prüfung und Einrichtung eines bezuschussten Frauennachttaxis in Herford
+- TOP A.8: Prüfung und Feststellung des Jahresabschlusses 2025, Ergebnisverwendung und Entlastung der Bürgermeisterin/ des Bürgermeisters hier: Einbringung des Jahresabschlusses 2025 in den Rat - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.9: Entwurf der Haushaltssatzung 2027 sowie mittelfristige Ergebnis- und Finanzplanung 2028 - 2030 hier: Einbringung des Entwurfs der Haushaltssatzung 2027 mit ihren Anlagen - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.10: Stellenplan für den Haushalt 2027 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11: Hebesatzsatzung für das Jahr 2027 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.11a: Hebesatzsatzung für das Jahr 2027
+- TOP A.11b: Ergänzungsantrag zur Hebesatzsatzung der UfH-Fraktion
+- TOP A.11c: Information zur Benehmensherstellung nach § 55 KrO
+- TOP A.12: 9. Satzung zur Änderung der Vergnügungssteuersatzung; Besteuerung von Geldspielgeräten - Mit 40 Stimmen dafür, einer Stimme dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.12a: Änderungsantrag der FDP-Fraktion zur Vergnügungssteuer
+- TOP A.13: Fortschreibung des Gleichstellungsplanes - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.14: Neuausrichtung der IPad-Ausstattung der Oberstufen
+- TOP A.14a: Antrag der BfH-Fraktion: Neuausrichtung der iPad-Ausstattung an Herforder Schulen
+- TOP A.14b: Antrag der Fraktionsgemeinschaft von CDU / UWG HBB
+- TOP A.14c: Gemeinsamer Antrag der Fraktionen SPD und UfH zur iPad-Ausstattung der Oberstufen
+- TOP A.14d: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.15: Satzung der Hansestadt Herford über die Erhebung von Elternbeiträgen für Kinder in Kindertagespflege, Kindertageseinrichtungen und Angeboten in den Offenen Ganztagsgrundschulen sowie Ferienspielen - Mit 26 Stimmen dafür, 20 Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.15a: Änderungsantrag der Fraktion Die Linke
+- TOP A.15a)1: Änderung eines Änderungsantrages der Fraktion Die Linke zum Thema OGS - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.16: Antrag des Allgemeinen Gehörlosen-Vereins von 1907 e.V. Herford und Gehörlosen-Sportvereins Herford 1946 e.V. auf finanzielle Förderung. - Mit 44 Stimmen dafür und zwei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.17: Veräußerung des Straßenbeleuchtungsnetzes der Stadt Herford
+- TOP A.18: Steuerung von Drittorganisationen:
+- TOP A.18a: IAB Immobilien- und Abwasser-Betrieb Herford: Feststellung des Jahresabschlusses 2025, Ergebnisverwendung und Entlastung des Betriebsausschusses - Einstimmig und mit drei Enthaltungen wird folgender Beschluss gefasst:
+- TOP A.18b: HVV Konzern: Entlastung der Mitglieder der Aufsichtsräte des HVV Konzerns für das Geschäftsjahr 2025 - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18c: Westfalen Weser-Gruppe: Bildung eines Gemeinschaftsunternehmens von Westfalen Weser und RWE für die Realisierung und den Betrieb eines wasserstofffähigen Gaskraftwerks in Kirchlengern - Mit 38 Stimmen dafür, sieben Stimmen dagegen und mit einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18d: Westfalen Weser-Gruppe: Beteiligung eines weiteren kommunalen Gesellschafters an der Westfalen Weser Energie GmbH & Co. KG; Änderung des Gesellschaftsvertrages der Westfalen Weser Energie GmbH & Co. KG - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.18e: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: Mögliche künftige Beteiligungsstrukturen - Mit 38 Stimmen dafür, sieben Stimmen dagegen und einer Enthaltung wird folgender Beschluss gefasst:
+- TOP A.19: Bebauungsplan Nr. 11.40 "Erweiterung Sport- und Freizeitbad H2O" Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.20: Flächennutzungsplanänderung Nr.1.24 "Wiesestraße/H2O" Hier: Feststellungsbeschluss - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.21: Bebauungsplan Nr. 6.88 „Im Robbenklee Ost“ Hier: Satzungsbeschluss
+- TOP A.22: Bebauungsplan Nr. 12.38 "Vlothoer Straße Nord/ Hammersmith Kaserne, Teil 2" Hier: Satzungsbeschluss - Mit 43 Stimmen dafür und drei Stimmen dagegen wird folgender Beschluss gefasst:
+- TOP A.23: Flächennutzungsplanänderung Nr. 1.16 „Kasernen auf dem Stiftberg“ Teil A Hier: Feststellungsbeschluss - Mit 43 Stimmen dafür, drei Stimmen dagegen und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.24: Sitzungskalender 2027
+- TOP A.24a: Gemeinsamer Antrag der Fraktionen Union für Herford und Bündnis 90/ Die Grünen zur Sitzungsplanung - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst: Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25: Gremienbesetzungen
+- TOP A.25a: Benennung beratender Mitglieder des Schulausschusses: Besetzung der Vertretungen für die Elternschaft (Stadtschulpflegschaft) - Einstimmig und ohne Enthaltung wird folgender Beschluss gefasst:
+- TOP A.25b: Antrag der Fraktion UfH: Neubesetzung der Ausschüsse, Beiräte und Drittgremien - Mit 32 Stimmen dafür und 14 Stimmen dagegen wird folgender Beschluss gefasst:
+- TOP A.25c: Antrag der Fraktion Die Linke auf Gremienumbesetzung
+- TOP A.25d: Antrag auf Gremienumbesetzung im Beirat für Menschen mit Behinderung der BfH-Fraktion
+- TOP A.25e: Antrag auf Gremienumbesetzung der Fraktion Bündnis 90/ Die Grünen
+- TOP A.25f: Antrag auf Gremienumbesetzung der Fraktion Die Linke
+- TOP A.26: Nutzung von städtischen Versammlungsräumen
+- TOP A.26a: Antrag der Fraktion Bündnis 90 / Die Grünen zur Nutzung städtischer Versammlungsräume durch politische Parteien
+- TOP A.26b: Antrag der Fraktion Bündnis 90 / Die Grünen zur Nutzung städtischer Versammlungsräume für politische Veranstaltungen
+- TOP A.26c: Änderungsantrag der Fraktion Die Linke zur Nutzung von städtischen Räumen
+- TOP A.27: Antrag der AfD-Fraktion: Abschaffung der Gendersprache
+- TOP A.28: Antrag der Fraktion Bündnis 90/ Die Grünen: Verwendung einer bürgernahen Sprache für Vorlagen politischer Gremien sowie Formulare in der Hoheit der Stadt Herford
+- TOP A.29: Antrag der AfD-Fraktion: Abschaffung des Muezzin Rufes
+- TOP A.29a: Änderungsantrag Die Partei Herford
+- TOP A.29b: Ergänzungsantrag der FDP-Fraktion zum Muezzinruf
+- TOP A.30: Antrag der Fraktion Bündnis 90/ Die Grünen: Cybersicherheit von der Verwaltung und KRITIS der Stadt Herford
+- TOP A.31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.32: Antrag der SPD-Fraktion: Saubere Schulen, faire Löhne
+- TOP A.33: Gemeinsamer Antrag der Fraktionen Bündnis 90/ Die Grünen; Die Linke; SPD und des Einzelmitgliedes Kannegießer: Integration und Solidarität mit unseren internationalen Mitbürgerinnen und Mitbürgern
+- TOP A.33a: Ergänzungsantrag der SPD-Fraktion
+- TOP A.34: Transparenz im Gestaltungsbeirat verbindlich regeln
+- TOP A.35: Mitteilungen
