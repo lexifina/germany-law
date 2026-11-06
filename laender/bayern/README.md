@@ -1,5 +1,7 @@
 # Bavaria: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Bavaria, Germany, which global-law reads at `germany/bavaria/acts/`.
+
 The law of the Free State of Bavaria (Freistaat Bayern) as a git history: generally one file per Artikel or Paragraph, with each of the nine Verwaltungsvorschriften in one text file. The text is German, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
