@@ -1,0 +1,30 @@
+{
+  "corpus": "de/bpatg/caselaw",
+  "path": "germany/bpatg/caselaw",
+  "name": "Case law: Germany, Bundespatentgericht",
+  "label": "Germany case law (Bundespatentgericht)",
+  "language": "de",
+  "kind": "judgments",
+  "history": "in-force",
+  "coverage": "31203 published decisions of the Bundespatentgericht, one file and one commit each, dated the day decided; 92410 citations of federal law linked to germany-law (0 inside its record).",
+  "history_from": "2000-01-05",
+  "record_to": "2025-07-08",
+  "checked_on": "2026-11-06",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. The record ends at the corpus snapshot named in REPRODUCE.md.",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrected",
+  "dates": {
+    "commit": "decided",
+    "time": "12:00 Europe/Berlin"
+  },
+  "source": {
+    "publisher": "Bundespatentgericht",
+    "dataset": "Corpus der Entscheidungen (BPATG), Zenodo record 15754093",
+    "updated": "2025-07-08"
+  },
+  "licence": "CC0 1.0 (the decisions are official works, § 5 UrhG)",
+  "overlay": {
+    "path": "judgments/germany/bund/acts/<path>.jsonl",
+    "law_corpus": "germany/bund/acts"
+  }
+}
