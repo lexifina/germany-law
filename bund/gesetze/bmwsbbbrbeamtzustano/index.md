@@ -1,4 +1,4 @@
-# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesinisteriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
+# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
 
 - [Eingangsformel](eingangsformel.md)
 - [§ 1 Befugnis zur Zustimmung bei Belohnungen, Geschenken und sonstigen Vorteilen](0001.md)

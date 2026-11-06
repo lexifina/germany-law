@@ -34,7 +34,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Wermuth, H. & Mertens, R. (1996): Schildkröten, Krokodile, Brückenechsen. - Jena (Gustav Fischer Verlag), 506 S.
   Willis, J. (1973): A Dictionary of Flowering Plants and Ferns. - Cambridge.
   Wilson, D.E. & Reeder, D.M. (1993): Mammal Species of the World. - 2nd edition. Washington & London.
-| Wissenschaftliche Bezeichnung | Deutscher Name | Besonders geschützte Arten zu § 1 Satz 1 | Streng geschützte Arten zu § 1 Satz 2 |
+| Wissenschaftliche Bezeichnung | Deutscher Name | Besondersgeschützte Artenzu § 1 Satz 1 | Streng geschützte Artenzu § 1 Satz 2 |
 | 1 | 2 | 3 |
 | Fauna |  |  |  |
 | Mammalia | Säugetiere |  |  |
@@ -415,7 +415,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Acmaeodera degener | Achtzehnfleckiger Ohnschild-Prachtkäfer | + | + |
 | Acmaeoderella flavofasciata | Weißschuppiger Ohnschild-Prachtkäfer | + | + |
 | Aesalus scarabaeoides | Kurzschröter | + | + |
-| Buprestidae spp. 3)excl. Agrilus biguttatus Agrilus viridisAnthaxia quadripunctata Chrysobothris affinis Phaenops cyanea | Prachtkäfer | + |  |
+| Buprestidae spp. 3)excl.Agrilus biguttatus Agrilus viridisAnthaxia quadripunctata Chrysobothris affinis Phaenops cyanea | Prachtkäfer | + |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt mit Ausnahme von Zweipunktiger Eichen-Prachtkäfer Buchen-Prachtkäfer (Laubholz-Prachtkäfer) Vierpunkt-Kiefern-Prachtkäfer Goldgruben-Eichen-Prachtkäfer Blauer Kiefern-Prachtkäfer |
 | Calosoma reticulatum | Smaragdgrüner Puppenräuber | + | + |
 | Calosoma spp. | Puppenräuber | + |  |
@@ -605,7 +605,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Artemisia rupestris L. 8) | Felsen-Beifuß | + | + |
 | Artemisia umbelliformis Lam. 8) | Echte Edelraute | + |  |
 | Asplenium azoricum Lovis, Rasbach & Reichstein | Azoren-Streifenfarn | + |  |
-| Asplenium ceterach L. 8) | Milzfarn |  |  |
+| Asplenium ceterach L. 8) | Milzfarn | + |  |
 | Asplenium cuneifolium Viv. | Serpentin-Streifenfarn | + |  |
 | Asplenium fissum Kit. ex Willd. | Zerschlitzter Streifenfarn | + |  |
 | Asplenium fontanum (L.) Bernh. 8) | Jura-Streifenfarn | + |  |
@@ -660,9 +660,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Dictamnus albus L. 8) | Diptam | + |  |
 | Digitalis grandiflora Mill. 8) | Großblütiger Fingerhut | + |  |
 | Digitalis lutea L. 8) | Gelber Fingerhut | + |  |
-| Draba spp. 3) 8) | Felsenblümchen | + |  |
-| excl. | - | alle europäischen Arten,mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |
-| Draba muralis L. et Draba nemorosa L. |  |  |
+| Draba spp. 3) 8)excl.Draba muralis L. etDraba nemorosa L. | Felsenblümchen | + |  |
+| - | alle europäischen Arten,mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |
+|  |  |
 | Dracocephalum ruyschiana L. 8) | Nordischer Drachenkopf | + |  |
 | Drosera spp. 8) | Sonnentaue | + |  |
 |  | - | alle heimischen Arten |  |  |
@@ -727,8 +727,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Linnaea borealis L. 8) | Moosglöckchen | + |  |
 | Linum flavum L. 8) | Gelber Lein | + | + |
 | Linum perenne L. 8) | Ausdauernder Lein | + | + |
-| Linum spp. 3) 8) | Lein | + |  |
-| excl. Linum catharticum L. | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführtmit Ausnahme von Purgier-Lein |  |  |
+| Linum spp. 3) 8)excl.Linum catharticum L. | Lein | + |  |
+| - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführtmit Ausnahme von Purgier-Lein |  |  |
 | Lloydia serotina (L.) Reichenb. | Spätblühende Faltenlilie | + |  |
 | Lobelia dortmanna L. 8) | Wasser-Lobelie | + | + |
 | Lomatogonium carinthiacum (Wulf.) Reichenb. | Kärntner Tauernblümchen | + |  |
@@ -781,8 +781,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Rheum rhaponticum L. 8) | Pontischer Rhabarber | + |  |
 | Rubus chamaemorus L. 7) 8) | Moltebeere | + | + |
 | Salvinia natans (L.) All. 8) | Schwimmfarn | + |  |
-| Saxifraga spp. 3) 8) | Steinbrech | + |  |
-| excl. Saxifraga tridactylites L. | - | alle europäischen Arten,mit Ausnahme von Finger-Steinbrech | + |  |
+| Saxifraga spp. 3) 8)excl.Saxifraga tridactylites L. | Steinbrech | + |  |
+| - | alle europäischen Arten,mit Ausnahme von Finger-Steinbrech | + |  |
 | Scheuchzeria palustris L. | Blasenbinse | + |  |
 | Scilla spp. 3) 8) (incl. Hyacinthoides spp.) | Blausterne (einschl. Hasenglöckchen) | + |  |
 | - | alle Arten |  |  |
@@ -862,6 +862,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. 7) 8) | Grünling | + |  |
 | Tuber spp. 7) 8) | Trüffel | + |  |
 |  | - | alle heimischen Arten |  |  |
+______________
 1) Nur europäische wild lebende Populationen.
 2) Ausgenommen die nach § 2 Abs. 1 des Bundesjagdgesetzes dem Jagdrecht unterliegenden Arten, soweit nicht im Einzelnen aufgeführt.
 3) Ausgenommen die nach § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe aa des Bundesnaturschutzgesetzes geschützten Arten und Unterarten.
