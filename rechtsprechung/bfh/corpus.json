@@ -1,0 +1,30 @@
+{
+  "corpus": "de/bfh/caselaw",
+  "path": "germany/bfh/caselaw",
+  "name": "Case law: Germany, Bundesfinanzhof",
+  "label": "Germany case law (Bundesfinanzhof)",
+  "language": "de",
+  "kind": "judgments",
+  "history": "in-force",
+  "coverage": "10885 published decisions of the Bundesfinanzhof, one file and one commit each, dated the day decided; 76530 citations of federal law linked to germany-law (25424 of them pinned to the article's version in force that day; the others are older than germany-law's record).",
+  "history_from": "2010-01-04",
+  "record_to": "2025-01-14",
+  "checked_on": "2026-11-07",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. The record ends at the corpus snapshot named in REPRODUCE.md.",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrected",
+  "dates": {
+    "commit": "decided",
+    "time": "12:00 Europe/Berlin"
+  },
+  "source": {
+    "publisher": "Bundesfinanzhof",
+    "dataset": "Corpus der Entscheidungen (BFH), Zenodo record 14622341",
+    "updated": "2025-01-14"
+  },
+  "licence": "CC0 1.0 (the decisions are official works, § 5 UrhG)",
+  "overlay": {
+    "path": "judgments/germany/bund/acts/<path>.jsonl",
+    "law_corpus": "germany/bund/acts"
+  }
+}
