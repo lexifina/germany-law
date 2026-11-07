@@ -6,7 +6,7 @@
   "language": "de",
   "kind": "judgments",
   "history": "in-force",
-  "coverage": "9301 published decisions of the Bundesverfassungsgericht, one file and one commit each, dated the day decided; 78498 citations of federal law linked to germany-law (0 inside its record).",
+  "coverage": "9301 published decisions of the Bundesverfassungsgericht, one file and one commit each, dated the day decided; 78498 citations of federal law linked to germany-law (35787 of them pinned to the article's version in force that day; the others are older than germany-law's record).",
   "history_from": "1951-09-09",
   "record_to": "2025-09-22",
   "checked_on": "2026-11-06",
