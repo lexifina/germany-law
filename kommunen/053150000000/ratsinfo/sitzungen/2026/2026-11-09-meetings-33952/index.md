@@ -1,0 +1,82 @@
+# 8.Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-09T17:00:00+01:00
+- Ende: 2026-11-09T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33952
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/33952
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Austausch mit Herrn Beigeordneten Stefan Charles, Dezernat Kunst und Kultur
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Grundstück Alte Wipperfürther Str. 35 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe nach § 24 GO: "Park and Ride in Köln-Mülheim einrichten" AZ 81-24 - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe nach §24 der Gemeindeordnung NRW -Altkleidercontainer in der Cusanusstraße wegen illegaler Müllablagerungen abziehen AZ 61/2026 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage zum Sachstand ehemalige LEG Siedlung in Höhenhaus - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Mülheim vom 23.06.2025 (AN/0936/2025) betreffend „Sachstand der beschlossenen Maßnahmen und Beantwortung von Anfragen seit 2008“ - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer schriftlichen Anfrage der SPD-Fraktion aus der Sitzung der Bezirksvertretung Mülheim vom 22.04.2026 (AN/0658/2026) betreffend „Personalbemessung Schulhausmeister KGS Urnenstraße“ - Kenntnis genommen
+- TOP 7.1.4: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der Bezirksvertretung Mülheim vom 22.06.2026 (AN/1034/2026) betreffend „Mehr Barrierefreiheit auf dem Wiener Platz und seinen Zugängen herstellen “ - Kenntnis genommen
+- TOP 7.1.5: Beantwortung einer schriftlichen Anfrage der Fraktion Die Linke aus der Sitzung der Bezirksvertretung Mülheim vom 27.04.2026 (AN/0652/2026) betreffend „Entfernung von Treibgut auf dem Stammheimer Ufer“ - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Eskalation der Waffenkriminalität in Mülheim - welche Erkenntnisse über die Sicherheitslage in Mülheim liegen der Verwaltung vor ? - Kenntnis genommen
+- TOP 7.2.1.1: Beantwortung einer schriftlichen Anfrage der AfD-Fraktion zur Sitzung der Bezirksvertretung Mülheim am 09.11.2026 (AN/1721/2026) betreffend „Eskalation der Waffenkriminalität in Mülheim“ - Kenntnis genommen
+- TOP 7.2.2: Vertragskonditionen der Stadt Köln mit der Contipark Parkgaragengesellschaft mbH im Stadtbezirk Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.3: Auswertung von Geschwindigkeitsmessungen durch Blitzer im Bezirk Mülheim und Auflistung daraus abgeleiteter Maßnahmen - Kenntnis genommen
+- TOP 7.2.4: Ersatz für die Notschlafstellen in der Ostmerheimer Straße 220 in Köln-Merheim - Kenntnis genommen
+- TOP 7.2.5: Dellbrück – Schutz des Naturschutzgebietes Dellbrücker Heide - Kenntnis genommen
+- TOP 7.2.6: SB Mülheim – Demonstrationsteilnahmen von städtischen Grundschulen und Kindergärten - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Erhaltung Kooperationsspielhaus Depot 2 und Carlsgarten: Versprechen halten, politische Beschlüsse umsetzen, rechtsrheinische Kulturstandorte sichern! - vertagt
+- TOP 8.1.2: Verkehrssicherheit am Seiteneingang der Grundschule Neufelder Straße in Köln-Holweide herstellen - geändert beschlossen
+- TOP 8.1.3: Fußgänger*innenüberweg Heidelberger Straße – Frankfurter Straße in unmittelbarer Nähe der Acla-Werke – Barrierefreiheit dringend erweitern - geändert beschlossen
+- TOP 8.1.4: Austausch mit den Stadtentwässerungsbetrieben zum Thema „Nutzung des Ulrich-Haberland-Hauses in Köln-Stammheim“ - ungeändert beschlossen
+- TOP 8.1.5: Aufstellung von Abfalleimern in Köln-Dünnwald - ungeändert beschlossen
+- TOP 8.1.6: Zeitnahe Aufstellung von „Papierkorbgaragen“ im Bezirk Köln-Mülheim - geändert beschlossen
+- TOP 8.1.7: Schulstraße auf dem Johannesweg in Höhenhaus - ungeändert beschlossen
+- TOP 8.1.8: Anbindung des Bahnhofs Köln-Mülheim verbessern - ungeändert beschlossen
+- TOP 8.1.9: Behebung von Sicherheitsrisiken und Überprüfung baulicher sowie linienführungstechnischer Maßnahmen an der Haltestelle Leuchterstraße (Bussteig B) - endgültig abgelehnt
+- TOP 8.1.10: Neugestaltung der Keupstraße - ungeändert beschlossen
+- TOP 8.1.11: Prüfauftrag zur Einrichtung einer Fuß- und Radwegeverbindung auf der Wasserwerkstraße einschließlich der DB-Unterführung zwischen Bergisch Gladbacher Straße und Höhenfelder Mauspfad/Thuleweg - ungeändert beschlossen
+- TOP 8.1.12: Überprüfung Anpassung der Verkehrsführung in der Kemperbachstraße - geändert beschlossen
+- TOP 8.1.13: Benennung der Parkanlage zwischen Thymianweg, Malvenweg und Melissenweg in Köln-Höhenhaus (Flurstück 05496700301677/Flur 003) in „Fritz-Schopps-Park“ - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung der Schulentwicklungsplanung Köln 2026 - ungeändert empfohlen
+- TOP 9.2.2: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert empfohlen
+- TOP 9.2.3: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Mitteilung nach § 24 GO NRW - Sicherer Schulweg auf der Herler Straße – Tempo 30 bis zur Alten Wipperfürther Straße, Aktenzeichen 41/26 - Kenntnis genommen
+- TOP 10.2.5: Qualitätsbericht 2025 der KVB gemäß öffentlichem Dienstleistungsauftrag - vertagt
+- TOP 10.2.6: Auswirkungen der bevorstehenden Hangsicherung am Kalkberg auf die Führung der RadPendlerRoute 2 (RPR2) - Kenntnis genommen
+- TOP 10.2.7: verschoben nach 9.2.3
+- TOP 10.2.8: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.9: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 10.2.10: Beantwortung einer mündlichen Anfrage von RM Ruffen aus der Sitzung des Betriebsausschusses Gebäudewirtschaft vom 10.03.2026 bezüglich des Hölderlin Gymnasiums - Kenntnis genommen
+- TOP 10.2.11: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Zunehmende „Beschallung“ des Stammheimer Rheinufers durch Einzelpersonen unterbinden, Az.: 147/26 - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Baumpflanzungen - Steinkopfstraße, Bahnhof Mülheim und Wiener Platz, Aktenzeichen 213/26 - Kenntnis genommen
+- TOP 10.2.13: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 10.2.14: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Tempo 30 auf der Dünnwalder Straße - Umsetzung des Beschlusses zu AN/0768/2024 vom 03.06.2024, Aktenzeichen 204/26 - Kenntnis genommen
+- TOP 10.2.15: Wohnungsbau-Turbo: Einschätzung zur Zustimmungsfähigkeit des Vorhabens Piccoloministr. 371, Köln-Mülheim, Holweide - Kenntnis genommen
+- TOP 10.2.16: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Sanierung des Mainwegs in Höhenhaus, Aktenzeichen 182/26 - Kenntnis genommen
+- TOP 10.2.17: Wiederherstellung der Straßenverbindung über die Brücke Am Flachsrosterweg in Köln-Höhenhaus - vertagt
+- TOP 10.3: Bemerkungen zur Niederschrift
