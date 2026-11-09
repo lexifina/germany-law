@@ -1,0 +1,8 @@
+# TOP 4: Investive Sportförderung für das Fördervorhaben: Erneuerung Kunstrasenplatz inkl. Umrüstung der Flutlichtanlage auf LED, Zum Sportplatz 4 in 01108 Dresden durch die Sportgemeinschaft Weixdorf e. V. (SG Weixdorf e. V.)
+
+- Sitzung: 27. Sitzung des Ortschaftsrates Weixdorf (2026-11-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/245681
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/71499
