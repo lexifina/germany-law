@@ -1,0 +1,6 @@
+# TOP 7.: Mitteilung über die Bildung von Fraktionen und Gruppen im Rat der Gemeinde Stavern
+
+- Sitzung: Gemeinderat Stavern (72. Sitzung) (2026-11-09)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/39526
