@@ -34,7 +34,7 @@
 - [§ 19 Ausbildereignung](0019.md)
 - [§ 20 Wiederholung der Prüfung](0020.md)
 - [§ 21 Übergangsvorschriften](0021.md)
-- [§ 22 Inkrafttreten](0022.md)
+- [§ 22 Außerkrafttreten](0022.md)
 - [Anlage 1 (zu den §§ 7, 8, 16 und 17)Bewertungsmaßstab und -schlüssel](anlage-1.md)
 - [Anlage 2 (zu § 9)Zeugnisinhalte](anlage-2.md)
 - [Anlage 3 (zu § 18)Zeugnisinhalte](anlage-3.md)
