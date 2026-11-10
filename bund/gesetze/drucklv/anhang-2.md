@@ -15,20 +15,3 @@ Nach Beendigung der Arbeiten in Druckluft sind bei einem Arbeitsdruck von mehr a
 | - vor Entfernung von der Arbeitsstelle länger als 12 Stunden | 90 Minuten. |
 (6)
 Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem ermächtigten Arzt über den Antritt von Flugreisen beraten werden.
-Tabelle 1: Ausschleusung mit Sauerstoff im Normalbetrieb
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.
-*)
-Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck
-Notfalltabelle 1: Ausschleusung mit Druckluft bei technischem Versagen der Sauerstoffanlage
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-*)
-Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
-Notfalltabelle 2: Ausschleusung mit Sauerstoff in Notfällen bei Überschreitung zulässiger Aufenthaltszeit
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.
-*)
-Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
-Notfalltabelle 3: Ausschleusung mit Druckluft bei technischem Versagen der Sauerstoffanlage und Überschreitung zulässiger Aufenthaltszeit
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-*)
-Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
