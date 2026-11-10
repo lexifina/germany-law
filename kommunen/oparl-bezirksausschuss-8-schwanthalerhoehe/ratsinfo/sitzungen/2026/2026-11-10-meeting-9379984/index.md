@@ -1,0 +1,98 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2026-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9379984
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9379984
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter*innen nehmen Stellung
+- TOP 4: Bürger*innen haben das Wort
+- TOP 4.1.: Zunehmender Parkplatzmangel und zusätzliche Halteverbote in der Kazmairstraße
+- TOP 4.2.: Projektidee gegen urbane Einsamkeit - Nachbarschafts-Kennenlernen im Viertel
+- TOP 4.3.: Standortanfrage für einen Pizza-Verkaufsanhänger im Bereich Theresienhöhe - Bavariaring
+- TOP 4.4.: Vorstellung Projekt "Akustische Erkundungen / München"
+- TOP 4.5.: Weitere Nistkästen und Betreuung des Biotops Bavariapark durch den LBV
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnungsbau, Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Landsberger Straße 94 - 98
+- TOP 6.2.2.: Bauvorhaben Theresienhöhe 30
+- TOP 6.2.3.: Bauvorhaben Ligsalzstraße 4
+- TOP 6.3: Unterrichtungen
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Information zur Beteiligungsplattform Bauleitplanung Online München
+- TOP 6.3.3.: Massive nächtliche Lärmbelästigung durch verschiedene Gaststätten in der Parkstraße
+- TOP 6.3.4.: Donnersbergerbrücke - Voruntersuchung des städtebaulichen Umfelds durch das Planungsreferat
+- TOP 6.3.5.: Sanierungsmaßnahme U4/U5 Hauptbahnhof - Laimer Platz
+- TOP 6.4: Bericht aus dem Unterausschuss
+- TOP 7: Soziales, Bildung, Wohnungspolitik
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Anfrage: Welche Auswirkungen wird der Prozess der AG Zukunftssicherung auf soziale Angebote in unserem Stadtteil Schwanthalerhöhe / Westend haben?
+- TOP 7.4: Bericht aus dem Unterausschuss
+- TOP 8: Kultur und Integration
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.3: Unterrichtungen
+- TOP 8.4: Bericht aus dem Unterausschuss
+- TOP 9: Umwelt, Mobilität und Klimaschutz
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.2.1.: Ladezone Kazmairstraße 44
+- TOP 9.2.2.: Personenbezogener Schwerbehindertenparkplatz Landsberger Straße 104
+- TOP 9.2.3.: Baumfällung Barthstraße 14 - 22
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Zebrastreifen an der Geroltstraße Ecke Anglerstraße (Jugendversammlung Antrag 8)
+- TOP 9.3.2.: Bodenmarkierungen zur Verdeutlichung des Durchfahrtverbots am Stöpsel Trappentreustraße
+- TOP 9.3.3.: Meldeliste Bauvorhaben SWM; - Flyer Erneuerung Trinkwasserleitung Gerolt- Sandtnerstraße - Flyer Fernwärme Ridlerstraße 17
+- TOP 9.3.4.: Arbeiten im Straßenraum - Ridlerstraße und Trappentreustraße 16.10. - 20.11.2026
+- TOP 9.3.5.: Baubeginnanzeige Straßenbauarbeiten Ganghoferstraße Höhe Anglerstraße
+- TOP 9.3.6.: Fällgenehmigung Theresienhöhe 26-28
+- TOP 9.4: Bericht aus dem Unterausschuss
+- TOP 10: Budget und Finanzen
+- TOP 10.1: Entscheidungen
+- TOP 10.1.1.: (E) Stadtbezirksbudget Init. "Ausstellung im Westend" So also ist es gewesen vom 11. -13.12.2026 1.000,00€; Az. 0262.100-8-0498
+- TOP 10.1.2.: (E) Stadtbezirksbudget CULTUS BH e.V. Govoriti sebe: Lesung mit Senka Maric und Lejla Kalamujic am 14.11.2026 2.150,00€; Az. 0262.100-8-0501
+- TOP 10.1.3.: (E) Stadtbezirksbudget Initiative Open Westend open Westend 2027 vom 09. - 11.04.2027 2.810,00 €; Az. 0262.100-8-0502
+- TOP 10.1.4.: (E) Stadtbezirksbudget foolpool GbR Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April - November 2027 8.581,00 Euro, Az.: 0262.100-8-0503
+- TOP 10.2: Anhörungen
+- TOP 10.3: Unterrichtungen
+- TOP 10.4: Bericht aus dem Unterausschuss
+- TOP 11: Anträge
+- TOP 11.1.: Radweg Ridlerstraße: Umsetzung Radentscheid Maßnahmenbündel
+- TOP 12: Verschiedenes
+- TOP 12.1: Entscheidungen
+- TOP 12.2: Anhörungen
+- TOP 12.3: Unterrichtungen
+- TOP 12.3.1.: Bewerbung für den Anita Augspurg Preis 2027
+- TOP 12.3.2.: AWM; Konzept Nachbarschaftstage 2027
+- TOP 12.3.3.: Pressemitteilung - Verteilplan Gelbe Tonne München West
+- TOP 13: Protokoll und Umlauf
+- TOP 13.1.: Protokoll der letzten BA-Sitzung
+- TOP 7.3.2.: Unterstützung BA-Antrag "Antwortschreiben auch in Einfacher Sprache"
+- TOP 4.6.: Durchfahrtbeschränkung Trappentreustraße Höhe Gollierplatz
+- TOP 4.7.: Lärmbelästigung durch nächtlichen Lieferverkehr vom Bavaria-Ring über die Theresienhöhe zum Alten Messeplatz - Tempo 30 Theresienhöhe
+- TOP 10.1.5.: (E) Stadtbezirksbudget Kath. Pfarrkirchenstiftung Hl. Edith Stein Musik- und Literaturnacht am 21.11.2026 530,00€; Az. 0262.100-8-0504
+- TOP 9.3.7.: MVG-Jahresfahrplan 2027 - Änderungen ggü. den Anhörungsunterlagen
+- TOP 2.1.: Gaststätte „To Klidi“, Westendstraße 47 – Anhaltende Missstände
+- TOP 6.2.4.: Bauvorhaben Ligsalzstraße 17
+- TOP 6.2.5.: Bauvorhaben Landsberger Straße 1
+- TOP 6.2.6.: Bauvorhaben Westendstraße 142
+- TOP 6.2.7.: Bauvorhaben Guldeinstraße 50
+- TOP 7.3.1.1: Zukunftssicherungsprozess
+- TOP 9.2.4.: Errichtung von Fahrradabstellanlagen - Geroltstraße 41 - Carlamaria-Heim-Straße 5 - Bergmannstraße 12 - Schnaderböckstraße 4 - Theresienhöhe 7
+- TOP 9.3.8.: Hackerbrücke - Vorbereitende Arbeiten und Verkehrseinschränkungen im November
+- TOP 9.3.9.: Bavariapark Biotop - Lager aus Holzästen entfernt
+- TOP 9.3.10.: Bavariapark Biotop - Baumschutzzäune abgebaut
+- TOP 12.2.1.: Einladung: Workshop zur Evaluation des MünchenBudgets
