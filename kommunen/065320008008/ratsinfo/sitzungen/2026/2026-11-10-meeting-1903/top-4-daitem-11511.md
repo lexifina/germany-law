@@ -1,0 +1,6 @@
+# TOP 4.: ⁠Verfügungsmittel 2026
+
+- Sitzung: Ortsbeirat Breitenbach (4. Sitzung/19.WP) (2026-11-10)
+- Körperschaft: Gemeinde Ehringshausen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/body/1/agendaitem/11511
