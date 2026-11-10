@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2026-11-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9384953
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9384953
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürger*innen haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Sammelbeschluss
+- TOP 1.4.: Genehmigung der Protokolle vom 06.10.2026
+- TOP 2: Allgemeines
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Fernwärmeausbau in Solln: Die Innovative Energie für Pullach GmbH informiert
+- TOP 2.4.: Abfrage Hybridsitzungen 2027
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Maibaumverein Thalkirchen e.V. Christbaum Thalkirchen Schäftlarnstraße 179 vom 26.11.2026 -25.02.2027 4.050,00€; Az. 0262.100-19-0652
+- TOP 3.3.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde München-Solln Mozart im Licht - Requiem D-MOLL KV 626 am 21.11.2026 9.305,00 €; Az. 0262.100-19-0654
+- TOP 3.4.: (E) Stadtbezirksbudget foolpool GbR Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April -November 2027 8.581,00€; Az. 0262.100-19-0655
+- TOP 4: Unterausschuss Umwelt
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Suchkreismeldung M-Fürstenried-West
+- TOP 5: Unterausschuss Mobilität
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Umwandlung eines personenbezogenen Stellplatzes in ein allgemeinen Behindertenparkplatz in der Schaffhauser Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Tonnagebeschränkung in der Steinmetzstraße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Errichtung eingeschränktes Haltverbot in der Watteaustraße
+- TOP 5.5.: (E) Projektplanung – Barrierefreiheit westliche Bushaltestelle Bahnhof Solln
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 6.2.1: -abgesetzt-
+- TOP 6.2.2: Parkmeisterstraße 11
+- TOP 6.2.3: Aidenbachstraße 7
+- TOP 6.2.5: Forstenrieder Allee 177
+- TOP 6.2.4: Beuerberger Straße 9
+- TOP 6.2.6: Traubinger Straße 23
+- TOP 6.2.7: Steinerstraße 15
+- TOP 6.2.8: Diezweg 16 (VB)
+- TOP 6.2.9: Wolfratshauser Straße 350
+- TOP 6.2.10: Fritz-Baer-Straße 32
+- TOP 6.2.11: Kleinstraße 2
+- TOP 7: Unterausschuss Bildung, Sport und Gesundheit
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Saubere und sichere Spielplätze – Maßnahmen gegen Zigarettenstummel und Rauchbelastung prüfen
+- TOP 8: Unterausschuss Kultur, Vereine und Soziales
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: "Namenlesung zum Gedenken an die Reichsprogromnacht 1938" auf dem Thalkirchner Platz am 13.11.2026
+- TOP 8.3.: (U) Gaststättenfortführung: Aidenbachstraße 86
+- TOP 8.4.: (A) Verbot gewerblich betriebener Vermietung von möblierten Kleinwohnungen
+- TOP 9: Verschiedenes
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Beschilderung nach barrierefreiem Umbau in der Aidenbachstraße
+- TOP 3.5.: (A) Änderungsanfrage vom Verein zur Förderung Urbaner Kunst e.V.: „Ein temporärer Wohlfühlort gegen Einsamkeit am 21.11.2026“
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Züricher Straße westlich Limmatstraße; Einrichtung eines Fußgängerüberwegs
