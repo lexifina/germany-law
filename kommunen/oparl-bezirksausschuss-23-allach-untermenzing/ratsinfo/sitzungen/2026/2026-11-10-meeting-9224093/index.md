@@ -1,0 +1,126 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2026-11-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9224093
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9224093
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Einführung der Gelben Tonne zum 01.01.27 - Austausch mit dem AWM
+- TOP 2.: Anliegen von Bürger*innen
+- TOP 2.1: Sprechstunde für Bürger*innen
+- TOP 2.2: Post von Bürger*innen an den BA
+- TOP 2.2.1.: Prüfung der Einrichtung bzw. Wiederinbetriebnahme einer Bushaltestelle im Bereich Allacher Str. 185
+- TOP 2.2.2.: Nachbarschaftsfest auf dem Martha-Näbauer-Platz
+- TOP 2.2.3.: Verbesserung der Schulwegsicherheit in Allach-Untermenzing / Schulzentrum Pfarrer-Grimm-Str.
+- TOP 2.2.4.: Einrichtung einer mobilen Fussgängerampel in der Franz-Nißl-Strasse Höhe Baustelle Seniorenheim
+- TOP 2.2.5.: Leinenpflicht für Hunde und zusätzliche Abfallbehälter für Hundekot in der Grünanlage Theodor-Fischer-Straße
+- TOP 2.2.6.: Anregung / Beschwerde zum Quartier Kirschgärten - Verteilung geförderter Wohnungen und Gebäudehöhen und N - Schr. Eckpfeiler vom 02.11.26
+- TOP 3.: Berichte und Protokolle aus den Unterausschüssen
+- TOP 3.1: Kultur und Budget
+- TOP 3.1.1.: vom 22.10.26
+- TOP 3.1.2.: Beratung über das Schreiben des BA zum Stadtteilkulturzentrum
+- TOP 3.2: Familie, Bildung und Sport
+- TOP 3.3: Mobilität
+- TOP 3.4: Planung und Bau
+- TOP 3.5: Umwelt und Soziales
+- TOP 4.: Berichte und Protokolle der Beauftragten
+- TOP 4.1: Baumschutz
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1.: (E) Stadtbezirksbudget: CultureClouds e.V. - POP-UPs 2027, Projekte "Zirkus Pumpernudl" und "Straße.Oase" vom 01.01. - 31.12.2027 9.624,00 Euro, Az.: 0262.100-23-0268 (vertagt aus 03/26)
+- TOP 6.2.: (E) Stadtbezirksbudget: Krieger- und Veteranenverein Allach e.V., „Kirchenzug am Volkstrauertag (15.11.2026)“, 350,00 €; Az. 0262.100-23-0281
+- TOP 6.3.: (E) Stadtbezirksbudget: foolpool GbR, Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April - November 2027 8.581,00 Euro, Az.: 0262.100-23-0282
+- TOP 6.4.: Sauberkeit und Ordnung im 23. Stadtbezirk Empfehlung Nr. 26-32 / E 00163 der Bürgerversammlung des Stadtbezirkes 23 Allach - Untermenzing am 28.07.2026, Sitzungsvorlage Nr. 26-32 / V 01970
+- TOP 7.: Anhörungen
+- TOP 7.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.10.26: Esmarchstr. 2 - 4: Neubau einer Wohnanlage mit Mehrfamilienhäusern mit Tiefgarage Varianten 1 und 2 (Az. 1.7-2026-17257-42)
+- TOP 7.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.10.26: Thea-Knorr-Str. 7: Nutzungsänderung von Lagerflächen zu KFZ-Werkstätten mit Lager (Az. 1.2-2026-9113-42)
+- TOP 7.3.: Schreiben Mobilitätsreferat vom 26.10.26: Kirschstraße, Westseite, vor Anwesen Nr. 21; Anordnung eines absoluten Haltverbots
+- TOP 7.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.10.26: Pasinger Heuweg - Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/50 und Bebauungsplan mit Grünordnung Nr. 2197 (§ 4 Abs. 2 BauGB)
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Antrag des BA 8 Schwanthalerhöhe vom 13.10.26: Antworten der Referate zusätzlich in Einfacher Sprache
+- TOP 9.: Umlauf
+- TOP 9.1: Baureferat
+- TOP 9.1.1.: Schreiben vom 21.10.26: Mähaktion im Allacher Eidechsenpark zwischen Kiesweg und Theodor-Fischer-Straße - Verletzung von Tieren
+- TOP 9.1.2.: Schreiben vom 19.10.26: Schulwegsicherheit in der Thea-Knorr-Straße / Pasteurstraße
+- TOP 9.2: Direktorium
+- TOP 9.3: Gesundheitsreferat
+- TOP 9.4: Kommunalreferat
+- TOP 8.3.: Schreiben AWM vom 27.10.26: Nachbarschaftstage neu gedacht
+- TOP 9.5: Kreisverwaltungsreferat
+- TOP 9.5.1.: Schreiben vom 13.10.26: Geschwindigkeitsüberwachung wegen akuter Gefährdung spielender und reisender Kinder in der Kleselstraße (Tempo-30-Zone)
+- TOP 9.5.2.: Schreiben vom 19.10.26: Sondernutzungserlaubnis: Gedenkveranstaltung des BA 23 zur Reichsprogromnacht 2026
+- TOP 9.5.3.: Schreiben vom 01.10.26: Lärmbelästigung Technofestival Trikaya
+- TOP 9.6: Mobilitätsreferat
+- TOP 9.6.1.: Schreiben Mobilitätsreferat vom 16.10.26: Gruithuisenstraße, Westseite, Höhe Anwesen Nr. 25a; Einrichtung eines eingeschränkten Haltverbots mit Zeitzusatz (Zeichen 286 StVO mit Zusatzzeichen)
+- TOP 9.7: Referat für Arbeit und Wirtschaft
+- TOP 9.8: Referate für Bildung und Sport
+- TOP 9.9: Referat für Klima- und Umweltschutz
+- TOP 9.9.1.: Antwortschreiben vom Referat für Klima und Umweltschutz vom 21.10.26: Aufklärung des Fischsterbens in den Kiesseen am Paul-Ehrlich-Weg
+- TOP 9.10: Referat für Stadtplanung und Bauordnung
+- TOP 9.10.1.: Schreiben vom 16.10.26: Vorfall im Rahmen der Informationsveranstaltung an der Manzoschule
+- TOP 9.11: Sozialreferat
+- TOP 9.11.1.: Schreiben vom 15.10.26: Verdacht der gewerblichen Vermietung im Bereich Naumannstraße
+- TOP 9.11.2.: Schreiben vom 13.10.26: Aktualisierte Übersicht über die Unterkunftsstandorte für Geflüchtete und Wohnungslose ab 48 Bettplätzen (Stand: 30.06.2026)
+- TOP 9.12: Stadtkämmerei
+- TOP 9.13: Sonstiges
+- TOP 9.13.1.: Schreiben AWM vom 19.10.26: Stadtteil-Checks 2026 in Allach im Rahmen des Projekts "Auf Herz und Rampe prüfen" des Kreisjugendrings mit Schüler*innen der Mittelschule an der Franz-Nissl-Straße: Müll vor Container Franz-Nissl-Straße
+- TOP 9.13.2.: Schreiben AWM vom 26.05.26: Kleinere Restmülltonne als 80 Liter
+- TOP 9.13.3.: Schreiben AWM vom 22.10.26: Papiertonnendeckel Karl-von-Roth-Straße
+- TOP 9.13.4.: Schreiben SWM vom 19.10.26: Beginn der Vibrotruck-Messungen im 23. Stadtbezirk
+- TOP 9.13.5.: Schreiben SWM vom 12.10.26: Umleitung der Buslinien 160, 164 und 165 in beiden Richtungen Allach und Pfarrer-Grimm-Straße bzw. Servetstraße wegen Bauarbeiten vom 19.10.-06.11.26
+- TOP 9.13.6.: Schreiben RMG Rohstoffmanagement GmbH vom 23.10.26: Pressemitteilung: Verteilplan Gelbe Tonne München (West)
+- TOP 9.13.7.: Schreiben Autobahn GmbH des Bundes – Niederlassung Südbayern vom 26.10.26: Pressemitteilung Autobahn Südbayern
+- TOP 9.14: Bereits weitergeleitete Anliegen
+- TOP 9.14.1.: Schreiben PI 44 vom 13.10.26: Offizielle Breite des Lippwegs
+- TOP 9.14.2.: Fortlaufende Verschmutzung an der Wertstoffsammelstelle Allacher Straße / Von-Reuter-Straße und Schreiben AWM vom 22.10.26
+- TOP 9.14.3.: Lagerung von Bauschutt Ecke Kiesweg / Stieglstraße
+- TOP 9.14.4.: Reinigung der Parkbuchten und N - Schreiben PI 44 vom 29.10.26 und 04.11.26
+- TOP 9.14.5.: Gefährliche Verkehrssituation an der Fußgängerampel Hitl-/Zauner-/Allacher Straße
+- TOP 9.14.6.: Entfernung der Schrottfahrräder am Fahrradabstellplatz der S-Bahnstation Untermenzing
+- TOP 9.14.7.: Abfalleimer an der Bushaltestelle Karl-von-Roth-Straße werden als Hausmüllbehälter mißbraucht und N - Schreiben MVG vom 04.11.26
+- TOP 9.14.8.: Bedenken zur geplanten Geothermieanlage am Pasinger Heuweg - Erhalt der Grünflächen in Untermenzing
+- TOP 9.14.9.: Baustellensituation in Allach - Erreichbarkeit der Apotheke stark beeinträchtigt
+- TOP 9.14.10.: Beschädigte Absperrungen bei den Bauminseln zwischen den Parkplätzen im Diamaltpark und N Schr. Baureferat vom 04.11.26
+- TOP 9.14.11.: Eingeschränkte Abholmöglichkeit der Mülltonnen während eines Bauvorhabens in der Bergsträßerstraße und N Schreiben AWM vom 28.10.26
+- TOP 10.: Stadtrats-und Ausschussbeschlüsse
+- TOP 10.1: Beschluss des Bildungsausschusses und des Bauausschusses vom 28.10.26:
+- TOP 10.1.1.: (U) Bildungsbauoffensive - Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 10.2: Beschluss der Vollversammlung des Stadtrates vom 21.10.26:
+- TOP 10.2.1.: Förderung bürgerschaftlichen Engagements (BE); Stellungnahme der Stadtverwaltung zum 8. Bericht des Fachbeirats Bürgerschaftliches Engagement München
+- TOP 11.: Nichtöffentlicher Teil
+- TOP 6.5.: (E) + (U) Nutzung der Geothermie-Anlage am Pasinger Heuweg auch zur Nahwärmeversorgung der unmittelbaren Nachbarschaft Empfehlung Nr. 20-26 / E 00175 der Bürgerversammlung des Stadtbezirkes 23 – Allach-Untermenzing am 28.07.2026
+- TOP 8.2.: Präsentation RKU vom 27.10.26: Gemeinsam für die Wärmewende - Die Wärmeplanung vor Ort sichtbar machen; Bericht der BA-Vorsitzenden und Meinungsbild BA
+- TOP 6.4.1: (E) Sauberkeit und Ordnung im 23. Stadtbezirk
+- TOP 1.4.1.: Präsentation
+- TOP 2.2.7.: N - Eingeschränkte Mülltonnenabholung Sickenbergerstraße
+- TOP 3.2.1.: vom 05.11.26
+- TOP 3.3.1.: vom 04.11.26
+- TOP 3.4.1.: vom 06.11.26
+- TOP 3.5.1.: vom 05.11.26
+- TOP 4.1.: Beauftragter für Menschen mit Behinderungen; Austauschtreffen vom 27.10.26
+- TOP 4.1.1.: Stellungnahmen zum Baumschutz November 2026
+- TOP 5.1.: N - Sicherstellung von Sauberkeit, Ordnung und Hygiene an den Wertstoffinseln im Übergang zur gelben Tonne
+- TOP 5.2.: N - Installierung einer elektronischen Schließanlage sowie einer Videoüberwachung im Schulzentrum an der Pfarrer-Grimm-Straße
+- TOP 7.5.: Schreiben Mobilitätsreferat vom 23.09.26: Nahmobilitätskonzept für den 23. Stadtbezirk Allach-Untermenzing Sitzungsvorlage Nr. 26-32 / V 00793 (vertagt aus 10-26) - Stellungnahme UA Mobilität und Eilentscheidung BA-Vorsitzende -
+- TOP 8.3.1: Bericht über das AWM-Angebot &#039;Nachbarschaftstage&#039; und Entscheidung über die Beauftragung eines solchen Tags im Diamaltpark
+- TOP 9.1.3.: N - Schreiben vom 29.10.26: Anregung zur Errichtung eines Discgolf-Parcours in Allach/Untermenzing
+- TOP 9.2.1.: N - Schreiben vom 05.11.26: Stadtbezirksbudget - Verwendungsnachweis: Spendenlauf Allmenzing
+- TOP 9.6.2.: N - Schreiben vom 28.10.26: Ampel an der Einmündung Ludwigsfelder Straße / Eversbuschstraße verbundenen mit einem "Blitzer" / "Starenkasten"
+- TOP 9.6.3.: N - Schreiben vom 28.10.26: Verkehrsrechtliche Anordnung: Lauthstraße 6, Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 9.13.8.: N - Schreiben SWM vom 30.10.26: Trinkwasserprojekt Herbert-Schober-Straße
+- TOP 9.13.9.: N - Schreiben SWM vom 29.10.26: Bus 164: Pasinger Heuweg und Gerlachweg - Umleitung wegen einer Baumaßnahme der SWM an der Wasserleitung (Bereich: Auenbruggerstraße) vom 03.11.26 - 05.11.26
+- TOP 9.13.10.: N - Schreiben MVG vom 02.11.26: MVG-Jahresfahrplan 2027 - Änderungen der Anhörungsunterlagen
+- TOP 9.14.12.: N - Beschwerde über Lärmimmissionen durch die Panzererprobungsstrecke am Samstagmorgen / Anfrage zu Grenzwerteinhaltung (Storchenweg) und N - Schreiben RKU vom 05.11.26 und Schreiben KNDS vom 10.11.26
+- TOP 5.3.: S2-Fahrplanänderung vom 29.11. bis 07.12.2026 – Sicherstellung einer ausreichen-den Fahrgastbetreuung und eines leistungsfähigen Schienenersatzverkehrs an der S-Bahn-Station München Allach
+- TOP 8.4.: N - Schreiben RKU vom 10.11.26: Vorstellung klimaneutrale Quartiersentwicklung
