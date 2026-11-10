@@ -1,0 +1,58 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Controlling & Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-11-10T16:04:00+01:00
+- Ende: 2026-11-10T17:45:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/270
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24699
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24699
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung gesamt http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00372227.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00372904.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Allgemeine Angelegenheiten des Finanzausschusses
+- TOP 1: Allgemeine Finanzangelegenheiten
+- TOP 1.1: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 18.04.2026 - 23.10.2026 - Entgegennahme ohne Beschluss
+- TOP 1.2: Bericht zur finanziellen Lage der Stadt Wuppertal zum 30.09.2026 (Finco) - Entgegennahme ohne Beschluss
+- TOP 1.3: Sachstandsbericht zur HSK-Fortschreibung 2027 - Entgegennahme ohne Beschluss
+- TOP 1.4: Anfrage zur Umstellung auf das Abrechnungssystem SAP - Große Anfrage der Fraktion Die Linke - Entgegennahme ohne Beschluss
+- TOP 1.4.1: Antwort auf die Große Anfrage zur Umstellung auf das Abrechnungssystem SAP der Fraktion Die Linke - Entgegennahme ohne Beschluss
+- TOP 1.5: Mittelverwendung und Planung des Bundes-Sondervermögens – Fokus Klimaschutz und Klimafolgenanpassung - Entgegennahme ohne Beschluss
+- TOP 1.5.1: Antwort auf die Große Anfrage zur Mittelverwendung und Planung des Bundes-Sondervermögens – Fokus Klimaschutz und Klimafolgenanpassung - Entgegennahme ohne Beschluss
+- TOP 2: Vermögensverwaltung
+- TOP 2.1: Investorenauswahlverfahren Zoosäle und weiteres Vorgehen - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Große Anfrage zum Investorenverfahren Zoosäle und weiteres Vorgehen - Entgegennahme ohne Beschluss
+- TOP 3: Vorlagen zu wesentlichen Haushaltspositionen
+- TOP 3.1: Grundlagenermittlung Sanierungsprojekt Kalktrichterofen - ungeändert beschlossen
+- TOP 3.2: Durchführungsbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 3.3: Besucherinformationszentrum (BIZ) Müngstener Brücke - ungeändert beschlossen
+- TOP 3.4: Ergänzung zu VO/0608/26 – Finanzierung des Gesellschafterdarlehens an die Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (gwg) aus der fortgeltenden Kreditermächtigung 2025 - ungeändert beschlossen
+- TOP -: Teil B - Angelegenheiten der Beteiligungssteuerung
+- TOP 4: Städtische Beteiligungen
+- TOP -: Alten- und Altenpflegeheime (APH)
+- TOP 4.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP -: Kinder- und Jugendwohngruppen (KiJu)
+- TOP 4.2: Jahresabschluss Kinder- und Jugendwohngruppen der Stadt Wuppertal 2025 - ungeändert beschlossen
+- TOP 4.2.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Konzern Wuppertaler Stadtwerke (WSW)
+- TOP 4.3: Veräußerung der von der Trianel GmbH gehaltenen Beteiligung an der Trianel Gasspeicher Epe GmbH & Co. KG (TGE) - ungeändert beschlossen
+- TOP 4.4: Änderung des Gesellschaftsvertrages der Versorger-Allianz 450 Beteiligungs GmbH & Co. KG (VA 450) - ungeändert beschlossen
+- TOP 4.5: Änderung des Gesellschaftsvertrages der Kooperationsgesellschaft Stadtwerke Bergisches Land mbH - Entgegennahme ohne Beschluss
+- TOP 4.6: Jahresabschluss der Regiobahn GmbH für das Geschäftsjahr 2025 - Entgegennahme ohne Beschluss
+- TOP -: Delphin Vermögensverwaltung GmbH
+- TOP 4.7: Bestellung des Wirtschaftsprüfers für den Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP -: Zweckverband Bergische Studieninstitut (BSI)
+- TOP 4.8: Durchführungsbeschluss zum Bergischen Studieninstitut (BSI) - Überführung in einen Zweckverband zum 01.01.2027 - ungeändert beschlossen
+- TOP -: Bergische Struktur- und Wirtschaftsförderung
+- TOP 4.9: Jahresabschluss der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 4.9.1: Entlastung des Aufsichtsrates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 4.10: Wirtschaftsplan 2027 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP -: Teil C - Angelegenheiten des Betriebsausschusses des Eigenbetriebes Wasser und Abwasser (WAW)
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 5.2: Entlastung der Betriebsleitung des WAW für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 5.3: Beauftragung des Abschlussprüfers für den Jahresabschluss 2026 des WAW - ungeändert beschlossen
