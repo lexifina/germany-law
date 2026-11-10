@@ -1,0 +1,7 @@
+# TOP 8.: Beschlussfassung über fristgerecht erhobene Einwendungen gegen die Niederschrift der Sitzung vom 29.09.2026
+
+- Sitzung: Stadtverordnetenversammlung der Stadt Homberg (Ohm) (6. Sitzung) (2026-11-10)
+- Körperschaft: Stadt Homberg (Ohm)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/agendaitem/10575
+- Beratung: https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/body/1/consultation/8533
