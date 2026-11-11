@@ -189,7 +189,7 @@
 - [Muster 2](muster-2.md)
 - [Muster 3 (§ 9 Abs. 1 LuftVZO)](muster-3.md)
 - [Muster 4 (§ 14 Abs. 2 LuftVZO)](muster-4.md)
-- [Muster 5](muster-5.md)
+- [Muster 5 (weggefallen)](muster-5.md)
 - [Muster 6](muster-6.md)
 - [Muster 6a](muster-6a.md)
 - [Muster 7](muster-7.md)
