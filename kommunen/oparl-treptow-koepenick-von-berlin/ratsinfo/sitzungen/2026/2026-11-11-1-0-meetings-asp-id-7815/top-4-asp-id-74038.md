@@ -1,0 +1,6 @@
+# TOP 4: Austausch mit der pädagogischen Leitung der Kita-Eigenbetriebe Südost (30 Minuten)
+
+- Sitzung: 63. (ordentliche, öffentliche) Sitzung des Jugendhilfeausschusses ENTFÄLLT (2026-11-11)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=74038
