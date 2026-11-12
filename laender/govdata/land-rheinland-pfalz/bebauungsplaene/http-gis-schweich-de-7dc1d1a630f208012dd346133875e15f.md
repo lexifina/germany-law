@@ -1,0 +1,20 @@
+# Im Paesch II 3. Aenderung
+
+- Herausgeber: Land Rheinland-Pfalz
+- Datum: 2026-11-12 (Katalogangabe issued/modified)
+- Kennung: http://gis-schweich.de/7dc1d1a630f208012dd346133875e15f
+- Lizenz: -
+- Katalog: https://www.govdata.de/suche/daten/im-paesch-ii-3-aenderung
+- Quelle: GovData (CKAN-API), Datensatz 3b5f1e4c-9ab5-475e-8f2f-386ac8da1d9a
+- temporal_start: 1998-11-24
+- temporal_end: 1998-12-25
+- Ressource: Original Metadaten HTML https://www.geoportal.rlp.de/mapbender/php/mod_exportIso19139.php?url=https%3A%2F%2Fwww.geoportal.rlp.de%2Fmapbender%2Fphp%2Fmod_dataISOMetadata.php%3FoutputFormat%3Diso19139%26id%3D7dc1d1a6-30f2-0801-2dd3-46133875e15f http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Online Karte https://www.geoportal.rlp.de/mapbender/extensions/mobilemap/map.php?layerid=48197 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: GeoPortal.rlp https://www.geoportal.rlp.de/map?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=48197 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: Originäre Metadaten für Kartenebene https://www.geoportal.rlp.de/mapbender/php/mod_showMetadata.php?languageCode=de&resource=layer&layout=tabs&id=48197 http://publications.europa.eu/resource/authority/file-type/HTML
+- Ressource: WMS Schnittstelle https://www.geoportal.rlp.de/mapbender/php/wms.php?layer_id=48197&REQUEST=GetCapabilities&VERSION=1.1.1&SERVICE=WMS http://publications.europa.eu/resource/authority/file-type/WMS_SRVC
+- Ressource: Rasterdownload nach EU-Standard https://www.geoportal.rlp.de/mapbender/plugins/mb_downloadFeedClient.php?url=http%3A%2F%2Flocalhost%2Fmapbender%2Fphp%2Fmod_inspireDownloadFeed.php%3Fid%3D7dc1d1a6-30f2-0801-2dd3-46133875e15f%26type%3DSERVICE%26generateFrom%3Dwmslayer%26layerid%3D48197 http://publications.europa.eu/resource/authority/file-type/HTML
+
+---
+
+Bebauungsplan Im Paesch II 3. Änderung der Gemeinde Longuich
