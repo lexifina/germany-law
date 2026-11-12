@@ -114,7 +114,7 @@ A Liste für Waffen, Munition und Rüstungsmaterial
     2. Schallunterdrücker oder -dämpfer,
     3. ‚Rohrwaffen-Lafetteʻ,
       Technische Anmerkung:
-      Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ‚Rohrwaffen-Lafetteʻ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer Struktur zu befestigen.
+      Im Sinne von Unternummer 0001d3 bezeichnet der Begriff ‚Rohrwaffen-Lafetteʻ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer Struktur zu befestigen.
     4. Mündungsfeuerdämpfer,
     5. Waffenzielgeräte mit elektronischer Bildverarbeitung,
     6. Waffenzielgeräte, besonders konstruiert für militärische Zwecke.
