@@ -1,0 +1,90 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-11-12T14:00:00+01:00
+- Ende: 2026-11-12T18:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29818
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29818
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachlieferung RAT 12.11.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00603131.pdf
+- Ergebnisprotokoll: 1. Nachlieferung RAT 12.11.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00603131.pdf
+- Wortprotokoll: 1. Nachlieferung RAT 12.11.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00603131.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen aus aktuellem Anlass
+- TOP 2.1: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Baumpflege am Lohausener Deich - wer schützt die tierischen Bewohner? - beantwortet
+- TOP 2.2: Anfrage aus aktuellem Anlass der Ratsgruppe Freie Wähler Tierschutz PARTEI: Urban Gardening in Rath - wird der Garten auch für Wildbienen und andere Tiere grün? - zurückgewiesen
+- TOP 2.3: Anfrage aus aktuellem Anlass des Ratsherrn Salinger: Verzögerung bei der Sanierung, Zeitplan und Förderungen für Neubau der Theodor-Heuss-Brücke - beantwortet
+- TOP 2.4: Anfrage aus aktuellem Anlass des Ratsherrn Lemmer: Zukunft des Gasnetzes in Düsseldorf - zurückgewiesen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsfraktion SPD/Volt: Ergebnisse der OGS-Bedarfsabfrage und Vertragsstand externer Angebote - beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion SPD/Volt: Sachstand Bürger*innenhäuser - beantwortet
+- TOP 3.3: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Geschwindigkeitsmessanlagen im Kö-Bogen-Tunnel seit Juli 2024 - beantwortet
+- TOP 3.4: Anfrage der Ratsgruppe Freie Wähler Tierschutz PARTEI: Kosten für die Stilllegung von Gasanschlüssen bei der Netzgesellschaft Düsseldorf - beantwortet
+- TOP 3.5: Anfrage der AfD-Fraktion: Aufnahmestopp im Hochspannungsnetz - schriftlich beantwortet
+- TOP 3.6: Anfrage der AfD-Ratsfraktion: Details und Hintergründe zu festgestellten Personen beim kontrollierten Badeverbot im Rhein/bei Einsätzen von OSD bzw. Rettungseinsätzen der Feuerwehr (Person im Rhein) - schriftlich beantwortet
+- TOP 3.7: Anfrage der FDP-Ratsfraktion: Unterbringung städtischer Dienststellen - schriftlich beantwortet
+- TOP 3.8: Anfrage der FDP-Ratsfraktion: Fertigstellung Heinrich-Heine-Platz - schriftlich beantwortet
+- TOP 3.9: Anfrage der Ratsfrau Dufhues: Bargeldabschaffung? Oder von den Schweden lernen! - schriftlich beantwortet
+- TOP 3.10: Anfrage der Ratsfraktion Die Linke: Gerresheimer Glashüttengelände – weshalb verzichtet die Stadt auf mehr Sozialwohnungen und auf ihr Vorkaufsrecht? - schriftlich beantwortet
+- TOP 3.11: Anfrage der Ratsfraktion Die Linke: Umzug des Umweltamtes auf den EUREF-Campus - schriftlich beantwortet
+- TOP 3.12: Anfrage des Ratsherrn Lemmer: Pferdevorfall während des Erntedankumzugs in Urdenbach - schriftlich beantwortet
+- TOP 3.13: Anfrage der Ratsfrau Hora: Göttliche Fügung oder ein bloßes Versehen? Zum Abriss geschützter Gaslaternen - schriftlich beantwortet
+- TOP 3.14: Anfrage der Ratsfrau Bavaj: Housing First – Erfolgsstory mit Strategie? - schriftlich beantwortet
+- TOP 3.15: Anfrage des Ratsherrn Winter: Maßnahmen der Landeshauptstadt Düsseldorf gegen die Zwangs- und Ferienverheiratung minderjähriger Kinder - schriftlich beantwortet
+- TOP 3.16: Anfrage des Ratsherrn Maniera: Schadensersatzansprüche wegen Straßenschäden - schriftlich beantwortet
+- TOP 3.17: Anfrage des Ratsherrn Dr. Bresztowszky: Unterbringung und Versorgung pflegebedürftiger wohnungsloser Menschen in der Eisenstraße 49 - schriftlich beantwortet
+- TOP 3.18: Anfrage des Ratsherrn Salinger: Unterbringung von Asylbewerbern und Flüchtlingen in Mietwohnungen – Anzahl, Belegung und Kosten - zurückgewiesen
+- TOP 3.19: Anfrage des Ratsherrn Lemmer: Rheinfähren und Niedrigwasser - schriftlich beantwortet
+- TOP 3.20: Anfrage des Ratsherrn Tscholl: Bearbeitungsstau in der Fahrerlaubnisstelle? - schriftlich beantwortet
+- TOP 3.21: Anfrage der Ratsfrau Mirus: Denkmalschutz und Gaslaternen - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission KAP - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission für nachhaltige Entwicklung - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bestimmung der Reihenfolge, in der die Beigeordneten bei Verhinderung des allgemeinen Vertreters des Oberbürgermeisters zur allgemeinen Vertretung berufen sind - einstimmig beschlossen
+- TOP 9: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 10: Umstellung des Fuhrparks der AWISTA Kommunal GmbH auf klimaneutrale, schadstoffreduzierte und lärmarme Antriebe (Dekarbonisierungskonzept) - mehrheitlich beschlossen
+- TOP 11: Umsetzungsstrategie Zukunft Altstadt / Innenstadt (Teilbaustein des Förderprojektes KreativRaum D) - mehrheitlich beschlossen
+- TOP 12: Plan Nr. 01/034 - Soziale Erhaltungssatzung - Golzheim / Derendorf / Pempelfort - Satzung - vertagt
+- TOP 13: Weiterentwicklung der Quotierungsregelungen für private und städtische Grundstücke zur Gemeinwohlquote als Baustein des Düsseldorfer Baulandmodells - vertagt
+- TOP 14: Bebauungsplan - Entwurf Nr. 09/014 - Benrodestraße/Marbacher Straße - mehrheitlich beschlossen
+- TOP 15: Bebauungsplan-Entwurf Nr. 01/032 - Kennedydamm 55 / Roßstraße - einstimmig beschlossen
+- TOP 16: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf – KWAD Richtliniennovelle 2027 - vertagt
+- TOP 17: 4. Änderungsbeschluss Konrad-Adenauer-Platz 1 (KAP1) - mehrheitlich beschlossen
+- TOP 18: Gustaf-Gründgens-Platz 1, Düsseldorfer Schauspielhaus - Beantragung der Bundesförderung (KulturInvest) für die Erneuerung der Bühnenkommunikationsanlage - einstimmig beschlossen
+- TOP 19: Änderung der Gebührenfestlegung für Ausnahmegenehmigungen - mehrheitlich beschlossen
+- TOP 19.1: Änderungsantrag der FDP-Ratsfraktion zu Vorlage OVA/094/2026 - mehrheitlich abgelehnt
+- TOP 19.2: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage OVA/094/2026 - mehrheitlich abgelehnt
+- TOP 20: Neufassung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 20.1: Ergänzungsantrag der FDP-Ratsfraktion zur Vorlage OVA/102/2026 - zurückgezogen
+- TOP 20.2: Änderungsantrag der FDP-Ratsfraktion zur Vorlage OVA/102/2026 - zurückgezogen
+- TOP 20.3: Änderungsantrag der Ratsfraktion Die Linke zur Vorlage OVA/102/2026 - mehrheitlich abgelehnt
+- TOP 20.4: Änderungsantrag der AfD-Ratsfraktion zur Vorlage OVA/102/2026/1 - mehrheitlich abgelehnt
+- TOP 20.5: Änderungsantrag der Ratsfraktion SPD/Volt zur Vorlage OVA/102/2026/1 - mehrheitlich abgelehnt
+- TOP 20.6: Ergänzungsantrag der FDP-Ratsfraktion zu OVA/102/2026/1 - mehrheitlich abgelehnt
+- TOP 21: Neufassung der Ordnungsbehördlichen Verordnung der Landeshauptstadt Düsseldorf über das Verbot des Badens im Rhein - mehrheitlich beschlossen
+- TOP 22: Herbeiführung eines Ausführungs- und Finanzierungsbeschluss: „Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsgangs (G9) am Humboldt-Gymnasium“ - einstimmig beschlossen
+- TOP 23: Sicherung der Schulform Hauptschule durch nachfrageorientierte Anpassung der Schulplatzkapazitäten - mehrheitlich beschlossen
+- TOP 24: Klärwerk-Nord, Erneuerung der Mittelspannungsanlage (I-8030623001) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 25: Entsendung von Mitgliedern des Seniorenrates als sachkundige Einwohnerinnen und Einwohner in die Ratsausschüsse - einstimmig beschlossen
+- TOP 26: Bezirkssportanlage Windscheidstraße – Modernisierung der Wettkampfanlage - einstimmig beschlossen
+- TOP 27: Aufsichtsrat der Regionale Bahngesellschaft Kaarst - Neuss - Düsseldorf - Erkrath - Mettmann - Wuppertal mbH – Ersatzwahl – - einstimmig beschlossen
+- TOP 28: Aufsichtsrat der Connected Mobility Düsseldorf GmbH – Ersatzwahl – - einstimmig beschlossen
+- TOP 29: Polizeibeirat – Ersatzwahl - abweichend beschlossen
+- TOP 30: Mitgliederversammlung des Vereins Metropolregion Rheinland e.V. -Bestellung von Vertretungen der Stadt- - mehrheitlich beschlossen
+- TOP 31: Anträge
+- TOP 31.1: Antrag der FDP-Ratsfraktion: Bürger-Sparhaushalt für Düsseldorf – Einrichtung einer Online-Beteiligung - mehrheitlich abgelehnt
+- TOP 31.2: Antrag der AfD-Ratsfraktion: Befragung der Händler und Gewerbetreibenden zur Entwicklung der Schadowstraße nach Einführung des Radweges - mehrheitlich abgelehnt
+- TOP 31.3: Antrag der AfD-Ratsfraktion: Gewerbe- und gesundheitsrechtliche Sonderprüfung ambulanter Pflegedienste in Düsseldorf - zurückgezogen
+- TOP 31.4: Antrag der AfD-Ratsfraktion: Gleichstellung von Mindestabständen für zukünftige Drogenhilfeeinrichtungen und Drogenkonsumräume analog zu den gesetzlichen Vorgaben für Cannabis-Anbauvereinigungen - mehrheitlich abgelehnt
+- TOP 31.5: Antrag der AfD-Ratsfraktion: Arbeitsgelegenheiten nach § 5 AsylbLG - mehrheitlich abgelehnt
+- TOP 31.6: Antrag der Ratsfraktion Die Linke: Flughafenerweiterung stoppen - mehrheitlich abgelehnt
+- TOP 31.7: Antrag der Ratsfraktion Die Linke: Konsequente Anwendung der Vergaberichtlinien für städtische Räume auch gegenüber der AfD – Städtische Räume sind kein Ort für Hetze! - zurückgezogen
+- TOP 31.8: Antrag der AfD-Ratsfraktion: Sofortprogramm gegen Islamismus und Linksextremismus – Radikalisierung von Jugendlichen stoppen - mehrheitlich abgelehnt
+- TOP 32: Bereitstellung von überplanmäßigen Haushaltsmitteln zur Unterstützung der Partnerstadt Czernowitz - mehrheitlich beschlossen
