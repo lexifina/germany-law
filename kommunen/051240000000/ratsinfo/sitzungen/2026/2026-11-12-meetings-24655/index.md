@@ -1,0 +1,73 @@
+# öffentliche/nicht öffentliche Sitzung des Haupt- und Personalausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2026-11-12T16:00:00+01:00
+- Ende: 2026-11-12T00:00:00+01:00
+- Ort: Rathaus, Ratssaal, Johannes-Rau-Platz 1, 42275 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/264
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24655
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/24655
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00372215.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Folgeanfrage zu Gewaltvorfällen in Kindertageseinrichtungen
+- TOP 2.1.1: Folgeanfrage zu Gewaltvorfällen in Wuppertaler Kindertageseinrichtungen - Antwort auf die große Anfrage
+- TOP 2.2: Beabsichtigte Neuregelung der Dienstwagennutzung für Beigeordnete
+- TOP 2.3: Ferienwohnungen und Kurzzeitvermietung in Wuppertal – Datenbasis, Kontrolle, Instrumente - Große Anfrage Fraktion Die Linke
+- TOP 2.3.1: Ferienwohnungen und Kurzzeitvermietung in Wuppertal – Datenbasis, Kontrolle,Instrumente
+- TOP 2.4: Lange Wartezeiten bei Kfz-Zulassungen – Welche Maßnahmen ergreift die Stadt Wuppertal zur Verbesserung der Situation für Bürger und Unternehmen?
+- TOP 2.5: Bekämpfung der Asiatischen Hornisse (Vespa velutina nigrithorax) mittels einer Expertengruppe und eines koordinierten Handlungskonzepts
+- TOP 2.6: BuGa. Abweichen vom Planfeststellungsverfahren Seilbahn und Hängebücke
+- TOP 2.7: BuGa. Stand der Finanzplanung und mögliche Alternativen der Realisierung
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Haupt- und Personalausschuss)
+- TOP 4: Anträge
+- TOP 4.1: Prüfauftrag: Änderung der Abwasserbeseitigungssatzung für private Kraftfahrzeug-Reinigungen - abgelehnt
+- TOP 4.2: Unterstützung des internationalen Netzwerks „Cities for Life – Städte gegen die Todesstrafe“ - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Sofortprogramm Hitzeschutz für obdachlose und suchtkranke Menschen in Wuppertal - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Grundlagenermittlung Sanierungsprojekt Kalktrichterofen - ungeändert beschlossen
+- TOP 7.2: Zusammenstellung der unerheblichen über- und außerplanmäßigen Mittelbereitstellungen gemäß § 83 GO NRW für den Zeitraum 18.04.2026 - 23.10.2026 - Entgegennahme ohne Beschluss
+- TOP 7.3: Durchführungsbeschluss - Neugestaltung Kirchplatz und Umgebung - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2026 - stationärer Bereich und Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.2: Änderung des Gesellschaftsvertrages der Kooperationsgesellschaft Stadtwerke Bergisches Land mbH - Entgegennahme ohne Beschluss
+- TOP 8.3: Jahresabschluss Kinder- und Jugendwohngruppen der Stadt Wuppertal 2025 - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) für das Geschäftsjahr 2025 - ungeändert beschlossen
+- TOP 8.6: Entlastung Betriebsausschuss Jahresabschluss 2025 WAW - ungeändert beschlossen
+- TOP 8.7: Veräußerung der von der Trianel GmbH gehaltenen Beteiligung an der Trianel Gasspeicher Epe GmbH & Co. KG (TGE) - ungeändert beschlossen
+- TOP 8.8: Durchführungsbeschluss zum Bergischen Studieninstitut (BSI) - Überführung in einen Zweckverband zum 01.01.2027 - ungeändert beschlossen
+- TOP 8.9: Änderung des Gesellschaftsvertrages der Versorger-Allianz 450 Beteiligungs GmbH & Co. KG (VA 450) - ungeändert beschlossen
+- TOP 8.10: Ergänzung zu VO/0608/26 – Finanzierung des Gesellschafterdarlehens an die Gemeinnützige Wohnungsbaugesellschaft mbH Wuppertal (gwg) aus der fortgeltenden Kreditermächtigung 2025 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 834 - Hans-Böckler-Straße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 805 B West - Uellendahler Straße / Am Flöthen - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Rückbau der Wagenhalle der Schwebebahn in Wuppertal-Vohwinkel - ungeändert beschlossen
+- TOP 11.2: Präsentation zur Organisationsuntersuchung der KGSt in der Ausländerbehörde - Entgegennahme ohne Beschluss
+- TOP 11.3: Mietspiegel 2026 - Entgegennahme ohne Beschluss
+- TOP 11.4: Besucherinformationszentrum (BIZ) Müngstener Brücke - ungeändert beschlossen
+- TOP 11.5: Motto 100 Jahre Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.6: Sachstand zur Vorbereitung der Aufgaben-, Produkt- und Prozesskritik - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Gremienbesetzung - Antrag der CDU-Fraktion vom 29.09.2026 - ungeändert beschlossen
+- TOP 12.2: Neubesetzung Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.3: Umbesetzung in Gremien - Vertretung der Gemeinde in Gremien - ungeändert beschlossen
+- TOP 12.4: Wahl der Sachkundigen Einwohnerinnen und Einwohner - Hier: Besetzung Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.5: Umbesetzung Beirat für Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.6: Wahl der sachkundigen Einwohnerinnen und Einwohner - hier: Nachbesetzung im Ausschuss für Soziales, Gleichstellung und Inklusion - ungeändert beschlossen
+- TOP 12.7: Wahl der sachkundigen Einwohnerinnen und Einwohner - hier: Nachbesetzung im Ausschuss Umwelt, Gesundheit, Klima, Verbraucherschutz und Nachhaltigkeit - ungeändert beschlossen
+- TOP 12.8: Umbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.9: Umbesetzungsantrag der Fraktion Die Linke - ungeändert beschlossen
+- TOP 12.10: Abberufung und Bestellung eines Mitglieds des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 12.11: Umbesetzung Ausschuss für Schule & Bildung - ungeändert beschlossen
+- TOP 12.12: Benennung eines weiteren Stellvertreter für den Ausschuss Stadtentwicklung, Wirtschaft Bauen und Standortmarketing - ungeändert beschlossen
+- TOP 12.13: Wahl der sachkundigen Einwohnerinnen und Einwohner - Hier: Nachbesetzung im Ausschuss für Soziales, Gleichstellung und Inklusion - ungeändert beschlossen
