@@ -1,5 +1,10 @@
 # German law, change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="German law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Germany's federal law, which global-law reads at `germany/bund/acts/`.
 
 German law as one git repository. Each commit is one law taking effect, credited to that law, so `git log` is the history of the law and `git blame` says which law wrote each line.

@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">German law as a git history</text>
+<rect x="272.2" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="302.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">5a6ffed</text>
+<rect x="341.0" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="419.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Oct 28, 2026</text>
+<rect x="505.8" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="581.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: unverified</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">6,148</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">3,304</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">113,479</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">1,090</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1949–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="280.5" x2="839.5" y2="280.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="284.5" font-size="11" text-anchor="end" fill="#59636e">200</text>
+<line x1="80.5" y1="230.5" x2="839.5" y2="230.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="234.5" font-size="11" text-anchor="end" fill="#59636e">400</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">600</text>
+<rect x="81.10" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1949: 1 change took effect</title></rect>
+<text x="95.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
+<rect x="100.56" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1951: 1 change took effect</title></rect>
+<rect x="110.29" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1952: 1 change took effect</title></rect>
+<rect x="120.02" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1953: 1 change took effect</title></rect>
+<rect x="129.75" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1954: 2 changes took effect</title></rect>
+<rect x="149.22" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1956: 2 changes took effect</title></rect>
+<rect x="158.95" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1957: 1 change took effect</title></rect>
+<rect x="168.68" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1958: 1 change took effect</title></rect>
+<rect x="188.14" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1960: 1 change took effect</title></rect>
+<text x="192.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
+<rect x="197.87" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1961: 2 changes took effect</title></rect>
+<rect x="236.79" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1965: 2 changes took effect</title></rect>
+<rect x="256.25" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1967: 1 change took effect</title></rect>
+<rect x="265.98" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1968: 3 changes took effect</title></rect>
+<rect x="275.72" y="328.8" width="8.53" height="1.8" rx="1.5" fill="#1f883d"><title>1969: 7 changes took effect</title></rect>
+<rect x="285.45" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1970: 2 changes took effect</title></rect>
+<text x="289.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1970</text>
+<rect x="295.18" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1971: 2 changes took effect</title></rect>
+<rect x="304.91" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1972: 2 changes took effect</title></rect>
+<rect x="334.10" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1975: 1 change took effect</title></rect>
+<rect x="343.83" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1976: 3 changes took effect</title></rect>
+<text x="387.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
+<rect x="421.68" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1984: 1 change took effect</title></rect>
+<rect x="480.06" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1990: 1 change took effect</title></rect>
+<text x="484.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1990</text>
+<rect x="499.52" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1992: 2 changes took effect</title></rect>
+<rect x="509.25" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1993: 2 changes took effect</title></rect>
+<rect x="518.98" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1994: 2 changes took effect</title></rect>
+<rect x="528.72" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1995: 1 change took effect</title></rect>
+<rect x="548.18" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1997: 1 change took effect</title></rect>
+<rect x="557.91" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>1998: 2 changes took effect</title></rect>
+<rect x="577.37" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2000: 2 changes took effect</title></rect>
+<text x="581.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
+<rect x="587.10" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2001: 1 change took effect</title></rect>
+<rect x="596.83" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2002: 2 changes took effect</title></rect>
+<rect x="635.75" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2006: 1 change took effect</title></rect>
+<rect x="664.95" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2009: 5 changes took effect</title></rect>
+<rect x="674.68" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2010: 1 change took effect</title></rect>
+<text x="678.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<rect x="694.14" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2012: 1 change took effect</title></rect>
+<rect x="723.33" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2015: 1 change took effect</title></rect>
+<rect x="742.79" y="329.0" width="8.53" height="1.5" rx="1.5" fill="#1f883d"><title>2017: 2 changes took effect</title></rect>
+<rect x="762.25" y="299.0" width="8.53" height="31.5" rx="1.5" fill="#1f883d"><title>2019: 126 changes took effect</title></rect>
+<rect x="771.98" y="212.8" width="8.53" height="117.8" rx="1.5" fill="#1f883d"><title>2020: 471 changes took effect</title></rect>
+<text x="776.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="781.72" y="192.2" width="8.53" height="138.2" rx="1.5" fill="#1f883d"><title>2021: 553 changes took effect</title></rect>
+<text x="786.0" y="186.2" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">553 in 2021</text>
+<rect x="791.45" y="208.0" width="8.53" height="122.5" rx="1.5" fill="#1f883d"><title>2022: 490 changes took effect</title></rect>
+<rect x="801.18" y="225.8" width="8.53" height="104.8" rx="1.5" fill="#1f883d"><title>2023: 419 changes took effect</title></rect>
+<rect x="810.91" y="217.8" width="8.53" height="112.8" rx="1.5" fill="#1f883d"><title>2024: 451 changes took effect</title></rect>
+<rect x="820.64" y="245.5" width="8.53" height="85.0" rx="1.5" fill="#1f883d"><title>2025: 340 changes took effect</title></rect>
+<rect x="830.37" y="233.0" width="8.53" height="97.5" rx="1.5" fill="#1f883d"><title>2026: 390 changes took effect</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">3,304 changes dated by their in-force day. History type: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completeness, checked against the official sources on Nov 12, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">held in the repository</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">held</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Main codes</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">share of the essential codes held</text>
+<g><title>Main codes: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">National law</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">acts held, of the official total</text>
+<g><title>National law: 96%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="87.8" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">96%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regional law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">law-making units held</text>
+<g><title>Regional law: 31%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="28.4" height="8" rx="4" fill="#9a6700"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">31%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Case law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">top courts held</text>
+<g><title>Case law: 83%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="479.5" width="75.9" height="8" rx="4" fill="#1f883d"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">83%</text>
+<text x="456.0" y="518.5" font-size="13" fill="#1f2328">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#59636e">Federal law is well covered for its current text: germany-law…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">the date the repository states</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">unknown</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">0 problems, 0 warnings</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">passes</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Corpora for this country in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">national acts: 1, regional acts: 5, case law: 6</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">12</text>
+<text x="456.0" y="684.5" font-size="13" fill="#1f2328">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#59636e">freshness status: unverified</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Oct 28, 2026</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/germany-law at 5a6ffed, built 2026-11-12. Changes exclude documentation commits. Scope: from 1949-05-24</text>
+</svg>
