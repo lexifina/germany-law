@@ -1,0 +1,27 @@
+# Einbringung des Entwurfes der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede inkl. Stellenplan für das Haushaltsjahr 2027
+
+- Körperschaft: Gemeinde Stemwede
+- Drucksache/Vorlage: 2026 / 161 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2026-11-13
+- Ratsinformationssystem: https://stemwede.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZczoZvsiRdN-d6KrUm11T8M
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/7206
+- Quelle: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Einbringung des Entwurfes der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede inkl. Stellenplan für das Haushaltsjahr 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR5i84aYLmOPN71FiP_mcwucNGd-vN3RmlJc1ehBT23l/Beschlussvorlage_2026_-_161_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 01 Stellenplan Kernhaushalt 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe7Bj43-YqKW4dB60zcwjpgSM60dpKRABYbpAcq9zATW/Anlage_01_Stellenplan_Kernhaushalt_2027.pdf
+- Anlage: Beschlussvorlage (Anlage 02 Bilanz 2025) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-gCd3OLO2UZxRf9t_qG5gCbAkgckFjlV6r7L6zFR9w/Anlage_02_Bilanz_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 03 Darlehensübersicht der Gemeinde Stemwede) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW329X_5Va6azD5BFmx8oJpKTK-uu0Tf3Wy6wmh6n1ej/Anlage_03_Darlehensuebersicht_der_Gemeinde_Stemwede.pdf
+- Anlage: Beschlussvorlage (Anlage 04 Ergebnis- und Finanzrechnung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW_iCNgIzgfhEzigPThTCHive33tH3M6-eKZC7II7B3r/Anlage_04_Ergebnis-_und_Finanzrechnung.pdf
+- Anlage: Beschlussvorlage (Anlage 05 Eigenkapitaldarstellung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjnVM-UAyfGPHHiG1CAQu9C781Fo1R_r78mT5xufbe0/Anlage_05_Eigenkapitaldarstellung.pdf
+- Anlage: Beschlussvorlage (Anlage 06 Haushaltsquerschnitt 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXTlKZIjMxTd30RCELJBKoOB0M7TD6g7DklglyY-NLet/Anlage_06_Haushaltsquerschnitt_2027.pdf
+- Anlage: Beschlussvorlage (Anlage 07 Wirtschaftsplan 2027 Wirtschaftsbetrieb -Entwurf-) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaSWQlN0LQkoLNZf6Wz39zZRxeDdiwJv0R0JHCgibSch/Anlage_07_Wirtschaftsplan_2027_Wirtschaftsbetrieb_-Entwurf-.pdf
+- Anlage: Beschlussvorlage (Anlage 08 Wirtschaftsbetrieb Jahresabschluss 2025) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcKQ0ZUJ4bkWcRyhtBkzRgJ0li-1JTTdUs3wh7mJ6WzR/Anlage_08_Wirtschaftsbetrieb_Jahresabschluss_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 09 Darlehensübersicht Wirtschaftsbetrieb 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZffde40ceqnG9YMXm-gQJsUXJ2OmrgERDVb02XpyvKZC/Anlage_09_Darlehensuebersicht_Wirtschaftsbetrieb_2027.pdf
+- Anlage: Beschlussvorlage (Anlage 10 Wirtschaftsplan 2027 Wasserwerk -Entwurf-) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa4bj_KsawRfuEoDeKrTmXXADodHsURXW2RD-_3wicDS/Anlage_10_Wirtschaftsplan_2027_Wasserwerk_-Entwurf-.pdf
+- Anlage: Beschlussvorlage (Anlage 11 Wasserwerk Jahresabschluss 2025) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7l2jjPvA8TmwxizISlOETzLMz_nBxkL_WOIHheQCJz/Anlage_11_Wasserwerk_Jahresabschluss_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 12 Platzhalter Wirtschaftsplan Entwicklungs- und Beteiligungsgesellschaft 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZck7vd8inAlMkJRVN3zD5JsijX0XHP30--sAztJ9dNUX/Anlage_12_Platzhalter_Wirtschaftsplan_Entwicklungs-_und_Beteiligungsgesellschaft_2027.pdf
+- Anlage: Beschlussvorlage (Anlage 13 Entwicklungs- und Beteiligungsgesellschaft Jahresabschluss 2025) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ97t6Dh3TydNQMQjfh19byIVoNPpyEOPrUg6t-cLK_d/Anlage_13_Entwicklungs-_und_Beteiligungsgesellschaft_Jahresabschluss_2025.pdf
+- Anlage: Beschlussvorlage (Anlage 14 Veränderungsliste Haushalt 2027) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUZJr-7sJrtXl8YxHrXL2Agbs_4SQWw-UMYhFRy5MpSE/Anlage_14_Veraenderungsliste_Haushalt_2027.pdf
+- Anlage: Beschlussvorlage (Anlage 15 Ergebnis- und Finanzplan) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTVAJIt74cxfDSIqzLuX9wPgB-nu02_AZ9zAcbRV9vEp/Anlage_15_Ergebnis-_und_Finanzplan.pdf
+- Anlage: Beschlussvorlage (Haushalt 2027 Gemeinde Stemwede Entwurf) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcH-YKmjtN6rNZtphEJH2BjhW6gACLQRmJ-HHoS56jsj/Haushalt_2027_Gemeinde_Stemwede_Entwurf.pdf
+- Beratung:  https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8352 https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
