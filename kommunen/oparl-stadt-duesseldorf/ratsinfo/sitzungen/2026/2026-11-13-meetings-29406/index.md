@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-11-13T16:03:00+01:00
+- Ende: 2026-11-13T18:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29406
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29406
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften vom 02.10.2026 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - zurückgezogen
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Bebauungsplan-Vorentwurf Nr. 09/022 - Flächennutzungsplanänderung Nr. 221 - Südlich Hildener Straße - Empfehlung einstimmig beschlossen
+- TOP 5.8: Radverkehrsführung Benrather Schloßallee im Abschnitt Schöne Aussicht / Pigageallee - Empfehlung mehrheitlich abgelehnt
+- TOP 5.8.1: Änderungsantrag zur Vorlage OVA/101/2026 Radverkehrsführung Benrather Schloßallee im Abschnitt Schöne Aussicht/ Pigageallee - Änderungsantrag der CDU- und SPD-Fraktion - mehrheitlich beschlossen
+- TOP 5.9: Verkaufsoffene Sonntagnachmittage im Jahr 2027 - Empfehlung mehrheitlich beschlossen
+- TOP 5.10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste B - einstimmig beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Aktuelle Anfragen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Düsselbike-Stationen im Stadtbezirk 9 - Antrag der Fraktion CDU, Bündnis 90/ Die Grünen, SPD - mehrheitlich beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Vorstellung und Erläuterung des Straßenzustandsberichts 2025 - Antrag der CDU- und SPD-Fraktion - einstimmig beschlossen
+- TOP 9: Verfügungsmittel
+- TOP 9.1: Kirchengemeinde St.Hubertus Itter - Veedelzoch in Itter 2027 - einstimmig beschlossen
+- TOP 9.2: Ev. Kirchengemeinde. Düsseldorf-Benrath - integratives Erntedankfest 2026 - einstimmig beschlossen
+- TOP 9.3: Interessengemeinschaft Pauls-Mühler Jecke e.V. - "Afterzochpaty" 2027 - einstimmig beschlossen
+- TOP 9.4: St. Sebastianus-Schützenbruderschaft von 1641 D-Himmelgeist e.V. - Weihnachtsbaum 2026 - einstimmig beschlossen
+- TOP 9.5: Collage e.V. - Orange day - Workshop 2026 - einstimmig beschlossen
+- TOP 9.6: St. Sebastianus-Schützenbruderschaft von 1641 D-Himmelgeist e.V. - 5 Festzeltgarnituren 2026 - einstimmig beschlossen
+- TOP 9.7: Heimatverein Holthausen-Itter-Himmelgeist e.V. - Weihnachtsbaum auf dem Kamper Acker 2026 - einstimmig beschlossen
+- TOP 9.8: Heimatverein Holthausen-Itter-Himmelgeist e.V. - Martinszug 2026 - einstimmig beschlossen
+- TOP 10: Informationsvorlagen
+- TOP 10.1: Missachtung der Straßenverkehrsordnung in der Halbuschsiedlung - Beschluss der Bezirksvertretung 9 vom 03.07.2026; BV9/119/2026 - zur Kenntnis genommen
+- TOP 10.2: Errichten eines beidseitigen Bürgersteigs auf der Hügelstraße 60 bis 76 - Beschluss der Bezirksvertretung 9 vom 03.07.2026; BV9/137/2026 - zur Kenntnis genommen
