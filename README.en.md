@@ -1,72 +1,88 @@
-# German law, change by change
+# Germany: law history in git
 
-[Deutsch](README.md) · **English**
+**English** · **[Oder auf Deutsch lesen](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="German law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Germany as a git history: one file per article of the Grundgesetz and per provision of every other federal act, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to a provision; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Germany's federal law, which global-law reads at `germany/bund/acts/`.
 
-German law as one git repository. Each commit is one law taking effect, credited to that law, so `git log` is the history of the law and `git blame` says which law wrote each line.
+**What is in it now:** the Grundgesetz with every version since 1949 (the 1949 text and its 69 amending laws, in 72 commits), and 6,147 other federal acts from Gesetze im Internet, with 16,392 versions since 10 June 2019. [`verzeichnis.json`](verzeichnis.json) lists every act with its abbreviation, title and Gazette citation; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) lists the amending laws with their dates and votes.
 
-| Part | Folder | From | Text |
-| --- | --- | --- | --- |
-| The Grundgesetz | [`grundgesetz/`](grundgesetz) | 23 May 1949 | one file per article, every version, each amending law dated by the day it took effect |
-| All other federal law (6147 acts) | [one folder per act (`bgb/`, `stgb/` …)](verzeichnis.json) | 10 June 2019 | one file per act, every change published on Gesetze im Internet since then |
-| State law (Landesrecht) | `laender/` | | not yet included |
+The Grundgesetz is in `grundgesetz/artikel/`, one file per article (`109.md` is Article 109, the budgets of the Federation and the Länder); every other act is a folder named as on Gesetze im Internet, one file per provision (`burlg/0003.md` is § 3 of the Bundesurlaubsgesetz, the Federal Leave Act).
 
-## A lawyer's questions, as git commands
+The text is in German, as Gesetze im Internet publishes it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 16 GG say on 1 June 1993? | `python tools/stand_am.py 1993-06-01 16` |
-| What did the BGB say on 1 July 2021? | `python tools/stand_am.py 2021-07-01 --gesetz bgb` |
-| Which law wrote each paragraph of Article 1 GG? | `git blame grundgesetz/artikel/001.md` |
-| Which words did each change to the StGB replace? | `git log -p --word-diff stgb/` |
-| What did one amending law change, across all acts? | `git log --author='G v. 22.12.2025' --stat` |
-| When did each change take effect? | `git log --format='%(trailers:key=In-Kraft,valueonly) %s'` |
-| Which Grundgesetz articles were amended most often? | `git log --format= --name-only -- grundgesetz/artikel \| sort \| uniq -c \| sort -rn \| head` |
-| Where is the reader for a Grundgesetz amendment? | the `Reader:` trailer, e.g. `git log -1 --format='%(trailers:key=Reader,valueonly)' gg/36` |
-| The whole Grundgesetz on a day | `git checkout "$(git tag --list 'in-kraft/*' \| awk -v d='in-kraft/1990-10-03' '$0 <= d' \| tail -1)"` |
+| Every change to Article 109 of the Grundgesetz | `git log -p --word-diff -- grundgesetz/artikel/109.md` |
+| Which amending law wrote each line of Article 109? | `git blame grundgesetz/artikel/109.md` |
+| Every version of Article 109, with the day each took effect | `git log --format="%h %(trailers:key=In-Kraft,valueonly,separator=) %an" -- grundgesetz/artikel/109.md` |
+| Article 109 as in force on 1 January 2025 | `python tools/stand_am.py 2025-01-01 109` |
 
-In PowerShell, the last one is `git checkout (git tag --list 'in-kraft/*' | Where-Object { $_ -le 'in-kraft/1990-10-03' } | Select-Object -Last 1)`.
+**Outside git**, we also host this record publicly, for free:
 
-After a rebuild of this repository (see `REPRODUCE.md`), refresh an existing clone with `git fetch --force --tags`, or the old tags stay.
+- **[Ask Claude about German law](https://global-law.lexifina.com/v1/try_claude?country=germany)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=germany)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=Jahresurlaub&jurisdictions=germany)**: a search of German law for "Jahresurlaub", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## The dates, and which one is used
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in German or in English.
 
-A law has several dates: passed by the Bundestag (`Beschlossen`), signed (`Ausgefertigt`), promulgated in the Bundesgesetzblatt (`Verkuendet`) and in force (`In-Kraft`). The date in force decides which text applies, so commits are dated by it, at noon in Berlin. Where a law sets no date, Article 82(2) of the Grundgesetz puts it in force on the fourteenth day after the Gazette issue. The trailer keys are ASCII so that git can read them.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-- **Grundgesetz commits** carry all four dates, from the sources below. Git cannot store a date before 1970: commits for changes that took effect before then are dated 1 January 1970 (UTC), a second apart in order, and their real dates are in the message and in the `in-kraft/YYYY-MM-DD` tags.
-- **Federal-law commits** are dated, and carry `In-Kraft:`, by the day the change took effect in the consolidated text: the day Gesetze im Internet published it, which it does as changes take effect (within a week until May 2020, within a day since). That keeps the history in date order and lets it only grow. Where the act's own footnotes give an earlier in-force date (`mWv 21.5.2003`), for a late consolidation or a change with retroactive effect, the commit also carries `In-Kraft-laut-Fussnote:`. `Beobachtet:` is the exact time it was first seen. The tags `stand/YYYY-MM-DD` mark every act as published that day.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add germany/bund/acts
+python3 tools/law.py show 2026-01-01 germany/bund/acts/grundgesetz/artikel/109.md
+```
 
-## What "author" means
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-The author of each commit is the law that made the change: `36. Änderung (1990)` for the 36th amending law to the Grundgesetz, or `G v. 22.3.2025 I Nr. 94` (Gesetz vom 22. März 2025, Bundesgesetzblatt 2025 Teil I Nr. 94) for federal law, as the act's Stand note names it. The addresses end in `.invalid`. Changes no law explains are never credited to a law:
-- the first state of the federal acts is `Gesetze im Internet (Bestand)`;
-- text that changed while the act's Stand note still names the same law is `Textänderung ohne neue Standangabe`;
-- acts added or no longer published without a law named are `Neu aufgenommen` and `Nicht mehr veröffentlicht`.
+## Dates
 
-## Where the text comes from, and how it is checked
+Each commit is dated at noon, Europe/Berlin, on the day the version took effect, and carries it in its `In-Kraft:` trailer:
 
-- **The Grundgesetz to 2019** comes from [DocPatch](https://github.com/c3e/grundgesetz-dev), which records each amending law to the 63rd as a patch. Its 2019 text was compared with the official text on [Gesetze im Internet](https://www.gesetze-im-internet.de/gg/), article by article. They differed in 43 articles, some in wording (Article 3(3) lacked the 1994 sentence on disability). For each, the official text replaces DocPatch's from the article's last change on. Every correction is listed in [`grundgesetz/KORREKTUREN.md`](grundgesetz/KORREKTUREN.md).
-- **The Grundgesetz from 2019, and all federal law,** come from the official consolidated text on Gesetze im Internet (Federal Ministry of Justice), which keeps only the current version, through [QuantLaw's archive](https://github.com/QuantLaw/gesetze-im-internet), which has stored it weekly since 10 June 2019 and daily since May 2020.
-- **Checked:** the Grundgesetz's final text equals today's official text, article for article. Builds are deterministic: the same sources give the same commits.
+- for the Grundgesetz, the day each amending law took effect, and, where known, the days it was passed, signed and promulgated (`Beschlossen:`, `Ausgefertigt:`, `Verkuendet:`); where a law sets no day, Article 82(2) GG puts it in force on the fourteenth day after the Bundesgesetzblatt issue appeared;
+- for other federal law, the day the change first appeared on Gesetze im Internet, which consolidates changes as they take effect (the archive read it weekly until May 2020, daily since); where the act's footnotes give an earlier in-force day (`mWv 21.5.2003`), the commit also carries `In-Kraft-laut-Fussnote:`;
+- git cannot store dates before 1970, so Grundgesetz commits for earlier changes are dated from 1970-01-01, one second apart, with the real day in `In-Kraft:` and in the `in-kraft/YYYY-MM-DD` tags. Ask for a date with `tools/stand_am.py`, not `git log --before`.
+
+Each change is credited to the law that made it: `69. Änderung (2025)` for the 69th amending law to the Grundgesetz, or `G v. 22.12.2025 I Nr. 371` for federal law, as the act's Stand note names it. Changes no law explains are labelled, never credited to a law: `Gesetze im Internet (Bestand)` for the first state of 2019, `Textänderung ohne neue Standangabe` (1,160 of 3,232 federal commits), `Neu aufgenommen` and `Nicht mehr veröffentlicht`.
+
+## How it is checked
+
+- The Grundgesetz's final text equals today's official text on Gesetze im Internet, article for article. DocPatch's text differed from it in 43 articles; the official text replaces it from each article's last change on, and every correction is listed in [`grundgesetz/KORREKTUREN.md`](grundgesetz/KORREKTUREN.md).
+- The dates of the 64th to 69th amending laws were checked against each law in the Bundesgesetzblatt.
+- The build is deterministic: the commands in [`REPRODUCE.md`](REPRODUCE.md) give the same 3,304 law commits with the same hashes.
+- History is append-only: later runs add commits on top, dates never decrease, and nothing is replaced.
 
 ## What it does not show
 
-- Federal law other than the Grundgesetz before 10 June 2019. Rebuilding that from the Bundesgesetzblatt is planned.
-- Versions of a Grundgesetz article older than its last change before 2019, which are DocPatch's transcription and were not checked against the Bundesgesetzblatt.
-- The exact day a federal change took effect where the footnotes do not give it, and the stages of a law that takes effect in several steps under one Stand note.
-- Footnotes and images. State law. EU law.
+- **Federal law before 10 June 2019**, other than the Grundgesetz. Gesetze im Internet keeps only the current text; rebuilding the earlier versions from the Bundesgesetzblatt is planned.
+- **Older Grundgesetz versions checked against the Gazette.** The versions of an article before its last change before 2019 are DocPatch's transcription.
+- **The exact in-force day** of a federal change where the footnotes do not give it, and the stages of a law that takes effect in several steps under one Stand note.
+- **Footnotes and images.** Footnotes are left out; images are marked `[Bild: …]`.
+- **State law, case law and EU law.** global-law holds state law and federal court decisions in [their own repositories](https://github.com/lexifina/global-law/tree/main/germany) (`germany/bavaria/acts`, `germany/bgh/caselaw` ...).
 
-The consolidated texts are not the official promulgation. Only the Bundesgesetzblatt is authoritative. This is a research aid.
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Gesetze im Internet](https://www.gesetze-im-internet.de) (Bundesministerium der Justiz) | Official consolidated text of federal law | no, the current text only | Every act, and the Grundgesetz from 2019; only the Bundesgesetzblatt is authoritative |
+| [QuantLaw/gesetze-im-internet](https://github.com/QuantLaw/gesetze-im-internet) | Archive of Gesetze im Internet | yes, weekly from 10 June 2019, daily from May 2020 | Where the past versions of federal acts come from |
+| [DocPatch](https://github.com/c3e/grundgesetz-dev) | The Grundgesetz of 1949 and its 1st to 63rd amending laws, as patches | yes, every version | With dates, signatories, Gazette citations and votes |
+| [Deutscher Bundestag, Datenhandbuch](https://www.bundestag.de/datenhandbuch) | Dates of the 64th to 69th amending laws | | Checked against the Bundesgesetzblatt |
 
 ## Licence
 
-German statutes are not protected by copyright (§ 5 Abs. 1 UrhG). DocPatch's own content is CC BY-SA 3.0 DE; QuantLaw's archive is BSD-3-Clause. This repository is released under CC0 1.0 ([`LICENSE`](LICENSE)). It is built by Lexifina Watch with the scripts in [`tools/`](tools). [`REPRODUCE.md`](REPRODUCE.md) records every source, command, checksum and decision, and what an AI model did and did not do.
+See [`LICENSE`](LICENSE). German statutes are not protected by copyright (§ 5 Abs. 1 UrhG); DocPatch's own content is CC BY-SA 3.0 DE and QuantLaw's archive BSD-3-Clause. This repository is released under CC0 1.0.
+
+This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 

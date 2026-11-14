@@ -1,72 +1,88 @@
-# Deutsches Recht, Änderung für Änderung
+# Deutschland: die Geschichte des Rechts in Git
 
-**Deutsch** · [English](README.en.md)
+**Deutsch** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/de/effort-dark.svg">
 <img alt="Deutsches Recht in diesem Repository: Inhalt, Änderungen nach Jahr des Inkrafttretens, Vollständigkeit gegenüber den amtlichen Quellen und Richtigkeit des Enthaltenen" src="data/de/effort-light.svg" width="880">
 </picture>
 
+Das Recht Deutschlands als Git-Historie: eine Datei je Artikel des Grundgesetzes und je Norm jeder anderen Rechtsvorschrift des Bundes, ein Commit je Fassung an dem Tag, an dem sie in Kraft trat, und als Autor des Commits das Gesetz, das die Änderung vorgenommen hat. `git blame` nennt zu jeder Zeile das Gesetz, das sie geschrieben hat; `git log` listet jede Änderung einer Vorschrift auf; ein gewähltes Datum ergibt den an diesem Tag geltenden Text.
+
 Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer Git-Historie für das Recht jedes Landes: Dies ist das Bundesrecht Deutschlands, das global-law unter `germany/bund/acts/` einliest.
 
-Deutsches Recht als ein Git-Repository. Jeder Commit ist das Inkrafttreten eines Gesetzes und wird diesem Gesetz zugeschrieben, sodass `git log` die Geschichte des Rechts ist und `git blame` zeigt, welches Gesetz jede Zeile geschrieben hat.
+**Was es jetzt enthält:** das Grundgesetz mit jeder Fassung seit 1949 (der Text von 1949 und seine 69 Änderungsgesetze, in 72 Commits) sowie 6.147 weitere Rechtsvorschriften des Bundes aus Gesetze im Internet, mit 16.392 Fassungen seit dem 10. Juni 2019. [`verzeichnis.json`](verzeichnis.json) verzeichnet jede Rechtsvorschrift mit Abkürzung, Titel und Fundstelle; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) verzeichnet die Änderungsgesetze mit ihren Daten und Abstimmungsergebnissen.
 
-| Teil | Ordner | Ab | Text |
-| --- | --- | --- | --- |
-| Das Grundgesetz | [`grundgesetz/`](grundgesetz) | 23. Mai 1949 | eine Datei je Artikel, jede Fassung, jedes Änderungsgesetz auf den Tag seines Inkrafttretens datiert |
-| Das übrige Bundesrecht (6.147 Gesetze) | [ein Ordner je Gesetz (`bgb/`, `stgb/` …)](verzeichnis.json) | 10. Juni 2019 | eine Datei je Gesetz, jede seitdem auf Gesetze im Internet veröffentlichte Änderung |
-| Landesrecht | `laender/` | | noch nicht enthalten |
+Das Grundgesetz liegt in `grundgesetz/artikel/`, eine Datei je Artikel (`109.md` ist Artikel 109, Haushaltswirtschaft in Bund und Ländern); jede andere Rechtsvorschrift ist ein Ordner, benannt wie auf Gesetze im Internet, mit einer Datei je Norm (`burlg/0003.md` ist § 3 des Bundesurlaubsgesetzes).
 
-## Juristische Fragen als Git-Befehle
+Der Text ist deutsch, so wie Gesetze im Internet ihn veröffentlicht. Eine englische Übersetzung ist nicht Teil dieses Bestands.
+
+## Fragen als Git-Befehle
 
 | Frage | Befehl |
 | --- | --- |
-| Was sagte Artikel 16 GG am 1. Juni 1993? | `python tools/stand_am.py 1993-06-01 16` |
-| Was sagte das BGB am 1. Juli 2021? | `python tools/stand_am.py 2021-07-01 --gesetz bgb` |
-| Welches Gesetz hat welchen Absatz von Artikel 1 GG geschrieben? | `git blame grundgesetz/artikel/001.md` |
-| Welche Wörter hat jede Änderung des StGB ersetzt? | `git log -p --word-diff stgb/` |
-| Was hat ein einzelnes Änderungsgesetz in allen Gesetzen geändert? | `git log --author='G v. 22.12.2025' --stat` |
-| Wann ist jede Änderung in Kraft getreten? | `git log --format='%(trailers:key=In-Kraft,valueonly) %s'` |
-| Welche Artikel des Grundgesetzes wurden am häufigsten geändert? | `git log --format= --name-only -- grundgesetz/artikel \| sort \| uniq -c \| sort -rn \| head` |
-| Wo ist der Reader zu einer Grundgesetzänderung? | der Trailer `Reader:`, z. B. `git log -1 --format='%(trailers:key=Reader,valueonly)' gg/36` |
-| Das gesamte Grundgesetz an einem bestimmten Tag | `git checkout "$(git tag --list 'in-kraft/*' \| awk -v d='in-kraft/1990-10-03' '$0 <= d' \| tail -1)"` |
+| Jede Änderung von Artikel 109 des Grundgesetzes | `git log -p --word-diff -- grundgesetz/artikel/109.md` |
+| Welches Änderungsgesetz hat jede Zeile von Artikel 109 geschrieben? | `git blame grundgesetz/artikel/109.md` |
+| Jede Fassung von Artikel 109, mit dem Tag ihres Inkrafttretens | `git log --format="%h %(trailers:key=In-Kraft,valueonly,separator=) %an" -- grundgesetz/artikel/109.md` |
+| Artikel 109 in der am 1. Januar 2025 geltenden Fassung | `python tools/stand_am.py 2025-01-01 109` |
 
-In PowerShell lautet der letzte Befehl `git checkout (git tag --list 'in-kraft/*' | Where-Object { $_ -le 'in-kraft/1990-10-03' } | Select-Object -Last 1)`.
+**Außerhalb von Git** stellen wir diesen Bestand auch öffentlich und kostenlos bereit:
 
-Nach einem Neuaufbau dieses Repositorys (siehe `REPRODUCE.md`) ist ein bestehender Klon mit `git fetch --force --tags` zu aktualisieren, sonst bleiben die alten Tags bestehen.
+- **[Claude zum deutschen Recht fragen](https://global-law.lexifina.com/v1/try_claude?country=germany)**: öffnet Claude mit einer vorbereiteten ersten Frage.
+- **[ChatGPT fragen](https://global-law.lexifina.com/v1/try_chatgpt?country=germany)**: dieselbe Frage in ChatGPT.
+- **[Die API im Browser aufrufen](https://global-law.lexifina.com/v1/search_law?query=Jahresurlaub&jurisdictions=germany)**: eine Suche nach „Jahresurlaub“ im deutschen Recht, Antwort als JSON. Die [Dokumentation steht hier](https://lexifina.com/api/global-law).
 
-## Die Daten und welches verwendet wird
+Beide Assistenten lesen den Bestand über den kostenlosen Global-law-Connector (MCP, `https://global-law.lexifina.com/mcp`); beim ersten Mal gibt der Chat Ihnen den Link, mit dem er hinzugefügt wird. Fragen Sie auf Deutsch oder auf Englisch.
 
-Ein Gesetz hat mehrere Daten: vom Bundestag beschlossen (`Beschlossen`), ausgefertigt (`Ausgefertigt`), im Bundesgesetzblatt verkündet (`Verkuendet`) und in Kraft getreten (`In-Kraft`). Das Datum des Inkrafttretens entscheidet, welcher Text gilt; daher sind die Commits auf dieses Datum datiert, 12 Uhr Berliner Zeit. Bestimmt ein Gesetz keinen Tag, tritt es nach Artikel 82 Abs. 2 des Grundgesetzes am vierzehnten Tag nach Ausgabe des Bundesgesetzblattes in Kraft. Die Trailer-Schlüssel bestehen aus ASCII-Zeichen, damit Git sie lesen kann.
+**Einfach selbst betreiben.** Es braucht nur Git und Python, und die Werkzeuge laufen auf Ihrem Rechner:
 
-- **Commits zum Grundgesetz** tragen alle vier Daten, aus den unten genannten Quellen. Git kann kein Datum vor 1970 speichern: Commits für Änderungen, die vorher in Kraft getreten sind, sind auf den 1. Januar 1970 (UTC) datiert, in ihrer Reihenfolge jeweils eine Sekunde auseinander; ihre tatsächlichen Daten stehen in der Commit-Nachricht und in den Tags `in-kraft/YYYY-MM-DD`.
-- **Commits zum Bundesrecht** sind auf den Tag datiert, an dem die Änderung im konsolidierten Text wirksam wurde, und tragen diesen Tag als `In-Kraft:`: den Tag, an dem Gesetze im Internet sie veröffentlicht hat, was dort mit dem Inkrafttreten der Änderungen geschieht (bis Mai 2020 innerhalb einer Woche, seitdem innerhalb eines Tages). So bleibt die Historie in zeitlicher Reihenfolge und kann nur wachsen. Wo die Fußnoten des Gesetzes selbst ein früheres Datum des Inkrafttretens angeben (`mWv 21.5.2003`), bei einer verspäteten Konsolidierung oder einer rückwirkenden Änderung, trägt der Commit zusätzlich `In-Kraft-laut-Fussnote:`. `Beobachtet:` ist der genaue Zeitpunkt, zu dem die Änderung zuerst erfasst wurde. Die Tags `stand/YYYY-MM-DD` markieren jedes Gesetz so, wie es an diesem Tag veröffentlicht war.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add germany/bund/acts
+python3 tools/law.py show 2026-01-01 germany/bund/acts/grundgesetz/artikel/109.md
+```
 
-## Was „Autor“ bedeutet
+In Claude Code, Cursor, VS Code oder Codex geöffnet, startet der Klon auch einen lokalen MCP-Server mit denselben Werkzeugen ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Autor jedes Commits ist das Gesetz, das die Änderung vorgenommen hat: `36. Änderung (1990)` für das 36. Gesetz zur Änderung des Grundgesetzes oder, beim Bundesrecht, `G v. 22.3.2025 I Nr. 94` (Gesetz vom 22. März 2025, Bundesgesetzblatt 2025 Teil I Nr. 94), wie es im Standvermerk des Gesetzes genannt ist. Die Adressen enden auf `.invalid`. Änderungen, die kein Gesetz erklärt, werden nie einem Gesetz zugeschrieben:
-- der erste Stand der Bundesgesetze ist `Gesetze im Internet (Bestand)`;
-- Text, der sich geändert hat, während der Standvermerk des Gesetzes noch dasselbe Gesetz nennt, ist `Textänderung ohne neue Standangabe`;
-- Gesetze, die ohne Nennung eines Gesetzes hinzugekommen sind oder nicht mehr veröffentlicht werden, sind `Neu aufgenommen` und `Nicht mehr veröffentlicht`.
+## Daten
 
-## Woher der Text stammt und wie er geprüft wird
+Jeder Commit ist auf 12 Uhr Berliner Zeit (Europe/Berlin) an dem Tag datiert, an dem die Fassung in Kraft trat, und trägt diesen Tag in seinem Trailer `In-Kraft:`:
 
-- **Das Grundgesetz bis 2019** stammt aus [DocPatch](https://github.com/c3e/grundgesetz-dev), das jedes Änderungsgesetz bis zum 63. als Patch erfasst. Dessen Text von 2019 wurde Artikel für Artikel mit dem amtlichen Text auf [Gesetze im Internet](https://www.gesetze-im-internet.de/gg/) verglichen. Sie wichen in 43 Artikeln voneinander ab, teils im Wortlaut (in Artikel 3 Abs. 3 fehlte der 1994 eingefügte Satz zur Behinderung). Für jeden dieser Artikel ersetzt der amtliche Text den von DocPatch ab der letzten Änderung des Artikels. Jede Korrektur ist in [`grundgesetz/KORREKTUREN.md`](grundgesetz/KORREKTUREN.md) aufgeführt.
-- **Das Grundgesetz ab 2019 und das gesamte Bundesrecht** stammen aus dem amtlichen konsolidierten Text auf Gesetze im Internet (Bundesministerium der Justiz), das nur die jeweils geltende Fassung vorhält, und zwar über [das Archiv von QuantLaw](https://github.com/QuantLaw/gesetze-im-internet), das ihn seit dem 10. Juni 2019 wöchentlich und seit Mai 2020 täglich speichert.
-- **Geprüft:** Der Endtext des Grundgesetzes stimmt Artikel für Artikel mit dem heutigen amtlichen Text überein. Der Aufbau ist deterministisch: Dieselben Quellen ergeben dieselben Commits.
+- beim Grundgesetz der Tag, an dem jedes Änderungsgesetz in Kraft trat, und, soweit bekannt, die Tage, an denen es beschlossen, ausgefertigt und verkündet wurde (`Beschlossen:`, `Ausgefertigt:`, `Verkuendet:`); bestimmt ein Gesetz keinen Tag, tritt es nach Art. 82 Abs. 2 GG am vierzehnten Tag nach Ausgabe des Bundesgesetzblattes in Kraft;
+- beim übrigen Bundesrecht der Tag, an dem die Änderung zuerst auf Gesetze im Internet erschien, das Änderungen mit ihrem Inkrafttreten konsolidiert (das Archiv las es bis Mai 2020 wöchentlich, seitdem täglich); geben die Fußnoten des Gesetzes einen früheren Tag des Inkrafttretens an (`mWv 21.5.2003`), trägt der Commit zusätzlich `In-Kraft-laut-Fussnote:`;
+- Git kann keine Daten vor 1970 speichern, daher sind Grundgesetz-Commits für frühere Änderungen ab dem 1970-01-01 datiert, jeweils eine Sekunde auseinander, mit dem tatsächlichen Tag in `In-Kraft:` und in den Tags `in-kraft/YYYY-MM-DD`. Ein Datum fragen Sie mit `tools/stand_am.py` ab, nicht mit `git log --before`.
 
-## Was das Repository nicht zeigt
+Jede Änderung wird dem Gesetz zugeschrieben, das sie vorgenommen hat: `69. Änderung (2025)` für das 69. Gesetz zur Änderung des Grundgesetzes oder `G v. 22.12.2025 I Nr. 371` beim Bundesrecht, wie der Standvermerk des Gesetzes es nennt. Änderungen, die kein Gesetz erklärt, werden gekennzeichnet und nie einem Gesetz zugeschrieben: `Gesetze im Internet (Bestand)` für den ersten Stand von 2019, `Textänderung ohne neue Standangabe` (1.160 von 3.232 Bundesrechts-Commits), `Neu aufgenommen` und `Nicht mehr veröffentlicht`.
 
-- Bundesrecht außer dem Grundgesetz vor dem 10. Juni 2019. Eine Rekonstruktion aus dem Bundesgesetzblatt ist geplant.
-- Fassungen eines Grundgesetzartikels, die älter sind als seine letzte Änderung vor 2019; sie sind die Transkription von DocPatch und wurden nicht mit dem Bundesgesetzblatt abgeglichen.
-- Der genaue Tag, an dem eine bundesrechtliche Änderung in Kraft trat, wo die Fußnoten ihn nicht angeben, und die Stufen eines Gesetzes, das unter einem Standvermerk in mehreren Schritten in Kraft tritt.
-- Fußnoten und Bilder. Landesrecht. EU-Recht.
+## Wie es geprüft wird
 
-Die konsolidierten Texte sind nicht die amtliche Verkündung. Maßgeblich ist allein das Bundesgesetzblatt. Dies ist ein Hilfsmittel für die Recherche.
+- Der Endtext des Grundgesetzes stimmt Artikel für Artikel mit dem heutigen amtlichen Text auf Gesetze im Internet überein. Der Text von DocPatch wich in 43 Artikeln davon ab; der amtliche Text ersetzt ihn ab der letzten Änderung des jeweiligen Artikels, und jede Korrektur ist in [`grundgesetz/KORREKTUREN.md`](grundgesetz/KORREKTUREN.md) aufgeführt.
+- Die Daten des 64. bis 69. Änderungsgesetzes wurden anhand des jeweiligen Gesetzes im Bundesgesetzblatt überprüft.
+- Der Aufbau ist deterministisch: Die Befehle in [`REPRODUCE.md`](REPRODUCE.md) ergeben dieselben 3.304 Gesetzes-Commits mit denselben Hashes.
+- Die Historie wird nur fortgeschrieben: Spätere Läufe fügen Commits obenauf hinzu, Daten nehmen nie ab, und nichts wird ersetzt.
+
+## Was es nicht zeigt
+
+- **Bundesrecht vor dem 10. Juni 2019**, außer dem Grundgesetz. Gesetze im Internet hält nur den geltenden Text vor; eine Rekonstruktion der früheren Fassungen aus dem Bundesgesetzblatt ist geplant.
+- **Am Bundesgesetzblatt geprüfte ältere Fassungen des Grundgesetzes.** Die Fassungen eines Artikels vor seiner letzten Änderung vor 2019 sind die Transkription von DocPatch.
+- **Den genauen Tag des Inkrafttretens** einer bundesrechtlichen Änderung, wo die Fußnoten ihn nicht angeben, und die Stufen eines Gesetzes, das unter einem Standvermerk in mehreren Schritten in Kraft tritt.
+- **Fußnoten und Bilder.** Fußnoten sind weggelassen; Bilder sind als `[Bild: …]` markiert.
+- **Landesrecht, Rechtsprechung und EU-Recht.** global-law führt Landesrecht und Entscheidungen der Bundesgerichte in [eigenen Repositorys](https://github.com/lexifina/global-law/tree/main/germany) (`germany/bavaria/acts`, `germany/bgh/caselaw` ...).
+
+## Quellen
+
+| Quelle | Art | Frühere Fassungen | Anmerkungen |
+| --- | --- | --- | --- |
+| [Gesetze im Internet](https://www.gesetze-im-internet.de) (Bundesministerium der Justiz) | Amtlicher konsolidierter Text des Bundesrechts | nein, nur der geltende Text | Jede Rechtsvorschrift und das Grundgesetz ab 2019; maßgeblich ist allein das Bundesgesetzblatt |
+| [QuantLaw/gesetze-im-internet](https://github.com/QuantLaw/gesetze-im-internet) | Archiv von Gesetze im Internet | ja, wöchentlich ab 10. Juni 2019, täglich ab Mai 2020 | Herkunft der früheren Fassungen der Bundesgesetze |
+| [DocPatch](https://github.com/c3e/grundgesetz-dev) | Das Grundgesetz von 1949 und sein 1. bis 63. Änderungsgesetz, als Patches | ja, jede Fassung | Mit Daten, Unterzeichnern, Fundstellen und Abstimmungsergebnissen |
+| [Deutscher Bundestag, Datenhandbuch](https://www.bundestag.de/datenhandbuch) | Daten des 64. bis 69. Änderungsgesetzes | | Am Bundesgesetzblatt überprüft |
 
 ## Lizenz
 
-Deutsche Gesetze sind nicht urheberrechtlich geschützt (§ 5 Abs. 1 UrhG). Die eigenen Inhalte von DocPatch stehen unter CC BY-SA 3.0 DE, das Archiv von QuantLaw unter BSD-3-Clause. Dieses Repository wird unter CC0 1.0 veröffentlicht ([`LICENSE`](LICENSE)). Es wird von Lexifina Watch mit den Skripten in [`tools/`](tools) erstellt. [`REPRODUCE.md`](REPRODUCE.md) verzeichnet jede Quelle, jeden Befehl, jede Prüfsumme und jede Entscheidung sowie, was ein KI-Modell getan und nicht getan hat.
+Siehe [`LICENSE`](LICENSE). Deutsche Gesetze sind nicht urheberrechtlich geschützt (§ 5 Abs. 1 UrhG); die eigenen Inhalte von DocPatch stehen unter CC BY-SA 3.0 DE, das Archiv von QuantLaw unter BSD-3-Clause. Dieses Repository wird unter CC0 1.0 veröffentlicht.
+
+Dieses Repository ist keine Rechtsberatung und keine amtliche Veröffentlichung. Kein KI-Modell hat Rechtstext geschrieben oder verändert; die Skripte hat ein KI-Modell geschrieben (siehe [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 
