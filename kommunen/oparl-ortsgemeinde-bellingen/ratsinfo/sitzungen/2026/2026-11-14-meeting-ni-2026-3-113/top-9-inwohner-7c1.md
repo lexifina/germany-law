@@ -1,0 +1,7 @@
+# TOP 9: Einwohnerfragestunde
+
+- Sitzung: Sitzung des Ortsgemeinderates der Gemeinde Bellingen (2026-11-14)
+- Körperschaft: Ortsgemeinde Bellingen
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_2026-3-113%7CEinwohner%7C1
+- Beschluss (Datei): Beschluss - Top 9 https://westerburg.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2026-3-113%7CEinwohner%7C1
