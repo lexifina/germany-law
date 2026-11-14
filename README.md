@@ -82,7 +82,7 @@ Jede Änderung wird dem Gesetz zugeschrieben, das sie vorgenommen hat: `69. Änd
 
 Siehe [`LICENSE`](LICENSE). Deutsche Gesetze sind nicht urheberrechtlich geschützt (§ 5 Abs. 1 UrhG); die eigenen Inhalte von DocPatch stehen unter CC BY-SA 3.0 DE, das Archiv von QuantLaw unter BSD-3-Clause. Dieses Repository wird unter CC0 1.0 veröffentlicht.
 
-Dieses Repository ist keine Rechtsberatung und keine amtliche Veröffentlichung. Kein KI-Modell hat Rechtstext geschrieben oder verändert; die Skripte hat ein KI-Modell geschrieben (siehe [`REPRODUCE.md`](REPRODUCE.md)).
+Kein KI-Modell hat Rechtstext geschrieben oder verändert; die Skripte hat ein KI-Modell geschrieben (siehe [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 

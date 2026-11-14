@@ -82,7 +82,7 @@ Each change is credited to the law that made it: `69. Änderung (2025)` for the 
 
 See [`LICENSE`](LICENSE). German statutes are not protected by copyright (§ 5 Abs. 1 UrhG); DocPatch's own content is CC BY-SA 3.0 DE and QuantLaw's archive BSD-3-Clause. This repository is released under CC0 1.0.
 
-This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
