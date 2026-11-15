@@ -30,7 +30,8 @@ Der Text ist deutsch, so wie Gesetze im Internet ihn veröffentlicht. Eine engli
 
 - **[Claude zum deutschen Recht fragen](https://global-law.lexifina.com/v1/try_claude?country=germany)**: öffnet Claude mit einer vorbereiteten ersten Frage.
 - **[ChatGPT fragen](https://global-law.lexifina.com/v1/try_chatgpt?country=germany)**: dieselbe Frage in ChatGPT.
-- **[Die API im Browser aufrufen](https://global-law.lexifina.com/v1/search_law?query=Jahresurlaub&jurisdictions=germany)**: eine Suche nach „Jahresurlaub“ im deutschen Recht, Antwort als JSON. Die [Dokumentation steht hier](https://lexifina.com/api/global-law).
+- **[Im deutschen Recht auf unserer Website suchen](https://lexifina.com/law?country=germany&q=Jahresurlaub)**: eine Suche nach „Jahresurlaub“, mit dem Text jeder Vorschrift und ihren Fassungen, ohne Konto.
+- **[REST-API für Entwickler](https://global-law.lexifina.com/v1/search_law?query=Jahresurlaub&jurisdiction=germany)**: dieselbe Suche als JSON, ohne Schlüssel. Die [Dokumentation steht hier](https://lexifina.com/api/global-law).
 
 Beide Assistenten lesen den Bestand über den kostenlosen Global-law-Connector (MCP, `https://global-law.lexifina.com/mcp`); beim ersten Mal gibt der Chat Ihnen den Link, mit dem er hinzugefügt wird. Fragen Sie auf Deutsch oder auf Englisch.
 
