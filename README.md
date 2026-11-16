@@ -61,6 +61,7 @@ Jede Änderung wird dem Gesetz zugeschrieben, das sie vorgenommen hat: `69. Änd
 - Die Daten des 64. bis 69. Änderungsgesetzes wurden anhand des jeweiligen Gesetzes im Bundesgesetzblatt überprüft.
 - Der Aufbau ist deterministisch: Die Befehle in [`REPRODUCE.md`](REPRODUCE.md) ergeben dieselben 3.304 Gesetzes-Commits mit denselben Hashes.
 - Die Historie wird nur fortgeschrieben: Spätere Läufe fügen Commits obenauf hinzu, Daten nehmen nie ab, und nichts wird ersetzt.
+- [vulnerabilities/](vulnerabilities/): mögliche Redaktionsfehler im deutschen Bundesrecht, von den Detektoren von global-law gefunden und von Hand geprüft.
 
 ## Was es nicht zeigt
 

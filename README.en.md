@@ -61,6 +61,7 @@ Each change is credited to the law that made it: `69. Änderung (2025)` for the 
 - The dates of the 64th to 69th amending laws were checked against each law in the Bundesgesetzblatt.
 - The build is deterministic: the commands in [`REPRODUCE.md`](REPRODUCE.md) give the same 3,304 law commits with the same hashes.
 - History is append-only: later runs add commits on top, dates never decrease, and nothing is replaced.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in German law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

@@ -1,0 +1,14 @@
+category,category_de,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
+Lapsed time limits,Abgelaufene Fristen,10291,10267,40,2,2
+Repeal gaps,Lücken nach Aufhebung,44,36,40,0,0
+Same-day conflicts,Änderungen am selben Tag,1,1,1,0,0
+Empty periods,Ungedeckte Zeiträume,774,771,230,180,146
+Stale amounts,Nicht angepasste Beträge,281,281,40,8,6
+References to deleted provisions,Verweise auf entfallene Vorschriften,108,104,40,6,6
+References to repealed placeholders,Verweise auf Vorschriften „(weggefallen)“,1319,734,0,0,0
+Dead fines,Bußgeldvorschriften ohne Grundtatbestand,20,20,0,0,0
+Duplicate numbering,Doppelte Nummerierung,175,175,0,0,0
+Dead currencies,Abgeschaffte Währungen,1900,1899,0,0,0
+Publisher notes,Hinweise des Herausgebers,186,141,0,0,0
+Fines citing a missing provision,Sanktionsnormen mit fehlender Bezugsnorm,66,66,0,0,0
+References to missing paragraphs,Verweise auf fehlende Absätze,572,572,0,0,0
