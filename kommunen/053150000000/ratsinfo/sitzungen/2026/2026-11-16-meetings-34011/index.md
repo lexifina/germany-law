@@ -1,0 +1,107 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-16T17:05:00+01:00
+- Ende: 2026-11-16T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34011
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34011
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 1.1: Einwohneranfrage - Finkens Garten - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Beantwortung der Einwohneranfrage - Forstbotanischer Garten - vom 20.07.2026 - Kenntnis genommen
+- TOP 1.2: Einwohneranfrage - Rheinische Musikschule - Regionalschule Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.3: Einwohneranfrage - Godorf, Hofanlage mit Laubenhaus, Godorfer Hauptstr. 81 bedroht - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.4: Einwohneranfrage Finkens Garten vom 09.11.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Mitteilungen zu Bürgereingabe nach § 24 GO NRW
+- TOP 2.1.1: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Parkplatzsituation Am Tannenhof und Eibenweg, Köln-Rodenkirchen“, Aktenzeichen 106/26 - Kenntnis genommen
+- TOP 2.1.2: Mitteilung zur Bürgereingabe nach § 24 GO NRW - Verkehrssituation „Auf der Ronne“ in Köln-Meschenich, Aktenzeichen 186/26 - Kenntnis genommen
+- TOP 2.2: Beschlussvorlagen zu Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.2.1: Bürgereingabe nach § 24 GO NRW – „Versetzung der Sitzbank an der Kreuzung Weißer Straße/Hammerschmidtstraße“, Aktenzeichen 266/26 - vertagt
+- TOP 2.2.2: Bürgereingabe nach § 24 GO - Parksituation im Ortskern Rodenkirchen, Aktenzeichen 201/26 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Beantwortung einer mündlichen Anfrage der FDP/KSG Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom 21.09.2026 betreffend "Zukunft der Verkehrsverbindung im Wasserwerkswäldchen in Rondorf-Hochkirchen" (2210/2026) - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen aus der Sitzung der Bezirksvertretung Rodenkirchen vom 26.01.2026 bezüglich des Neubaus des Schulgebäudes, Mensa und Sporthalle als Interim, Eygelshovener Straße 19, 50999 Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Kleingärten am Vorgebirgsglacisweg – Erhalt und Einbindung in die Parkstadt Süd, Anfrage der FDP/KDG Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Hilfe und Unterstützung für Pflegekinder ohne gültige Ausweispapiere im Stadtbezirk Köln-Rodenkirchen, Anfrage der FDP/KSG Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: AN/1033/2025 vom 30.06.2025 -Sichere Schulwege in Zollstock, Anfrage der Fraktion Bündnis 90/Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Verlängerung der Rampen der Fähre Weiß-Zündorf, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Weihnachtsmärkte in Zollstock, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Jahrmärkte in Godorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Tiny houses am Kalscheurer Weiher, Anfrage der CDU - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Unbeantwortete Anfragen
+- TOP 7.3.1: Verkehrssicherheit Westerwaldstraße Köln Rondorf, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1209/2024) aus der Sitzung am 16.09.2024 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.2: Vorfahrtanpassung Kreuzung Brückenstraße Ecke Hauptstraße Rodenkirchen, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1464/2024) aus der Sitzung am 04.11.2024 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.3: Schulgarten und Streuobstwiese für EMAnuel-Schule und OSK, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0435/2025) aus der Sitzung am 12.05.2025 - Sache ist erledigt
+- TOP 7.3.4: Sachstand Umgestaltung Sürther Straße, Unbeantwortete Anfrage der SPD-Fraktion (AN/0468/2025) aus der Sitzung am 12.05.2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.5: Sperrfläche Brühler Straße in Raderthal, Unbeantwortete Anfrage der SPD-Fraktion (AN/0889/2025) aus der Sitzung am 30.06.2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.6: Bewohnerparken Bayenthal / Zollstock, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0898/2025) aus der Sitzung am 30.06.2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.7: Tempo 30 – Sürther Straße – Antrag AN 0318/2023 vom 13.03.2023, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/1367/2025) aus der Sitzung am 08.12.2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.8: Nachfrage zu Beantwortung einer schriftlichen Anfrage der FDP/KSG Fraktion aus der Sitzung der BV Rodenkirchen vom 16.01.2026 betreffend Baumfällungen und Bauprojekt Josef-Kallscheuer-Straße in Köln-Sürth (AN/0076/2026) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.9: Rechtswidrige Umgestaltung der Goethestraße in eine Fahrradstraße, Unbeantwortete Anfrage der FDP/KSG Fraktion (AN/0379/2026) aus der Sitzung am 16.03.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.10: Mitteilung 3226/2025 – Stationsgebundenes Carsharing, Unbeantwortete Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0478/2026) aus der Sitzung am 16.03.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.11: Monatelange Baumaßnahmen an der A4 im Bereich der Rodenkirchener Brücke, Unbeantwortete Nachfragen der FDP/KSG Fraktion aus der Sitzung am 26.03.2026 anlässlich der Beantwortung 0318/2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.12: Sachstand Abbau freilaufende Rechtsabbieger, Unbeantwortete Nachfrage der SPD-Fraktion (AN/1175/2024) aus der Sitzung am 16.03.2026 anlässlich der Beantwortung 2690/2025 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.13: Mehr naturnahe Bestattungen im Stadtbezirk Rodenkirchen, Unbeantwortete Anfrage der FDP/KSG Fraktion (AN/0549/2026) aus der Sitzung am 27.04.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.14: Radwege im Bereich Beginn Bayenthalgürtel bis Ende Zollstockgürtel, Teil II, Unbeantwortete Nachfrage der FDP-Fraktion (AN/0461/2025) aus der Sitzung am 27.04.2026 anlässlich der Beantwortung 0740/2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.15: Berücksichtigung des Kölner Südens bei der Errichtung neuer Carsharing-Stationen" (AN/0307/2026), Unbeantwortete Nachfrage der AfD-Fraktion aus der Sitzung am 27.04.2026 anlässlich Beantwortung 0937/2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.16: Umgestaltung der Trauerhalle sowie Errichtung einer ansprechenden Toilettenanlage auf dem Friedhof Steinneuerhof in Köln-Rondorf, Unbeantwortete Anfrage (AN/0847/2026) von der FDP/KSG-Fraktion aus der Sitzung am 22.06.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.17: Sachstand Erhöhung der Verkehrssicherheit und Aufwertung der Umgebung des Wegekreuzes Industriestraße / Römerstraße / An den Vier Linden in Köln-Rodenkirchen, Unbeantwortete Anfrage (AN/0910/2026) von der SPD-Fraktion aus der Sitzung am 22.06.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.18: Schulentwicklungsplanung in der Parkstadt Süd in Köln-Bayenthal, Unbeantwortete Anfrage der SPD-Fraktion (AN/1027/2026) aus der Sitzung am 22.06.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.19: Zuteilung von Sportstätten an Sportvereine, Unbeantwortete Anfrage der CDU-Fraktion (AN/1061/2026) aus der Sitzung am 22.06.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.20: Nachfrage zur Beantwortung 1031/2026 zu einer schriftlichen Anfrage der FDP-/KSG-Fraktion aus der Sitzung der BV Rodenkirchen vom 22.06.2026 betreffend Baumfällungen und Bauprojekt Josef-Kallscheuer-Straße in Köln-Sürth (AN/0076/2026) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.21: Erneut Schäden und Sperrung der Bezirkssportanlage BZA und Perspektiven für weiteren Kunstrasenplatz in Rodenkirchen, Unbeantwortete Anfrage der FDP/KSG Fraktion (AN/1294/2026) aus der Sitzung am 21.09.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.22: Mitteilung von Örtlichkeiten für gefahrträchtige Situationen durch verbotenes / behinderndes Parken von PKW, Unbeantwortete Anfrage der FDP/KSG Fraktion (AN/1319/2026) aus der Sitzung am 21.09.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.23: Sachstand Sanierung Boulebahn in Köln-Weiß, Unbeantwortete Anfrage der SPD-Fraktion (AN/1348/2026) aus der Sitzung am 21.09.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.24: Nachfrage der AfD-Fraktion zur Stellungnahme eines Schulbusangebots zu den weiterführenden Schulen in Rodenkirchen, Antrag der AfD-Fraktion, AN/0223/2026, vertagter TOP aus der Sitzung am 27.04.2026, Unbeantwortete Nachfrage der AfD-Fraktion (AN/1492 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.25: Machbarkeit eines sicheren Flussbades in Rodenkirchen im Zuge der Olympiabewerbung, Unbeantwortete Anfrage (AN/0845/2026) von der FDP/KSG-Fraktion aus der Sitzung am 22.06.2026 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3.26: Erneute Nachfrage zur Beantwortung einer schriftlichen Anfrage der Fraktion Bündnis 90/Die Grünen (2153/2026) aus der Bezirksvertretung Rodenkirchen vom 21.09.2026 betreffend „Zebrastreifen Eygelshovener Straße“ (AN/1311/2024) - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gehwegparken in Zollstock, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Einrichtung von mobilen wiederverwendbaren Aschenbechern an geeigneten Standorten im Stadtbezirk Köln-Rodenkirchen – Pilotprojekt, Antrag der FDP/KSG Fraktion - endgültig abgelehnt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Jahrmärkte Godorf unterbinden, Antrag der CDU-Fraktion - vertagt
+- TOP 8.2.3: Bessere Beleuchtung im gesperrten Straßenabschnitt der Industriestraße im Abschnitt Industriestraße/ Ecke Schillingsrotter Straße bis Industriestraße Hausnummer 127 in Köln-Rodenkirchen, Antrag der FDP/KSG Fraktion - mit Änderungen empfohlen
+- TOP 8.2.4: Vorläufige Fertigstellung der Kreuzungsbereiche bei der Baustelle Nord-Süd-Stadtbahn, 3. Baustufe, Antrag der SPD-Fraktion - vertagt
+- TOP -: Stellungnahme zu einem Antrag der SPD-Fraktion "Vorläufige Fertigstellung der Kreuzungsbereiche bei der Baustelle Nord-Süd-Stadtbahn, 3. Baustufe" - Kenntnis genommen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung eines Teilstücks der Straße Westhovener Weg in Köln-Weiß - ungeändert beschlossen
+- TOP 9.1.2: Fortführung Jugendforum als „Jugendvertretung Rodenkirchen“ - ungeändert beschlossen
+- TOP 9.1.3: Vergabe der bezirksorientierten Mittel für das Jahr 2026 im Stadtbezirk Rodenkirchen - 3. Runde - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über die abweichende Herstellung der Erschließungsanlage Birgitstraße von Weißer Straße bis Wendeanlage in Köln-Weiß
+- TOP 9.2.2: Integriertes Klimaanpassungskonzept IKA Köln inklusive Maßnahmenpakete Klimawandelanpassung - ungeändert empfohlen
+- TOP 9.2.3: Baubeschluss für die Generalsanierung der Straße Hochkirchener Straße von Hitzeler Straße bis Kreibohmstraße sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert empfohlen
+- TOP 9.2.4: Fortschreibung der Schulentwicklungsplanung Köln 2026 - vertagt
+- TOP 9.2.5: Aufstellungsbeschluss zur 16. Änderung des Landschaftsplans Köln, hier: Ausweisung eines neuen Naturschutzgebietes am Weißer Bogen - vertagt
+- TOP -: Ausweisung eines neuen Naturschutzgebietes am Weisser Bogen - ohne Verschiebung (nach GO), Änderungsantrag der FDP/KSG Fraktion - vertagt
+- TOP -: Änderungsantrag der FDP/KSG Fraktion - Ausweisung eines neuen Naturschutzgebietes am Weißer Bogen - endgültig zurückgezogen
+- TOP 9.2.6: Neubekanntmachung des Flächennutzungsplanes der Stadt Köln - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: 24. Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Sportentwicklungsplanung: Modellprojekt "Innovation durch öffentliche Sportangebote" – Rückblick "Kölle aktiv 2026„ - Kenntnis genommen
+- TOP 10.2.3: Wohnungsbau-Turbo: Einschätzung zur Zustimmungsfähigkeit des Vorhabens "Raderberger Str. 199 in Köln - Raderberg" - Kenntnis genommen
+- TOP 10.2.4: Wohnungsbau-Turbo: Einschätzung zur Zustimmungsfähigkeit des Vorhabens "Grüngürtelstraße 118 -122 in Köln - Rodenkirchen" - Kenntnis genommen
+- TOP 10.2.5: Bewirtschaftung des städtischen Waldes 2027 - Kenntnis genommen
+- TOP 10.2.6: Voreinschätzung zur Zustimmungsfähigkeit eines Vorhabens für Verfahrenserleichterungen des „Wohnungsbau-Turbos“: Stormstraße/Rilkestraße in Köln - Immendorf - Kenntnis genommen
+- TOP 10.2.7: Änderungen zum Fahrplanwechsel 2026 (Fahrplanjahr 2027) - Kenntnis genommen
+- TOP 10.2.8: Niederschrift 19. Runder Tisch Rad- und Fußverkehr - Kenntnis genommen
+- TOP 10.2.9: Partizipation von Kindern und Jugendlichen an den Entscheidungsprozessen der Verwaltung und der Lokalpolitik - Kenntnis genommen
