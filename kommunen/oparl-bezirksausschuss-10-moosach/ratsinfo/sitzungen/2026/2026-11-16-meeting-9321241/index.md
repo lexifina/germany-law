@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2026-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9321241
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9321241
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Protokoll (Entwurf) der Sitzung am 19.10.2026
+- TOP 2.: Bürger*innen haben das Wort
+- TOP 2.1.: Bitte um Prüfung der Verkehrs- und Schulwegsicherheit in der Leipziger Straße (zwischen Siegmund-Schacky-Straße und Pelkovenstraße)
+- TOP 2.2.: Missbrauch des Taxistellplatzes durch Taxifahrer mit auswärtigem Nummernschild und Privatleute am Memminger Platz
+- TOP 2.3.: Wiederholte Rattensichtungen seitlich der Meile Moosach
+- TOP 3.: Berichte
+- TOP 3.1: UA Soziales, Bildung und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Bau und Planung
+- TOP 3.3.1.: Bauvorhaben (inklusiv Baumfällungen):
+- TOP 3.3.1.1.: Dessauer Straße 10
+- TOP 3.3.1.2.: Hugo-Troendle-Straße 10
+- TOP 3.3.2.: Baumfällungen (Baumschutz):
+- TOP 3.3.3.: Sonstiges:
+- TOP 3.4: UA Gesundheit und Umwelt
+- TOP 3.5: Sonstige Berichte
+- TOP 4.: Anträge
+- TOP 4.1: Anträge der Fraktionen
+- TOP 4.1.1.: Fertigstellung und Wiederherstellung des Gehwegs in der Gubestraße auf Höhe der Hausnummer 5 und Aufstellung eines Mülleimers auf Höhe der neu errichteten Sitzbänke
+- TOP 4.1.2.: Anfrage zum aktuellen Baufortschritt, zu den Mietkosten und zum Vermietungsstand in der Karlingersiedlung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Antrag zum Thema GAF (geteilte Abstellflächen) in Moosach
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 5.1.: (E) Stadtbezirksbudget Init. "Tanztheater und Kleidertausch" Fast Fashion - Pop up Tanztheater und Kleidertausch vom 21.11. -30.12.2026 600,00€; 0262.100-10-0494
+- TOP 5.2.: (E) Stadtbezirksbudget Kinderhaus an der Baubergerstraße Hitzeschutz/ Klimawandel ab 20.11.2026 4.549,00 €; Az. 0262.100-10-0493
+- TOP 5.3.: (E) Stadtbezirksbudget foolpool GbR Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April -November 2027 8.581,00€; Az. 0262.100-10-0496
+- TOP 5.4.: (E) Stadtbezirksbudget Init. "Dreifuß-Modell" Dreifuß-Modell vom 23.11.2026 - 31.07.2027 4.200,00€; Az. 0262.100-10-0495
+- TOP 6.: Anhörungen
+- TOP 6.1.: Botanikum - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/39 und Bebauungsplan mit Grüordnung Nr. 2165 (§ 4 Abs. 2 BauGB)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund gemaß § 29 der StVO; Hier: Nikolausfeier am 05.12.2026 mit 350 PAX
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 9 StVO: Hengelerstraße; Errichtung von Haltverboten vor den Grünanlagen- bzw. Spielplatzzugängen
+- TOP 6.4.: Unterstützungsaufruf des BA 8 - Schwanthalerhöhe: Antworten der Referate zusätzlich in Einfacher Sprache
+- TOP 6.5.: Aufstellung eines provisorischen Funklochstopfers Deutsche Telekom 1740171 M-Moosach MW MY8896 - FlSt. 901/19, Gmkg. Moosach (Schöpferplatz)
+- TOP 6.6.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Bautzener Straße Südseite westlich Brieger Straße
+- TOP 6.7.: Anhörung zur Suchkreismitteilung, Suchkreis M1LDN M-Moosach-Ost
+- TOP 6.8.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1b Nr. 2a StVO: Anpassung der Parkregelungen in der Borstei, Sapporobogen und Dachauer Straße (Nordseite)
+- TOP 6.9.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1b Nr. 2a StVO: Parkraummanagement Parklizenzgebiet „Gern“ Baldurstraße/ Vorplatz des Westfriedhofes
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Dringende Sanierung und Erweiterung des Basketballplatzes am Bahnhof Moosach
+- TOP 7.2.: Prüfung der Situation des Baumbestands am nördlichen Ende der Dachauer Straße (nördlich der Eisenbahnüberführung bis zur Kreuzung Max-Born-Straße)
+- TOP 7.3.: Quietschen der Gleisbremsen (Rangierlärm) am Rangierbahnhof München Nord
+- TOP 7.4.: Sachstand der Meldung auf der Meldeplattform Rad: Lösung für stark frequentierten Weg unter Unterführung Sapporrobogen/Borstei
+- TOP 7.5.: Unzumutbare Verkehrsüberlastung und blockierte Rettungswege in der Pickelstraße bei Großevents
+- TOP 7.6.: Möglichkeit des Einsatzes von Verkehrshelfern für Übergang Sapporobogen/Toni-Merkens-Weg
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 1 i.V.m. Abs. 6 und Abs. 9 und § 46 StVO: -->Arbeiten im Straßenraum: - Dachauer Straße zwischen Pelkovenstraße und Gröbenzeller Straße: (Straßenbauarbeiten, BPh 540, BPh 705, BPh 710, BPh 715) -Ergänzung HV Donauwörther Straße- vom 14.10.2026 bis 11.12.2026 - Dachauer Straße, zw. Hanauer Straße und Darmstädter Straße (Verlegung einer Wasserleitung in offener Bauweise) vom 19.10.2026 bis 18.12.2026 - Dachauer Straße, zw. Hanauer Straße und Darmstädter Straße (Verlegung einer Wasserleitung in offener Bauweise) -Ergänzung HV- vom 22.10.2026 bis 18.12.2026 - Dachauer Straße, zw. Hanauer Straße und Darmstädter Straße (Verlegung einer Wasserleitung in offener Bauweise) -Änderung Verantwortlicher- vom 02.11.2026 bis 18.12.2026
+- TOP 8.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden (Bahnübergänge Fasanerie, Lerchenauer Straße und Lerchenstraße) - Bekanntgabe -
+- TOP 8.3.: (U) Bund-Länder-Städtebauförderungsprogramm „Sozialer Zusammenhalt“ Sanierungsgebiet Moosach Aufwertung und Umgestaltung der öffentlichen Grünanlage an der Triebstraße / Bingener Straße im 10. Stadtbezirk Moosach 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 8.4.: Neues Radverkehrsnetz für München Stadtbezirksübergreifende Radverkehrsverbindungen
+- TOP 8.5.: (U) Bildungsbauoffensive - Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 8.6.: Sanierungsgebiet Moosach Finanzierung der Sanierungsmaßnahmen A) Sanierungsmaßnahmen B) Städtebauförderung, Kosten, Finanzierung
+- TOP 8.7.: Verkehrsrechtliche Anordnung nach § 45 Abs.1 b Nr 2 i.V.m. §46 Abs. 1 Nr. 11 StVO: Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung im Bereich Andernacher Str. 6a
+- TOP 8.8.: Information über baustellenbedingte Fahrplan- und Linienwegsänderungen auf den U-Bahnlinien U1 bis U5 aufgrund von Fräszugfahrten
