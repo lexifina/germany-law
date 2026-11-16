@@ -1,0 +1,6 @@
+# TOP 4.: Ortsbeiratsbudget und Verwendung des Restbetrages
+
+- Sitzung: Ortsbeirat Hausen ü. Aar (6. Sitzung) (2026-11-16)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/35346
