@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses für Chancengerechtigkeit und Integration
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-17T15:00:00+01:00
+- Ende: 2026-11-17T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/193
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34227
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34227
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vorstellung einer Institution / eines Trägers der Integrationsarbeit
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung einer Anfrage der Linke Internationale Liste betreffend "Fall Pedro Corona" (AN/1371/2026) - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Stellungnahme der Verwaltung zum Zusatzantrag zur Prüfung der vollständigen Streichung der Mittel zur Förderung rassismuskritischer Projekte zur Stärkung von Demokratie und Akzeptanz aus dem Haushaltspanentwurf 2027/2028 (AN/1466/2026) - Kenntnis genommen
+- TOP 3.4: Beantwortung einer schriftlichen Anfrage von Ahmet Edis für den Ausschuss für Chancengerechtigkeit und Integration vom 28.08.2026 betreffend "Antisemitismusvorwürfe im Zusammenhang mit dem Rautenstrauch-Joest-Museum" - Kenntnis genommen
+- TOP 3.5: Beantwortung einer Anfrage (AN/0861/2026) betreffend "Sachstand Anerkennung ausländischer Berufs- und Bildungsabschlüsse" - Kenntnis genommen
+- TOP 3.6: Beantwortung einer schriftlichen Anfrage zum Thema Erreichbarkeit des Standesamtes in Bezug auf Sicherstellung religionskonformer Bestattungen - Kenntnis genommen
+- TOP 3.7: Beantwortung der Anfrage der CDU-Fraktion im Rat der Stadt Köln aus der Sitzung des Ausschusses für Chancengerechtigkeit und Integration vom 15.09.2026 betreffend die Mehrsprachigkeit bei Ämtern - Kenntnis genommen
+- TOP 3.8: Beantwortung einer Anfrage von Elizaveta Khan betreffend "Anfrage zur Kommunikationsstrategie der Stadt Köln angesichts rechter Angriffe auf das Kölner Bleiberechtsprogramm und zur Prüfung eines Faktenchecks durch das Presseamt" - Kenntnis genommen
+- TOP 3.9: Beantwortung einer Anfrage im Ausschuss Chancengerechtigkeit und Integration des Mitglieds Sati Arikpinar zum Thema Passbeschaffung bei jungen Geflüchteten aus Afghanistan (AN/1360/2026) - vertagt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zur Datenerhebung bei Verlängerung der Personaldokumente
+- TOP 4.2: Anfrage zum Thema langfristige Mietverträge für Unterbringungsobjekte für Geflüchtete – Vertragslaufzeiten bis 2053
+- TOP 4.3: Anfrage zum Thema der möglichen Einflussnahmen islamistischer bzw. der Muslimbruderschaft zuzurechnender Akteure auf Integrationsstrukturen in Köln
+- TOP 4.4: Anfrage zum Thema geförderte Träger und vorgelegte Nachweise im Rahmen der Förderrichtlinie "Förderung der Migrantischen Organisationen in Köln"
+- TOP 4.5: Anfrage zum Thema Wohnungssituation und Geflüchtete in Köln
+- TOP 4.6: Anfrage zum Thema Kultursensible Senior*innenarbeit
+- TOP 4.7: Anfrage zum Umsetzungsstand und zum weiteren Zeitplan der 59 kommunalen Handlungsempfehlungen der Stadt Köln
+- TOP 5: Mitteilungen
+- TOP 5.1: Bericht zur Untersuchung der Unterstützungsangebote der Zentralen Ausländerbehörde Coesfeld und deren Behandlung durch das Ausländeramt der Stadt Köln - vertagt
+- TOP 5.2: Mehrfachbeschäftigung in Köln - Beschäftigungsentwicklung 2016 bis 2025 - Kenntnis genommen
+- TOP 5.3: Evaluierung des Sachstandsberichts der Stadt Köln durch den Scientific Advisory Council (SAC) der European Coalition of Cities against Racism (ECCAR) - Kenntnis genommen
+- TOP 5.4: Zuzüge, Fortzüge und Umzüge in Köln 2025 - Über kleinräumige Muster beim Wanderungsgeschehen - Kenntnis genommen
+- TOP 5.5: Sprach- und Integrationsmittlungspool für die Stadt Köln – bikup Jahresbericht 2025 - Kenntnis genommen
+- TOP 5.6: Geschäftsbericht "Wohnen in Köln 2025" - Fakten, Zahlen, und Ergebnisse 2025 - Kenntnis genommen
+- TOP 5.7: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 04/2026 - Kenntnis genommen
+- TOP 5.8: LSBTI-Förderprogramm 2026 - Kenntnis genommen
+- TOP 5.9: 49. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.10: Bewertung der Bezirksregierung Köln zum Prüfbericht der Stadt Köln zur sogenannten Coesfelder Liste - vertagt
+- TOP 5.11: Mitteilung über Arbeit der nicht städtischen Antidiskriminierungsbüros 2025 - Kenntnis genommen
+- TOP 5.12: Einsparung des Web-Overlay-Tools „eyeAble“ auf www.stadt.koeln - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und § 10, Abs. 1 - vertagt
+- TOP 6.2: Änderungsantrag zum "Antrag zur Prüfung der Änderung der Geschäftsordnung Präambel und §10, Abs. 1“ - vertagt
+- TOP 6.3: Änderungsantrag zum Antrag AN/1387/2025 - Änderung der Geschäftsordnung - vertagt
+- TOP 6.4: Antrag zum Thema Landtagswahlen in NRW 2027 „Potentiale von Menschen mit internationaler Familiengeschichte hervorheben - keinen Wahlkampf auf dem Rücken dieser Menschen“ - geändert beschlossen
+- TOP 6.5: Antrag zur Nutzung der Mehrsprachenkompetenz der Mitarbeitenden in der Stadtverwaltung - ungeändert beschlossen
+- TOP 6.6: Prüfantrag zur „Interkulturelle Öffnung der Kölner Senior*innenarbeit – Gleichberechtigte Teilhabe älterer Menschen mit internationaler Familiengeschichte“ - ungeändert beschlossen
+- TOP 6.7: Änderungsantrag- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates zur Beschlussvorlage 3159/2025 - vertagt
+- TOP 6.8: Ergänzungs- und Änderungsantrag zur Beschlussvorlage 1152/2026 2. Kölner Lebenslagenbericht – Potenziale und Herkunftsidentitäten von Menschen mit internationaler Familiengeschichte stärker berücksichtigen - vertagt
+- TOP 6.9: Änderungsantrag zu TOP 8.1 (Beschlussvorlage 3159/2025) unter Bezugnahme auf TOP 6.3 (AN/1497/2026) - vertagt
+- TOP 6.10: Dringlichkeitsantrag zum Thema Würdigung von Ozan Ata Canani – Benennung einer Straße oder eines Platzes und Gedenkveranstaltung - ungeändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Änderung der Geschäftsordnung des Integrationsrates der Stadt Köln anlässlich der Umbenennung des Integrationsrates in „Ausschuss für Chancengerechtigkeit und Integration“ - vertagt
+- TOP 8.2: Ombudsstelle für Geflüchtete: Verlängerung der Befristung der Stellen Ombudspersonen bis Ende 2028 - ungeändert beschlossen
+- TOP 8.3: 2. Kölner Lebenslagenbericht - vertagt
+- TOP 8.4: Finanzielle Förderung von BFmF e.V. und interKultur e.V. als migrantische Träger für die kultursensible Beratung von Kölner Senior*innen in 2027 - ungeändert beschlossen
+- TOP 8.5: Richtlinie zur Verwendung des kommunalen Anteils bei der Förderung des Case Managements im Rahmen des Kommunalen Integrationsmanagements - ungeändert beschlossen
+- TOP 8.6: Integrationslots*innen-Projekt – Verteilung der Finanzmittel im Haushaltsjahr 2027 - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
