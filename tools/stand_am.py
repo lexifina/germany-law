@@ -33,11 +33,17 @@ def main() -> None:
         if not tag:
             sys.exit('The federal acts are recorded from 10 June 2019.')
         slug = args[2].lower()
-        index = git('show', f'{tag}:{slug}/index.md')
+        # since 17 November 2026 the acts are in bund/gesetze/<act>/; earlier tags have them at the top
+        folder = slug
+        for cand in (f'bund/gesetze/{slug}', slug):
+            if subprocess.run(['git', 'cat-file', '-e', f'{tag}:{cand}/index.md'], capture_output=True).returncode == 0:
+                folder = cand
+                break
+        index = git('show', f'{tag}:{folder}/index.md')
         print(f'Stand: {day} (Gesetze im Internet, {tag[len("stand/"):]})\n')
         print(index)
         for name in re.findall(r'\]\(([^)]+\.md)\)', index):   # the norms, in the act's own order
-            print(git('show', f'{tag}:{slug}/{name}'))
+            print(git('show', f'{tag}:{folder}/{name}'))
         return
     tag = latest('in-kraft', day)
     if not tag:

@@ -13,7 +13,7 @@ Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer Gi
 
 **Was es jetzt enthält:** das Grundgesetz mit jeder Fassung seit 1949 (der Text von 1949 und seine 69 Änderungsgesetze, in 72 Commits) sowie 6.147 weitere Rechtsvorschriften des Bundes aus Gesetze im Internet, mit 16.392 Fassungen seit dem 10. Juni 2019. [`verzeichnis.json`](verzeichnis.json) verzeichnet jede Rechtsvorschrift mit Abkürzung, Titel und Fundstelle; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) verzeichnet die Änderungsgesetze mit ihren Daten und Abstimmungsergebnissen.
 
-Das Grundgesetz liegt in `grundgesetz/artikel/`, eine Datei je Artikel (`109.md` ist Artikel 109, Haushaltswirtschaft in Bund und Ländern); jede andere Rechtsvorschrift ist ein Ordner, benannt wie auf Gesetze im Internet, mit einer Datei je Norm (`burlg/0003.md` ist § 3 des Bundesurlaubsgesetzes).
+Das Grundgesetz liegt in `grundgesetz/artikel/`, eine Datei je Artikel (`109.md` ist Artikel 109, Haushaltswirtschaft in Bund und Ländern); jede andere Rechtsvorschrift des Bundes ist ein Ordner in `bund/gesetze/`, benannt wie auf Gesetze im Internet, mit einer Datei je Norm (`bund/gesetze/burlg/0003.md` ist § 3 des Bundesurlaubsgesetzes). Bis zum 17. November 2026 lagen diese Ordner in der obersten Ebene des Repositoriums (`burlg/`); `git log --follow` folgt der Verschiebung, und [`data/paths.json`](data/paths.json) nennt zu jedem alten Ordner den neuen.
 
 Der Text ist deutsch, so wie Gesetze im Internet ihn veröffentlicht. Eine englische Übersetzung ist nicht Teil dieses Bestands.
 

@@ -13,7 +13,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Grundgesetz with every version since 1949 (the 1949 text and its 69 amending laws, in 72 commits), and 6,147 other federal acts from Gesetze im Internet, with 16,392 versions since 10 June 2019. [`verzeichnis.json`](verzeichnis.json) lists every act with its abbreviation, title and Gazette citation; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) lists the amending laws with their dates and votes.
 
-The Grundgesetz is in `grundgesetz/artikel/`, one file per article (`109.md` is Article 109, the budgets of the Federation and the Länder); every other act is a folder named as on Gesetze im Internet, one file per provision (`burlg/0003.md` is § 3 of the Bundesurlaubsgesetz, the Federal Leave Act).
+The Grundgesetz is in `grundgesetz/artikel/`, one file per article (`109.md` is Article 109, the budgets of the Federation and the Länder); every other federal act is a folder in `bund/gesetze/`, named as on Gesetze im Internet, one file per provision (`bund/gesetze/burlg/0003.md` is § 3 of the Bundesurlaubsgesetz, the Federal Leave Act). Until 17 November 2026 these folders were at the top of the repository (`burlg/`); `git log --follow` follows the move, and [`data/paths.json`](data/paths.json) maps each old folder to its new one.
 
 The text is in German, as Gesetze im Internet publishes it. An English translation is not part of this record.
 
