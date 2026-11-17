@@ -7,7 +7,7 @@
 - [§ 1a (weggefallen)](0001a.md)
 - [§ 2](0002.md)
 - [§ 3](0003.md)
-- [§ 4](0004.md)
+- [§ 4 Verordnungsermächtigung](0004.md)
 
 ## Zweiter Abschnitt Seelotswesen der Seelotsreviere
 
