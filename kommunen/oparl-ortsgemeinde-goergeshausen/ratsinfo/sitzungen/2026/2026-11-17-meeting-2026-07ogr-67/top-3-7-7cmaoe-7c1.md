@@ -1,0 +1,6 @@
+# TOP 3: Mitteilungen und Anfragen
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Görgeshausen (2026-11-17)
+- Körperschaft: Ortsgemeinde Görgeshausen
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/2026-07OGR-67%7CMAoe%7C1
