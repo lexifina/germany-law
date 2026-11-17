@@ -11,7 +11,7 @@ The law of Germany as a git history: one file per article of the Grundgesetz and
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Germany's federal law, which global-law reads at `germany/bund/acts/`.
 
-**What is in it now:** the Grundgesetz with every version since 1949 (the 1949 text and its 69 amending laws, in 72 commits), and 6,147 other federal acts from Gesetze im Internet, with 16,392 versions since 10 June 2019. [`verzeichnis.json`](verzeichnis.json) lists every act with its abbreviation, title and Gazette citation; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) lists the amending laws with their dates and votes.
+**What is in it now:** the Grundgesetz with every version since 1949; every federal act from Gesetze im Internet ([`bund/gesetze/`](bund/gesetze/), versions since 10 June 2019, updated daily); the Bundesgesetzblatt ([`bund/bgbl/`](bund/bgbl/), 1949–2022 from OffeneGesetze, from 2023 the official edition; being added); the law of Bavaria, Saxony, Brandenburg, Bremen, North Rhine-Westphalia and Hamburg ([`laender/`](laender/)); decisions of the federal courts and of Hamburg's courts ([`rechtsprechung/`](rechtsprechung/)); the legislative procedures since 1949 from DIP ([`bundestag/`](bundestag/), being added); the municipal register as the frame for local law ([`kommunen/`](kommunen/)). Sources, size and state of each part: [`REPRODUCE.md`](REPRODUCE.md).
 
 The Grundgesetz is in `grundgesetz/artikel/`, one file per article (`109.md` is Article 109, the budgets of the Federation and the Länder); every other federal act is a folder in `bund/gesetze/`, named as on Gesetze im Internet, one file per provision (`bund/gesetze/burlg/0003.md` is § 3 of the Bundesurlaubsgesetz, the Federal Leave Act). Until 17 November 2026 these folders were at the top of the repository (`burlg/`); `git log --follow` follows the move, and [`data/paths.json`](data/paths.json) maps each old folder to its new one.
 
@@ -69,7 +69,7 @@ Each change is credited to the law that made it: `69. Änderung (2025)` for the 
 - **Older Grundgesetz versions checked against the Gazette.** The versions of an article before its last change before 2019 are DocPatch's transcription.
 - **The exact in-force day** of a federal change where the footnotes do not give it, and the stages of a law that takes effect in several steps under one Stand note.
 - **Footnotes and images.** Footnotes are left out; images are marked `[Bild: …]`.
-- **State law, case law and EU law.** global-law holds state law and federal court decisions in [their own repositories](https://github.com/lexifina/global-law/tree/main/germany) (`germany/bavaria/acts`, `germany/bgh/caselaw` ...).
+- **The law of the other ten Länder, EU law and municipal by-laws** (not yet; see [`REPRODUCE.md`](REPRODUCE.md)). State law and case law are also here since 17 November 2026, in `laender/` and `rechtsprechung/`, taken commit for commit from their earlier repositories.
 
 ## Sources
 

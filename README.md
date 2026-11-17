@@ -11,7 +11,7 @@ Das Recht Deutschlands als Git-Historie: eine Datei je Artikel des Grundgesetzes
 
 Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer Git-Historie für das Recht jedes Landes: Dies ist das Bundesrecht Deutschlands, das global-law unter `germany/bund/acts/` einliest.
 
-**Was es jetzt enthält:** das Grundgesetz mit jeder Fassung seit 1949 (der Text von 1949 und seine 69 Änderungsgesetze, in 72 Commits) sowie 6.147 weitere Rechtsvorschriften des Bundes aus Gesetze im Internet, mit 16.392 Fassungen seit dem 10. Juni 2019. [`verzeichnis.json`](verzeichnis.json) verzeichnet jede Rechtsvorschrift mit Abkürzung, Titel und Fundstelle; [`grundgesetz/gesetze.csv`](grundgesetz/gesetze.csv) verzeichnet die Änderungsgesetze mit ihren Daten und Abstimmungsergebnissen.
+**Was es jetzt enthält:** das Grundgesetz mit jeder Fassung seit 1949; jede Rechtsvorschrift des Bundes aus Gesetze im Internet ([`bund/gesetze/`](bund/gesetze/), Fassungen seit dem 10. Juni 2019, täglich fortgeschrieben); das Bundesgesetzblatt ([`bund/bgbl/`](bund/bgbl/), 1949–2022 aus OffeneGesetze, seit 2023 die amtliche Ausgabe; wird ergänzt); das Landesrecht von Bayern, Sachsen, Brandenburg, Bremen, Nordrhein-Westfalen und Hamburg ([`laender/`](laender/)); Entscheidungen der Bundesgerichte und hamburgischer Gerichte ([`rechtsprechung/`](rechtsprechung/)); die Gesetzgebungsverfahren seit 1949 aus DIP ([`bundestag/`](bundestag/), wird ergänzt); das Gemeindeverzeichnis als Gerüst für das Ortsrecht ([`kommunen/`](kommunen/)). Quellen, Umfang und Stand jedes Teils: [`REPRODUCE.md`](REPRODUCE.md).
 
 Das Grundgesetz liegt in `grundgesetz/artikel/`, eine Datei je Artikel (`109.md` ist Artikel 109, Haushaltswirtschaft in Bund und Ländern); jede andere Rechtsvorschrift des Bundes ist ein Ordner in `bund/gesetze/`, benannt wie auf Gesetze im Internet, mit einer Datei je Norm (`bund/gesetze/burlg/0003.md` ist § 3 des Bundesurlaubsgesetzes). Bis zum 17. November 2026 lagen diese Ordner in der obersten Ebene des Repositoriums (`burlg/`); `git log --follow` folgt der Verschiebung, und [`data/paths.json`](data/paths.json) nennt zu jedem alten Ordner den neuen.
 
@@ -69,7 +69,7 @@ Jede Änderung wird dem Gesetz zugeschrieben, das sie vorgenommen hat: `69. Änd
 - **Am Bundesgesetzblatt geprüfte ältere Fassungen des Grundgesetzes.** Die Fassungen eines Artikels vor seiner letzten Änderung vor 2019 sind die Transkription von DocPatch.
 - **Den genauen Tag des Inkrafttretens** einer bundesrechtlichen Änderung, wo die Fußnoten ihn nicht angeben, und die Stufen eines Gesetzes, das unter einem Standvermerk in mehreren Schritten in Kraft tritt.
 - **Fußnoten und Bilder.** Fußnoten sind weggelassen; Bilder sind als `[Bild: …]` markiert.
-- **Landesrecht, Rechtsprechung und EU-Recht.** global-law führt Landesrecht und Entscheidungen der Bundesgerichte in [eigenen Repositorys](https://github.com/lexifina/global-law/tree/main/germany) (`germany/bavaria/acts`, `germany/bgh/caselaw` ...).
+- **Das Landesrecht der übrigen zehn Länder, EU-Recht und das Ortsrecht der Gemeinden** (noch nicht; siehe [`REPRODUCE.md`](REPRODUCE.md)). Landesrecht und Rechtsprechung liegen seit dem 17. November 2026 auch hier, in `laender/` und `rechtsprechung/`, Commit für Commit aus den bisherigen eigenen Repositorys übernommen.
 
 ## Quellen
 
