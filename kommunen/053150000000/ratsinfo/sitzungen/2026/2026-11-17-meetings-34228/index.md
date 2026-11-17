@@ -1,0 +1,93 @@
+# 7. Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2026-11-17T17:03:00+01:00
+- Ende: 2026-11-17T19:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/199
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34228
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/34228
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mündlicher Bericht der Arbeitsgemeinschaft der Spitzenverbände der freien Wohlfahrtspflege in Köln - Liga Wohlfahrt - Kenntnis genommen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Integration und Vielfalt
+- TOP 3.1: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 3.2: Bericht aus der Arbeit der Behindertenbeauftragten
+- TOP 3.2.1: Bericht der Behindertenbeauftragten der Stadt Köln 04/2026 - vertagt
+- TOP 3.3: Mitteilungen aus dem Bereich Integration und Vielfalt
+- TOP 3.3.1: Mitteilung über die Verwendung der Budgets der Stadtarbeitsgemeinschaften Behindertenpolitik und Queerpolitik 2026 - Kenntnis genommen
+- TOP 3.3.2: Evaluierung des Sachstandsberichts der Stadt Köln durch den Scientific Advisory Council (SAC) der European Coalition of Cities against Racism (ECCAR) - Kenntnis genommen
+- TOP 3.3.3: Bericht der Fachstelle für Lesben, Schwule, Bisexuelle, Transgender und intergeschlechtliche Menschen - 04/2026 - Kenntnis genommen
+- TOP 3.3.4: Sprach- und Integrationsmittlungspool für die Stadt Köln – bikup Jahresbericht 2025 - Kenntnis genommen
+- TOP 3.3.5: Einfache Sprache als Verwaltungsstandard - Kenntnis genommen
+- TOP 3.3.6: Inklusionsbericht der Stadt Köln 2024/2025 - Kenntnis genommen
+- TOP 4: Aktuelle Situation von Geflüchteten in Köln
+- TOP 4.1: Bericht zur Untersuchung der Unterstützungsangebote der Zentralen Ausländerbehörde Coesfeld und deren Behandlung durch das Ausländeramt der Stadt Köln - vertagt
+- TOP 4.2: 49. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 4.3: Bewertung der Bezirksregierung Köln zum Prüfbericht der Stadt Köln zur sogenannten Coesfelder Liste - vertagt
+- TOP 5: Arbeit
+- TOP 5.1: Jobcenter Köln
+- TOP 5.1.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 5.2: Arbeitsmarktförderung
+- TOP 6: Wohnen
+- TOP 6.1: 7. Sachstandsbericht Kooperatives Baulandmodell Köln - Kenntnis genommen
+- TOP 6.2: Geschäftsbericht "Wohnen in Köln 2025" - Fakten, Zahlen, und Ergebnisse 2025 - Kenntnis genommen
+- TOP 7: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 8: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1: Neufassung der Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP) - ungeändert beschlossen
+- TOP 8.2: Förderung von Selbsthilfegruppen im Sozialbereich für das Jahr 2026 - ungeändert beschlossen
+- TOP 8.3: Förderung von Selbsthilfegruppen im Gesundheitsbereich - Haushaltsjahr 2026 - ungeändert beschlossen
+- TOP 8.4: Richtlinie zur Verwendung des kommunalen Anteils bei der Förderung des Case Managements im Rahmen des Kommunalen Integrationsmanagements - ungeändert beschlossen
+- TOP 8.5: Integrationslots*innen-Projekt – Verteilung der Finanzmittel im Haushaltsjahr 2027 - ungeändert beschlossen
+- TOP 9: Ausschussempfehlungen an den Rat
+- TOP 9.1: Ombudsstelle für Geflüchtete: Verlängerung der Befristung der Stellen Ombudspersonen bis Ende 2028 - ungeändert empfohlen
+- TOP 9.2: 2. Kölner Lebenslagenbericht - vertagt
+- TOP 9.3: Suchthilfezentrum Perlengraben Beschluss Trägerschaft - vertagt
+- TOP 10: Ausschussempfehlungen an andere Ausschüsse
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen aus früheren Sitzungen
+- TOP 11.1.1: Wie sind die Hintergründe zu der fragwürdigen Vergabepraxis von Fiktionsaufenthaltsbescheinigungen an kriminellen Bosnier? - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage aus dem Ausschuss für Soziales, Gesundheit, Seniorinnen und Senioren betreffen " Wie sind die Hintergründe zu der fragwürdigen Vergabepraxis von Fiktionsaufenthaltsbescheinigungen an kriminellen Bosnier?" (AN/0881/2026) - Kenntnis genommen
+- TOP 11.1.2: Umgang mit Sozialleistungsmissbrauch im Zusammenhang mit der Arbeitnehmerfreizügigkeit - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der FDP-Fraktion aus der Sitzung des Ausschusses Soziales, Gesundheit, Seniorinnen und Senioren vom 17.09.2026 (AN/1245/2026) betreffend „Umgang mit Sozialleistungsmissbrauch im Zusammenhang mit der Arbeitnehm - Kenntnis genommen
+- TOP 11.1.3: Kosten und Qualität von Einfachhotels als Art der Unterbringung obdachloser Menschen - Sache ist erledigt
+- TOP -: Schriftliche Anfrage AN/1380/2026 der BSW-Gruppe im Ausschuss Soziales, Gesundheit, Seniorinnen und Senioren vom 10.09.2026 zu Kosten und Qualität von Einfachhotels als Art der Unterbringung obdachloser Menschen - Kenntnis genommen
+- TOP 11.1.4: Versorgungsamt der Stadt Köln: Wartezeiten für Feststellung des Grades der Behinderung - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Ratsfrau LIdija Rukavina und Sachkundigen Einwohnerin Heike Reinert (BSW-Gruppe) betreffend "Versorgungsamt Köln: AN/1377/2026 - Kenntnis genommen
+- TOP 11.1.5: Versorgung von Menschen mit ME/CFS in Köln - vertagt
+- TOP 11.1.6: Weiterentwicklung der Qualitätsstandards der Senior*innenarbeit - vertagt
+- TOP 11.1.7: Geschlechtersensible Toilettensituation - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/1454/2026 von SE Schubert bezüglich geschlechtersensibler Toilettenanlagen bei Veranstaltungen der Stadt oder in städtischen Gebäuden - Kenntnis genommen
+- TOP 11.1.8: Beantwortung einer Anfrage zur Erhebung zu Antidiskriminierungs- und Gleichstellungsdaten (ADGD) aus der Sitzung vom 17.09.2026 - Kenntnis genommen
+- TOP 11.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Anfragen und Beantwortungen zu Anfragen in anderen Ausschüssen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Beantwortung einer schriftlichen Anfrage der Volt-Fraktion aus der Sitzung des Hauptausschusses vom 10.08.2026 (AN/1240/2026) betreffend "Hitzeschutz für vulnerable Personengruppen" - Kenntnis genommen
+- TOP 11.2.3: Sicherstellung und Verwahrung digitaler Geräte von ausreisepflichtigen Personen" - Kenntnis genommen
+- TOP 11.3: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3.1: Rückgabe von gesammelten Flaschen - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der Die Linke-Fraktion betr. "Rückgabe von gesammelten Flaschen" (AN/1328/2026) - Kenntnis genommen
+- TOP 11.3.2: Smartphone-basierte Ersthelfer-Alarmierung (SbEA) in Köln - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der FDP/KSG-Fraktion betreffend "Smartphone-basierte Ersthelfer-Alarmierung (SbEA) in Köln" (AN1604/2026) - Kenntnis genommen
+- TOP 11.3.3: Auswirkungen der Reform der Notfallversorgung auf Köln und Sachstand zur Ersthelfer-App - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der VOLT-Fraktion bzgl. "Auswirkungen der Reform der Notfallversorgung auf Köln und Sachstand zur Ersthelfer-App (AN/1731/2026)" - Kenntnis genommen
+- TOP 11.3.4: Verwendung der Haushaltsmittel zur Sicherung der Pakt-ÖGD-Personalstellen - Sache ist erledigt
+- TOP -: Beantwortung einer schriftlichen Anfrage der Ratsfraktion Volt (AN/1797/2026) betreffend "Verwendung der Haushaltsmittel zur Sicherung der Pakt-ÖGD-Personalstellen" - Kenntnis genommen
+- TOP 11.3.5: Sachstand zum Drogenkonsumraum Köln-Kalk angesichts des zunehmenden Crack-Konsums - vertagt
+- TOP 11.3.6: Sachstand zur Umsetzung des Ratsbeschlusses vom 15. Juni 2023 zur Zukunft der Kliniken der Stadt Köln - vertagt
+- TOP 11.3.7: Entwicklung und Nutzung der Ehrenamtskarte und der Jubiläums-Ehrenamtskarte in Köln - vertagt
+- TOP 12: Mündliche Anfragen aus aktuellem Anlass
+- TOP 13: Mitteilungen
+- TOP 13.1: Strategische Sozialplanung: Strategien und Maßnahmen - Umsetzung des Ratsbeschlusses 4069/2022 vom 21.03.2024 - vertagt
+- TOP 13.2: "Lebenswerte Veedel- Bürger*innen- und Sozialraumorientierung in Köln" - hier: Bericht über den Stand der Umsetzung des Förderprogramms in den Jahren 2024 und 2025 - Kenntnis genommen
+- TOP 13.3: Mehrfachbeschäftigung in Köln - Beschäftigungsentwicklung 2016 bis 2025 - Kenntnis genommen
+- TOP 13.4: Projektergebnis „Prozesskette Nachhaltigkeit (PKN): Ergänzungsband Indikatoren - Stadtstrategie „Kölner Perspektiven 2030+“ - abgesetzt für diese Sitzung
+- TOP 13.5: Zuzüge, Fortzüge und Umzüge in Köln 2025 - Über kleinräumige Muster beim Wanderungsgeschehen - Kenntnis genommen
+- TOP 13.6: Gesundheitsamt nimmt nicht an der geplanten Studie zur Crack-Substitution teil - Kenntnis genommen
+- TOP 13.7: Ausweitung der Öffnungszeiten vom DKR im Gesundheitsamt am Neumarkt zum 09.01.2027 - Kenntnis genommen
+- TOP 13.8: Sachstand zur Verteilung des Strukturförderfonds im Dezernat V - Kenntnis genommen
+- TOP 13.9: Mitteilung über Arbeit der nicht städtischen Antidiskriminierungsbüros 2025 - Kenntnis genommen
