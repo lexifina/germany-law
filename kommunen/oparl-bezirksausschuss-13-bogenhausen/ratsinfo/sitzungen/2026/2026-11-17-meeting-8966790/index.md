@@ -1,0 +1,183 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2026-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/8966790
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/8966790
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.1.: Protokolle der Sitzung vom 13.10.2026
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Berichte
+- TOP 2.1.1: Bericht aus dem Vorstand
+- TOP 2.1.2: Berichte der BA-Beauftragten
+- TOP 2.2: Unterausschuss Umwelt, Grünplanung und Klimaschutz
+- TOP 2.2.1.: Cosimabad: Suche eines Mobilfunkstandortes; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.2.2.: St.-Emmeran: Suchkreismitteilung; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.2.3.: Zamdorf-Süd: Realisierung eines Mobilfunkstandortes; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.2.4.: Herkomerplatz: Suche eines Mobilfunkstandortes; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.2.5.: Dianabrunnen: Realisierung eines Mobilfunkstandortes Lampsite; Anhörung des Referats für Klima- und Umweltschutz
+- TOP 2.2.6.: Instandsetzung von 3 Parkbänken am Boule Platz im Pühnpark; Antrag der SPD-Fraktion
+- TOP 2.2.7.: AWM-Nachbarschaftstag 2027 in der Regina-Ullmann-Straße; Interfraktioneller Antrag
+- TOP 2.2.8.: Prüfung der Installation von Photovoltaikanlagen auf den Dächern des Cosimawellenbads und des Prinzregentenbades; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.2.9.: MünchenBudget 2026: Eingereichte Vorschläge für den 13. Stadtbezirk
+- TOP 2.2.10.: Austausch zum Baumentscheid München im BA 13; Anliegen aus der Bürgerschaft (Vorstellung in der Vollgremiumssitzung)
+- TOP 2.2.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.12.: Verschiedenes, Termine
+- TOP 2.2.2: Baumfällungen (Anhörungen)
+- TOP 2.2.2.1.: Prinzregentenstr. 99 - 111
+- TOP 2.2.2.2.: Traberstr. 1 - 3a
+- TOP 2.2.2.3.: Mauerkircherstr. 85
+- TOP 2.2.2.4.: Knappertsbuschstr. 17 - 33
+- TOP 2.2.2.5.: Lentnerweg 16
+- TOP 2.2.2.6.: Effnerstr. 51
+- TOP 2.2.2.7.: Oderstr. 22
+- TOP 2.2.2.8.: Berenter Str. 19
+- TOP 2.2.2.9.: Daglfinger Str. 80
+- TOP 2.2.2.10.: Rudliebstr. 52 - 54
+- TOP 2.2.2.11.: Stargarder Str. 15 - 15a
+- TOP 2.2.2.12.: Steubstr.; Az.: 9.41-2026-18787-5
+- TOP 2.2.2.13.: Steubstr.; Az.: 9.41-2026-18781-5
+- TOP 2.2.2.14.: Oberföhringer Str. 274
+- TOP 2.2.2.15.: Poschingerstr. 5
+- TOP 2.2.2.16.: Spretistr. 7b
+- TOP 2.2.2.17.: Glücksburger Str. 85
+- TOP 2.2.2.18.: Cosimastr. 226 - 230
+- TOP 2.2.2.19.: Flensburger Str. 10
+- TOP 2.3: Unterausschuss Mobilität
+- TOP 2.3.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 13 Bogenhausen Widmung der Gesamtstrecke des Maria-Nindl-Platzes
+- TOP 2.3.2.: Konkretisierung der Einrichtung von Lieferzonen in der Niedermayerstraße; Anhörung des Mobilitätsreferats
+- TOP 2.3.3.: Riedenburger Str. 7: Einführung Pkw-Parken; Anhörung des Mobilitätsreferats
+- TOP 2.3.4.: Verkehrssicherheit im Bereich der Grundschule an der Ostpreußenstraße erhöhen; Antrag der CSU-Fraktion
+- TOP 2.3.5.: Reparatur Parkplatz der Bezirkssportanlage an der Westpreußenstraße; Antrag der SPD-Fraktion
+- TOP 2.3.6.: Dauerhafte Umsetzung des Verkehrsversuches in der Eggenfeldener Straße; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.7.: Verkehrssicherheit erhöhen: Umwandeln einer 2er-Parkbucht in eine Abstellfläche für e-Roller und Lastenfahrräder; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.8.: Verbesserung der Verkehrs- und Parksituation in Alt-Bogenhausen; Anliegen aus der Bürgerschaft
+- TOP 2.3.9.: Einrichtung einer Tempo-30-Zone in der Denninger Straße auf Höhe der Kinderkrippe; Anliegen aus der Bürgerschaft
+- TOP 2.3.10.: Zügige Prüfung und Einführung des Anwohnerparkens im Gebiet Mühlbaurstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.11.: S-Bahn-Station Daglfing: Errichtung Zebrastreifen oder Ampel zum Überqueren der Straße; Anliegen aus der Bürgerschaft
+- TOP 2.3.12.: Lange Laufwege durch Schienenersatzverkehr aufgrund der Bauarbeiten der S8; Anliegen aus der Bürgerschaft
+- TOP 2.3.13.: Prüfung einer Spielstraße in der Barlowstraße; Anliegen aus der Bürgerschaft
+- TOP 2.3.14.: MünchenBudget 2026: Eingereichte Vorschläge für den 13. Stadtbezirk
+- TOP 2.3.15.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.16.: Verschiedenes, Termine
+- TOP 2.4: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.4.1.: Vorstellung des Bürger- und Kulturtreffs „Neue Ziegelei“
+- TOP 2.4.2.: Aktuelle Informationen des Sozialreferats zum Zukunftssicherungsprozess
+- TOP 2.4.3.: „kreuz & quer Quartiersfest“ am 21.11.2026 auf dem Maria-Nindl-Platz; Anhörung des Kreisverwaltungsreferats
+- TOP 2.4.4.: Hintergründe für Aufstellung der Schilder am Wilhelm-Hausenstein-Gymnasium; Antrag der SPD-Fraktion
+- TOP 2.4.5.: Temperaturmanagement Mobile Raumeinheit Ruth-Drexel-Schule verbessern
+- TOP 2.4.6.: Antrag des BA 8 "Antworten der Referate zusätzlich in Einfacher Sprache" (BA-Antrag 26-32 / B 00466)
+- TOP 2.4.7.: Zahnbrechersiedlung: Aufstellung eines öffentlichen Bücherschranks; Anliegen aus der Bürgerschaft - Rückmeldung des KVR -
+- TOP 2.4.8.: Öffentliche Stellplätze für Paketstationen; Anliegen aus der Bürgerschaft
+- TOP 2.4.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.10.: Verschiedenes, Termine
+- TOP 2.5: Unterausschuss Budget und Satzung
+- TOP 2.5.1.: (E) Stadtbezirksbudget Turnerschaft-Jahn-München Erweiterung und Renovierung der vorhandenen, veralteten und unterdimensionierten Spielfläche, Herbst 2026 - Frühjahr 2027 2.738,80 €; Az. 0262.100-13-0570
+- TOP 2.5.2.: (E) Stadtbezirksbudget EKI "Die Schlümpfe" e.V. Professionalisierung der Innenausstattung vom 01.12.2026 - 28.02.2027 4.982,00 €; Az. 0262.100-13-0571
+- TOP 2.5.3.: (E) Stadtbezirksbudget foolpool GbR Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April - November 2027 8.581,00 Euro, Az.: 0262.100-13-0572
+- TOP 2.5.4.: (E) Stadtbezirksbudget other writers need to concentrate Aufstören! Sorgearbeit im Literaturbetrieb (beantragt: Kinder-, Jugendbuchlesung) am 12.06.2027 1.249,00 €; Az. 0262.100-13-0573
+- TOP 2.5.5.: (E) Stadtbezirksbudget KunstMobil München e. V. Die Kunst-Koffer kommen vom 11.01.2027-31.12.2027 5.000,00 €; Az. 0262.100-13-0575
+- TOP 2.5.6.: (E) Stadtbezirksbudget die urbanauten Spiel mich! Vom 01.01.2027 - 15.12.2027 3.250,00 €; Az. 0262.100-13-0574
+- TOP 2.5.7.: MünchenBudget 2026: Eingereichte Vorschläge für den 13. Stadtbezirk
+- TOP 2.5.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.9.: Verschiedenes, Termine
+- TOP 2.6: Unterausschuss Stadtplanung und Bauordnung
+- TOP 2.6.1.: Vorstellung des aktuellen Planungsstands des Bauprojekts an der Ecke Cosimastraße / Johanneskirchner Straße - Protokoll der Stadtgestaltungskommission -
+- TOP 2.6.2.: Freischützstr. 20 - 22 - Neubau einer Wohnanlage mit 49 Wohneinheiten und einer Tiefgarage - mit Mobilitätskonzept
+- TOP 2.6.3.: Bülowstr. 10 - 20 - Nachverdichtung, Bülow / Gebelestr, neues Innenhofgebäude mit Garage, Anbau Gebelestr mit Mobilitätskonzept - (Bülowstr. 10 - 20 / Gebelestr. 11 - 13)
+- TOP 2.6.4.: Schädlerweg 5 - Neubau eines Mehrfamilienhauses mit einer Tiefgarage
+- TOP 2.6.5.: Friedrich-Eckart-Str. 20 - 22 - Nachverdichtung durch den Neubau eines Mehrfamilienhauses mit 14 Wohneinheiten sowie einer Tiefgarage mit 14 Stellplätzen - VORBESCHEID
+- TOP 2.6.6.: Hofererweg 3 - 5 - Abbruch eines Bestandsgebäudes und Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID
+- TOP 2.6.7.: Röntgenstr. 19 - Erweiterung und Umbau eines Einfamilienhauses und Herstellung von 3 Tiefgaragenstellplätzen - VORBESCHEID
+- TOP 2.6.8.: Hornsteinstr. 18 - Aufstockung eines Bestandsgebäudes zur zusätzlichen Wohnraumschaffung - VORBESCHEID
+- TOP 2.6.9.: Kunihohstr. 9 - 11 - Abbruch und Neuerrichtung von 24 Balkonen, sowie Aufstockung und Erweiterung von 6 Wohneinheiten an einem best. Mehrfamilienhaus
+- TOP 2.6.10.: Planfeststellung für das Vorhaben „Netzergänzende Maßnahme (NeM 23): Johanneskirchen - Flughafen München; Anhörung des Referats für Stadtplanung und Bauordnung
+- TOP 2.6.11.: Wurde das Straßenbahn-Bauprojekt in der Johanneskirchner Straße eingestellt?; Anfrage der SPD-Fraktion
+- TOP 2.6.12.: Olympia braucht den Tunnel: Olympisches und Paralympisches Dorf im Münchner Nordosten nur mit Bahntunnel zwischen Zamdorf und Johanneskirchen; Antrag der CSU-Fraktion
+- TOP 2.6.13.: Ja zu Olympia und gerade deswegen Städtebauliche Entwicklungsmaßnahme endgültig beenden!; Antrag der CSU-Fraktion
+- TOP 2.6.14.: Ersatzpflanzungen für gefällte Bäume entlang der Johanneskirchner Straße; Antrag der CSU-Fraktion
+- TOP 2.6.15.: Verschiedenes, Termine
+- TOP 2.6.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.2: Baumfällungen lt. Plan
+- TOP 2.6.2.1.: Bülowstr. 10 - 20 - Nachverdichtung, Bülow / Gebelestr, neues Innenhofgebäude mit Garage, Anbau Gebelestr mit Mobilitätskonzept - (Bülowstr. 10 - 20 / Gebelestr. 11 - 13)
+- TOP 2.6.2.2.: Friedrich-Eckart-Str. 20 - 22 - Nachverdichtung durch den Neubau eines Mehrfamilienhauses mit 14 Wohneinheiten sowie einer Tiefgarage mit 14 Stellplätzen - VORBESCHEID
+- TOP 2.6.2.3.: Hofererweg 3 - 5 - Abbruch eines Bestandsgebäudes und Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID
+- TOP 2.6.2.4.: Freischützstr. 20 - 22 - Neubau einer Wohnanlage mit 49 Wohneinheiten und einer Tiefgarage - mit Mobilitätskonzept
+- TOP 2.6.2.5.: Mauerkircherstr. 17 - 19 - Antrag auf Vorbescheid zum Neubau eines dreigeschossigen Wohngebäudes mit Souterrain-Tiefgarage und 10 Wohnungen - VORBESCHEID
+- TOP 3: Erledigung von Beschlüssen
+- TOP 3.1.: Anfrage: Welche Auswirkungen wird der Prozess der AG Zukunftssicherung auf soziale Angebote in Bogenhausen haben?
+- TOP 3.2.: Hitzeschutz am Spielplatz am Böhmerwaldplatz
+- TOP 3.3.: Hornsteinstr. 18 - Aufstockung eines Bestandsgebäudes zur zusätzlichen Wohnraumschaffung - VORBESCHEID - Antrag zurückgezogen -
+- TOP 3.4.: Austrocknung des Hüllgrabens in Daglfing
+- TOP 3.5.: Gebührenfreier Parkplatz am Cosimawellenbad (Folgeantrag) - Rückmeldung zum BA-Beschluss aus der Sitzung 08/26 -
+- TOP 3.6.: Eggenfeldener Str. 104 - Bauvorbescheid für ein Beherbergungsbetrieb oder Studentenwohnheim - VORBESCHEID - Antrag zurückgezogen -
+- TOP 3.7.: Johanneskirchner Str. 163 - Neubau eines MF-Wohnhauses mit 3 Wohneinheiten und 3 Stellplätzen - VORBESCHEID - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 3.8.: Flaschenträgerstr. 13 - 17 - Aufstockung eines bestehenden Wohngebäudes um zwei Wohngeschosse mit Anbau von drei Außenaufzügen (ein Aufzug je Treppenhaus) - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 4: Unterrichtungen (ohne Vorberatung)
+- TOP 4.1: Direktorium
+- TOP 4.1.1.: Förderung bürgerschaftlichen Engagements (BE); Stellungnahme der Stadtverwaltung zum 8. Bericht des Fachbeirats Bürgerschaftliches Engagement München
+- TOP 4.2: Baureferat
+- TOP 4.2.1.: (U) Koordiniertes Bauwerkserhaltungsprogramm Brücken Umsetzung des Eckdatenbeschlusses 2027 (BAU-022) 1. Sachstandsbericht 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 4.2.2.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden (Bahnübergänge Fasanerie, Lerchenauer Straße und Lerchenstraße) - Bekanntgabe -
+- TOP 4.2.3.: Leistungsbilanz des Baureferats
+- TOP 4.3: Mobilitätsreferat
+- TOP 4.3.1.: Neues Radverkehrsnetz für München Stadtbezirksübergreifende Radverkehrsverbindungen
+- TOP 4.3.2.: Möhlstr. 7 (Westseite) – Objektschutz Polizei: Absolutes Haltverbot mit Zeitzusatz und Zusatz „Einsatzfahrzeuge frei“
+- TOP 4.3.3.: Oberföhringer Straße: Verstetigungen von bestehenden Tempo 30-Regelungen zwischen etwa Einmündung Zur alten Ziegelei (im Norden) und Einmündung Wahnfriedallee (im Süden)
+- TOP 4.3.4.: An der Salzbrücke (Höhe Ausgang / Ausfahrt Bürgerpark Oberföhring): Gefahrzeichen „Kinder“ (Z. 136 StVO)
+- TOP 4.3.5.: Scheinerstraße: Tempo 30-Regelungen (2 x Fußgängerüberweg, Spielplatz und Verstetigung)
+- TOP 4.3.6.: Brucknerstr. 1: Änderung der Zeitbeschränkung Kurzzeitparken
+- TOP 4.3.7.: Dorpater Straße Nordseite, ggü. Hs.Nr. 14: Kurzzeitparken mit Zeitbeschränkung
+- TOP 4.3.8.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Niedermayerstraße
+- TOP 4.3.9.: Prinzregentenstr. 122 – 130: Änderung Z. 286 StVO in Z. 230 StVO (Lieferzone)
+- TOP 4.3.10.: Lichtsignalanlage am Knotenpunkt Effnerstraße / Wahnfriedallee - Rückmeldung des Mobilitätsreferats zu einem Anliegen aus der Bürgerschaft -
+- TOP 4.4: Kommunalreferat
+- TOP 4.4.1.: An der Cosimastr. / Englschalkinger Str.: Nutzung als Christbaumverkaufsplatz vom 20.11. - 27.12.2026; Anhörung des Kommunalreferats - Eilentscheidung durch den BA-Vorsitzenden -
+- TOP 4.4.2.: Konzept Nachbarschaftstage 2027 - Präsentation des AWM
+- TOP 4.5: Kreisverwaltungsreferat
+- TOP 4.5.1.: Anzeige eines Feuerwerks am 14.11.2026
+- TOP 4.6: Kulturreferat
+- TOP 4.7: Referat für Stadtplanung und Bauordnung
+- TOP 4.7.1.: Asgardstr. 19
+- TOP 4.7.2.: Dehmelstr. 6
+- TOP 4.7.3.: Oberföhringer Str. 11
+- TOP 4.7.4.: Rückmeldung zu BA-Stellungnahmen zu Bauvorhaben: - Marienburger Str. 52 - Putziger Str. 4 - 6 - Hans-Heiling-Str. 1
+- TOP 4.7.5.: Stadtentwicklung im Münchner Nordosten (olympisches und paralympisches Dorf) und Münchner Norden (Feldmoching-Ludwigsfeld) Finanzierungsbeschluss Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 4.8: Referat für Bildung und Sport
+- TOP 4.8.1.: (U) Bildungsbauoffensive - Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 4.9: Sozialreferat
+- TOP 4.9.1.: Info-Blatt des Referates für Bildung und Sport im Schul- und Kindertagesstättenbereich für den 13. Stadtbezirk
+- TOP 4.9.2.: Leistungsbilanz des Sozialreferates 2026
+- TOP 4.10: Personal- und Organisationsreferat
+- TOP 4.11: Stadtkämmerei
+- TOP 4.12: Referat für Arbeit und Wirtschaft
+- TOP 4.13: MVG
+- TOP 4.14: IT-Referat
+- TOP 4.15: Referat für Klima- und Umweltschutz
+- TOP 4.15.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)
+- TOP 4.15.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV) Stadtwerke München GmbH
+- TOP 4.16: Gesundheitsreferat
+- TOP 4.17: sonstige städtische Betriebe
+- TOP 4.17.1.: Seismikmessungen zur Erkundung der tiefen Geothermie – Anregungen durch Vibrotrucks in Ihrem Bezirksauschuss beginnen in etwa einer Woche
+- TOP 4.17.2.: SWM Baumaßnahmen: - Stromprojekt Maria-Theresia-Straße - Stromprojekt Gustav-Freytag-Straße 4
+- TOP 4.17.3.: Information zu baustellenbedingten Fahrplan- und Linienwegsänderungen auf den Linien U4, U5 und U8
+- TOP 4.18: sonstige Unterrichtungen
+- TOP 5: Sonstiges
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Mitteilungen der BA-Vorsitzenden
+- TOP 5.3: Mitteilungen der MdBA
+- TOP 5.4: Termine
+- TOP 6: Nichtöffentlicher Teil
+- TOP 2.3.12.1: Schluss mit dem Chaos beim S8-Schienenersatzverkehr; Antrag der Fraktion Bündnis90/DIE GRÜNEN
+- TOP 2.3.9.1: Umwandlung der Verkehrsinsel in der Denninger Straße 195 in einen Fußgängerüberweg; Antrag der Fraktion Bündnis90/DIE GRÜNEN
