@@ -15,6 +15,8 @@ Satzzeichen im Wort) und die bis 2019 unverändert blieben, sind in der amtliche
 Commit nennt diese Korrekturen. Andere Abweichungen werden nie ersetzt: die Vorschrift wird dann zurückgehalten (im
 ersten Commit des Gesetzes unter `Zurückgehalten:` genannt). Maßgeblich ist das amtliche Bundesgesetzblatt.
 
+Korrektur (18. November 2026): Sieben Commits tragen ein zu spätes Datum (2019-08-01 bis 2025-01-01). Ihre Änderungsgesetze traten in Teilen an verschiedenen Tagen in Kraft, der Commit nahm den spätesten Tag für das ganze Gesetz. Der Text ist richtig, nur das Datum nicht. Die richtigen Tage je Artikel und Nummer stehen in [`data/date-corrections.json`](data/date-corrections.json); die Geschichte wird nicht umgeschrieben.
+
 **English.** This folder holds older versions of federal acts, in force before this record's first Gesetze im Internet
 snapshot (10 June 2019, `bund/gesetze/`). They are rebuilt from the Federal Law Gazette: starting from an act's last
 promulgated consolidated text (Neufassung), every amending act listed in the Fundstellennachweis A is applied to the
@@ -28,3 +30,5 @@ older issues are scans and their text is OCR. Words that differ from the 2019 te
 characters, hyphenation, spacing, marks inside a word) and that stood unchanged until 2019 are written in the official
 2019 wording; each commit lists these corrections. Other differences are never replaced: the provision is held back
 instead (listed under `Zurückgehalten:` in the act's first commit). The official Federal Law Gazette is authoritative.
+
+Correction (18 November 2026): seven commits carry a date that is too late (2019-08-01 to 2025-01-01). Their amending acts took effect in parts on different days, and the commit took the latest day for the whole act. The text is right; only the date is not. The right days per Artikel and Nummer are in [`data/date-corrections.json`](data/date-corrections.json); the history is not rewritten.
