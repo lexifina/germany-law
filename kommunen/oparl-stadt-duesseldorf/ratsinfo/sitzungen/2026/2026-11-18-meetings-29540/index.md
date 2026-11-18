@@ -1,0 +1,52 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-11-18T15:00:00+01:00
+- Ende: 2026-11-18T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29540
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29540
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00603527.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 3.1: Genehmigung der Niederschrift über die öffentliche Sitzung des Ordnungs- und Verkehrsausschusses vom 15.04.2026
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der FDP-Ratsfraktion: Verhandlungsstand Düsselbike zwischen Asta und CMD Düsseldorf
+- TOP 5: Anträge
+- TOP 6: Mitteilungen der Verwaltung
+- TOP -: Verwaltungsvorlagen
+- TOP 7: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 – Derendorf, Golzheim
+- TOP 8: Wahl einer Schiedsperson für den Schiedsamtsbezirk 8 – Oberkassel, Niederkassel
+- TOP 9: Verkaufsoffene Sonntagnachmittage im Jahr 2027
+- TOP 10: Veranstaltungen auf dem Burgplatz 2027
+- TOP 11: Karnevalszelt auf dem Burgplatz 2027
+- TOP 12: Barrierefreier Haltestellenausbau „St. Vinzenz-Krankenhaus“
+- TOP 13: Radverkehrsführung Benrather Schloßallee im Abschnitt Schöne Aussicht / Pigageallee
+- TOP 14: Sondernutzungssatzung
+- TOP 15: Verlängerung einer NachtExpress-Linie der DVG nach Wittlaer
+- TOP 16: Angebotserweiterung 789
+- TOP 17: Gasbeleuchtung: Aktueller Sachstand zum Denkmalrechtlichen Verfahren und zur Umsetzung
+- TOP 18: Öffentliche Beleuchtung - Teilabschaltung der Gasbeleuchtung als Maßnahme zur Haushaltskonsolidierung
+- TOP 19: Gebührenordnung für das Bewohnerparken (Bewohnerparkgebührenordnung)
+- TOP 19.1: Änderungsantrag der SPD/Volt-Ratsfraktion zum TOP Ö 19 „Gebührenordnung für das Bewohnerparken (Bewohnerparkgebührenordnung)“ (OVA/082/2026/2)
+- TOP 20: Verkehrskonzept in der (Vor-)Weihnachtszeit
+- TOP 21: Instandsetzungen Verkehrsflächen für die Jahre 2027 und 2028
+- TOP 22: Haushaltsanträge
+- TOP 22.1: Haushaltsantrag Ratsfraktion Die Linke: Sicherung der Umsetzung des Radwegenetzes durch Einsatz zusätzlichen Fachpersonals
+- TOP 22.2: Haushaltsantrag Ratsfraktion Die Linke: Keine Kürzungen bei den Radwegen: Die für 2027/2028 veranschlagten Mittel werden wieder aufgenommen
+- TOP 22.3: Haushaltsantrag Ratsfraktion Die Linke: 2 Millionen Euro für den Ausbau von Rasengleisen
+- TOP 22.4: Haushaltsantrag Ratsfraktion Die Linke: Eine Studie zur „letzten Meile“ im Lieferverkehr: 100.000 Euro für die Datengrundlage
+- TOP 22.5: Haushaltsantrag der SPD/Volt-Ratsfraktion: Für eine funktionierende Fahrradstadt – Rücknahme der Sparmaßnahmen im konsumtiven Bereich
+- TOP 23: Haushaltsplanentwurf des Ordnungsamtes für die Jahre 2027 und 2028
+- TOP 24: Haushaltsplanentwurf des Amtes für Brücken-, Tunnel- und Stadtbahnbau für die Jahre 2027 und 2028
+- TOP 25: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für die Jahre 2027 und 2028
+- TOP 26: Entfall Haltestelle Gilbachstraße
+- TOP 27: Einsatz eines Scanfahrzeuges
