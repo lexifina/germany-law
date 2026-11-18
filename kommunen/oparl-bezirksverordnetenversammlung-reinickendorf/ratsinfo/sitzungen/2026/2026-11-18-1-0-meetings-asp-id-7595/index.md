@@ -1,0 +1,86 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2026-11-18T17:00:00+01:00
+- Ende: 2026-11-18T17:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7595
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=7595
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=668493
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen/Aktuelles
+- TOP 2: Dringlichkeiten und Festsetzung der Tagesordnung
+- TOP 2.1: Änderungsantrag zur Änderung des § 18 Abs. 1 der Geschäftsordnung der BVV Reinickendorf - Anpassung der Zahl der Bürgerdeputierten an das Bezirksverwaltungsgesetz
+- TOP 2.2: Bildung der Ausschüsse und Festlegung ihrer Zusammensetzung
+- TOP 3: Einwohnerfragestunde
+- TOP 3.1: Fahrradwildwuchs vorm S Bahnhof Hermsdorf
+- TOP 3.2: Aufwendung finanzieller Mittel für Baustelleneinrichtungen
+- TOP 3.3: Der Neubau Ollenhauerstraße im Lichte der Stellungnahme des Wissenschaftlichen Beirats für Klimaanpassung Berlin vom 04.11.2026
+- TOP 3.4: Neubauplanung Ollenhauerstraße - Wurden neuere Erkenntnisse systematisch außer Acht gelassen? - Wie wichtig sind Hitze-, Klima- und Menschenschutz in Reinickendorf? - Weiter mit der autogerechten Stadt? - Brauchen wir sechs Fahrstreifen in der Ollenhauerstraße für die Autos? - Wozu 115 klimaangepasste Straßenbäume abholzen? - Ist dies der Beitrag des Bezirksamtes für mehr Hitzeviertel im Bezirk? - Muss erst die Klage der NaturFreunde Berlin vor dem Verwaltungsgericht Berlin für Vernunft sorgen?
+- TOP 3.5: Verantwortungsbewusster Umgang mit Laub
+- TOP 3.6: Neubau Ollenhauerstraße: Ausschreibungen und Vergaben trotz gravierender Einwände zu den Planungen, u.a. vom Wissenschaftlichen Beirat für Klimaanpassung Berlin vom 04.11.2026
+- TOP 3.7: Katastrophenschutz in Reinickendorf
+- TOP 4: Konsensliste
+- TOP 5: Mündliche Anfragen
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen
+- TOP 7: Feststellungen
+- TOP 8: Vorlagen zur Kenntnisnahme
+- TOP 8.1: Erstellung eines Tätigkeitsberichts der Integrationsbeauftragten
+- TOP 8.2: Mülltonnen im Eingangsbereich der Max-Beckmann-Oberschule
+- TOP 8.3: Bauprojekt Cité Foch (I): Parkplätze
+- TOP 8.4: Mobilitätskonzept für das TetraPak-Gelände aktualisieren
+- TOP 8.5: Barrierefreiheit am S-Bahnhof Wittenau (Eingang Göschenplatz) herstellen
+- TOP 8.6: Stärkung der Spiel- und Sportangebote auf dem Schulhof des Thomas-Mann-Gymnasiums
+- TOP 8.7: Kriterien für zukünftige Genehmigungsverfahren für das Tegeler Hafenfest
+- TOP 8.8: Wärmeplanung für das TetraPak Gelände
+- TOP 8.9: Gedenktafel für Dr. Michael Zaremba
+- TOP 8.10: Maßnahmen zur Verbesserung der Sicherheits- und Hygienesituation am Sportpark Kopenhagener Straße
+- TOP 8.11: Unterirdische Erschließung des Planungsgebietes TXL-Nord untersuchen
+- TOP 8.12: Frohnauer Straße Höhe Friedrichsthaler Weg in Hermsdorf für den Übergang sicherer gestalten
+- TOP 8.13: Fußgängerüberweg Schulzendorfer Straße Höhe Fichtestraße/Heidestraße in Hermsdorf an der Gustav-Dreyer-Grundschule
+- TOP 8.14: Hitzeschutz: Sofortmaßnahmen umsetzen!
+- TOP 8.15: Graffiti am S-Bahnhof Wittenau entfernen
+- TOP 8.16: Brückenwiderlager im Waidmannsluster Damm in Tegel von Graffiti befreien
+- TOP 8.17: Av. Charles de Gaulle 36
+- TOP 8.18: Sonderpflanzung Stadtbaumkampagne Frühjahr 2026 für Bezirk Reinickendorf
+- TOP 8.19: Reinigung der Fahrradabstellanlagen und Entfernung defekter Fahrräder am S-Bahnhof Wittenau
+- TOP 8.20: Temporäre Aufstellung von zwei metallverkleideten Tiny Houses als Winterschlafplätze für sozial Benachteiligte in Reinickendorf
+- TOP 8.21: BVG setzt auf mehr Sicherheit - auch für Reinickendorf! Führungen für besonders Schutzbedürftige
+- TOP 8.22: Ki in der Straßenunterhaltung im Land Berlin einsetzen
+- TOP 8.23: Erledigt ist nicht gleich erledigt!
+- TOP 8.24: Parkverbot für LKW in der Gotthardstr. konsequent kontrollieren und durchsetzen
+- TOP 8.25: Sofortiger Fäll- und Rodungsstopp am Havelufer (Abschnitte Konradshöhe bis Heiligensee)
+- TOP 8.26: Tempo 30 nachts auf der Heiligenseestraße und Hennigsdorfer Straße
+- TOP 8.27: Hermsdorf blüht auf: Bepflanzung in der Heinsestraße
+- TOP 8.28: Flüchtlingsunterkunft in der Bernauer Straße 138a in Tegel jetzt wie geplant in normalen Wohnraum umwandeln
+- TOP 8.29: Häufigere Reinigung des Umfeldes des S-Bahnhofs Waidmannslust durch die BSR
+- TOP 8.30: Dem Titusweg geht ein Licht auf: Bessere Straßenbeleuchtung für den Titusweg
+- TOP 8.31: Neue Perspektiven und langfristige Sicherung des Wochenmarkts Frohnau
+- TOP 8.32: Sichere und und beleuchtete Zuwegungen zum S-Bahnhof Waidmannslust schaffen
+- TOP 8.33: Beleuchtung und Sichtverhältnisse rund um den S- und U-Bahnhof Wittenau gezielt verbessern
+- TOP 8.34: Treppenstufen im Ausgang des S-Bahnhofs Wittenau (Wilhelmsruher Damm) erneuern
+- TOP 8.35: Mehr Barrierefreiheit an den Bushaltestellen S+U Wittenau und Märkische Zeile
+- TOP 8.36: Belebung der Cité Foch durch gewerbliche Nutzung voranbringen
+- TOP 8.37: Kein Straßenbahnbetriebshof auf dem Flughafen Tegel-Gelände vorsehen
+- TOP 8.38: Aufstellung von Mülleimern am Primusweg
+- TOP 8.39: Zusätzliche Bushaltestelle des X33 für Saatwinkel in den Sommermonaten
+- TOP 8.40: Neue Mülleimer für Saatwinkel
+- TOP 8.41: Entsorgungsmöglichkeiten am Ausgang des Parks Alt-Wittenau / Ecke Techowpromenade verbessern
+- TOP 8.42: Durchgängige Linienführung der Buslinie 220 bis Tegel
+- TOP 8.43: Verbesserung der Abendtaktung der Buslinie 124 prüfen
+- TOP 8.44: Mehr BSR-Mülleimer auf der Frohnauer Brücke
+- TOP 9: Große Anfragen
+- TOP 10: Vorlagen zur Beschlussfassung
+- TOP 10.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission
+- TOP 11: Beschlussempfehlungen von Ausschüssen
+- TOP 12: Anträge
+- TOP 13: Ersuchen
+- TOP 14: Empfehlungen
+- TOP 14.1: Sichere Querungsmöglichkeit auf der Heiligenseestraße auf Höhe Wesselburerweg
+- TOP 14.2: Wasserqualität des Schäfersees verbessern
+- TOP 15: Wahl der Bezirksstadträtin / des Bezirksstadtrates, zugleich zur stellvertretenden Bezirksbürgermeisterin / zum stellvertretenden Bezirksbürgermeister
