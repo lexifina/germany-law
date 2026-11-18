@@ -1,0 +1,71 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2026-11-18T17:00:00+01:00
+- Ende: 2026-11-18T19:05:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8328
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=8328
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=511507
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen
+- TOP 2: Protokollgenehmigung
+- TOP 3: Einwohnerfragestunde - Der Tagesordnungspunkt entfällt!
+- TOP 4: Vorlagen des Kinder- und Jugendparlaments
+- TOP 5: je eine Priorität pro Fraktion
+- TOP 6: Vorlagen des Bezirksverordnetenvorstehers
+- TOP 6.1: Ablehnung der Mittel beantragt durch den Sondermittelantrag lfd. Nr. 20 / 2026
+- TOP 6.2: Sitzungstermine sowie sitzungsfreie Zeit (Ferienzeit) der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2027
+- TOP 7: Vorlagen zur Beschlussfassung
+- TOP 7.1: Einrichtung neuer Parkzonen 95 und 93 zur Beschlussfassung an die BVV auf Grundlage des Berichts zum Abschluss der Machbarkeitsstudie zur Parkraumbewirtschaftung der Parkzone 95 "Grazer Platz" in Schöneberg sowie der Parkraumbewirtschaftung der Parkzone 93 "Lindenhofsiedlung". Drucksachen Nr. 0718/XX und 0869/XXI.
+- TOP 7.2: Schulnetz- und Schulstandortplanung Tempelhof-Schöneberg im Rahmen der Fortschreibung der bezirklichen Schulentwicklungsplanung
+- TOP 8: Mündliche Anfragen
+- TOP 9: Beschlussempfehlungen
+- TOP 9.1: Prävention und Bearbeitung von Mobbing
+- TOP 10: Anträge / Wahlen der Bezirksamtsmitglieder
+- TOP 10.1: Wahl des Bezirksbürgermeisters
+- TOP 10.2: Wahl einer stellvertretenden Bezirksbürgermeisterin und zugleich eines Bezirksamtsmitglieds
+- TOP 10.3: Wahl eines Bezirksamtsmitglieds
+- TOP 10.4: Wahl eines Bezirksamtsmitglieds
+- TOP 10.5: Wahl eines Bezirksamtsmitglieds
+- TOP 10.6: Wahl eines Bezirksamtsmitglieds
+- TOP 10.7: BVV-Sondermittel spenden Wärme
+- TOP 11: Große Anfragen
+- TOP 12: Mitteilungen zur Kenntnisnahme
+- TOP 12.1: Flächendeckender verlässlicher Winterdienst
+- TOP 12.2: Bei Glatteis die Verkehrswege flächendeckend sichern
+- TOP 12.3: Harte Strafen für Raser: Konfiszierung und Versteigerung von Fahrzeugen
+- TOP 12.4: Ein Alpha-Siegel für das Sozialamt
+- TOP 12.5: Kita-Eigenbetriebe lebensfähig aufstellen
+- TOP 12.6: Aufhebung des Beschlusses vom 22.09.2026 und Neufassung der Projektteilnahme „Struktur- und Status-Quo-Analyse zur Konzeptionierung eines bezirklichen Flächenmanagements für Wärmenetze im Land Berlin“
+- TOP 12.7: Umsetzung des § 11 EWG Bln – Zuständigkeiten und Verfahrensabläufe für den Umstellungsplan des bezirklichen Fuhrparks
+- TOP 12.8: Frauen öffentlich sichtbar machen – auch bei privaten Bauprojekten
+- TOP 12.9: Städtebauliche Entwicklung Kärntener Dreieck zwischen Ring- und Wannseebahn resp. Stammbahn
+- TOP 12.10: Den Lebensraum unserer gefiederten Mitbewohner erhalten
+- TOP 12.11: Fußwegeverbindung zwischen der Schöneberger Linse über den Werdauer Weg zur Rubensstraße verwirklichen
+- TOP 12.12: Vergabeverfahren mit Konzessionierung für E-Scooter umsetzen
+- TOP 12.13: Wegeverbindung zu S-Bhf. Buckower Chaussee
+- TOP 12.14: Wiederbeschaffung des Schriftzuges vom S-Bahnhof Lichtenrade
+- TOP 12.15: Erweiterung Soziales Erhaltungsgebiet „Schöneberger Insel“
+- TOP 12.16: Koordiniert mit anderen engagierten Bezirken gegen möbliertes Zeitwohnen vorgehen!
+- TOP 12.17: Vereinsbetrieb der Dackelranch Lichtenrade auch in Zukunft sicherstellen
+- TOP 12.18: Auf jedes Haus gehört ein Dach – Eigentümern energisch „auf das Dach steigen“
+- TOP 12.19: Sicher Abbiegen auf den Kirchhainer Damm
+- TOP 12.20: Gemeinschaftliches und selbstbestimmtes Wohnen im Alter in Tempelhof-Schöneberg stärken
+- TOP 12.21: Langenscheidtbrücke 2.0: Fahrspur für Radverkehr öffnen, Fußverkehr schützen, Brücke instand setzen
+- TOP 12.22: Bäume für Lucie Leydicke
+- TOP 12.23: Herrenlose Grundstücke
+- TOP 12.24: Aufwertung des Durchgangsweges vom Lichtenrader Damm über die Mellener Straße zum Lichtenrader Graben
+- TOP 12.25: Parkanlage Teilestraße bekannter und einladender machen
+- TOP 12.26: Eingangsbereich des Rathauses pflegen
+- TOP 12.27: Grünverbindung beleuchten – Schulweg sicherer gestalten
+- TOP 12.28: Eichenprozessionsspinner entfernen
+- TOP 12.29: Luitpoldstraße 23: Dachinstandsetzung im Wege der Ersatzvornahme durchführen
+- TOP 12.30: Bauturbo für Wohnungsbau auf untergenutzten Gewerbeflächen
+- TOP 12.31: Teil-Funktionslosigkeit des Baunutzungsplans, Baustufe V/3, für das gemischte Gebiet zwischen dem Innsbrucker Platz im Süden, der Bezirksgrenze westlich der Grunewaldstraße, der Bahntrasse im Osten und nördlich der Yorckstraße
+- TOP 12.32: Bei schwerwiegenden Mängeln in Wohngebäuden: Schnellstmöglich Anordnungen und Ersatzvornahmen vornehmen
