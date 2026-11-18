@@ -215,3 +215,11 @@ robots.txt disallows Anthropic's crawler by name), 13 council OParl hosts with `
 ratsinfo.bad-muenstereifel.de, ratsinfo.bruehl.de, ratsinfo.rheda-wiedenbrueck.de, ratsinfo.stadt-kerpen.de,
 ratsinfo.steinhagen.de, ratsinfo.wesseling.de and the Berlin districts' www.sitzungsdienst-*.de), www.govdata.de
 (`/ckan/api/`). The pace stays as stated; any check page, 401, 403 or 429 still stops a host for good.
+
+**Added later on 18 November 2026 (2)**:
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `bundestag/reden/wp01/` … `wp19/` | Bundestag open data, the text of each plenary record (pp01–pp19) | each record cut at its speaker lines ('Name (Fraktion): …', 'Präsident …: …', 'Name, Bundesminister …: …'); one commit per contribution; the text is unchanged, the split is machine-made and said so in each file |
+| `bundesrat/reden/` | DIP `plenarprotokoll-text` (Bundesrat) | cut at speaker lines as above; one commit per contribution |
+| `laender/sachsen-anhalt/landtag/vorgaenge/` | PADOKA (Landtag von Sachsen-Anhalt), the procedure index already read for the documents | one file per Vorgang, one commit per step (question, answer, motion, report, decision), dated by the step |
