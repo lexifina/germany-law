@@ -1,6 +1,0 @@
-# TOP 27: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: Ratsversammlung (2018-11-22)
-- Körperschaft: Leipzig
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c08a07a2c66dc3b525f42ea

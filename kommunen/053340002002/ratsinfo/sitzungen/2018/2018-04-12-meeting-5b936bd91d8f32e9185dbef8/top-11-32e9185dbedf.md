@@ -1,8 +1,0 @@
-# TOP 11: ‘Erlebniswelt Mobilität Aachen‘: Entwicklung Aachens als Demonstrationslabor für autonomes Fahren
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses (2018-04-12)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936bd81d8f32e9185dbedf
-- Ergebnis: geändert beschlossen
-- Beratung: https://oparl.politik-bei-uns.de/consultation/5b936bd81d8f32e9185dbedd

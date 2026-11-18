@@ -1,8 +1,0 @@
-# TOP 8: Prüfung des Jahresabschlusses 2010/2011 von Stadttheater und Musikdirektion Aachen
-
-- Sitzung: öffentliche Sitzung des Betriebsausschusses für das Theater und die VHS (2011-06-16)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9372ca1d8f32e9185fbcac
-- Ergebnis: ungeändert beschlossen
-- Beratung: https://oparl.politik-bei-uns.de/consultation/5b9372ca1d8f32e9185fbca7

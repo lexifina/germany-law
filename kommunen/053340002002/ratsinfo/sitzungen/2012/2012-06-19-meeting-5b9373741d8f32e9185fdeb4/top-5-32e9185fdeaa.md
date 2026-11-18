@@ -1,7 +1,0 @@
-# TOP 5: Mitteilungen
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Bürgerforums (2012-06-19)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9373731d8f32e9185fdeaa
-- Ergebnis: (offen)

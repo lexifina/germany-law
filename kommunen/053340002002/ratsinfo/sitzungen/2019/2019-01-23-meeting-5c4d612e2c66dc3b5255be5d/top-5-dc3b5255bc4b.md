@@ -1,6 +1,0 @@
-# TOP 5: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2019-01-23)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d61282c66dc3b5255bc4b

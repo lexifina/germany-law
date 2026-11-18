@@ -1,6 +1,0 @@
-# TOP 2: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Mitte (2012-12-05)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b93730b1d8f32e9185fcced

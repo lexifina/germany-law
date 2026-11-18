@@ -1,7 +1,0 @@
-# TOP 4: Fragestunde für Einwohnerinnen und Einwohner
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Richterich (2009-06-17)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936f981d8f32e9185eacae
-- Ergebnis: (offen)

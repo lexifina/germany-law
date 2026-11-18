@@ -1,8 +1,0 @@
-# TOP 3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2012 - Bereitstellung überplanmäßiger Mittel für den Bereich des IT-Managements
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Personal- und Verwaltungsausschusses (2013-01-09)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b93728b1d8f32e9185facee
-- Ergebnis: ungeändert beschlossen
-- Beratung: https://oparl.politik-bei-uns.de/consultation/5b93728b1d8f32e9185facea

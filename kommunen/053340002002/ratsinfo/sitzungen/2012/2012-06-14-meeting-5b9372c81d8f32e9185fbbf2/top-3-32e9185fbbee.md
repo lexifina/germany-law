@@ -1,6 +1,0 @@
-# TOP 3: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Betriebsausschusses für das Theater und die VHS (2012-06-14)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9372c81d8f32e9185fbbee

@@ -1,6 +1,0 @@
-# TOP 2: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Hauptausschusses (2012-09-05)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9373011d8f32e9185fcaaf

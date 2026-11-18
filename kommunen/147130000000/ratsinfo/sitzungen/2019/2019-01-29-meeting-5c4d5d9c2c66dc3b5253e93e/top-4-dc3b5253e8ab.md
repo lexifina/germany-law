@@ -1,6 +1,0 @@
-# TOP 4: Gelegenheit für Einwohneranfragen
-
-- Sitzung: SBB Südost (2019-01-29)
-- Körperschaft: Leipzig
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d5d9a2c66dc3b5253e8ab

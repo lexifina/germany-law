@@ -1,8 +1,0 @@
-# TOP 17: Vorhabenbezogener Bebauungsplan Nr. 941 - Eupener Straße/Höfchensweg - hier: -Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB -Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB -Empfehlung zum Satzungsbeschluss
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Mitte (2012-11-07)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b93731b1d8f32e9185fcfcd
-- Ergebnis: ungeändert beschlossen
-- Beratung: https://oparl.politik-bei-uns.de/consultation/5b93731b1d8f32e9185fcfcb

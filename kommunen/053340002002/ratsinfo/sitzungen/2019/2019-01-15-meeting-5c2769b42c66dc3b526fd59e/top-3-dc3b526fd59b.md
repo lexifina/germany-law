@@ -1,6 +1,0 @@
-# TOP 3: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Finanzausschusses (2019-01-15)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c2769b42c66dc3b526fd59b

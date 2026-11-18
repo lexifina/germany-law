@@ -1,8 +1,0 @@
-# TOP 5: Depot Talstraße Resümee der bisherigen Nutzungserfahrungen
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Betriebsausschusses Kultur (2018-11-15)
-- Körperschaft: Aachen
-- Öffentlich: ja
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5be657ec2c66dc3b52cc5c1d
-- Ergebnis: ungeändert beschlossen
-- Beratung: https://oparl.politik-bei-uns.de/consultation/5be657ec2c66dc3b52cc5c46

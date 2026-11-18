@@ -1,6 +1,0 @@
-# TOP 9: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: Sitzung Gesellschafterversammlung der Verkehrsgesellschaft Ludwigslust-Parchim mbH (2017-06-27)
-- Körperschaft: Landkreis Ludwigslust-Parchim
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730193f24bb7ed5127fb7a

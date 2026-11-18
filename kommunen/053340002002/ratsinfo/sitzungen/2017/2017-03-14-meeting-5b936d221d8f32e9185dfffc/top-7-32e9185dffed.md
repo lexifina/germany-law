@@ -1,6 +1,0 @@
-# TOP 7: nicht öffentlicher Tagesordnungspunkt
-
-- Sitzung: öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses (2017-03-14)
-- Körperschaft: Aachen
-- Öffentlich: nein
-- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936d221d8f32e9185dffed
