@@ -1,0 +1,52 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2026-11-18T15:00:00+01:00
+- Ende: 2026-11-18T00:00:00+01:00
+- Ort: Großer Veranstaltungsraum im Rheinblick 741, Pariser Straße 41, 40549 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/29514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: 1. Nachtrag zur Sitzung am 18.11.2026 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00603075.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Teich im Belsenpark - mündlicher Bericht -
+- TOP 3: Parkplatz am Kaiser-Wilhelm-Ring - Eingabe nach § 24 Gemeindeordnung NRW
+- TOP 4: Umsetzung der Stadtoase Am Kirschbaumwäldchen - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses -
+- TOP 5: Umsetzung der Stadtoase Niederdonker Straße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses -
+- TOP 6: Neuordnung des ruhenden Verkehrs auf der Schanzenstraße zwischen den Hausnummern 25 und 55
+- TOP 7: Neubau von Wohnungen im linksrheinischen Düsseldorf (Stadtbezirk 4) in den letzten Jahren, Anfrage des Bezirksvertreters Brien
+- TOP 8: Hitzeschutz und Bereitstellung kühler Aufenthaltsorte im Stadtbezirk 4, Anfrage der CDU-Fraktion
+- TOP 9: Außengastronomie und Nutzung öffentlicher Parkplätze im Stadtbezirk 4, Anfrage der AfD-Fraktion
+- TOP 10: Geschäft an der Sonderburgstraße 2, Anfrage der AfD-Fraktion
+- TOP 11: Sicherheitslage, Sauberkeit und Aufenthaltsqualität im Belsenpark, Anfrage der Bezirksvertreterin Isolde Maessen
+- TOP 12: Welche Cooling Center gibt es im Stadtbezirk 4 zu welchen Rahmenbedingungen?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 13: Wie hoch ist der aktuelle Leerstand bei Gewerbe-/Büroflächen im Stadtbezirk und wie will die Stadt damit in Zukunft umgehen?, Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 14: Stillstehendes Bauvorhaben Greifweg 4 am Belsenplatz - Sachstand zur angekündigten Veräußerung und Fertigstellung, Anfrage der CDU-Fraktion
+- TOP 15: Zustand der Fahrbahndecke und Sanierungsbedarf der Barmer Straße in Oberkassel, Anfrage der CDU-Fraktion
+- TOP 16: Neubau eines Discounters an der Schiessstraße, Anfrage der SPD-Fraktion
+- TOP 17: Straßensperrung an der Schiessstraße 2-4, Anfrage der SPD-Fraktion
+- TOP 18: Verkaufsoffene Sonntagnachmittage im Jahr 2027
+- TOP 19: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4 - Haushalt 2026 Liste A Schulen 2121101/52415400
+- TOP 20: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 4, Haushalt 2026 Liste B) Sonstige Gebäude 1.10.11.111.05.001 52415400 Bauunterhaltungsmittel 2026
+- TOP 21: Zuschüsse aus Mitteln der Bezirksvertretung 4 im Jahre 2026
+- TOP 22: Gedenkort zur Erinnerung an das ehemalige sogenannte "Judenhaus" in der Teutonenstraße, Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 23: Für mehr Sicherheit: Ein provisorischer Zebrastreifen zur Haltestelle Lörick, Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 24: Nachpflanzungen durch Spendenaktion "Mein Baum auf den Rheinwiesen", Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 25: Fahrradabstellanlagen am Belsenplatz - Prüfung alternativer Standorte und Erhalt der Aufenthaltsqualität vor Belsenplatz 2, Antrag der CDU-Fraktion
+- TOP 26: Verkehrssicherheit im Wohngebiet Düsseldorf-Lörick verbessern - widerrechtliches Parken in Kreuzungs- und Einmündungsbereichen dauerhaft verhindern, Antrag der CDU-Fraktion
+- TOP 27: Mehr Sicherheit für Kinder und Familien auf dem Spielplatz Nr. 9675 zwischen Fritz-Milster-Weg und Wickrather Straße, Antrag der CDU-Fraktion
+- TOP 28: Parksituation und Anwohnerparken im Bereich Dominikanerstraße, Sonderburgstraße und Cheruskerstraße bedarfsgerecht verbessern, überfraktioneller Antrag
+- TOP 29: Prüfung einer punktuellen Erweiterung des Haltverbots am Kaiser-Friedrich-Ring auf Höhe der Hausnummer 118, Antrag der SPD-Fraktion
+- TOP 30: Sichere Querung des Grevenbroicher Wegs in Lörick - Schulwegsicherung konsequent weiterentwickeln
+- TOP 31: Sockel des Denkmals "Abschied" sanieren
+- TOP 32: Graffiti auf Spielplätzen entfernen
+- TOP 33: Fassadenbegrünung an öffentlichen Gebäuden und Bauwerken
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 35: Genehmigung der Niederschrift der öffentlichen Sitzung SI-BV4/005/2026 vom 07.10.2026
+- TOP 36: Bebauungsplan Nr. 04/001 - Ehemaliger Güterbahnhof Oberkassel II - Aufstellungsbeschluss zur B-Planänderung
+- TOP 37: Ehemaliger Güterbahnhof Oberkassel II - Besonderes Vorkaufsrecht
