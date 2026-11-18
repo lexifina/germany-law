@@ -129,3 +129,35 @@ The work was not reviewed line by line by a lawyer. Only the Bundesgesetzblatt i
 - **28 October 2026.** Renamed `germany-law` at the user's request, so that every country has one repository named
   `<country>-law` with federal law as one part. Rebuilt with the Grundgesetz under `grundgesetz/` and all federal law under
   one folder per act (`bgb/`, `stgb/` …). All commit hashes changed. Refresh existing clones with `git fetch --force --tags`.
+
+## Parts added on 17 November 2026
+
+Each part is written by a bulk runner (one commit per official record, dated by its day, the record named as author)
+and replayed onto main. Rates are the ones used; robots.txt is treated as advisory (Alan, 2026-11-08) and noted here.
+
+| Part | Source | Access, rate | robots.txt / reservation |
+| --- | --- | --- | --- |
+| `bund/gesetze/` (new versions) | Gesetze im Internet via QuantLaw/gesetze-im-internet's daily archive (BSD-3), read with `tools/bundesrecht.py` | git, hourly check | GII: robots allow all, no TDM header |
+| `bund/bgbl/teil-1`, `teil-2` 1949–2022 | OffeneGesetze (api.offenegesetze.de, OKF DE), a copy of the Bundesgesetzblatt: title, dates, page, the PDF's text layer (unchecked, two-column pages interleaved) | documented API, 1 request in flight, ≥ 1 s | content-signal comment block without values |
+| `bund/bgbl/` 2023– | www.recht.bund.de, the binding electronic Bundesgesetzblatt: page metadata, ELI, PDF text layer; PDF MD5 checked against the page | 1 request every ≥ 30 s (robots Crawl-delay 30) | robots allows /bgbl/ |
+| `laender/<land>/` | lexifina/germany-{bavaria,saxony,brandenburg,bremen,north-rhine-westphalia,hamburg}-law, replayed commit for commit (same blobs, same dates, trailer `Uebernommen-aus:`), tree SHA checked per 2,000 commits | git | as recorded in each source repository; landesrecht-hamburg.de (juris) sends `tdm-reservation: 1` |
+| `rechtsprechung/<gericht>/` | lexifina/germany-{bverfg,bgh,bverwg,bfh,bag,bpatg}-caselaw and germany-hamburg-caselaw, replayed the same way | git | as recorded in each source repository |
+| `rechtsprechung/<gericht>/` (new decisions, BSG) | www.rechtsprechung-im-internet.de (BMJ/juris): rii-toc.xml and one XML zip per decision; Leitsatz, Tenor, Tatbestand, Entscheidungsgründe, Gründe, abweichende Meinung written; Titelzeile, Orientierungssätze and Normenkette left out | 1 request in flight, ≥ 3 s | robots `Disallow: /` for `*`; HTTP header `tdm-reservation: 1` |
+| `bundestag/vorgaenge/` | DIP, Deutscher Bundestag/Bundesrat (search.dip.bundestag.de/api/v1, the public key from the DIP API help page): every Gesetzgebung Vorgang since 1949, one commit per procedural step | documented API, ≥ 1 s | DIP Nutzungsbedingungen (27.02.2023): machine access through the API; data may be reused with the source "Deutscher Bundestag/Bundesrat – DIP" |
+| `kommunen/` | Destatis GV-ISys, Gemeindeverzeichnis, Gebietsstand 30.09.2026 | one file | reproduction permitted with source credit |
+
+**Reservations of text and data mining.** rechtsprechung-im-internet.de, the juris-run Landesrecht portals, NI-VORIS and
+gesetzesportal.de send `tdm-reservation: 1` (NI-VORIS also a `tdm-policy`). Alan decided on 17 November 2026: statutes and
+court decisions are official works without copyright (§ 5 UrhG), so a § 44b(3) UrhG reservation does not cover their
+texts; they are taken, official text only (no editorial headnotes, summaries or annotations), at the pace above, and any
+block page, 401/403/429 stops that host.
+
+## Historical constitutions (18 November 2026)
+
+`historisch/verfassungen/paulskirchenverfassung-1849/`: the Verfassung des deutschen Reiches of 28 March 1849, as issued
+in the Reichs-Gesetz-Blatt 1849, 16. Stück, pp. 101–147. Source: the scan of the Bayerische Staatsbibliothek
+(https://www.digitale-sammlungen.de/view/bsb10518698, urn:nbn:de:bvb:12-bsb10518698-5), read through its IIIF image API,
+one request every ≥ 10 s. The library labels the scan NoC-NC 1.0 (no copyright, non-commercial use of the digitisation);
+Alan decided on 18 November 2026 that such official scans may be used, non-commercially, with this note. The law's text
+is an official work (§ 5 UrhG). Text: Tesseract OCR with the Fraktur model `deu_latf`, not proofread, one file per printed
+page with its scan image named, since the volume's images are not bound in page order.
