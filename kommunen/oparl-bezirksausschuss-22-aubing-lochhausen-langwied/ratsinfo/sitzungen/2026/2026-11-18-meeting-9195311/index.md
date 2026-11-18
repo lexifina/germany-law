@@ -1,0 +1,125 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2026-11-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/9195311
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/9195311
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellungen / Präsentationen
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Anliegen von Bürgern
+- TOP 2.1: Anliegen von Bürgern an den Bezirksausschuss
+- TOP 2.1.1.: E-Scooter-Parkterror
+- TOP 2.1.2.: Fehlende Sanitäranlagen öffentlichen Sportanlage Bodenseestraße
+- TOP 2.1.3.: Lärmbelästigung durch Waschanlage in der Bodenseestraße
+- TOP 2.1.4.: Gestalterische Qualität in Freiham erhalten
+- TOP 2.1.5.: E-Roller und Share-Fahrräder am S-Bahnhof an der Colmdorfstraße
+- TOP 2.1.6.: Namensgebung Freiham
+- TOP 2.1.7.: Verkehrssicherungspflicht in der Roman-Herzog-Straße
+- TOP 2.1.8.: Personelle Engpässe im Haus für Kinder Margot-Hielscher-Straße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 4.: Anträge
+- TOP 4.1.: Einrichtung und Förderung eines mobilen Jugendangebots im Stadtteil Lochhausen - Langwied (Interfraktioneller Antrag)
+- TOP 4.2.: Abstellfläche für E-Roller einrichten (Die Grünen-Fraktion)
+- TOP 4.3.: Anfrage zur geplanten Gemeinschaftsunterkunft an der Lochhausener Straße (Die Grünen-Fraktion)
+- TOP 4.4.: Projekt Zusammenwald – Seniorentreff in Lochhausen-Langwied (Götz-Schubach)
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters über Standortgenehmigung für Parkscheinautomaten im Lizenzgebiet Freiham
+- TOP 5.2.: (E) Stadtbezirksbudget foolpool GbR Das VerWunderLand. Kunst-Kirmes und OpenAir-Theater von April - November 2027 8.581,00 Euro, Az.: 0262.100-22-0333
+- TOP 5.3.: (E) Beschilderung der Grillbereiche am Lußsee
+- TOP 5.4.: (E) Aufstellung von mehr Müllbehältern im Bereich des ZAM in Freiham
+- TOP 5.5.: (E) Dringende Sanierung des Fußweges in der Grünanlage Wiesentfelser Str./ Wiesenthauer Str. / Ehrenbürgstr.
+- TOP 5.6.: (E) Anbringen eines Spiegels an der Ecke Altenburgstraße/ Hoheneckstraße
+- TOP 5.7.: (E) Überflutung der Altenburgstraße 13–17 bei Starkregen; Sickergruben kontrollieren und/oder Setzen von Überlaufgruben
+- TOP 5.8.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Langwied-Lochhausen 1878 e.V. Erneuerung von vereinseigener Ausstattung, hier Quad 7.458,00 Euro, Az.: 0262.100-22-0332
+- TOP 5.9.: (E) Stadtbezirksbudget SV Lochhausen e.V. Sport nach Eins vom 21.10.2026 - 31.07.2027 1.080,00 Euro, Az.: 0262.100-22-0334
+- TOP 5.10.: (E) Stadtbezirksbudget Schützengesellschaft Deutsche Eiche e.V. Anschaffung von zwei DISAG Red Dot MiniView 283,50 Euro, Az.: 0262.100-22-0337
+- TOP 5.11.: (E) Stadtbezirksbudget Schützengesellschaft Deutsche Eiche e.V. Anschaffung von vier Falt-Pavillons 300,00 Euro, Az.: 0262.100-22-0336
+- TOP 5.12.: (E) Stadtbezirksbudget die urbanauten Spiel mich! vom 01.01.2027 - 15.12.2027 3.250,00 Euro, Az.: 0262.100-22-0335
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Stadtbezirksbudget, Kultur, Sport
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.1.1.: Antrag auf Genehmigung einer Veranstaltung in städt. Grünanlage; hier: Langwieder Seenplatte (Kreuzkapellenstr.), Wasserwacht-Station am Langwieder See, Goteboldstr. 189, 75 Jahrfeier BRK-Wasserwacht München-West v. 25.06.-26.06.27 von 10.00-01.00 Uhr, Anhörung KVR vom 27.10.26
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3: UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: (N) - Siedlungsschwerpunkt Freiham, Freiham Nord, Vergabe einer Machbarkeitsstudie, Beschlussentwurf Ausschuss für Stadtplanung und Bauordnung, Anhörung Referat für Stadtplanung und Bauordnung vom 07.10.26 (vertagt aus 10/26)
+- TOP 6.3.1.2.: Verkehrs-Dialogdisplay zur Geschwindigkeitsanzeige – Antrag auf Bestellung und Standortfestlegung für ein zweites Dialogdisplay im 22. Stadtbezirk, Schr. Baureferat vom 07.10.26
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: U-Bahn nach Freiham, Schr. DB vom 19.10.26
+- TOP 6.3.2.2.: Geplante Maßnahmen Verkehrsberuhigung Kronwinkler Straße, Schr. Mobilitätsreferat vom 14.10.26
+- TOP 6.3.2.3.: Gefährlicher Schulweg in der Papinstraße Richtung ESV Neuaubing, Schr. Mobilitätsreferat vom 29.10.26
+- TOP 6.3.2.4.: S4-West - Ausbau nach 2040 verschoben?, Schr. Mobilitätsreferat vom 02.11.26
+- TOP 6.3.2.5.: Radweg Wiesentfelser Straße, Schr. Mobilitätsreferat vom 02.11.26
+- TOP 6.3.2.6.: Bushaltestelle Riesenburgstraße, Schr. Baureferat vom 03.11.26
+- TOP 6.3.2.7.: Abgestellte Lime Roller an den S-Bahnhöfen im Münchner Westen, Schr. Mobilitätsreferat vom 03.11.26
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Seldeneckstr. 8, Abbruch eines Einfamilienhauses und Neubau eines Mehrfamilienhauses mit Carport, Anhörung Planungsreferat vom 22.10.26
+- TOP 6.4.1.2.: Freihamer Allee 21, Nutzungsänderung Gut Freiham - Wirtschaft, Umnutzung von Beherbergungsräumen zu Büroräumen, Anhörung Planungsreferat vom 03.11.26
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Häufigere Leerungen von Wertstoffcontainern, Schr. Kommunalreferat vom 28.10.26
+- TOP 6.4.2.2.: Beschwerde bezüglich Mängel im ÖPNV, Aufenthaltsqualität und Wohnumfeld in Freiham (Hans-Dietrich-Genscher-Straße / Mahatma-Gandhi-Platz), Schr. Baureferat vom 19.10.26
+- TOP 6.4.2.3.: Verteilplan der Gelben Tonnen in München West, Schr. RMG vom 23.20.26
+- TOP 6.4.2.4.: Bauvorhaben im 22. Stadtbezirk: v. 12.10.-18.10.26, v. 19.10.-25.10.26, 26.10.-01.11.26, (N) - 02.11.-08.11.26
+- TOP 6.4.2.5.: Wiederkehrende Probleme rund um das ZAM Freiham, Schr. Baureferat vom 19.10.26
+- TOP 6.4.2.6.: Lärmbelästigungen durch Waschstraße Bereich Limesstr. / Bodenseestr., Schr. KVR vom 15.10.26
+- TOP 6.4.2.7.: Anfrage - Baumpflanzungen im Grünzug nördlich des Haltepunkts Leienfelsstraße, Schr. Baureferat vom 19.10.26
+- TOP 6.4.2.8.: "Moos-Häuserl" - Birkenried, Schr. Planungsreferat vom 28.10.26
+- TOP 6.4.2.9.: Trinkwasserprojekt Kleiberweg/Henschelstraße, 1. Teilabschnitt v. Ende November 2026 bis Ende März 2027, Flyer SWM vom 02.11.26
+- TOP 6.4.2.10.: Baumaßnahmen der Stadtwerke München, Stichtag: 20.10.-03.11.26
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung, hier: - Schank- und Speisewirtschaft "Köz Kebap Han", Bodenseestr. 228, Schr. KVR vom 21.10.26 - Schank- und Speisewirtschaft "Royal Seven", Limesstr. 112, Schr. KVR vom 30.10.26 - Schank- und Speisewirtschaft "Sitara", Indisches Restaurant, Colmdorfstr. 27, Schr. KVR vom 30.10.26 (N) - Betrieb einer Shisha-Bar "One Munich", Bodenseestr. 228, Schr. KVR vom 12.11.26
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 9.1.: Bildungsausschuss und Bauausschuss vom 28.10.26 - Bildungsbauoffensive - Sachstandsbericht und Maßnahmenbeschluss 2026
+- TOP 9.2.: Bauausschuss vom 27.10.26 - Bebauungsplan mit Grünordnung Nr. 2154 Siedlungsschwerpunkt Freiham Freiham Nord - 2. Realisierungsabschnitt (1. BA) 2. Straßenteilausbaupaket - widmungsfähiger Teilausbau von öffentlichen Verkehrsflächen nördlich des Autobahnzubringers im 22. Stadtbezirk Aubing - Lochhausen - Langwied Umsetzung des Eckdatenbeschlusses 2027 (BAU-014) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2026 - 2030
+- TOP 9.2.1: - Bebauungsplan mit Grünordnung Nr. 2068 Siedlungsschwerpunkt Freiham Freiham Nord - 1. Realisierungsabschnitt 6. und 7. Straßenendausbaupaket: Hildegard-Hamm-Brücher-Straße, Rosa-Kempf-Straße (Ost), Bodenseestraße, Aubinger Allee und Hörweg im 22. Stadtbezirk Aubing - Lochhausen - Langwied Umsetzung des Eckdatenbeschlusses 2027 (BAU-016) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 9.2.2: - Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden Gegenwärtiger Stand 1. Sachstandsbericht zum Programm der Erneuerung von Eisenbahnüberführungen 2. Sachstandsbericht zur Beseitigung dreier höhengleicher Bahnübergänge im Münchner Norden (Bahnübergänge Fasanerie, Lerchenauer Straße und Lerchenstraße) - Bekanntgabe -
+- TOP 9.3.: Vollversammlung vom 21.10.26 - Förderung bürgerschaftlichen Engagements (BE); Stellungnahme der Stadtverwaltung zum 8. Bericht des Fachbeirats Bürgerschaftliches Engagement München
+- TOP 9.3.1: - Sanierungsgebiet "Aubing-Neuaubing-Westkreuz" Sanierungsgebiet "Moosach" Verlängerung des Stadtteilmanagements der Münchener Gesellschaft für Stadterneuerung mbH (MGS) Stadtbezirk 10 - Moosach Stadtbezirk 22 - Aubing-Lochhausen-Langwied
+- TOP 9.4.: Bauausschuss vom 15.09.26 - Verlängerung der U-Bahn-Linie 5-West von Pasing nach Freiham Hier: Planfeststellungsabschnitte 80 und 81 zwischen Pasing und Freiham Zentrum im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Anträge auf Planfeststellung Verfahrensgenehmigung für die Planungen der Münchner Stadtentwässerung
+- TOP 10.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 11.1.: Nächste Sitzung des Bezirksausschusses am 09.12.26 um 19.00 Uhr im Bildungscampus Freiham, Mensa Süd, Helmut-Schmidt-Allee 41 Unterausschüsse: - UA Planen/Bauen/Umwelt: Montag, 09.11.26 um 19.00 Uhr, im Bildungslokal, Radolfzeller Str. 11a - UA Verkehrsinfrastruktur, Verkehrsplanung, Mobilität: Dienstag, 10.11.26 um 19.00 Uhr, ASZ, Am Aubinger Wasserturm 30 - UA Soziales, Bildung, Familie, Senioren, Kinder und Jugend: Mittwoch, 11.11.26 um 19.00 Uhr im Bildungslokal, Radolfzellerstr. 11a - UA Stadtbezirksbudget, Kultur, Sport: Donnerstag, 12.11.26, 19.00 Uhr, ASZ, Am Aubinger Wasserturm 30
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 2.1.9.: (N) - Park- und Verkehrsregelung Freiham insbesondere Roman-Herzog-Straße
+- TOP 6.2.1.1.: (N) - Priorisierung der Umsetzung eines ambulanten Pflegeangebotes, teilstationäre und stationäre Pflege in Freiham, BV-Empfehlung Nr. 26-32/E 00148 der Bürgerversammlung vom 21.07.26, Beschlussentwurf für Kommunalausschuss, Anhörung Kommunalreferat vom 06.11.26 (Eilentscheidung BA-Vorsitzender)
+- TOP 6.2.2.1.: (N) - Anzahl der durch Asylrecht finanzierten Personen in Freiham, Schr. Sozialreferat vom 17.08.26
+- TOP 6.2.2.2.: (N) - Durchführung eines Pilotprojektes zum Aufstellen von mobilen Trockentoiletten auf Spiel-/ öffentlichen Sportplätzen im Stadtbezirk 22, Schr. Baureferat vom 13.10.26
+- TOP 6.2.2.3.: (N) - Neubauvorhaben Heuglinstraße - Wie wird einer Überlastung von Grundschule und Kindertagesstätten vorgebeugt?, Schr. Ref. f. Bildung u. Sport vom 11.09.26
+- TOP 6.3.2.8.: (N) - Stillstand beim barrierefreien Umbau der Bushaltestelle Kunreuthstraße, Schr. SWM vom 06.11.26
+- TOP 6.3.2.9.: (N) - Nicht zugelassenes Fahrzeug an der Kreuzung Eichenauer Str. /Wildenrother Str., Schr. PI 45 vom 04.11.26
+- TOP 6.3.2.10.: (N) - MVG-Jahresfahrplan 2027: Änderungen ggü. Anhörungsunterlagen, Schr. MVG vom 02.11.26
+- TOP 6.4.1.3.: (N) - Huttererstr. 16, Neubau von 3 Mehrfamilienhäusern mit 22 Wohneinheiten und einer Tiefgarage mit 22 Stellplätzen, Anhörung Planungsreferat vom 06.11.26
+- TOP 6.4.2.11.: (N) - Information über Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung - Dietmar-Keese-Bogen und Ludwig-Schmid-Straße (südlich), Verlängerung Hans-Steinkohl-Straße (westlich), BAB A96 München-Lindau (nördlich), Standorterweiterung Augustiner, Schr. Planungsreferat vom 04.11.26
+- TOP 6.4.2.12.: (N) - Werbeplakat, Schr. KVR vom 05.11.26
+- TOP 2.1.10.: (N) - Baugrundstücke im Münchner Westen
+- TOP 5.13.: (N) - Prüfung der Verlegung der Postfiliale in der Ellis-Kaut-Straße BV-Empfehlung Nr. 26-32 / E 00120 der Bürgerversammlung des Stadtbezirkes 22 - Aubing Lochhausen-Langwied vom 21.07.2026
+- TOP 6.3.1.3.: (N) - Verkehrsrechtliche Anordnung, hier: - Aubinger Allee 23, Einrichtung eines personenbezogenen Sonderparkplatzes für Menschen mit Schwerbehinderung, Anhörung Mobilitätsreferat vom 09.11.26
+- TOP 2.1.11.: (N) - Bedenken zu vorgesehenen Baumaßnahmen der Münchner Wohnen in der Gilchinger Str. / Wildenrother Str.
+- TOP 2.1.12.: (N) - Kinder-Verkehrsübungsgarten in der Freizeitanlage Mainaustraße
+- TOP 3.1.1.: Baumfällungen im 22. Stadtbezirk - Wertheimer Str. 4 - Kronwinkler Str. 55 - Haßfurter Str. 12 - Kurt-Floericke-Str. 15 - Freienfelsstr. 4 (N) - Kurt-Floericke-Str. 13 (N) - Parsberger Str. 16
+- TOP 6.3.2.11.: (N) - Baumaßnahmen (Verkehr) im Münchner Westen, Schr. Mobilitätsreferat vom 03.11.26
+- TOP 6.3.2.12.: (N) - Arbeiten im Straßenraum, hier: Bodenseestr. zw. Aubinger Str. und Mainaustr. (Herstellung Sickerschächte für Straßenentwässerung) vom 23.11.-27.11.26, Schr. Mobilitätsreferat vom 10.11.26
+- TOP 6.4.1.4.: (N) - Streitbergstr. 27-29, Neubau von zwei Mehrfamilienhäusern mit gemeinsamer Tiefgarage, Anhörung Planungsreferat vom 12.11.26
+- TOP 6.4.2.13.: (N) - Stromprojekt Lichteneckstraße, Ende November bis Mitte Dezember 2026, Schr. SWM vom 12.11.26
+- TOP 1.6.1.: Beschluss
+- TOP 2.1.13.: (N) - Laubanhäufung an der Grundschule Gotzmannstraße
