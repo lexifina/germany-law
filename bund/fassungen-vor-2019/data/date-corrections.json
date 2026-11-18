@@ -1,48 +1,148 @@
 {
-  "description": "Commits in bund/fassungen-vor-2019/ whose date (commit date and In-Kraft/In-force trailer) is wrong. The amending acts took effect in parts on different days; the commit took one day (the latest part, from the Fundstellennachweis A) for the whole act. The text of every file is right (each ends word for word on the Gesetze im Internet text of 2019-06-10); only the date is wrong. Use 'in_force' below instead of the commit's In-Kraft trailer. wording_changed false: the commit changes no word of the provision (only layout and reading errors of the gazette scan), so the provision's wording applies from its previous version's date.",
-  "description_de": "Commits in bund/fassungen-vor-2019/, deren Datum (Commit-Datum und In-Kraft-Angabe) falsch ist: die Änderungsgesetze traten in Teilen an verschiedenen Tagen in Kraft, der Commit trägt einen Tag (den spätesten Teil, laut Fundstellennachweis A) für das ganze Gesetz. Der Text jeder Datei ist richtig; nur das Datum ist falsch. Maßgeblich ist 'in_force' unten statt der In-Kraft-Angabe des Commits. wording_changed false: der Commit ändert kein Wort der Vorschrift (nur Layout und Lesefehler des Scans).",
-  "made": "2026-11-18",
-  "corrections": [
-    {"commit": "78ebb9b0672b7607fe5146df1c363722cfd66651", "dated": "2020-01-01", "act": "Strafprozessordnung",
-     "amending_act": "Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens", "bgbl": "BGBl. I 2017 S. 3202",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/stpo/0029.md", "wording_changed": true, "by": "Artikel 3 Nummer 4", "in_force": "2017-08-24", "basis": "Artikel 18 Absatz 1 (Tag nach der Verkündung am 23.08.2017)"},
-       {"path": "bund/fassungen-vor-2019/stpo/0458.md", "wording_changed": true, "by": "Artikel 3 Nummer 37", "in_force": "2017-08-24", "basis": "Artikel 18 Absatz 1"},
-       {"path": "bund/fassungen-vor-2019/stpo/0316.md", "wording_changed": false, "in_force": null},
-       {"path": "bund/fassungen-vor-2019/stpo/0357.md", "wording_changed": false, "in_force": null}
-     ]},
-    {"commit": "60080950d08b3cc62272d790ffcb257e9cd1aed1", "dated": "2020-01-01", "act": "Strafprozessordnung",
-     "amending_act": "Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens", "bgbl": "BGBl. I 2017 S. 3202",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/stpo/0101b.md", "wording_changed": true, "by": "Artikel 3 Nummer 16", "in_force": "2017-08-24", "basis": "Artikel 18 Absatz 1"}
-     ]},
-    {"commit": "e7221601f50611e4f0499496f8b2f7dedf10e093", "dated": "2019-10-01", "act": "Verwaltungs-Vollstreckungsgesetz",
-     "amending_act": "Gesetz zur Einbeziehung der Bundespolizei in den Anwendungsbereich des Bundesgebührengesetzes", "bgbl": "BGBl. I 2017 S. 417",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/vwvg/0014.md", "wording_changed": false, "in_force": null}
-     ]},
-    {"commit": "b951004b11ccea1fbbbe7c6ac795c30bc7c0f265", "dated": "2025-01-01", "act": "Siebtes Buch Sozialgesetzbuch",
-     "amending_act": "Gesetz über den Abschluss der Rentenüberleitung (Rentenüberleitungs-Abschlussgesetz)", "bgbl": "BGBl. I 2017 S. 2575",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/sgb_7/0016.md", "wording_changed": false, "in_force": null},
-       {"path": "bund/fassungen-vor-2019/sgb_7/0074.md", "wording_changed": false, "in_force": null},
-       {"path": "bund/fassungen-vor-2019/sgb_7/0158.md", "wording_changed": false, "in_force": null},
-       {"path": "bund/fassungen-vor-2019/sgb_7/0167.md", "wording_changed": false, "in_force": null}
-     ]},
-    {"commit": "bfab0bb8a678c43c2b38914d5f3cbf51bc93fa45", "dated": "2022-01-01", "act": "Verwaltungsgerichtsordnung",
-     "amending_act": "Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten", "bgbl": "BGBl. I 2013 S. 3786",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/vwgo/0082.md", "wording_changed": true, "by": "Artikel 5 Nummer 6", "in_force": "2014-07-01", "basis": "Artikel 26 Absatz 4"}
-     ]},
-    {"commit": "d62276dd1c58e1c76e6a9cdd07072e5d3f4df0d8", "dated": "2020-04-01", "act": "Fünftes Buch Sozialgesetzbuch",
-     "amending_act": "Gesetz zur Stärkung des Pflegepersonals (Pflegepersonal-Stärkungsgesetz)", "bgbl": "BGBl. I 2018 S. 2394",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/sgb_5/0275b.md", "wording_changed": true, "by": "Artikel 7 Nummer 15", "in_force": "2019-01-01", "basis": "Artikel 14 Absatz 1"}
-     ]},
-    {"commit": "dcd63b346c18d6b51413d900ae3455bc69c4f123", "dated": "2019-08-01", "act": "Achtes Buch Sozialgesetzbuch",
-     "amending_act": "Gesetz zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung", "bgbl": "BGBl. I 2018 S. 2696",
-     "files": [
-       {"path": "bund/fassungen-vor-2019/sgb_8/0022.md", "wording_changed": true, "by": "Artikel 2 Nummer 1", "in_force": "2019-01-01", "basis": "Artikel 5 Absatz 1 (Tag nach der Verkündung am 31.12.2018)"}
-     ]}
-  ]
+ "description": "Commits in bund/fassungen-vor-2019/ whose date (commit date and In-Kraft/In-force trailer) is wrong. The amending acts took effect in parts on different days; the commit took one day (the latest part, from the Fundstellennachweis A) for the whole act. The text of every file is right (each ends word for word on the Gesetze im Internet text of 2019-06-10); only the date is wrong. Use 'in_force' below instead of the commit's In-Kraft trailer. wording_changed false: the commit changes no word of the provision (only layout and reading errors of the gazette scan), so the provision's wording applies from its previous version's date.",
+ "description_de": "Commits in bund/fassungen-vor-2019/, deren Datum (Commit-Datum und In-Kraft-Angabe) falsch ist: die Änderungsgesetze traten in Teilen an verschiedenen Tagen in Kraft, der Commit trägt einen Tag (den spätesten Teil, laut Fundstellennachweis A) für das ganze Gesetz. Der Text jeder Datei ist richtig; nur das Datum ist falsch. Maßgeblich ist 'in_force' unten statt der In-Kraft-Angabe des Commits. wording_changed false: der Commit ändert kein Wort der Vorschrift (nur Layout und Lesefehler des Scans).",
+ "made": "2026-11-18",
+ "corrections": [
+  {
+   "commit": "78ebb9b0672b7607fe5146df1c363722cfd66651",
+   "dated": "2020-01-01",
+   "act": "Strafprozessordnung",
+   "amending_act": "Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens",
+   "bgbl": "BGBl. I 2017 S. 3202",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/stpo/0029.md",
+     "wording_changed": true,
+     "by": "Artikel 3 Nummer 4",
+     "in_force": "2017-08-24",
+     "basis": "Artikel 18 Absatz 1 (Tag nach der Verkündung am 23.08.2017)"
+    },
+    {
+     "path": "bund/fassungen-vor-2019/stpo/0458.md",
+     "wording_changed": true,
+     "by": "Artikel 3 Nummer 37",
+     "in_force": "2017-08-24",
+     "basis": "Artikel 18 Absatz 1"
+    },
+    {
+     "path": "bund/fassungen-vor-2019/stpo/0316.md",
+     "wording_changed": false,
+     "in_force": null
+    },
+    {
+     "path": "bund/fassungen-vor-2019/stpo/0357.md",
+     "wording_changed": false,
+     "in_force": null
+    }
+   ]
+  },
+  {
+   "commit": "60080950d08b3cc62272d790ffcb257e9cd1aed1",
+   "dated": "2020-01-01",
+   "act": "Strafprozessordnung",
+   "amending_act": "Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens",
+   "bgbl": "BGBl. I 2017 S. 3202",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/stpo/0101b.md",
+     "wording_changed": true,
+     "by": "Artikel 3 Nummer 16",
+     "in_force": "2017-08-24",
+     "basis": "Artikel 18 Absatz 1"
+    }
+   ]
+  },
+  {
+   "commit": "e7221601f50611e4f0499496f8b2f7dedf10e093",
+   "dated": "2019-10-01",
+   "act": "Verwaltungs-Vollstreckungsgesetz",
+   "amending_act": "Gesetz zur Einbeziehung der Bundespolizei in den Anwendungsbereich des Bundesgebührengesetzes",
+   "bgbl": "BGBl. I 2017 S. 417",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/vwvg/0014.md",
+     "wording_changed": false,
+     "in_force": null
+    }
+   ]
+  },
+  {
+   "commit": "b951004b11ccea1fbbbe7c6ac795c30bc7c0f265",
+   "dated": "2025-01-01",
+   "act": "Siebtes Buch Sozialgesetzbuch",
+   "amending_act": "Gesetz über den Abschluss der Rentenüberleitung (Rentenüberleitungs-Abschlussgesetz)",
+   "bgbl": "BGBl. I 2017 S. 2575",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/sgb_7/0016.md",
+     "wording_changed": false,
+     "in_force": null
+    },
+    {
+     "path": "bund/fassungen-vor-2019/sgb_7/0074.md",
+     "wording_changed": false,
+     "in_force": null
+    },
+    {
+     "path": "bund/fassungen-vor-2019/sgb_7/0158.md",
+     "wording_changed": false,
+     "in_force": null
+    },
+    {
+     "path": "bund/fassungen-vor-2019/sgb_7/0167.md",
+     "wording_changed": false,
+     "in_force": null
+    }
+   ]
+  },
+  {
+   "commit": "bfab0bb8a678c43c2b38914d5f3cbf51bc93fa45",
+   "dated": "2022-01-01",
+   "act": "Verwaltungsgerichtsordnung",
+   "amending_act": "Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten",
+   "bgbl": "BGBl. I 2013 S. 3786",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/vwgo/0082.md",
+     "wording_changed": true,
+     "by": "Artikel 5 Nummer 6",
+     "in_force": "2014-07-01",
+     "basis": "Artikel 26 Absatz 4"
+    }
+   ]
+  },
+  {
+   "commit": "d62276dd1c58e1c76e6a9cdd07072e5d3f4df0d8",
+   "dated": "2020-04-01",
+   "act": "Fünftes Buch Sozialgesetzbuch",
+   "amending_act": "Gesetz zur Stärkung des Pflegepersonals (Pflegepersonal-Stärkungsgesetz)",
+   "bgbl": "BGBl. I 2018 S. 2394",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/sgb_5/0275b.md",
+     "wording_changed": true,
+     "by": "Artikel 7 Nummer 15",
+     "in_force": "2019-01-01",
+     "basis": "Artikel 14 Absatz 1"
+    }
+   ]
+  },
+  {
+   "commit": "dcd63b346c18d6b51413d900ae3455bc69c4f123",
+   "dated": "2019-08-01",
+   "act": "Achtes Buch Sozialgesetzbuch",
+   "amending_act": "Gesetz zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung",
+   "bgbl": "BGBl. I 2018 S. 2696",
+   "files": [
+    {
+     "path": "bund/fassungen-vor-2019/sgb_8/0022.md",
+     "wording_changed": true,
+     "by": "Artikel 2 Nummer 1",
+     "in_force": "2019-01-01",
+     "basis": "Artikel 5 Absatz 1 (Tag nach der Verkündung am 31.12.2018)"
+    }
+   ]
+  }
+ ],
+ "reading_rule": "Machine reading: a second commit (Kind: correction, with Corrects/Act-path/Files trailers in the form gitlaw_common/on.py reads) gives these files their corrected text from the right in-force day to the day before the misdated commit; on.py and the tools built on it apply it."
 }
