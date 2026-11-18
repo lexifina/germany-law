@@ -151,3 +151,46 @@ gesetzesportal.de send `tdm-reservation: 1` (NI-VORIS also a `tdm-policy`). Alan
 court decisions are official works without copyright (§ 5 UrhG), so a § 44b(3) UrhG reservation does not cover their
 texts; they are taken, official text only (no editorial headnotes, summaries or annotations), at the pace above, and any
 block page, 401/403/429 stops that host.
+
+## Parts added on 18 November 2026
+
+Same method as the parts of 17 November: one bulk runner per source, one commit per official record dated by its day
+(issue day, sitting day or in-force day; before 1970 the commit date is 1970-01-01 plus seconds and the real day opens the
+subject line), the record or the issuing body named as author, replayed onto main. Every runner of these parts shares one
+per-host budget: at least 10 s between two requests to the same host from any runner, at most 3,000 requests a host a
+day; six connection failures in a row, any check page, 401, 403 or 429 stop that host for good (only Alan lifts a stop).
+Documents that name private persons (awards, appointments, lists of names, public service of notices, lost savings books
+and the like) are recorded with their metadata and source link only. Text is the PDF's text layer (pdftotext) unless a
+file says OCR (Tesseract, not proofread).
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `bund/fassungen-vor-2019/<act>/` | Earlier versions of federal acts, rebuilt from the Bundesgesetzblatt: the Fundstellennachweis A (recht.bund.de) names each act's base text and every amending act; their text comes from the BGBl issue PDFs (OffeneGesetze); the amending instructions are applied forwards from the base and undone backwards from the 2019 text of Gesetze im Internet | A version is written only where applying the instructions gives the next known text; anything not readable safely is left out (held). Corrections are separate commits with `Kind: correction` |
+| `bundestag/plenarprotokolle/` | Bundestag open data (www.bundestag.de/services/opendata): pp01–pp19 zip archives, one XML per sitting for WP 20–21 | one commit per sitting |
+| `bundestag/drucksachen/`, `bundesrat/drucksachen/` | DIP API `drucksache-text` (public key from the DIP help page, read at run time, never stored) | full text for legislative documents; other kinds metadata and link |
+| `laender/<land>/gvbl/` | Land law gazettes from official non-juris hosts: Hessen (Landtag StarWeb archive, 1946–), Baden-Württemberg (Landtag sitemap, 1950–), Berlin (Senatsverwaltung für Justiz, berlin.de, 2004–), Rheinland-Pfalz (Staatskanzlei, 2004–), Thüringen and Mecklenburg-Vorpommern (Landtag ParlDok), Schleswig-Holstein (GVOBl 1946– in the Landtag's LIS-SH), Brandenburg (GVBl Teil I via the Landtag), Bayern (verkuendung-bayern.de), Nordrhein-Westfalen (recht.nrw.de), Niedersachsen (Verkündungsplattform 2024–) | one commit per issue or publication; scanned issues OCR'd, labelled |
+| `laender/<land>/mbl/`, `laender/bayern/baymbl/` | Ministerialblätter: MBl. NRW (recht.nrw.de), BayMBl (verkuendung-bayern.de, 2019–), Nds. MBl (Verkündungsplattform Niedersachsen, 2024–) | notices naming private persons: metadata only |
+| `laender/<land>/landtag/` (and `abgeordnetenhaus/`, `buergerschaft/`) | The Landtage's own document stores: Baden-Württemberg (sitemap), Bayern (Drucksachen store), Berlin (PARDOK open-data export, dl-de/by-2-0), Brandenburg and Rheinland-Pfalz (eUI/StarWeb portals), Bremen, Hessen (StarWeb cache), Mecklenburg-Vorpommern and Thüringen (ParlDok), Niedersachsen (public document list; NILAS not used), Nordrhein-Westfalen (document archive), Sachsen (EDAS), Sachsen-Anhalt (PADOKA), Schleswig-Holstein (LIS-SH) | Drucksachen, Plenarprotokolle, Beschlüsse as published; Eingaben and other papers naming private persons: metadata only. Hamburg's ParlDok is stopped (connection failures) |
+| `laender/niedersachsen/vorschriften/` | NI-VORIS (Wolters Kluwer for the Land): the official text of Niedersachsen's laws and ordinances with their dated versions | official text only; publisher's notes, footnotes and abbreviations left out; `tdm-reservation` header: see the reservation note above |
+| `laender/nordrhein-westfalen/amtsblaetter/bezreg-<bezirk>/` | Amtsblätter of the Bezirksregierungen Arnsberg (2010–), Detmold and Köln, from the authorities' own sites | one file and commit per numbered notice (`<year>/<nr>/<lfd. Nr.>.md`, head and contents in `index.md`); notices naming private persons metadata only; garbled text layers OCR'd, labelled |
+| `rechtsprechung/bayern/` | BAYERN.RECHT (www.gesetze-bayern.de), the Free State's own portal: the decision XML | one commit per decision |
+| `kommunen/<ARS>/vorlagen/` | The councils' OParl APIs (open standard; endpoint list in `data/oparl/endpoints.yml`): papers that are Satzungen or Verordnungen | hosts behind an interactive check are skipped |
+| `kommunen/<ARS>/ortsrecht/` | The cities' own Ortsrecht collections: München (every published version), Köln, Dresden, Nürnberg, Münster, Heidelberg, Stuttgart | one file per Satzung, its versions as commits dated by the latest date in the document's head; the collections are not the binding promulgation (said in each file). www.stuttgart.de's robots.txt disallows ClaudeBot; Alan decided on 18 November 2026 to take its Stadtrecht anyway ("stuttgart take"; robots.txt advisory, rule of 8 November 2026), at the pace above |
+| `kommunen/<ARS>/amtsblatt/` | Amtsblatt der Stadt Köln; Amtsblatt für die Region Hannover und die Landeshauptstadt Hannover | as the Regierungsbezirk Amtsblätter |
+| `historisch/verfassungen/` | Verfassung des Norddeutschen Bundes 1867, Reichsverfassung 1871, Weimarer Reichsverfassung 1919 from de.wikisource ("fertig" transcriptions, each page tied to its gazette scan); the Paulskirchenverfassung (below) | |
+
+**Historical constitutions (Paulskirchenverfassung).** `historisch/verfassungen/paulskirchenverfassung-1849/`: the
+Verfassung des deutschen Reiches of 28 March 1849, as issued in the Reichs-Gesetz-Blatt 1849, 16. Stück, pp. 101–147.
+Source: the scan of the Bayerische Staatsbibliothek (https://www.digitale-sammlungen.de/view/bsb10518698,
+urn:nbn:de:bvb:12-bsb10518698-5), read through its IIIF image API, one request every ≥ 10 s. The library labels the
+scan NoC-NC 1.0 (no copyright, non-commercial use of the digitisation); Alan decided on 18 November 2026 that such
+official scans may be used, non-commercially, with this note. The law's text is an official work (§ 5 UrhG). Text:
+Tesseract OCR with the Fraktur model `deu_latf`, one file per printed page with its scan image named (the volume's images
+are not bound in page order). A labelled correction (18 November 2026) transcribes § 87 with its two tables and § 88
+(pp. 115–116) from the scan and sets the § headings the OCR misread; the rest is not proofread. (This note was first
+written on 18 November but did not reach main; it is given here.)
+
+**Not used.** Hosts that answered with an interactive check or blocked this machine stay stopped and are not reached by
+any other route: all juris-run hosts (since 17 November 2026), the NRW e-Pflicht archives of the university libraries,
+the Deutsche Digitale Bibliothek item pages, ALEX (ÖNB), Wikimedia uploads, Parlamentsspiegel, the Hamburgische
+Bürgerschaft's ParlDok, sitzung-online.de council systems.
