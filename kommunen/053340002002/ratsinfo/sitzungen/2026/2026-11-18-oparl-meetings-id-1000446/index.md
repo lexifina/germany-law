@@ -1,0 +1,54 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2026-11-18T17:00:00+01:00
+- Ende: 2026-11-18T23:59:59+01:00
+- Ort: Rathaus
+- Status: eingeladen
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1000446
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1000446
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung der Niederschrift der Sitzung vom 16.09.2026 (öffentlicher Teil)
+- TOP 4: Wahl einer/eines Beigeordneten für das Dezernat Recht, Ordnung und Vertragsangelegenheiten und Bestellung zur/zum Ersten Beigeordneten
+- TOP 4.1: Wahl einer/eines Beigeordneten für Recht, Ordnung und Vertragsangelegenheiten und Bestellung zur/zum Ersten Beigeordneten
+- TOP 5: Bildung Wahlausschuss (Seniorenratswahl 2027)
+- TOP 6: Benennung von Ratsmitgliedern zur Teilnahme an der 21. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen am 08.12.2026
+- TOP 7: Änderung der Entgeltordnung für die Bereitstellung von Räumen in städtischen Gebäuden und dazu gehörenden Freiflächen
+- TOP 8: Haushaltskonsolidierung: Steuerbare Positionen
+- TOP 9: Sachstandsbericht zur Eingliederung der Zweckverbände AVV und VRS in den Zweckverband go.Rheinland sowie Benennung der städtischen Vertreterinnen und Vertreter
+- TOP 10: Flächenerweiterung der Dr. Leo-Löwenstein-Kaserne - Stellungnahme gegenüber der Bezirksregierung Köln
+- TOP 11: Beverau: Klagen, wenn nötig hier: Gemeinsamer Tagesordnungsantrag der Fraktion von GRÜNE und DIE LINKE sowie der Ratsgruppe UP vom 03.11.2026
+- TOP 12: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2025 in das Haushaltsjahr 2026
+- TOP 13: Integriertes Stadtentwicklungskonzept „Zukunft Forst“: Festlegung des Maßnahmengebietes gem. § 171e Abs. 3 BauGB (Durchführung von Maßnahmen der Sozialen Stadt)
+- TOP 14: Bebauungsplan Nr. 999S - Altstadtquartier Büchel Süd -; hier: -Bericht über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 (2) BauGB, -Bericht über das Ergebnis der Beteiligung der Behörden gemäß § 4 (2) BauGB, -Empfehlung zum Satzungsbeschluss, -Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+- TOP 15: Roermonder Straße (Abschnitt Ponttor bis Kohlscheider Straße): Ergebnisse der Bürger*innenbeteiligung und Umgestaltung im Nachgang zur Maßnahme der Regionetz GmbH hier: Planungsbeschluss und Bereitstellung außerplanmäßige Mittel
+- TOP 16: Beantragung von Fördermitteln aus dem Bundesprogramm „Demokratie leben!“ für die dritte Förderphase 2025-2032, hier die Jahre 2027-2032
+- TOP 17: Personalwirtschaftliche Maßnahmen im Kontext der Haushaltssperre: Bewirtschaftung des Stellenplans 2026
+- TOP 18: Bereitstellung einer außerplanmäßigen Verpflichtungsermächtigung für die Herrichtung einer Interimsturnhalle in der Zollamtstraße
+- TOP 19: Jahresabschluss Aachen Event 2025
+- TOP 20: Änderung der Satzung
+- TOP 21: Priorisierungsmodell für städtische Hochbauprojekte im Rahmen der Bauinvestitionskonferenz – Bedarfsanmeldung, Prioritäten, Priorisierungsempfehlung
+- TOP 22: Kommunale Biodiversitätsstrategie der Stadt Aachen
+- TOP 23: Aachen macht Boden gut - Konzept für eine Entsiegelungskampagne der Stadt Aachen 2026 - 2030; hier auch: Ratsantrag Nr. 059/19 der Fraktionen von CDU und SPD sowie der Ratsgruppen von Volt und FDP vom 16.09.2026
+- TOP 24: Anfragen
+- TOP 24.1: Ratsanfragen
+- TOP 24.2: Stellungnahmen der Verwaltung zu Anfragen
+- TOP 25: Ratsanträge
+- TOP 26: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 26.1: Umbesetzungsantrag der GRÜNE-Fraktion vom 16.11.2026
+- TOP 26.2: Umbesetzungsantrag der CDU-Fraktion vom 17.11.2026
+- TOP 27: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
