@@ -194,3 +194,24 @@ written on 18 November but did not reach main; it is given here.)
 any other route: all juris-run hosts (since 17 November 2026), the NRW e-Pflicht archives of the university libraries,
 the Deutsche Digitale Bibliothek item pages, ALEX (ÖNB), Wikimedia uploads, Parlamentsspiegel, the Hamburgische
 Bürgerschaft's ParlDok, sitzung-online.de council systems.
+
+**Added later on 18 November 2026** (same rules as the table above):
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `laender/nordrhein-westfalen/amtsblaetter/bezreg-muenster/`, `bezreg-duesseldorf/` | Amtsblätter of the Bezirksregierungen Münster (files on www.brms.nrw.de) and Düsseldorf (www.brd.nrw.de, 2016–) | as the other Regierungsbezirk Amtsblätter |
+| `laender/brandenburg/verwaltungsvorschriften/` | BRAVORS (bravors.brandenburg.de), the Land government's own collection: Verwaltungsvorschriften from its chronological Fundstellennachweis | reading version of the Land government; robots Crawl-delay 20 s honoured |
+| `laender/sachsen/verwaltungsvorschriften/` | REVOSax (www.revosax.sachsen.de): Verwaltungsvorschriften, Richtlinien, Förderrichtlinien, Bekanntmachungen and Erlasse with every historical version REVOSax holds | one commit per version, dated by the first day of its validity as REVOSax lists it |
+| `rechtsprechung/brandenburg/<gericht>/` | Entscheidungsdatenbank der Gerichte in Brandenburg (gerichtsentscheidungen.brandenburg.de, Landesrechtsportal Brandenburg): decisions of the Brandenburg courts and the joint Berlin-Brandenburg higher courts | terms: decisions may be printed and stored free of charge; one commit per decision, dated by its day |
+| `kommunen/<ARS>/ratsinfo/` | The councils' OParl APIs (every endpoint in `data/oparl/endpoints.yml`, every body): each paper (Vorlage, Antrag, Anfrage, Mitteilung …), each meeting and each agenda item with its result and resolution text | one commit per record; JSON only (documents stay at the council, linked); a documented machine API, so ≥ 2 s per provider with backoff instead of 10 s; papers and agenda items about private persons (building applications, personnel matters, honours, citizens named) keep only number, type, date and links under a neutral heading; non-public agenda items: number and result only |
+| `bundestag/aktivitaeten/`, `bundestag/personen/` | DIP API `aktivitaet` and `person`: every Aktivität (speech, question, answer, report, motion of a member or office holder) and every person record with roles | one commit per record; DIP at ≥ 1 s (documented API, own budget key) |
+| `bundestag/reden/` | Bundestag open-data XML (WP 19–21): every speech with speaker, party, role, agenda item, paragraphs and interjections | one commit per speech, from the files de-btpp already holds |
+| `bundestag/abstimmungen/` | www.bundestag.de list of namentliche Abstimmungen: the published XLSX per vote, one row per member | one commit per vote with totals per group and every member's vote |
+| `kommunen/<ARS>/govdata/`, `laender/govdata/` | GovData CKAN API: catalogue records of Bebauungspläne, Satzungen, Flächennutzungspläne, Verordnungen, Beschlüsse, Veränderungssperren, Erhaltungssatzungen | one commit per dataset (metadata and the publisher's links) |
+
+**robots.txt.** Alan's standing rule (8 November 2026, restated 18 November): robots.txt is advisory, including rules
+that name AI agents. Overrides recorded in `host_tiers.json` this day: www.stuttgart.de and www.bonn.de (Stadtrecht;
+robots.txt disallows Anthropic's crawler by name), 13 council OParl hosts with `Disallow: /` (ratsinfo.aldenhoven.de,
+ratsinfo.bad-muenstereifel.de, ratsinfo.bruehl.de, ratsinfo.rheda-wiedenbrueck.de, ratsinfo.stadt-kerpen.de,
+ratsinfo.steinhagen.de, ratsinfo.wesseling.de and the Berlin districts' www.sitzungsdienst-*.de), www.govdata.de
+(`/ckan/api/`). The pace stays as stated; any check page, 401, 403 or 429 still stops a host for good.
