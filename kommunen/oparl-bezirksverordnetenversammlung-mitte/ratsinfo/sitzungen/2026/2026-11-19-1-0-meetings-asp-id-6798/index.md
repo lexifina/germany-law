@@ -1,0 +1,172 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2026-11-19T17:30:00+01:00
+- Ende: 2026-11-19T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6798
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=6798
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=675022
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Nachfragen zu baurechtlichen und denkmalschutzrechtlicher Auflagen bezüglich der Stephanuskirche
+- TOP 2.2: Nachfrage zur unteren Katastrophenschutzbehörde des Bezirks Mitte
+- TOP 2.3: Nachfragen zur Elterngeldstelle
+- TOP 2.4: Nachfragen zum motorisierten Durchgangsverkehr im Bereich Leuschnerdamm und Legiendamm
+- TOP 2.5: Nachfragen zur Nutzung von Laubbläasern
+- TOP 2.6: Nachfragen zum WBM-Neubau Engeldamm/Melchiorstraße
+- TOP 3: Feststellen von Dringlichkeiten
+- TOP 4: Mitteilungen
+- TOP 4.1: des Vorstandes
+- TOP 4.2: der Fraktionen
+- TOP 4.3: der Ausschüsse
+- TOP 4.4: des Bezirksamtes
+- TOP 5: Konsenslisten
+- TOP 5.1: Güterbahnhof Moabit als Gedenkort schützen und vor Zerstörung bewahren
+- TOP 5.2: Helga Hahnemann wie versprochen ehren!
+- TOP 5.3: Eine Gedenktafel für Jeanette Schwerin in der Neuen Schönhauser Straße 13
+- TOP 5.4: Teileinziehung Checkpoint Charlie – südliche Friedrichstraße verkehrssicher gestalten, öffentlichen Raum aufwerten
+- TOP 5.5: Fünf Minuten nach 12 Uhr / Klimawandel fordert schnelles Handeln
+- TOP 5.6: Safer Space für queere obdachlose und wohnungslose Menschen in Mitte
+- TOP 5.7: Sportentwicklungsplaner*in für Mitte - Zügige Ausschreibung und Besetzung
+- TOP 5.8: Wesentliche Bestandteile des Gedenkortes Güterbahnhof Moabit sicherstellen
+- TOP 5.9: Solidarität statt Ausgrenzung: Sozialer Ausgleich bei Großereignissen
+- TOP 5.10: Kompromiss zwischen Graffiti Lobby Berlin und Anwohnern
+- TOP 5.11: Antrag zur Errichtung einer Gedenktafel für Mohammed „Momo“ A. im Monbijoupark
+- TOP 5.12: Aufbau eines Arbeitskreises zur FLINTA-Sportförderung
+- TOP 5.13: Mehr Grünflächen für den Bezirk! Straßenrand der Soldiner Straße zwischen Freienwalderstraße und Grüntaler Straße entsiegeln
+- TOP 5.14: BSR rechtzeitig über Baumaßnahmen im Straßenland informieren
+- TOP 5.15: Beleuchtung von Spielplätzen im Winter, in den Nachmittagsstunden
+- TOP 5.16: Schutz vor prekärer Arbeit – Bezirksweite Aufklärungsarbeit stärken!
+- TOP 5.17: Instandsetzung der Parcours-Anlage auf dem Zick-Zack-Zwingli-Spielplatz
+- TOP 5.18: Weiterentwicklung des Gedenkorts Güterbahnhof Moabit als Teil der berliner und bundesdeutschen Erinnerungslandschaft
+- TOP 5.19: Fortführung der Bürger*innenbeteiligung „Kiezblocks für Mitte“
+- TOP 5.20: Vorläufige Erhaltungsarbeiten an Bastion im Schillerpark und Praxisorte für Berufsbildende Schulen
+- TOP 5.21: Kosten und Nutzen – Denkmalschutz öffentlicher Gebäude
+- TOP 5.22: Reinigung und Sanierung der Stolpersteine an der Kreuzung Michaelkirchstraße
+- TOP 5.23: Buchstaben bewahren
+- TOP 5.24: Mehr Ruhe für die am Basketballplatzes/ Bolzplatz anliegenden Wohnhäuser der Liebenwalder Straße
+- TOP 5.25: Parkbänke am Spittelmarkt
+- TOP 5.26: Beleuchtung im Park am Präsidentendreieck endlich reparieren
+- TOP 5.27: Nötige Unterstützung für die Menschen in der Habersaathstraße sicherstellen
+- TOP 5.28: Für eine sichere Querungsmöglichkeit über die Müllerstraße zwischen Prime-Time-Theater und Jobcenter
+- TOP 5.29: Ein digitaler Regenbogen für Mitte
+- TOP 5.30: Beleuchtung der Unterführung der Neuen Gertraudenbrücken
+- TOP 5.31: Anti-Diskriminierungs-Charta an Mittes Schulen
+- TOP 5.32: Benennung der Straßen auf dem Gelände des Gesundheits- und Sozialzentrums Moabit (ehemaliges Krankenhaus Moabit) nach vertriebenen jüdischen Ärzt*innen
+- TOP 5.33: Integriertes Konzept für die ambulante ärztliche Versorgung im Bezirk Mitte
+- TOP 5.34: Runder Tisch Jagowstr. 35
+- TOP 5.35: Sauberkeit im öffentlichen Raum auch an Altglas- und Kleidercontainern!
+- TOP 5.36: Zusammenarbeit mit anderen Großstädten zum Umgang mit suchtkranken Menschen im öffentlichen Raum
+- TOP 5.37: Sicheren und würdevollen Zugang zu Gedenkorten im Winter gewährleisten
+- TOP 5.38: Senat bei Olympia-Bewerbung unterstützen
+- TOP 5.39: Barrierefrei unterwegs
+- TOP 5.40: Picknickbänke auf dem Flakturm im Humboldthain
+- TOP 5.41: Sperrmüll in der Emdener Straße
+- TOP 5.42: Beleuchtungssituation auf den Sportanlagen Stralsunder Straße und Behmstraße verbessern
+- TOP 5.43: Kulturelles Erbe bewahren: Wiederaufbau des Teehauses im Englischen Garten
+- TOP 5.44: Verkehrsführung Lehrter Straße / Clara-Jaschke-Straße
+- TOP 5.45: Barrierefreiheit am Wikingerufer
+- TOP 5.46: Infotafel für Albert Lortzing
+- TOP 5.47: Müllproblem Brüsseler Kiez: Traurigen Rekord stoppen!
+- TOP 5.48: Jugendeinrichtung Edinburger Straße umgehend wieder nutzbar machen
+- TOP 5.49: Rettet die Fischerpinte am Plötzensee!
+- TOP 5.50: Mehr Kiez in der Europacity – Für einen Wochenmarkt auf dem Otto-Weidt-Platz
+- TOP 5.51: Mehr Nachtleben für Mitte mit klaren Regeln
+- TOP 5.52: Wochenmarkt auf dem Otto-Weidt-Platz
+- TOP 5.53: Wie geht’s weiter mit der Brücke über die Heubuder Straße? Fehlende Info zur Panke-Brücke
+- TOP 5.54: Qualitätsgetestet und für gut befunden: Ein Aushängeschild für die Gastronomie in Mitte
+- TOP 5.55: Sauberkeit im Taxi-Wartebereich am Hauptbahnhof erhöhen
+- TOP 5.56: Kongostraße barrierefrei machen!
+- TOP 5.57: Mittel aus der Conrad-Stiftung auch für Aktivitäten des Partnerschaftsvereins nutzbar machen
+- TOP 5.58: Guineastraße
+- TOP 5.59: Mehr Wochenmärkte für Mitte
+- TOP 5.60: Umbenennung der Kluckstraße in Anita-Augspurg-Straße: Unterstützung für die Anwohnenden bereitstellen
+- TOP 5.61: Niedrigschwellige Zugänglichkeit der Stadtteilzentren durch bessere Beschilderung
+- TOP 5.62: Beschluss über die Festlegung geeigneter Flächen für nicht-kommerzielle Veranstaltungen im öffentlichen Straßenland, sowie Ausweisung von besonderen Flächen im Sinne des § 6 Abs. 2 S.2 GrünanlG Bln in öffentlichen Grünanlagen – zur Kenntnisnahme
+- TOP 5.63: Beschluss über die Einstellung des Aufstellungsverfahrens zum Bebauungsplan II-181 für die Grundstücke Neues Ufer 13-26, Huttenstraße 34-44, Klarenbachstraße 5-7, einen Ab-schnitt des Charlottenburger Verbindungskanals und einen Abschnitt der StraßeNeues Ufer jeweils zwischen Klarenbachstraße und Huttenstraße im Bezirk Mitte, Ortsteil Moabit
+- TOP 5.64: Jahresabschlussbericht des Bezirksteilhabebeirats an das Bezirksamt und die Bezirksverordnetenversammlung für das Kalenderjahr 2025
+- TOP 5.65: Beschluss über die Aufstellung des Bebauungsplans 1-97 (Berlin Pavillon) sowie über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Bau-gesetzbuch (BauGB), der frühzeitigen Beteiligung der Behörden gemäß § 4 Abs. 1 BauGB und der Beteiligung der Behörden gemäß § 4 Abs. 2 BauGB sowie die Einbrin-gung einer Vorlage zur Kenntnisnahme bei der Bezirksverordnetenversammlung
+- TOP 5.66: Sozialstudie und Ableitung sozialer Sanierungsziele für das Sanierungsgebiet Mitte – Badstraße / Pankstraße
+- TOP 5.67: Fortschreibung der Zielvereinbarung zur gesamtstädtischen Steuerung der öffentlichen Bibliotheken
+- TOP 5.68: Anmeldung der Quartiersmanagement-light-Gebiete Pankstraße u. Soldiner Kiez
+- TOP 5.69: Beschluss zur Feststellung der Funktionslosigkeit der Maßfestsetzungen (GRZ, GFZ, Anzahl Vollgeschosse) und der zulässigen Bebauungstiefe des Baunutzungsplanes im Bereich Wedding-Gesundbrunnen für die Grundstücke Wollankstr. 100, Wollankstr. 99/Steegerstr. 74, Steegerstr. 57-61, 62-68, 69, 70, 71, 72, 73 und Kleingartenkolonie Steegerstr. 56 (Flur 009, Flurstück 685, Bebauungsplanentwurf III-199)
+- TOP 5.70: Beschluss zur Feststellung der Funktionslosigkeit der Gebietsfestsetzung (Kerngebiet gem. § 7 Nr. 12 BO 58) des Bebauungsplans III-63 für die Grundstücke Müllerstraße 86, 86A, 86B, 86C, 86D, 87, 87A, 87B und Greenwicher Straße 21
+- TOP 5.71: Beschluss zur Feststellung der Funktionslosigkeit der Gebietsfestsetzung (gemischtes Gebiet gem. § 7 Nr. 9 BO 58) des Baunutzungsplans im Block 173 (eingefasst von der Maxstraße, Schererstraße, Reinickendorfer Straße, Schulstraße
+- TOP 5.72: Zielsystem für das Kalenderjahr 2026 – Bericht über das Erreichen der Ziele (Erfolgskontrolle) zum 31. August 2026
+- TOP 5.73: Erfolgter Abschluss der „Zielvereinbarung zur gesamtstädtischen Steuerung und Weiterentwicklung der Fachstellen Soziale Wohnhilfe (ZV SozWohn) - Fortschreibung 2026 - 2027“ mit der Senatsverwaltung für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung und der Senatsverwaltung für Finanzen
+- TOP 5.74: Beschluss zur Feststellung der Funktionslosigkeit der Maßfestsetzung (GFZ) des Baunutzungsplans im Bereich des Allgemeinen Wohngebietes Baustufe V/3 süd-östlich in Moabit, begrenzt durch die Straßen Alt-Moabit 119-120, 126 bis 138, Lüneburger Straße, Helgoländer Ufer und Kirchstraße 7-24
+- TOP 6: Thematische Stunde
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Weihnachtsbeleuchtung Unter den Linden – alles dunkel oder was?!
+- TOP 7.2: Wann kommt endlich das zugesagte „IBV Monbijoutheater“?
+- TOP 8: Dringlichkeitsanfragen
+- TOP 9: Große Anfragen
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung
+- TOP 11: Vorlagen zur Beschlussfassung
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2025 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung
+- TOP 13: Dringlichkeitsanträge
+- TOP 14: Anträge
+- TOP 14.1: Missbilligung des Bezirksstadtrats Ephraim Gothe
+- TOP 14.2: Umgestaltung Torstraße – Gewerbe beteiligen
+- TOP 14.3: BVV-Beschluss umsetzen – Parkhaus im Hauptbahnhof im öffentlichen Straßennetz ausschildern
+- TOP 14.4: Liefer- und Ladezonen auf der Straße Alt-Moabit
+- TOP 14.5: Was ist Mittes Menschen wirklich wichtig in der Bezirkspolitik – Umfrage zu politischen Prioritäten in der zukünftigen Bezirkspolitik
+- TOP 14.6: Fischerpinte
+- TOP 14.7: Verstetigung demokratischer Bürgerbeteiligung in Moabit
+- TOP 14.8: Kontrollverlust im Kleinen Tiergarten: Sofortmaßnahmen gegen die offene Drogenszene vollziehen, Kinder und Anwohner endlich wirksam schützen
+- TOP 14.9: Keine volle Miete für ein kaltes Rathaus
+- TOP 14.10: Flächen für legale Graffitikunst in Mitte weiterentwickeln
+- TOP 14.11: Ein sicherer Park am U-Bahnhof Turmstraße
+- TOP 14.12: Mieter*innen der Maxstraße 6 schützen
+- TOP 14.13: Wohnungsbau am Volkspark Humboldthain ermöglichen
+- TOP 14.14: Habersaathstraße: Endlich handeln - Strom und Wasser sichern und Leerstand beenden
+- TOP 14.15: Illegales Camp im ULAP-Park
+- TOP 14.16: Tresor statt “Besenkammer”: IT-Sicherheit des Bezirksamts sichern!
+- TOP 14.17: Fischerpinte jetzt
+- TOP 15: Entschließungen
+- TOP 15.1: Nein zur Berliner Ausbildungsplatzumlage
+- TOP 15.2: Gemeinsam gegen Rechtsextremismus und die AfD in Berlin-Mitte
+- TOP 15.3: Unterstützung der Stellungsnahme des Bezirksbeirats für Partizipation und Integration Mitte zu deutschen Waffenexporten in Krisen- und Konfliktregionen
+- TOP 16: Beschlussempfehlungen aus den Ausschüssen
+- TOP 16.1: Erlebbarkeit des Mitte-Museums auch im Neuen Rathaus
+- TOP 16.2: Das polnische soziale Netzwerk Barka kontaktieren, um obdachlose Polen zu bewegen in Ihre Heimat zurückzukehren
+- TOP 16.3: Antwerpener Straße wieder öffnen!
+- TOP 16.4: Teilnahme des Bezirks Mitte am KI-Projekt Google Green Light zur Optimierung von Ampelschaltungen
+- TOP 16.5: Langfristige Unterbringung in Taubenschlägen (Augsburger Modell)
+- TOP 16.6: Weiterentwicklung der Ordnungsamts-App und Einrichtung einer bezirklichen Koordinierungsstelle „Saubere Mitte“
+- TOP 16.7: Pflege- und Sicherheitskonzept für den Kleinen Tiergarten
+- TOP 16.8: ISEK: Verkehrsfluss in und durch Mitte gewährleisten
+- TOP 16.9: Zugang zu Friedhöfen auch im Winter sicherstellen
+- TOP 16.10: Integriertes Handlungskonzept Leopoldplatz
+- TOP 16.11: Sanierung der bezirkseigenen Fläche am Hansaplatz
+- TOP 16.12: Zivilschutz in Berlin-Mitte wiederbeleben – Luftschutzräume definieren
+- TOP 16.13: Systematisches Monitoring illegaler (Sperr-)Müllablagerungen im Bezirk Mitte
+- TOP 16.14: Erinnerung an den Tiergartenmord im kleinen Tiergarten
+- TOP 16.15: Maßnahmenplan für den Wiederaufbau des Teehauses
+- TOP 16.16: Das Sprayen im Park am Nordbahnhof verbieten
+- TOP 16.17: Sichere Schulwege auch im Brunnenviertel
+- TOP 16.18: Umgestaltung des Wildtiergeheges Rehberge in einen Gnadenhof
+- TOP 16.19: Flugzeugspielplatz in der Strelitzer Str. 12: Spielzeiten lesbar ausschildern
+- TOP 16.20: Lärmbeschwerden am Bolzplatz Singerstraße ernst nehmen!
+- TOP 16.21: Bezirk Mitte setzt sich für ein Stadttaubenkonzept für Berlin ein
+- TOP 16.22: Ein Sonnensegel ist ein Baustein für mehr Hitzeschutz
+- TOP 16.23: Zufahrt für die orthodoxe Kirche der Mor Izozoel auf dem Weddingplatz unverzüglich wiederherstellen
+- TOP 16.24: Videoaufklärung an Sperrmüll-Hotspots – Voraussetzungen schaffen!
+- TOP 16.25: Handlungskonzept zum Eichenprozessionsspinner für den Schutz von Menschen und öffentlichen Grünflächen
+- TOP 16.26: Ein Schutzraum unter dem Alexanderplatz
+- TOP 16.27: Soziale Bedarfe zusammendenken! Für ein transparentes Verfahren zur Nutzung der gemeinwohlorientierten Fläche im ehemaligen Karstadt-Gebäude
+- TOP 17: Vorlagen zur Kenntnisnahme
+- TOP 17.1: Erneuerung der Pflanzumrandungen in der Reinickendorfer Straße
+- TOP 17.2: Beteiligungsbeirat Mitte: Zukünftig Wissenstransfer bei Neuwahl gewährleisten und bisherige Arbeit evaluieren
+- TOP 17.3: Reinigung und Pflege der bezirklichen Gedenkorte – Erinnerung!
+- TOP 17.4: Handbuch Gendarmenmarkt
+- TOP 17.5: Leitfaden für die Veranstaltung von öffentlichen Festen
+- TOP 17.6: Veranstaltung zum Internationalen Tag zur Beseitigung von Gewalt gegen Frauen*
