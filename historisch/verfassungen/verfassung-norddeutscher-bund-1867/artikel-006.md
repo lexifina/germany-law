@@ -123,3 +123,5 @@ Der Bundesrath besteht aus den Vertretern der Mitglieder des Bundes, unter welch
 | 43
 |.
 |}
+
+- Scan: Norddeutsches Bundesgesetzblatt 1867 001 005.jpg (Wikimedia Commons), Seite 5

@@ -8,3 +8,5 @@ a) bei den Zöllen und der Steuer von inländischem Zucker, soweit diese Kosten 
 b) bei der Steuer von inländischem Salze – sobald solche, sowie ein Zoll von ausländischem Salze unter Aufhebung des Salzmonopols eingeführt sein wird – mit dem Betrage der auf Salzwerken erwachsenden Erhebungs- und Aufsichtskosten;
 c) bei den übrigen Steuern mit funfzehn Prozent der Gesammteinnahme.
 Die außerhalb der gemeinschaftlichen Zollgrenze liegenden Gebiete tragen zu den Bundesausgaben durch Zahlung eines Aversums bei.
+
+- Scan: Seiten 11–12: Norddeutsches Bundesgesetzblatt 1867 001 011.jpg; Norddeutsches Bundesgesetzblatt 1867 001 012.jpg (Wikimedia Commons)

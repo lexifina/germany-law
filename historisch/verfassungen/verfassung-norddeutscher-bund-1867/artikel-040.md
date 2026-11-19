@@ -2,3 +2,5 @@
 
 Die Bestimmungen in dem Zollvereinigungs-Vertrage vom 16. Mai 1865., in dem Vertrage über die gleiche Besteuerung innerer Erzeugnisse vom 28. Juni 1864., in dem Vertrage über den Verkehr mit Taback und Wein von demselben Tage und im Artikel 2. des Zoll- und Anschlußvertrages vom 11. Juli 1864., desgleichen in den Thüringischen Vereinsverträgen bleiben zwischen den bei diesen Verträgen betheiligten Bundesstaaten in Kraft, soweit sie nicht durch die Vorschriften der gegenwärtigen Verfassung abgeändert sind und so lange sie nicht auf dem im Artikel 37. vorgezeichneten Wege abgeändert werden.
 Mit diesen Beschränkungen finden die Bestimmungen des Zollvereinigungs-Vertrages vom 16. Mai 1865. auch auf diejenigen Bundesstaaten und Gebietstheile Anwendung, welche dem Deutschen Zoll- und Handelsvereine zur Zeit nicht angehören.
+
+- Scan: Norddeutsches Bundesgesetzblatt 1867 001 012.jpg (Wikimedia Commons), Seite 12

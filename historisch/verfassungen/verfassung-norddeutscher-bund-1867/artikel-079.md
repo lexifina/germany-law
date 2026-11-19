@@ -11,3 +11,5 @@ Indem Wir dies hiermit zur öffentlichen Kenntniß bringen, übernehmen Wir die 
 Wir befehlen, dieses Publikandum durch das Bundesgesetzblatt der Norddeutschen Bundes zu veröffentlichen.
 
 Urkundlich unter Unserer Höchsteigenhändigen Unterschrift und beigedrucktem Königlichen Insiegel.
+
+- Scan: Seiten 22–23: Norddeutsches Bundesgesetzblatt 1867 001 022.jpg; Norddeutsches Bundesgesetzblatt 1867 001 023.jpg (Wikimedia Commons)

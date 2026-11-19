@@ -1,3 +1,5 @@
 # Artikel 43
 
 Es sollen demgemäß in thunlichster Beschleunigung übereinstimmende Betriebseinrichtungen getroffen, insbesondere gleiche Bahnpolizei-Reglements eingeführt werden. Der Bund hat dafür Sorge zu tragen, daß die Eisenbahnverwaltungen die Bahnen jederzeit in einem, die nöthige Sicherheit gewährenden baulichen Zustande erhalten und dieselben mit Betriebsmaterial so ausrüsten, wie das Verkehrsbedürfniß es erheischt.
+
+- Scan: Norddeutsches Bundesgesetzblatt 1867 001 013.jpg (Wikimedia Commons), Seite 13

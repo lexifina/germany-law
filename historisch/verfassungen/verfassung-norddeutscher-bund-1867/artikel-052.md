@@ -5,3 +5,5 @@ Aus den Postüberschüssen, welche in den einzelnen Postbezirken während der f�
 Nach Maaßgabe des auf diese Weise festgestellten Verhältnisses werden aus den im Bunde aufkommenden Postüberschüssen während der nächsten acht Jahre den einzelnen Staaten, die sich für dieselben ergebenden Quoten auf ihre sonstigen Beiträge zu Bundeszwecken zu Gute gerechnet.
 Nach Ablauf der acht Jahre hört jene Unterscheidung auf, und fließen die Postüberschüsse in ungetheilter Aufrechnung nach dem Artikel 49. enthaltenen Grundsatz der Bundeskasse zu.
 Von den während der vorgedachten acht Jahre für die Hansestädte sich herausstellenden Quote des Postüberschusses wird alljährlich vorweg die Hälfte dem Bundespräsidium zur Disposition gestellt zu dem Zwecke, daraus zunächst die Kosten für die Herstellung normaler Posteinrichtungen in den Hansestädten zu bestreiten.
+
+- Scan: Seiten 15–16: Norddeutsches Bundesgesetzblatt 1867 001 015.jpg; Norddeutsches Bundesgesetzblatt 1867 001 016.jpg (Wikimedia Commons)

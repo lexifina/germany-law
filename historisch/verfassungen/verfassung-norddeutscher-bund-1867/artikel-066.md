@@ -2,3 +2,5 @@
 
 Wo nicht besondere Konventionen ein Anderes bestimmen, ernennen die Bundesfürsten, beziehentlich die Senate die Offiziere ihrer Kontingente, mit der Einschränkung des Artikels 64. Sie sind Chefs aller ihren Gebieten angehörenden Truppentheile und genießen die damit verbundenen Ehren. Sie haben namentlich das Recht der Inspizirung zu jeder Zeit und erhalten, außer den regelmäßigen Rapporten und Meldungen über vorkommende Veränderungen, Behufs der nöthigen landesherrlichen Publikation, rechtzeitige Mittheilung von den die betreffenden Truppentheile berührenden Avancements und Ernennungen.
 Auch steht ihnen das Recht zu, zu polizeilichen Zwecken nicht blos ihre eigenen Truppen zu verwenden, sondern auch alle anderen Truppentheile der Bundesarmee, welche in ihren Ländergebieten dislocirt sind, zu requiriren.
+
+- Scan: Norddeutsches Bundesgesetzblatt 1867 001 020.jpg (Wikimedia Commons), Seite 20

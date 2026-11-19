@@ -5,3 +5,5 @@ Die Zahlung dieser Beiträge beginnt mit dem ersten des Monats nach Publikation 
 Nach dem 31. Dezember 1871. müssen diese Beträge von den einzelnen Staaten des Bundes zur Bundeskasse fortgezahlt werden. Zur Berechnung derselben wird die im Artikel 60. interimistisch festgestellte Friedens-Präsenzstärke so lange festgehalten, bis sie durch ein Bundesgesetz abgeändert ist.
 Die Verausgabung dieser Summe für das gesammte Bundesheer und dessen Einrichtungen wird durch das Etatsgesetz festgestellt.
 Bei der Feststellung des Militair-Ausgabe-Etats wird die auf Grundlage dieser Verfassung gesetzlich feststehende Organisation des Bundesheeres zu Grunde gelegt.
+
+- Scan: Seiten 18–19: Norddeutsches Bundesgesetzblatt 1867 001 018.jpg; Norddeutsches Bundesgesetzblatt 1867 001 019.jpg (Wikimedia Commons)

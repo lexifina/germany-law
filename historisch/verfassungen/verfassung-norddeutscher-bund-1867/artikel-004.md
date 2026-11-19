@@ -16,3 +16,5 @@ Der Beaufsichtigung Seitens des Bundes und der Gesetzgebung desselben unterliege
 13) die gemeinsame Gesetzgebung über das Obligationenrecht, Strafrecht, Handels- und Wechselrecht und das gerichtliche Verfahren;
 14) das Militairwesen des Bundes und die Kriegsmarine;
 15) Maaßregeln der Medizinal- und Veterinairpolizei.
+
+- Scan: Seiten 3–4: Norddeutsches Bundesgesetzblatt 1867 001 003.jpg; Norddeutsches Bundesgesetzblatt 1867 001 004.jpg (Wikimedia Commons)

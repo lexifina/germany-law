@@ -2,3 +2,5 @@
 
 Nach Publikation dieser Verfassung ist in dem ganzen Bundesgebiete die gesammte Preußische Militairgesetzgebung ungesäumt einzuführen, sowohl die Gesetze selbst, als die zu ihrer Ausführung, Erläuterung oder Ergänzung erlassenen Reglements, Instruktionen und Reskripte, namentlich also das Militair-Strafgesetzbuch vom 3. April 1845., die Militair-Strafgerichtsordnung vom 3. April 1845., die Verordnung über die Ehrengerichte vom 20. Juli 1843., die Bestimmungen über Aushebung, Dienstzeit, Servis- und Verpflegungswesen, Einquartierung, Ersatz von Flurbeschädigungen, Mobilmachung u. s. w. für Krieg und Frieden. Die Militair-Kirchenordnung ist jedoch ausgeschlossen.
 Nach gleichmäßiger Durchführung der Bundes-Kriegsorganisation wird das Bundespräsidium ein umfassendes Bundes-Militairgesetz dem Reichstage und dem Bundesrathe zur verfassungsmäßigen Beschlußfassung vorlegen.
+
+- Scan: Norddeutsches Bundesgesetzblatt 1867 001 018.jpg (Wikimedia Commons), Seite 18
