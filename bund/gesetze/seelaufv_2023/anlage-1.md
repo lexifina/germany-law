@@ -2,27 +2,21 @@
 
 Der Ausbildungsrahmenplan beschreibt den inhaltlichen Ausbildungsumfang für die umfassende Qualifizierung zum Seelotsen. Die Inhalte sind handlungsorientiert beschrieben und in thematischen Modulen zusammengefasst.
 Die berufliche Handlungsfähigkeit der Seelotsinnen und Seelotsen bedingt neben einer soliden Wissensbasis und kognitiven Fähigkeiten insbesondere das praktisch-anwendungsorientierte Handeln.
-Die Ausbildungsziele werden im Rahmenplan als Kenntnisse, Fähigkeiten und Fertigkeiten beschrieben, ergänzend mit taxonomischen Verben nach BLOOM in ihrer Ausprägung eingestuft. Nur wenn ein taxonomisches Verb in der u. a. Spalte des jeweiligen Ausbildungsabschnitts verwendet wird, wird der jeweilige Inhalt auch vermittelt.
+Die Ausbildungsziele werden im Rahmenplan als Kenntnisse, Fähigkeiten und Fertigkeiten beschrieben, ergänzend mit taxonomischen Verben nach BLOOM in der Hierarchie nach ANDERSON und KRAFTWOHL in ihrer Ausprägung eingestuft. Nur wenn ein taxonomisches Verb in der u. a. Spalte des jeweiligen Ausbildungsabschnitts verwendet wird, wird der jeweilige Inhalt auch vermittelt.
 Der Einsatz taxonomischer Verben dient der Ordnung, sie gliedern sich nach logischen Kriterien und klassifizieren die Ausbildungsinhalte nach Lernzieltiefe in sechs Stufen.
 Die folgende Aufzählung der Lernstufen gibt einen Überblick in die Ordnung taxonomischer Verben.
-Stufe 1
-Wissen Taxonomische Verben im Ausbildungsrahmenplan: benennen
-  Synonym: angeben, aufschreiben, aufzählen, aufzeichnen, ausführen, benennen, beschreiben, bezeichnen, darstellen, reproduzieren, vervollständigen, zeichnen, zeigen, wiedergeben
-Stufe 2
-Verstehen Taxonomische Verben im Ausbildungsrahmenplan: beschreiben, einordnen
-  Synonym: begründen, einordnen, ordnen, unterscheiden, vergleichen, wiedergeben, beschreiben
-Stufe 3
-Anwendung Taxonomische Verben im Ausbildungsrahmenplan: interpretieren, ausführen
-  Synonym: anwenden, aufstellen, ausführen, berechnen, bestimmen, interpretieren, unterscheiden, verdeutlichen
-Stufe 4
-Analyse Taxonomische Verben im Ausbildungsrahmenplan: analysieren, klassifizieren
-  Synonym: ableiten, analysieren, einkreisen, gegenüberstellen, gliedern, isolieren, klassifizieren, zerlegen, zuordnen
-Stufe 5
-Synthese Taxonomische Verben im Ausbildungsrahmenplan: entwickeln, zusammenstellen
-  Synonym: abfassen, aufbauen, entwerfen, entwickeln, gestalten, kombinieren, konstruieren, lösen, organisieren, zusammenstellen
-Stufe 6
-Beurteilung Taxonomische Verben im Ausbildungsrahmenplan: bewerten, beurteilen, differenzieren, auswerten
-  Synonym: auswerten, beurteilen, bewerten, differenzieren, entscheiden, qualifizieren, urteilen, vergleichen, vertreten, widerlegen, folgern, gewichten, vereinfachen
+| Stufe 1 |  |
+| Wissen | Taxonomische Verben im Ausbildungsrahmenplan: benennen Synonym: angeben, aufschreiben, aufzählen, aufzeichnen, ausführen, benennen, bezeichnen, darstellen, reproduzieren, vervollständigen, zeichnen, zeigen, wiedergeben |
+| Stufe 2 |  |
+| Verstehen | Taxonomische Verben im Ausbildungsrahmenplan: beschreiben, einordnen Synonym: begründen, einordnen, ordnen, unterscheiden, vergleichen, beschreiben |
+| Stufe 3 |  |
+| Anwendung | Taxonomische Verben im Ausbildungsrahmenplan: interpretieren, ausführen Synonym: anwenden, aufstellen, ausführen, berechnen, bestimmen, interpretieren |
+| Stufe 4 |  |
+| Analyse | Taxonomische Verben im Ausbildungsrahmenplan: analysieren, klassifizieren Synonym: ableiten, analysieren, einkreisen, gegenüberstellen, gliedern, isolieren, klassifizieren, zerlegen, zuordnen |
+| Stufe 5 |  |
+| Kreativität | Taxonomische Verben im Ausbildungsrahmenplan: entwickeln, zusammenstellen Synonym: aufbauen, entwerfen, entwickeln, gestalten, kombinieren, konstruieren, lösen, organisieren, zusammenstellen |
+| Stufe 6 |  |
+| Beurteilung | Taxonomische Verben im Ausbildungsrahmenplan: bewerten, beurteilen, differenzieren, auswerten Synonym: auswerten, beurteilen, bewerten, differenzieren, entscheiden, qualifizieren, urteilen, vergleichen, vertreten, widerlegen, folgern |
 Im Folgenden bedeuten
 LA 1: Lotsenausbildungsabschnitt 1;
 LA 2: Lotsenausbildungsabschnitt 2;

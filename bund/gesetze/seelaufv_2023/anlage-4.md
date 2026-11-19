@@ -1,4 +1,4 @@
-# Anlage 4 (zu § 9)Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
+# Anlage 4 (zu § 9)Inhalte für die Schulung anleitender Seelotsinnen und Seelotsen, Basis-Schulung
 
 Abschnitt 1 Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
 | Name des Lehrganges | Train the Trainer basic (TtT Basic) |

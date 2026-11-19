@@ -1,12 +1,14 @@
-# Anlage 7 (zu § 19)Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter
+# Anlage 7 (zu § 18b)Ausbildungsabgabe
 
-7.1 Muster des Ausweises für Seelotsinnen und Seelotsen
-Vorderseite:
-[Bild: bgbl1_2023_j00490_0010.jpg]
-Rückseite:
-[Bild: bgbl1_2023_j00490_0020.jpg]
-7.2 Muster des Ausweises für Seelotsenanwärterinnen und Seelotsenanwärter
-Vorderseite:
-[Bild: bgbl1_2023_j00490_0030.jpg]
-Rückseite:
-[Bild: bgbl1_2023_j00490_0040.jpg]
+Die Ausbildungsabgabe bei Teilnahme an der Lotsgeldverteilung beträgt von der jeweils geltenden Sollbetriebseinnahme im Fall des § 18b Absatz 1 Satz 1 im
+– ersten bis zwölften Monat nach Bestallung 25 Prozent
+– dreizehnten bis vierundzwanzigsten Monat nach Bestallung 20 Prozent
+– fünfundzwanzigsten bis sechsunddreißigsten Monat nach Bestallung 15 Prozent
+– siebenunddreißigsten bis achtundvierzigsten Monat nach Bestallung 10 Prozent
+– neunundvierzigsten bis sechzigsten Monat nach Bestallung 5 Prozent und
+im Fall des § 18b Absatz 1 Satz 2 im
+– ersten bis zwölften Monat nach Bestallung 12,5 Prozent
+– dreizehnten bis vierundzwanzigsten Monat nach Bestallung 10 Prozent
+– fünfundzwanzigsten bis sechsunddreißigsten Monat nach Bestallung 7,5 Prozent
+– siebenunddreißigsten bis achtundvierzigsten Monat nach Bestallung 5 Prozent
+– neunundvierzigsten bis sechzigsten Monat nach Bestallung 2,5 Prozent

@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 7 Absatz 2)Bewertungsmaßstab
+# Anlage 3 (zu § 7 Absatz 2)Bewertung der Leistungen in der Ausbildung
 
 Abschnitt 1 Bewertung der Leistungen in den Ausbildungsfahrten
 Die Leistungen der Seelotsenanwärterinnen und Seelotsenanwärter in den Ausbildungsfahrten werden wie folgt bewertet:
@@ -8,13 +8,14 @@ Die Leistungen der Seelotsenanwärterinnen und Seelotsenanwärter in den Ausbild
 4. „teilweise nicht erfüllt“ = unter 61 % bis 41 %, wenn die Leistung zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht;
 5. „überwiegend nicht erfüllt“ = unter 41 % bis 21 %, wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundlagen vorhanden sind und die Mängel in absehbarer Zeit behoben werden können;
 6. „nicht erfüllt“ = unter 21 %, wenn die Leistungen den Anforderungen nicht entspricht und die Grundlagen so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
-Abschnitt 2 Bewertung der Ausbildungsfahrten
-Die Bewertung der Leistung in den Ausbildungsfahrten erfolgt in folgenden Kriterien:
+Abschnitt 2 Bewertung der Ausbildungsfahrten und Simulationsübungen
+Die Bewertung der Leistung in den Ausbildungsfahrten erfolgt in folgenden Kriterien.
 Auf jeder Ausbildungsfahrt sind zu bewerten
 – Reisevorbereitung
 – Reiseverlauf
 – Eigenschutz
-– Sozialverhalten (Stresstoleranz, Motivation, Kontrollüberzeugung, Zuverlässigkeit, Empathie, Offenheit, Rollenbewusstsein).
+– Sozialverhalten (Stresstoleranz, Motivation, Zuverlässigkeit, Empathie, Rollenbewusstsein, Kritikfähigkeit).
+Bei Simulationsübungen gilt Satz 2 nicht.
 Zu bewerten sind außerdem folgende individuelle Kriterien, die je nach Verlauf der Ausbildungsfahrt und dem Ausbildungsstand der Anwärterin oder des Anwärters von der anleitenden Lotsin oder dem anleitenden Lotsen bestimmt werden:
 – Rudergehen
 – Fahren im Konvoi
