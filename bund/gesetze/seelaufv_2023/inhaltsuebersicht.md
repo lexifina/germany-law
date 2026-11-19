@@ -3,6 +3,7 @@
 Abschnitt 1
 Ausbildung
 | § 1 | Ziel und Inhalte der Ausbildung |
+| § 1a | Begriffsbestimmungen |
 | § 2 | Aufbau und Dauer der Ausbildung |
 | § 3 | Zulassung zur Ausbildung |
 | § 4 | Durchführung der Ausbildung |
@@ -19,21 +20,24 @@ Ausbildung
 | § 15 | Wiederholung der Prüfung |
 | § 16 | Rücktritt von der Prüfung |
 | § 17 | Ordnungsverstöße und Täuschungsversuche |
-| § 18 | Kostenerstattung bei Bestallungsverzicht |
-| § 19 | Seelotsenanwärterausweis und Seelotsenausweis |
+| § 18 | Kostenerstattung bei Verzicht auf die Bestallung und bei Widerruf der Bestallung |
+| § 18a | Finanzierung der Ausbildung |
+| § 18b | Verfahren zur Finanzierung |
+| § 19 | Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter |
 | § 20 | Aufbewahrungsfrist |
 Abschnitt 2
 Fortbildung
 | § 21 | Fortbildungsverpflichtung |
 | § 22 | Fortbildungsplan |
-| § 23 | Nachweis |
-| § 24 | Fortbildung für die Ausbildung von Seelotsenanwärterinnen und Seelotsenanwärtern |
+| § 23 | Nachweis über die Teilnahme an Fortbildungsveranstaltungen |
+| § 24 | Kosten für die Fortbildung der anleitenden Seelotsinnen und Seelotsen |
 | Anlage 1 | Ausbildungsrahmenplan |
-| Anlage 2 | Bewertungsmatrix im Auswahlverfahren |
-| Anlage 3 | Bewertungsmaßstab |
-| Anlage 4 | Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung |
-| Anlage 5 | Prüfungszeugnis Lotsenausbildungsabschnitt 1 und 2 |
-| Anlage 6 | Prüfungszeugnis über die Befähigung zur Seelotsin/zum Seelotsen |
-| Anlage 7 | Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter |
-| Anlage 8 | Fortbildungsrahmenplan |
-| Anlage 9 | Muster Lehrgangsbeschreibung |
+| Anlage 2 | Vorlage zur Erstellung einer Bewertungsmatrix für das Auswahlverfahren |
+| Anlage 3 | Bewertung der Leistungen in der Ausbildung |
+| Anlage 4 | Inhalte der Schulung anleitender Seelotsinnen und Seelotsen, Basis-Schulung |
+| Anlage 5 | Prüfungszeugnis über die Lotsenausbildungsabschnitte 1 und 2 |
+| Anlage 6 | Prüfungszeugnis über die Befähigung zur Seelotsin oder zum Seelotsen |
+| Anlage 7 | Ausbildungsabgabe |
+| Anlage 8 | Muster des Ausweises für Seelotsinnen und Seelotsen sowie für Seelotsenanwärterinnen und Seelotsenanwärter |
+| Anlage 9 | Fortbildungsrahmenplan |
+| Anlage 10 | Muster Lehrgangsbeschreibung |

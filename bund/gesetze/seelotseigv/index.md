@@ -5,6 +5,7 @@
 - [§ 3 Anforderungen an die Eignung der Seelotsenbewerberinnen und Seelotsenbewerber](0003.md)
 - [§ 4 Durchführung der Seelotseignungsuntersuchung](0004.md)
 - [§ 5 Seelotseignungszeugnis](0005.md)
+- [§ 5a Bescheinigung über die psychologische Eignung](0005a.md)
 - [§ 6 Ablehnung der Seelotseignung, Widerspruch](0006.md)
 - [§ 7 Zugelassene Ärztinnen und Ärzte](0007.md)
 - [§ 8 Dokumentationspflichten, Zugang zum Seelotseignungsverzeichnis](0008.md)

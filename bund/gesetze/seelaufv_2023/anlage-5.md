@@ -1,4 +1,4 @@
-# Anlage 5 (zu den §§ 10 und 11)Prüfungszeugnis Lotsenausbildungsabschnitt 1 und 2
+# Anlage 5 (zu den §§ 10 und 11)Prüfungszeugnis über die Lotsenausbildungsabschnitte 1 und 2
 
 | Bundeslotsenkammer/Lotsenbrüderschaft | [Logo] |
 Prüfungszeugnis

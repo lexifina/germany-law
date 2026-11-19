@@ -1,4 +1,4 @@
-# Anlage 6 (zu § 12)Prüfungszeugnis über die Befähigung zur Seelotsin/zum Seelotsen
+# Anlage 6 (zu § 12)Prüfungszeugnis über die Befähigung zur Seelotsin oder zum Seelotsen
 
 | Generaldirektion Wasserstraßen und Schifffahrt | [Logo] |
 Prüfungszeugnis
