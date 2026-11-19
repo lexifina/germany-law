@@ -242,3 +242,33 @@ lifts the stop.
 **Folders.** From 19 November 2026 new Bundestag Drucksachen go into folders of 500 numbers
 (`bundestag/drucksachen/wpNN/<nr // 500 × 500>/<wp>_<nr>.md`); files already published in the flat `wpNN/` folders stay
 where they are.
+
+**Pace from 19 November 2026 (Alan's decision, 10:20Z: "abide by each site's requirements if explicit; if not, raise
+it substantially").** A host that states a limit (robots.txt Crawl-delay or Request-rate, its API documentation or
+terms, a published rate limit) is read at exactly that limit. Every other host is read at no more than one request
+every 10 s from all runners together, now without the daily cap of 3,000 (so up to about 8,600 requests a day);
+council OParl APIs and DIP keep the paces stated above. Unchanged: the first 401, 403 or 429, any check page, or six
+connection failures in a row stop a host for good (only Alan lifts a stop), and juris-run hosts stay stopped. The
+limits stated by hosts, as read on 19 November 2026:
+
+| Host | Interval | Stated in |
+| --- | --- | --- |
+| bravors.brandenburg.de | 20 s | robots.txt Crawl-delay 20 |
+| transparenz.schleswig-holstein.de | 10 s | robots.txt Crawl-delay 10 |
+| www.bielefeld.de | 2 s | robots.txt Crawl-delay 2 |
+| www.bsg.bund.de | 30 s | robots.txt Crawl-delay 30 |
+| www.bundesfinanzhof.de | 60 s | robots.txt Crawl-delay 60 |
+| www.bundesfinanzministerium.de | 180 s | robots.txt Crawl-delay 180 |
+| www.bundesverfassungsgericht.de | 30 s | robots.txt Crawl-delay 30 |
+| www.bverwg.de | 30 s | robots.txt Crawl-delay 30 |
+| www.dresden.de | 5 s | robots.txt Crawl-delay 5 |
+| www.erlangen.de | 60 s | robots.txt Crawl-delay 60 |
+| www.esslingen.de | 30 s | robots.txt Crawl-delay 30 |
+| www.heidelberg.de | 30 s | robots.txt Crawl-delay 30 |
+| www.justiz.sachsen.de | 3600 s | robots.txt Crawl-delay 3600 |
+| www.konstanz.de | 30 s | robots.txt Crawl-delay 30 |
+| www.leipzig.de | 5 s | robots.txt Crawl-delay 5 |
+| www.luebeck.de | 10 s | robots.txt Crawl-delay 10 |
+| www.recht.bund.de | 30 s | robots.txt Crawl-delay 30 |
+| www.siegen.de | 3 s | robots.txt Crawl-delay 3 |
+| www.stadt-ratingen.de | 10 s | robots.txt Crawl-delay 10 |
