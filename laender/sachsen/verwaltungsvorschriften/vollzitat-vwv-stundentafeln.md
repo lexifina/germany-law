@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2027-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.8
+- Datum: 2024-08-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -22,10 +22,12 @@ REVOSax
 
 Hauptinhalt
 
-Zukünftige Fassung
+Historische Fassung
 
-wird gültig ab
-01.08.2027
+war gültig vom
+02.08.2024
+bis
+31.07.2026
 
 VwV Stundentafeln
 
@@ -82,7 +84,7 @@ Für Grundschulen, an denen nach der Klassenstufe 2 eine LRS-Klasse gebildet wir
 
 Grundschule mit dem Angebot des Faches Jüdische Religion
 
-An den von der Schulaufsichtsbehörde festgelegten Grundschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel.
+An den von der Schulaufsichtsbehörde festgelegten Grundschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der VwV Religion und Ethik vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 1. Dezember 2023 (SächsABl. SDr. S. S 287) entsprechend.
 
 
 IV.
@@ -191,7 +193,7 @@ An der Palucca Hochschule für Tanz Dresden, Oberschule, gilt die als Anlage 3d 
 
 5.
 
-An den von der Schulaufsichtsbehörde festgelegten Oberschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 3e beigefügte Stundentafel.
+An den von der Schulaufsichtsbehörde festgelegten Oberschulen, die das Fach Jüdische Religion anbieten, gilt die als Anlage 3e beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
 
 
 6.
@@ -233,7 +235,7 @@ In der Sekundarstufe I des Sorbischen Gymnasiums gilt die als Anlage 4c beigefü
 
 An den von der Schulaufsichtsbehörde festgelegten Gymnasien, die das Fach Jüdische Religion anbieten, gilt in der Sekundarstufe I die als Anlage 4d
 
-beigefügte Stundentafel.
+beigefügte Stundentafel. Ziffer III Nummer 4 Satz 2 gilt entsprechend.
 
 
 VII.
@@ -474,7 +476,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2027
+Fassung gültig ab:  2. August 2024
+
+Fassung gültig bis: 31. Juli 2026
 
 Drucken/Speichern
 
@@ -482,7 +486,7 @@ HTML-Gesamtansicht
 
 Vorschrift als PDF
 
-Vorschrift mit allen Anlagen
+Anlagen als PDF
 
 Einzeldruck
 
@@ -501,7 +505,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.8
+https://www.revosax.sachsen.de/vorschrift/17744.6
 Stand vom
 18.11.2026
 
