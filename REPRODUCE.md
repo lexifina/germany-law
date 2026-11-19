@@ -279,3 +279,57 @@ limits stated by hosts, as read on 19 November 2026:
 project that re-publishes the City of Munich's council information through its own OParl interface. It is not an
 official source (the council's own system is the city's RIS) and should not have been used. The files are withdrawn
 (deleted) in one labelled commit; their paths are listed in `data/withdrawn-oparl-muenchen-transparent-2026-11-19.txt`. The host is excluded from the OParl runner.
+
+**Added later on 19 November 2026** (same rules; pace as stated above):
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `rechtsprechung/nordrhein-westfalen/<gericht>/` | NRWE, the decision database of the Justiz Nordrhein-Westfalen (nrwe.justiz.nrw.de) | one commit per decision, dated by its day; decisions as the courts publish them (anonymised) |
+| `rechtsprechung/bremen/<gericht>/` | Staatsgerichtshof der Freien Hansestadt Bremen, its own site | one commit per decision. The OVG, VG, OLG and LAG Bremen sites were stopped after their first answers (redirects our client did not then follow) and are not used |
+| `rechtsprechung/<land>/<verfassungsgericht>/` | The Land constitutional courts' own sites: Baden-Württemberg, Bayern, Bremen, Hessen, Rheinland-Pfalz, Sachsen-Anhalt, Thüringen | decision PDFs (text layer); Leitsatz-only files and press releases left out |
+| `rechtsprechung/bag/`, `rechtsprechung/bfh/` (gap-fill) | www.bundesarbeitsgericht.de (decision sitemaps; robots.txt names no rate for us: 10 s) and www.bundesfinanzhof.de ("Entscheidungen online"; robots.txt Crawl-delay 60: 60 s) | only decisions not yet in this repository (checked by ECLI and by Aktenzeichen with date) |
+| `laender/bremen/gbl/`, `laender/bremen/amtsblatt/` | Gesetzblatt der Freien Hansestadt Bremen and Amtsblatt der Freien Hansestadt Bremen, 2013– (www.gesetzblatt.bremen.de, www.amtsblatt.bremen.de, Senatskanzlei) | one file per issue (Gesetzblatt) or notice (Amtsblatt); notices naming private persons: metadata only. The sites' notice reserving their texts does not cover the gazettes: official works under § 5 UrhG (Alan, 17 November 2026) |
+| `laender/brandenburg/gvbl-teil-2/`, `amtsblatt/`, `amtsblatt-mbjs/`, `jmbl/` | BRAVORS (bravors.brandenburg.de, Landesregierung Brandenburg), 1997–: GVBl. Teil II, Amtsblatt für Brandenburg, Amtsblatt des MBJS, Justizministerialblatt | robots.txt Crawl-delay 20 honoured; issues naming private persons keep only their contents list or metadata |
+| `laender/hamburg/gvbl/` | Hamburgisches Gesetz- und Verordnungsblatt 2014–, the issue PDFs as published free of charge by the gazette's printer (www.luewu.de) | one file and commit per issue; official text only |
+| `bund/verwaltung/bmf-schreiben/` | BMF-Schreiben from the Bundesministerium der Finanzen's own list (www.bundesfinanzministerium.de) | the PDF's text layer; robots.txt Crawl-delay 180 honoured |
+
+**Federal court sites not used (19 November 2026).** www.bsg.bund.de and www.bundesverfassungsgericht.de state
+"Crawl-delay: 30" and disallow /SiteGlobals/ (their decision searches); www.bverwg.de disallows Anthropic's crawler by
+name (another group allows all agents with a crawl delay). Under Alan's rule of 8 November 2026 a Disallow is advisory,
+so they were read at 30 s; the BSG search answered 403, the BVerwG decision list answered with a check page, and the
+BVerfG gateway answered with error pages after six list pages, so all three hosts are stopped and nothing was taken
+from them. The Bundessozialgericht's decisions from 2010 come from NeuRIS, the Rechtsinformationsportal des Bundes
+(testphase.rechtsinformationen.bund.de, BMJ and DigitalService): its published bulk snapshot of federal court decisions,
+read once, of which only decisions not already held here were written.
+
+**Mirrors of official text (decision of 19 November 2026).** Copies of official documents made by others are used
+where the file is the official document itself, not the copier's own records: the Bundesgesetzblatt 1949–2022 comes as
+the page scans and their text layer mirrored by OffeneGesetze (api.offenegesetze.de, media.offenegesetze.de; each file
+names its BGBl. Teil, year, number, page and day of issue, and the binding text is the official Bundesgesetzblatt);
+the 2019– versions of federal acts come from the QuantLaw archive of the daily texts of Gesetze im Internet; the
+constitutions of 1867, 1871 and 1919 are Wikisource transcriptions, each tied to the scan of the official gazette.
+Records that a re-publisher compiled itself are not used: the council records taken from OParl re-publishers were
+withdrawn (18 and 19 November 2026).
+
+**Council OParl interfaces added on 19 November 2026.** Aachen (the city's own system, new address), Bochum, the
+Somacos Session hosting of digitalfabriX for the Landkreise Aschaffenburg and Erlangen-Höchstadt, Kitzingen,
+Petershausen and Traunstein, OWL-IT (the municipal IT provider of Ostwestfalen-Lippe, 28 councils), and five Berlin
+district assemblies (www.sitzungsdienst-tempelhof-schoeneberg.de, www.sitzungsdienst-charlottenburg-wilmersdorf.de,
+www.sitzungsdienst-friedrichshain-kreuzberg.de, www.sitzungsdienst-neukoelln.de, www.sitzungsdienst-mitte.de). The
+Berlin hosts' robots.txt says `Disallow: /`; under Alan's rule of 8 November 2026 it is advisory, and the overrides are
+recorded in `host_tiers.json` as for the other Berlin districts. Pace as for the other OParl interfaces.
+
+**More parts of 19 November 2026.**
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `kommunen/<ARS>/ortsrecht/`, `kommunen/<ARS>/kreisrecht/` | The Ortsrecht collections on the cities' own sites, now also Aachen, Augsburg, Bielefeld, Bochum, Braunschweig, Cottbus, Duisburg, Düsseldorf, Esslingen, Gelsenkirchen, Gütersloh, Halle, Hannover, Heilbronn, Karlsruhe, Kiel, Konstanz, Krefeld, Leverkusen, Mannheim, Marl, Minden, Moers, Neuss, Oberhausen, Oldenburg, Passau, Potsdam, Rostock, Schwerin, Siegen, Trier, Velbert, Villingen-Schwenningen, Wolfsburg, Zwickau and the Kreis Borken | as the collections of 18 November |
+| `kommunen/<ARS>/amtsblatt/` | Amtsblätter of Leipzig, Gütersloh, Salzgitter, Gelsenkirchen, Velbert, Wolfsburg, Regensburg, Kaiserslautern, Kreis Paderborn and Kreis Gütersloh | as the Amtsblätter of 18 November |
+| `kommunen/muenchen/ris/` | RISi, the council information system of the Landeshauptstadt München (risi.muenchen.de): Sitzungsvorlagen, Stadtrats- and Bezirksausschuss-Anträge and -Anfragen, Sitzungen with their public agenda items | one commit per record, dated by its day, in day folders; document PDFs linked. robots.txt names no rate; it disallows two AI crawlers by name, among them Anthropic's (advisory under Alan's rule of 8 November 2026), so 10 s per request. Records of citizens (Bürgerversammlung requests, Einwohner matters), personnel, building and tree cases, and non-public items: metadata only under a neutral heading |
+
+**Private persons in official texts (Alan, 19 November 2026: remove names only where we have to).** In gazettes and
+local law the official text is kept, and only a private person's name or home address is replaced inline by
+"[Name ausgelassen]" or "[Anschrift ausgelassen]" (the file says so). Only documents that are essentially about a
+private person (citizens' requests, personnel, building or tree cases, awards to private persons) are kept as metadata.
+Office holders, councillors and those entrusted with a public office are named as published. A record that is
+reached only behind a login redirect (non-public) is skipped.
