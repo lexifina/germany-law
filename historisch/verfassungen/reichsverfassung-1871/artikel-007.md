@@ -7,3 +7,5 @@ Der Bundesrath beschließt:
 Jeder Bundesglied ist befugt, Vorschläge zu machen und in Vortrag zu bringen, und das Präsidium ist verpflichtet, dieselben der Berathung zu übergeben.
 Die Beschlußfassung erfolgt, vorbehaltlich der Bestimmungen in den Artikeln 5. 37. und 78., mit einfacher Mehrheit. Nicht vertretene oder nicht instruirte Stimmen werden nicht gezählt. Bei Stimmengleichheit giebt die Präsidialstimme den Ausschlag.
 Bei der Beschlußfassung über eine Angelegenheit, welche nach den Bestimmungen dieser Verfassung nicht dem ganzen Reiche gemeinschaftlich ist, werden die Stimmen nur derjenigen Bundesstaaten gezählt, welchen die Angelegenheit gemeinschaftlich ist.
+
+- Scan: Deutsches Reichsgesetzblatt 1871 016 068.jpg (Wikimedia Commons), Seite 68

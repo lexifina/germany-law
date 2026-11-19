@@ -4,3 +4,5 @@ Der Kaiser kann, wenn die öffentliche Sicherheit in dem Bundesgebiete bedroht i
 
 Schlußbestimmung zum XI. Abschnitt.
 Die in diesem Abschnitt enthaltenen Vorschriften kommen in Bayern nach näherer Bestimmung des Bündnißvertrages vom 23. November 1870. (Bundesgesetzblatt 1871. S. 9.) unter III. §. 5., in Württemberg nach näherer Bestimmung des Militairkonvention vom 21./25. November 1870. (Bundesgesetzblatt 1870. S. 658.) zur Anwendung.
+
+- Scan: Seiten 82–83: Deutsches Reichsgesetzblatt 1871 016 082.jpg; Deutsches Reichsgesetzblatt 1871 016 083.jpg (Wikimedia Commons)

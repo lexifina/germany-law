@@ -2,3 +2,5 @@
 
 Das Reich ausschließlich hat die Gesetzgebung über das gesammte Zollwesen, über die Besteuerung des im Bundesgebiete gewonnenen Salzes und Tabacks, bereiteten Branntweins und Bieres und aus Rüben oder anderen inländischen Erzeugnissen dargestellten Zuckers und Syrups, über den gegenseitigen Schutz der in den einzelnen Bundesstaaten erhobenen Verbrauchsabgaben gegen Hinterziehungen, sowie über die Maßregeln, welche in den Zollausschüssen zur Sicherung der gemeinsamen Zollgrenze erforderlich sind.
 In Bayern, Württemberg und Baden bleibt die Besteuerung des inländischen Branntweins und Bieres der Landesgesetzgebung vorbehalten. Die Bundesstaaten werden jedoch ihr Bestreben darauf richten, eine Uebereinstimmung der Gesetzgebung über die Besteuerung auch dieser Gegenstände herbeizuführen.
+
+- Scan: Seiten 72–73: Deutsches Reichsgesetzblatt 1871 016 072.jpg; Deutsches Reichsgesetzblatt 1871 016 073.jpg (Wikimedia Commons)

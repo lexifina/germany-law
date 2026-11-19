@@ -17,3 +17,5 @@ Der Beaufsichtigung Seitens des Reichs und der Gesetzgebung desselben unterliege
 # das Militairwesen des Reichs und die Kriegsmarine;
 # Maßregeln der Medizinal- und Veterinairpolizei;
 # die Bestimmungen über die Presse- und das Vereinswesen.
+
+- Scan: Deutsches Reichsgesetzblatt 1871 016 066.jpg (Wikimedia Commons), Seite 66

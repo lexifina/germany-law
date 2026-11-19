@@ -85,3 +85,5 @@ Der Bundesrath besteht aus den Vertretern der Mitglieder des Bundes, unter welch
 |}
 
 Jedes Mitglied des Bundes kann so viel Bevollmächtigte zum Bundesrathe ernennen, wie es Stimmen hat, doch kann die Gesammtheit der zuständigen Stimmen nur einheitlich abgegeben werden.
+
+- Scan: Seiten 67–68: Deutsches Reichsgesetzblatt 1871 016 067.jpg; Deutsches Reichsgesetzblatt 1871 016 068.jpg (Wikimedia Commons)

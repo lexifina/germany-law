@@ -6,3 +6,5 @@ Diejenigen Bestimmungen, welche die Armenversorgung und die Aufnahme in den loka
 Ebenso bleiben bis auf Weiteres die Verträge in Kraft, welche zwischen den einzelnen Bundesstaaten in Beziehung auf die Uebernahme von Auszuweisenden, die Verpflegung erkrankter und die Beerdigungen verstorbener Staatsangehörigen bestehen.
 Hinsichtlich der Erfüllung der Militairpflicht im Verhältniß zu dem Heimathslande wird im Wege der Reichsgesetzgebung das Nöthige geordnet werden.
 Dem Auslande gegenüber haben alle Deutschen gleichmäßig Anspruch auf den Schutz des Reichs.
+
+- Scan: Seiten 65–66: Deutsches Reichsgesetzblatt 1871 016 065.jpg; Deutsches Reichsgesetzblatt 1871 016 066.jpg (Wikimedia Commons)

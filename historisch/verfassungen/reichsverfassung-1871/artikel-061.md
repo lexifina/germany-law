@@ -2,3 +2,5 @@
 
 Nach Publikation dieser Verfassung ist in dem ganzen Reiche die gesammte Preußische Militairgesetzgebung ungesäumt einzuführen, sowohl die Gesetze selbst, als die zu ihrer Ausführung, Erläuterung oder Ergänzung erlassenen Reglements, Instruktionen und Reskripte, namentlich also das Militair-Strafgesetzbuch vom 3. April 1845., die Militair-Strafgerichtsordnung vom 3. April 1845., die Verordnung über die Ehrengerichte vom 20. Juli 1843., die Bestimmungen über Aushebung, Dienstzeit, Servis- und Verpflegungswesen, Einquartierung, Ersatz von Flurbeschädigungen, Mobilmachung u.s.w. für Krieg und Frieden. Die Miltair-Kirchenordnung ist jedoch ausgeschlossen.
 Nach gleichmäßiger Durchführung der Kriegsorganisation des Deutschen Heeres wird ein umfassendes Reichs-Militairgesetz dem Reichstage und dem Bundesrathe zur verfassungsmäßigen Beschlußfassung vorgelegt werden.
+
+- Scan: Seiten 80–81: Deutsches Reichsgesetzblatt 1871 016 080.jpg; Deutsches Reichsgesetzblatt 1871 016 081.jpg (Wikimedia Commons)

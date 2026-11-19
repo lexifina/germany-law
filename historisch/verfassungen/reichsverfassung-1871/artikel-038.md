@@ -11,3 +11,5 @@ c) bei der Rübenzuckersteuer und Tabacksteuer der Vergütung, welche nach den j
 d) bei den übrigen Steuern mit funfzehn Prozent der Gesammteinnahme.
 Die außerhalb der gemeinschaftlichen Zollgrenze liegenden Gebiete tragen zu den Ausgaben des Reichs durch Zahlung eines Aversums bei.
 Bayern, Württemberg und Baden haben an dem in die Reichskasse fließenden Ertrage der Steuern von Branntwein und Bier und an dem diesem Ertrage entsprechenden Theile des vorstehend erwähnten Aversums keinen Theil.
+
+- Scan: Seiten 73–74: Deutsches Reichsgesetzblatt 1871 016 073.jpg; Deutsches Reichsgesetzblatt 1871 016 074.jpg (Wikimedia Commons)
