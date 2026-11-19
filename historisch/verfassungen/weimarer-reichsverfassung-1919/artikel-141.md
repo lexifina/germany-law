@@ -1,3 +1,5 @@
 # Artikel 141
 
 Soweit das Bedürfnis nach Gottesdienst und Seelsorge im Heer, in Krankenhäusern, Strafanstalten oder sonstigen öffentlichen Anstalten besteht, sind die Religionsgesellschaften zur Vornahme religiöser Handlungen zuzulassen, wobei jeder Zwang fernzuhalten ist.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1410.jpg (Wikimedia Commons), Seite 1410

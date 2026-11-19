@@ -5,3 +5,5 @@ Das Reich trifft durch Gesetz die Vorschriften über:
 2. die Einrichtung und Befugnisse der mit der Beaufsichtigung der Ausführung der Reichsabgabengesetze betrauten Behörden;
 3. die Abrechnung mit den Ländern;
 4. die Vergütung der Verwaltungskosten bei Ausführung der Reichsabgabengesetze.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1399.jpg (Wikimedia Commons), Seite 1399

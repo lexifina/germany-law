@@ -2,3 +2,5 @@
 
 Die geistige Arbeit, das Recht der Urheber, der Erfinder und der Künstler genießt den Schutz und die Fürsorge des Reichs.
 Den Schöpfungen deutscher Wissenschaft, Kunst und Technik ist durch zwischenstaatliche Vereinbarung auch im Ausland Geltung und Schutz zu verschaffen.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1414.jpg (Wikimedia Commons), Seite 1414

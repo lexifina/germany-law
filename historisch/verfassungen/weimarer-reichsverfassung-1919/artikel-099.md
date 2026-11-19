@@ -6,3 +6,5 @@ Im Bereiche der Binnenschiffahrt können für die Bemessung der Befahrungsabgabe
 Diese Bestimmungen gelten auch für die Flößerei auf schiffbaren Wasserstraßen.
 Auf fremde Schiffe und deren Ladungen andere oder höhere Abgaben zu legen als auf deutsche Schiffe und deren Ladungen, steht nur dem Reiche zu.
 Zur Beschaffung von Mitteln für die Unterhaltung und den Ausbau des deutschen Wasserstraßennetzes kann das Reich die Schiffahrtsbeteiligten auch auf andere Weise durch Gesetz zu Beiträgen heranziehen.
+
+- Scan: Seiten 1402–1403: Deutsches Reichsgesetzblatt 1919 152 1402.jpg; Deutsches Reichsgesetzblatt 1919 152 1403.jpg (Wikimedia Commons)

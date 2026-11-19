@@ -8,3 +8,5 @@ Die Religionsgesellschaften bleiben Körperschaften des öffentlichen Rechtes, s
 Die Religionsgesellschaften, welche Körperschaften des öffentlichen Rechtes sind, sind berechtigt, auf Grund der bürgerlichen Steuerlisten nach Maßgabe der landesrechtlichen Bestimmungen Steuern zu erheben.
 Den Religionsgesellschaften werden die Vereinigungen gleichgestellt, die sich die gemeinschaftliche Pflege einer Weltanschauung zur Aufgabe machen.
 Soweit die Durchführung dieser Bestimmungen eine weitere Regelung erfordert, liegt diese der Landesgesetzgebung ob.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1409.jpg (Wikimedia Commons), Seite 1409

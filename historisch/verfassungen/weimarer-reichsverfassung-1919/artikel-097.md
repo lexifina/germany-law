@@ -6,3 +6,5 @@ Bei der Verwaltung, dem Ausbau oder dem Neubau von Wasserstraßen sind die Bedü
 Jede Wasserstraßenverwaltung hat sich den Anschluß anderer Binnenwasserstraßen auf Kosten der Unternehmer gefallen zu lassen. Die gleiche Verpflichtung besteht für die Herstellung einer Verbindung zwischen Binnenwasserstraßen und Eisenbahnen.
 Mit dem Übergange der Wasserstraßen erhält das Reich die Enteignungsbefugnis, die Tarifhoheit sowie die Strom- und Schiffahrtspolizei.
 Die Aufgaben der Strombauverbände in bezug auf den Ausbau natürlicher Wasserstraßen im Rhein-, Weser- und Elbgebiet sind auf das Reich zu übernehmen.
+
+- Scan: Seiten 1401–1402: Deutsches Reichsgesetzblatt 1919 152 1401.jpg; Deutsches Reichsgesetzblatt 1919 152 1402.jpg (Wikimedia Commons)

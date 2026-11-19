@@ -5,3 +5,5 @@ Der Haushaltsplan wird vor Beginn des Rechnungsjahrs durch ein Gesetz festgestel
 Die Ausgaben werden in der Regel für ein Jahr bewilligt; sie können in besonderen Fällen auch für eine längere Dauer bewilligt werden. Im übrigen sind Vorschriften im Reichshaushaltsgesetz unzulässig, die über das Rechnungsjahr hinausreichen oder sich nicht auf die Einnahmen und Ausgaben des Reichs oder ihre Verwaltung beziehen.
 Der Reichstag kann im Entwurfe des Haushaltsplans ohne Zustimmung des Reichsrats Ausgaben nicht erhöhen oder neu einsetzen.
 Die Zustimmung des Reichsrats kann gemäß den Vorschriften des Artikel 74 ersetzt werden.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1399.jpg (Wikimedia Commons), Seite 1399

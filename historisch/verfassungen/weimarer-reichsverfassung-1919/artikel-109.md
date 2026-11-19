@@ -9,3 +9,5 @@ Männer und Frauen haben grundsätzlich dieselben staatsbürgerlichen Rechte und
 Titel dürfen nur verliehen werden, wenn sie ein Amt oder einen Beruf bezeichnen; akademische Grade sind hierdurch nicht betroffen.
 Orden und Ehrenzeichen dürfen vom Staat nicht verliehen werden.
 Kein Deutscher darf von einer ausländischen Regierung Titel oder Orden annehmen.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1404.jpg (Wikimedia Commons), Seite 1404

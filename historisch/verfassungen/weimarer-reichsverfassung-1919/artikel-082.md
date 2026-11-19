@@ -6,3 +6,5 @@ Fremde Staatsgebiete oder Gebietsteile können durch Staatsverträge oder Übere
 Aus dem Zollgebiete können nach besonderem Erfordernis Teile ausgeschlossen werden. Für Freihäfen kann der Ausschluß nur durch ein verfassungsänderndes Gesetz aufgehoben werden.
 Zollausschlüsse können durch Staatsverträge oder Übereinkommen einem fremden Zollgebiet angeschlossen werden.
 Alle Erzeugnisse der Natur sowie des Gewerbe- und Kunstfleißes, die sich im freien Verkehre des Reichs befinden, dürfen über die Grenze der Länder und Gemeinden ein-, aus- oder durchgeführt werden. Ausnahmen sind auf Grund eines Reichsgesetzes zulässig.
+
+- Scan: Seiten 1398–1399: Deutsches Reichsgesetzblatt 1919 152 1398.jpg; Deutsches Reichsgesetzblatt 1919 152 1399.jpg (Wikimedia Commons)

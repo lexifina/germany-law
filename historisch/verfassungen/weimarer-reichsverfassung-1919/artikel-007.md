@@ -21,3 +21,5 @@ Das Reich hat die Gesetzgebung über:
 18. die Seeschiffahrt, die Hochsee- und die Küstenfischerei;
 19. die Eisenbahnen, die Binnenschiffahrt, den Verkehr mit Kraftfahrzeugen zu Lande, zu Wasser und in der Luft, sowie den Bau von Landstraßen, soweit es sich um den allgemeinen Verkehr und die Landesverteidigung handelt;
 20. das Theater- und Lichtspielwesen.
+
+- Scan: Seiten 1384–1385: Deutsches Reichsgesetzblatt 1919 152 1384.jpg; Deutsches Reichsgesetzblatt 1919 152 1385.jpg (Wikimedia Commons)

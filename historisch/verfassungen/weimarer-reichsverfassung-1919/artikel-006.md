@@ -8,3 +8,5 @@ Das Reich hat die ausschließliche Gesetzgebung über:
 5. das Münzwesen;
 6. das Zollwesen sowie die Einheit des Zoll- und Handelsgebiets und die Freizügigkeit des Warenverkehrs;
 7. das Post- und Telegraphenwesen einschließlich des Fernsprechwesens.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1384.jpg (Wikimedia Commons), Seite 1384

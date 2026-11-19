@@ -5,3 +5,5 @@ Der Reichspräsident kann, wenn im Deutschen Reiche die öffentliche Sicherheit 
 Von allen gemäß Abs. 1 oder Abs. 2 dieses Artikels getroffenen Maßnahmen hat der Reichspräsident unverzüglich dem Reichstag Kenntnis zu geben. Die Maßnahmen sind auf Verlangen des Reichstags außer Kraft zu setzen.
 Bei Gefahr im Verzuge kann die Landesregierung für ihr Gebiet einstweilige Maßnahmen der in Abs. 2 bezeichneten Art treffen. Die Maßnahmen sind auf Verlangen des Reichspräsidenten oder des Reichstags außer Kraft zu setzen.
 Das Nähere bestimmt ein Reichsgesetz.
+
+- Scan: Seiten 1392–1393: Deutsches Reichsgesetzblatt 1919 152 1392.jpg; Deutsches Reichsgesetzblatt 1919 152 1393.jpg (Wikimedia Commons)

@@ -6,3 +6,5 @@ Die Bezirksarbeiterräte und der Reichsarbeiterrat treten zur Erfüllung der ges
 Sozialpolitische und wirtschaftspolitische Gesetzentwürfe von grundlegender Bedeutung sollen von der Reichsregierung vor ihrer Einbringung dem Reichswirtschaftsrat zur Begutachtung vorgelegt werden. Der Reichswirtschaftsrat hat das Recht, selbst solche Gesetzesvorlagen zu beantragen. Stimmt ihnen die Reichsregierung nicht zu, so hat sie trotzdem die Vorlage unter Darlegung ihres Standpunkts beim Reichstag einzubringen. Der Reichswirtschaftsrat kann die Vorlage durch eines seiner Mitglieder vor dem Reichstag vertreten lassen.
 Den Arbeiter- und Wirtschaftsräten können auf den ihnen überwiesenen Gebieten Kontroll- und Verwaltungsbefugnisse übertragen werden.
 Aufbau und Aufgabe der Arbeiter- und Wirtschaftsräte sowie ihr Verhältnis zu anderen sozialen Selbstverwaltungskörpern zu regeln, ist ausschließlich Sache des Reichs.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1415.jpg (Wikimedia Commons), Seite 1415

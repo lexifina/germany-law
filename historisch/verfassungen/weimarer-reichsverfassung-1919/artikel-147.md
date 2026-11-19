@@ -4,3 +4,5 @@ Private Schulen als Ersatz für öffentliche Schulen bedürfen der Genehmigung d
 Private Volksschulen sind nur zuzulassen, wenn für eine Minderheit von Erziehungsberechtigten, deren Wille nach Artikel 146 Abs. 2 zu berücksichtigen ist, eine öffentliche Volksschule ihres Bekenntnisses oder ihrer Weltanschauung in der Gemeinde nicht besteht oder die Unterrichtsverwaltung ein besonderes pädagogisches Interesse anerkennt.
 Private Vorschulen sind aufzuheben.
 Für private Schulen, die nicht als Ersatz für öffentliche Schulen dienen, verbleibt es bei dem geltenden Recht.
+
+- Scan: Deutsches Reichsgesetzblatt 1919 152 1411.jpg (Wikimedia Commons), Seite 1411
