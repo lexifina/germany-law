@@ -224,3 +224,21 @@ ratsinfo.steinhagen.de, ratsinfo.wesseling.de and the Berlin districts' www.sitz
 | `bundesrat/reden/` | DIP `plenarprotokoll-text` (Bundesrat) | cut at speaker lines as above; one commit per contribution |
 | `laender/sachsen-anhalt/landtag/vorgaenge/` | PADOKA (Landtag von Sachsen-Anhalt), the procedure index already read for the documents | one file per Vorgang, one commit per step (question, answer, motion, report, decision), dated by the step |
 | `laender/<land>/<parlament>/reden/` | The Landtag plenary records already in this repository (their text layers) | each record cut at its speaker lines ('Name (FRAKTION):', 'Abg. Name, FRAKTION:', 'Präsident(in) …:'); one commit per contribution; records with fewer than 3 speaker lines stay whole; machine-made split, text unchanged |
+
+## Parts added on 19 November 2026
+
+Same method and rules as the parts of 18 November.
+
+| Part | Source | Notes |
+| --- | --- | --- |
+| `bundestag/drucksachen/wp01/` … `wp07/` (and the first days of WP 8), `bundesrat/drucksachen/1949/` … `1976/` | DIP API `drucksache` for the metadata (public key from the DIP help page); for Bundestag Drucksachen of the legislative procedure the text layer of the official PDF on dserver.bundestag.de (the Bundestag's document server; the 1949–1976 PDFs are scans with a text layer as published, OCR errors included) | Drucksachen dated up to 31 December 1976; DIP holds no full text before WP 8. Other kinds and Bundesrat Drucksachen of these years: metadata and PDF link. Privacy as for the later Drucksachen |
+
+**DIP pace (decision of 19 November 2026).** The Drucksachen parts (`bundestag/drucksachen/`, `bundesrat/drucksachen/`)
+read DIP at no more than one request every 3 s, on a budget of their own (at most 28,000 requests a day), as the
+activity and person parts already do at 1 s: DIP is a documented machine API, used with the public key and the same
+client name as before. The first 429, a run of server errors or an error page stops all reading from DIP until Alan
+lifts the stop.
+
+**Folders.** From 19 November 2026 new Bundestag Drucksachen go into folders of 500 numbers
+(`bundestag/drucksachen/wpNN/<nr // 500 × 500>/<wp>_<nr>.md`); files already published in the flat `wpNN/` folders stay
+where they are.
