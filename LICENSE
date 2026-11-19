@@ -1,3 +1,7 @@
+Licence and sources
+
+1. Lexifina's own work
+
 CC0 1.0 Universal
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or
@@ -8,4 +12,124 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-The text of the Grundgesetz is an official work and not protected by copyright in Germany (§ 5 Abs. 1 UrhG).
+This dedication covers Lexifina's own work: the history as commits, the commit messages, the folder layout, the
+indexes and tables, the tools and the documentation. It does not cover the texts and records listed in section 2,
+which come from their publishers and keep whatever terms those publishers give them.
+
+2. Texts and records from their publishers
+
+"Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste Leitsätze zu
+Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 UrhG.) The same holds for other official works
+published in the official interest for general information, which must not be altered and must name their source
+(§ 5 Abs. 2 UrhG). Most of this repository is such text.
+Only the official promulgation (the Bundesgesetzblatt, a Land's gazette, the decision as given by its court) is
+authoritative. Publishers' own material (editorial headnotes, summaries, annotations, footnotes) is left out. Where a
+source states further terms, they are given below; where it states none, that is said. Some folders imported from
+Lexifina's earlier repositories carry their own LICENSE or NOTICE file for that part; section 2.3 adds what has been
+added to those folders since.
+
+2.1 Federal law and the Grundgesetz (grundgesetz/, bund/gesetze/)
+    Gesetze im Internet (www.gesetze-im-internet.de), Bundesministerium der Justiz: the official consolidated text
+    (not authoritative; only the Bundesgesetzblatt is), official works under § 5 UrhG.
+    The versions since 10 June 2019 come from QuantLaw's archive of Gesetze im Internet
+    (https://github.com/QuantLaw/gesetze-im-internet), licensed BSD-3-Clause; the texts in it are official works.
+    The Grundgesetz to the 63rd amending law comes from DocPatch (https://github.com/c3e/grundgesetz-dev). DocPatch
+    says the Grundgesetz is an official work under § 5 UrhG and that its own content ("Selbst erarbeitete Inhalte",
+    such as its metadata of dates, signatories, Gazette citations and votes) is licensed CC BY-SA 3.0 DE
+    (https://creativecommons.org/licenses/by-sa/3.0/de/). Credit: DocPatch, c3e/grundgesetz-dev.
+    The dates of the 64th to 69th amending laws are facts taken from the Deutscher Bundestag's Datenhandbuch.
+
+2.2 Bundesgesetzblatt and federal administration (bund/bgbl/, bund/fassungen-vor-2019/, bund/verwaltung/)
+    From 2023: the binding electronic Bundesgesetzblatt, www.recht.bund.de (official works, § 5 UrhG).
+    1949 to 2022: the issue PDFs and their text layer as mirrored by OffeneGesetze (api.offenegesetze.de,
+    media.offenegesetze.de; Open Knowledge Foundation Deutschland). This is a copy of the official gazette, used as
+    such: every record names its Teil, year, number, page and day of issue, and the official Bundesgesetzblatt is
+    binding. OffeneGesetze's software is MIT-licensed; no separate terms for the gazette copies are recorded here.
+    Earlier versions of federal acts (bund/fassungen-vor-2019/) are rebuilt from those gazette texts and the
+    Fundstellennachweis A (www.recht.bund.de).
+    BMF-Schreiben (bund/verwaltung/bmf-schreiben/): Bundesministerium der Finanzen, its own list; official works.
+
+2.3 Länder (laender/)
+    Consolidated law imported from Lexifina's earlier repositories, each with its own LICENSE in its folder:
+    Bayern (BAYERN.RECHT, Bayerische Staatskanzlei: reuse expressly permitted, commercial or not; the database right
+    under §§ 87a ff. UrhG is stated to be unaffected), Sachsen (REVOSax), Brandenburg (BRAVORS), Nordrhein-Westfalen
+    (RECHT.NRW), Bremen (Transparenzportal Bremen: its Impressum places the portal's prepared versions under
+    CC BY-NC-ND; whether that can reach the words of the laws is left open in laender/bremen/LICENSE) and Hamburg
+    (Landesrecht Hamburg, juris for the Land; laender/hamburg/LICENSE and NOTICE.md).
+    Added since, from official hosts, as official works:
+    - Gazettes: the law gazettes (GVBl., GVOBl.) of Baden-Württemberg, Bayern, Berlin, Brandenburg (also Teil II,
+      Amtsblatt, Amtsblatt des MBJS, JMBl.), Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen,
+      Rheinland-Pfalz, Schleswig-Holstein and Thüringen; the Ministerialblätter of Bayern, Niedersachsen and
+      Nordrhein-Westfalen; the Amtsblätter of the Bezirksregierungen in Nordrhein-Westfalen.
+    - Bremen: Gesetzblatt and Amtsblatt der Freien Hansestadt Bremen (www.gesetzblatt.bremen.de,
+      www.amtsblatt.bremen.de). The sites' notice reserving their texts does not cover the gazettes, which are
+      official works under § 5 UrhG (Lexifina's decision of 17 November 2026).
+    - Hamburg: the Hamburgisches Gesetz- und Verordnungsblatt from 2014 (laender/hamburg/gvbl/), the issue PDFs as
+      published free of charge by the gazette's printer (www.luewu.de). The printer's site excludes commercial use;
+      the gazette's text is an official work and is taken as such, official text only (decision of 19 November
+      2026). laender/hamburg/LICENSE, written before, says no gazette text is included; this entry supersedes it.
+    - Niedersachsen: NI-VORIS (Wolters Kluwer for the Land), the official text of the Land's laws and ordinances, with
+      Wolters Kluwer's notes, numbering and abbreviations left out.
+    - Verwaltungsvorschriften: REVOSax (Sachsen) and BRAVORS (Brandenburg).
+    - Landtag papers and plenary records of every Land except the Saarland. The Abgeordnetenhaus Berlin's PARDOK
+      export is licensed Datenlizenz Deutschland - Namensnennung - Version 2.0 (dl-de/by-2-0,
+      https://www.govdata.de/dl-de/by-2-0); credit: Abgeordnetenhaus Berlin, PARDOK. The Niedersächsischer Landtag's
+      Impressum allows its papers and records to be republished unaltered with the source named. The other Landtage
+      state no terms that are recorded here.
+    - GovData catalogue records (laender/govdata/, kommunen/<ARS>/govdata/): metadata and links only. Each record
+      names the licence its dataset states ("Lizenz:"); most state none.
+    Text-and-data-mining reservations (tdm-reservation, § 44b Abs. 3 UrhG) sent by some portals (the juris-run Land
+    portals, NI-VORIS, rechtsprechung-im-internet.de) do not reach statutes and decisions, which have no copyright;
+    only their official text is taken (Lexifina's decision of 17 November 2026).
+
+2.4 Courts (rechtsprechung/)
+    Court decisions and official Leitsätze are official works (§ 5 Abs. 1 UrhG), published anonymised by the courts.
+    Federal courts: Lexifina's earlier caselaw repositories (imported), rechtsprechung-im-internet.de (BMJ, juris;
+    its Titelzeile, Orientierungssätze and Normenkette are left out), NeuRIS, the Rechtsinformationsportal des Bundes
+    (testphase.rechtsinformationen.bund.de, its published bulk snapshot), and the sites of the Bundesarbeitsgericht and
+    the Bundesfinanzhof. No further terms are recorded here.
+    Länder: BAYERN.RECHT (terms as in 2.3), the Entscheidungsdatenbank der Gerichte in Brandenburg (its terms allow
+    decisions to be printed and stored free of charge), NRWE (Justiz Nordrhein-Westfalen), the Land constitutional
+    courts' own sites, the Staatsgerichtshof Bremen, and Hamburg's courts (imported; rechtsprechung/hamburg/LICENSE and
+    NOTICE.md). No further terms are recorded for NRWE and the constitutional courts.
+
+2.5 Parliament (bundestag/, bundesrat/)
+    DIP, Dokumentations- und Informationssystem für Parlamentsmaterialien (search.dip.bundestag.de). Its
+    Nutzungsbedingungen (27 February 2023) allow machine access through the API and reuse of the data with the source
+    named: "Deutscher Bundestag/Bundesrat – DIP".
+    The Bundestag's open data (plenary records, speeches, roll-call votes) and its document server
+    (dserver.bundestag.de): no separate terms are recorded here. Drucksachen and Plenarprotokolle are treated as
+    official works (§ 5 UrhG); speeches made in public sittings may be reproduced under § 48 Abs. 1 Nr. 2 UrhG. The
+    split of records into speeches is machine-made and said so in each file.
+
+2.6 Municipalities (kommunen/)
+    Satzungen and Verordnungen of the cities and districts, from their own Ortsrecht collections and Amtsblätter:
+    official works under § 5 UrhG.
+    Council records from the councils' OParl interfaces and from Munich's RIS (risi.muenchen.de): metadata, agenda
+    items, results and resolution texts, with documents linked rather than copied. OParl lets each system state a
+    licence; it is not recorded here per record, so each council's own terms apply.
+    gemeindeverzeichnis.csv: Statistisches Bundesamt (Destatis), GV-ISys; reproduction and distribution permitted with
+    the source named.
+    Council records first taken from two re-publishers of council data were withdrawn; their paths are listed in
+    data/withdrawn-oparl-aggregator-2026-11-18.txt and data/withdrawn-oparl-muenchen-transparent-2026-11-19.txt.
+
+2.7 Historical constitutions (historisch/verfassungen/)
+    The constitutions of 1867, 1871 and 1919 are the de.wikisource transcriptions (status "fertig"), each page tied
+    to the scan of the official gazette on Wikimedia Commons; the revisions used are named in each commit. The laws
+    themselves are official works long in the public domain. Wikimedia's Terms of Use license text on its projects
+    under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); whatever of that applies to a faithful
+    transcription is kept by this credit: Wikisource contributors, de.wikisource.org.
+    The Paulskirchenverfassung of 1849 is OCR text of the Reichs-Gesetz-Blatt 1849 as scanned by the Bayerische
+    Staatsbibliothek (https://www.digitale-sammlungen.de/view/bsb10518698). The library labels the scan NoC-NC 1.0
+    (no copyright; the digitisation for non-commercial use). The law's text is an official work; the scan was used,
+    non-commercially, by Lexifina's decision of 18 November 2026. Credit: Bayerische Staatsbibliothek München.
+
+2.8 Private persons
+    In gazettes and local law the official text is kept, and a private person's name or home address is replaced by
+    "[Name ausgelassen]" or "[Anschrift ausgelassen]". Records essentially about a private person, and in parts
+    written before 19 November 2026 records naming one, are kept as metadata only.
+
+3. Questions
+
+A publisher who wants something here changed or removed can open an issue at
+https://github.com/lexifina/germany-law/issues.
