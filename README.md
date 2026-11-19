@@ -91,7 +91,13 @@ Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md))
 
 ## Visualisierungen
 
-- [visualisations/](visualisations/): Diagramme aus diesem Repository. Noch nicht gezeichnet.
+[visualisations/](visualisations/): Deutsches Recht in 20 Grafiken, aus diesem Repository gezeichnet.
+
+Darunter:
+
+- wer Gesetzentwürfe einbringt und wessen Entwürfe Gesetz werden, wie lange Gesetzgebung dauert und wie die Fraktionen namentlich abstimmen
+- Bund und Länder: Zustimmungsgesetze, Vermittlungsausschuss, die Gesetzesanträge der Länder und die Gemeinden jedes Landes
+- Vertragsgesetze und ihre Partnerstaaten, der Kalender des Inkrafttretens, die ältesten und die am häufigsten geänderten Vorschriften und die Fristen des Bundesverfassungsgerichts
 
 ## Mehr
 

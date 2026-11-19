@@ -89,7 +89,13 @@ The legal text comes from the sources (scans by OCR, labelled); an AI model wrot
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): German law in 20 charts, drawn from this repository.
+
+Including:
+
+- who brings in bills and whose become law, how long lawmaking takes and how the parliamentary groups vote in roll calls
+- the Federation and the Länder: consent laws, the mediation committee, the Länder's own bills and the municipalities of each Land
+- treaty laws and their partner states, the calendar of entry into force, the oldest and the most often changed acts, and the Constitutional Court's deadlines
 
 ## More
 

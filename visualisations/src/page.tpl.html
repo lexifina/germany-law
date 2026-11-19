@@ -1,0 +1,1220 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deutsches Recht in 20 Grafiken</title>
+<meta name="description" content="Zwanzig Grafiken zum deutschen Recht aus dem Repository germany-law / Twenty charts on German law from the germany-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --land: #e6e4de; --land-line: #fcfcfb;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+    --land: #2c2c2a; --land-line: #1a1a19;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  --land: #2c2c2a; --land-line: #1a1a19;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.25 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.35 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, currentColor 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid; border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.lbl.big { font-size: 12px; }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; text-align: right; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; min-height: 2.8em; display: flex; align-items: flex-end; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+.twocol { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; align-items: start; }
+.amlist { font-size: 12px; line-height: 1.45; }
+.amlist .ar { display: grid; grid-template-columns: 40px max-content minmax(0, 1fr); gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+.amlist .ar b { font-weight: 600; font-variant-numeric: tabular-nums; }
+.amlist .ar span:nth-child(2) { color: var(--text); }
+.amlist .ar span:last-child { color: var(--text-2); text-align: right; }
+.amlist .ar i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 4px; vertical-align: 0; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 760px) { .twocol { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px; margin: 2px 0 14px; }
+.card { background: var(--surface-2); border-radius: 10px; padding: 11px 13px; }
+.card .cn { font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.card .ct { font-size: 12px; color: var(--text-2); line-height: 1.5; margin-top: 3px; }
+.card .cl { font-size: 12px; color: var(--text-2); line-height: 1.45; margin: 6px 0 0; padding-left: 14px; }
+.card .cl li { margin: 1px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Sprache / Language"><button data-lang="de">DE</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Darstellung / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const PF = DATA.profile;
+let LANG = 'de';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'de') LANG = q; else { const s = localStorage.getItem('de-viz-lang'); if (s === 'en' || s === 'de') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('de-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+const t = k => S[LANG][k];
+const DE = () => LANG === 'de';
+const L = (de, en) => DE() ? de : en;
+const grp = (s, sep) => s.replace(/\B(?=(\d{3})+(?!\d))/g, sep);
+const fmt = n => { if (n == null || isNaN(n)) return '–'; const v = Math.round(+n); return (v < 0 ? '−' : '') + grp(String(Math.abs(v)), DE() ? '.' : ','); };
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d), [i, f] = s.split('.'); return (+v < 0 ? '−' : '') + grp(i, DE() ? '.' : ',') + (f ? (DE() ? ',' : '.') + f : ''); };
+const PS = () => DE() ? ' %' : '%';
+const pct = (a, b, d = 0) => b ? dec(100 * a / b, d) + PS() : '–';
+const pv = (v, d = 0) => dec(v, d) + PS();
+const MON = { de: ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'], en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'] };
+const MSH = { de: ['Jan.', 'Feb.', 'März', 'Apr.', 'Mai', 'Juni', 'Juli', 'Aug.', 'Sept.', 'Okt.', 'Nov.', 'Dez.'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const dateTxt = s => { if (!s) return '–'; const [y, m, d] = s.split('-').map(Number); return DE() ? `${d}. ${MON.de[m - 1]} ${y}` : `${d} ${MON.en[m - 1]} ${y}`; };
+const dateShort = s => { if (!s) return '–'; const [y, m, d] = s.split('-').map(Number); return DE() ? `${d}. ${MSH.de[m - 1]} ${y}` : `${d} ${MSH.en[m - 1]} ${y}`; };
+const dayMonth = (m, d) => DE() ? `${d}. ${MON.de[m - 1]}` : `${d} ${MON.en[m - 1]}`;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const ord = n => DE() ? `${n}.` : n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] || 'th');
+const WPY = w => DATA.wpyears[w];
+const WPL = w => L(`${w}. Wahlperiode (${WPY(w)[0]}–${w === WPMAX ? 'heute' : WPY(w)[1]})`, `${ord(w)} Wahlperiode (${WPY(w)[0]}–${w === WPMAX ? 'today' : WPY(w)[1]})`);
+const WPMAX = PF.wp_to, YEAR_LAST = +PF.built.slice(0, 4);
+
+// ------------------------------------------------------------------ strings
+const S = {
+de: {
+  title: 'Deutsches Recht in 20 Grafiken',
+  lede: 'Zwanzig Grafiken, allein aus den Daten dieses Repositorys: jedes Gesetzgebungsverfahren des Bundestages seit 1972 mit Einbringung, Beratung, Vermittlungsausschuss und Verkündung; die namentlichen Abstimmungen seit 2019; das Verzeichnis aller Rechtsvorschriften des Bundes und ihre Änderungen seit Juni 2019; die Entscheidungen der Senate des Bundesverfassungsgerichts; das Gemeindeverzeichnis; und fünf deutsche Verfassungen von 1849 bis heute.',
+  profile_h: 'Datenprofil: was verwendet wurde und wie vollständig es ist',
+  tbl: 'Datentabelle', src: 'Quelle im Repository', n: 'Datensätze', cover: 'Abdeckung', caveat: 'Grenzen', ds: 'Datensatz',
+  foot: 'Erstellt aus dem Repository lexifina/germany-law (Stand {built}, Commit {head}). Alle Zahlen berechnet visualisations/src/prep.py aus den Git-Objekten des Repositorys; build.py setzt die Seite zusammen. Die Grafiken beschreiben, was die Quellen verzeichnen, nicht warum.',
+  year: 'Jahr', total: 'Insgesamt', share: 'Anteil', partial: 'unvollständig', count: 'Anzahl', wp: 'Wahlperiode',
+  gl: 'Grafiken zum Recht aller Länder, aus ganz global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Hier stehen nur die Grafiken zu Deutschland.',
+},
+en: {
+  title: 'German law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: every legislative procedure of the Bundestag since 1972, with its introduction, readings, mediation committee and promulgation; the roll-call votes since 2019; the index of all federal acts and their changes since June 2019; the decisions of the Senates of the Federal Constitutional Court; the register of municipalities; and five German constitutions from 1849 to today.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit', ds: 'Dataset',
+  foot: 'Built from the lexifina/germany-law repository (as of {built}, commit {head}). All numbers are computed by visualisations/src/prep.py from the repository\'s git objects; build.py assembles the page. The charts describe what the sources record, not why.',
+  year: 'Year', total: 'Total', share: 'Share', partial: 'incomplete', count: 'Count', wp: 'Wahlperiode (term)',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Germany alone.',
+}};
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+const tq = s => `<div class="q">${esc(s)}</div>`;
+
+// ------------------------------------------------------------------ chart scaffolding (as on the other country pages)
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c).style('color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(s)}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+function barPathL(x0, y, x1, h, r = 4) {   // rounded at its left end (a bar growing leftwards)
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x1},${y}H${x0 + r}Q${x0},${y} ${x0},${y + r}V${y + h - r}Q${x0},${y + h} ${x0 + r},${y + h}H${x1}Z`;
+}
+let HATCH = 0;
+function hatch(svg, color) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 5).attr('height', 5).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 5).attr('height', 5).attr('fill', css('--surface'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 5).attr('stroke', color || css('--muted-mark')).attr('stroke-width', 2);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// a label shortened with an ellipsis until it fits (used only in tooltips' absence: the full text is in the tooltip and the table)
+function wrapN(el, s, room, cls = 'lbl strong') {
+  const out = []; let cur = '';
+  s.split(' ').forEach(wd => { const t2 = cur ? cur + ' ' + wd : wd; if (cur && textW(el, [t2], cls) > room) { out.push(cur); cur = wd; } else cur = t2; });
+  if (cur) out.push(cur); return out;
+}
+function fit(el, s, room, cls = 'lbl strong') { if (textW(el, [s], cls) <= room) return s; let a = s; while (a.length > 4 && textW(el, [a + '…'], cls) > room) a = a.slice(0, -1); return a.trimEnd() + '…'; }
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34;
+  const lw = opt.lw || Math.min(nw ? 150 : 300, textW(el, rows.map(r => opt.label(r, nw))) + 14), rw = opt.rw || Math.max(44, textW(el, rows.map(r => opt.right(r, nw)), 'lbl strong') + 14);
+  const m = { t: 4, r: rw, b: 22, l: lw };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  (nw ? [0, .5, 1] : [0, .25, .5, .75, 1]).forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', v === 0 ? 'start' : v === 1 ? 'end' : 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + trow(null, t('total'), fmt(tot)));
+  });
+  return { svg, g, iw };
+}
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: opt.mb || 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.5 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  const lab = opt.labelIf || ((r, i) => i % every === 0 || (i === rows.length - 1 && (rows.length - 1) % every >= every / 2));
+  rows.forEach((r, i) => { if (lab(r, i)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  if (opt.xlab) g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 30).attr('text-anchor', 'end').text(opt.xlab);
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    r => opt.tip ? opt.tip(r) : `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + ` · ${pct(r[k], tot(r))}`) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))));
+  return { svg, g, x, y, iw, ih, bw };
+}
+function calendarHeat(el, md, opt = {}) {
+  const w = W(el), nw = narrow(w), ramp = seqRamp(), keys = Object.keys(md), top = keys.reduce((a, b) => (md[a] || 0) >= (md[b] || 0) ? a : b, keys[0]);
+  const mx = d3.max(keys.filter(k => k !== top), k => md[k]) || 1, n = opt.n || sum(keys, k => md[k]);
+  const cl = v => v ? ramp(0.1 + 0.9 * Math.pow(Math.min(1, v / mx), 0.6)) : css('--surface-2');
+  const lw = textW(el, MSH[LANG], 'lbl') + 8, cw = (w - lw - 2) / 31, ch = nw ? 17 : 22;
+  const svg = svgIn(el, w, 18 + ch * 12 + 4), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+  d3.range(1, 32).forEach(d => { if (!nw || d % 5 === 1 || d === 31) g.append('text').attr('class', 'lbl mut').attr('x', (d - 1) * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(d); });
+  d3.range(1, 13).forEach(mo => {
+    g.append('text').attr('class', 'lbl').attr('x', -6).attr('y', (mo - 1) * ch + ch / 2 + 4).attr('text-anchor', 'end').text(MSH[LANG][mo - 1]);
+    const nd = new Date(2024, mo, 0).getDate();
+    d3.range(1, nd + 1).forEach(d => {
+      const k = `${String(mo).padStart(2, '0')}-${String(d).padStart(2, '0')}`, v = md[k] || 0, fill = k === top ? ramp(1) : cl(v);
+      g.append('rect').attr('x', (d - 1) * cw + .8).attr('y', (mo - 1) * ch + .8).attr('width', cw - 1.6).attr('height', ch - 1.6).attr('rx', 2.5).attr('fill', fill);
+      if (!nw && opt.labelMin != null && v / n >= opt.labelMin) g.append('text').attr('class', 'lbl').attr('x', (d - 1) * cw + cw / 2).attr('y', (mo - 1) * ch + ch / 2 + 3.5).attr('text-anchor', 'middle')
+        .style('fill', inkOn(fill)).style('pointer-events', 'none').style('font-size', '9px').text(dec(100 * v / n, 0));
+      bindTip(g.append('rect').attr('class', 'hit').attr('x', (d - 1) * cw).attr('y', (mo - 1) * ch).attr('width', cw).attr('height', ch).datum([mo, d, v]),
+        q => `<b>${dayMonth(q[0], q[1])}</b>` + trow(null, opt.what || t('count'), `${fmt(q[2])} · ${pct(q[2], n, 1)}`));
+    });
+  });
+  return { svg, g, top };
+}
+const grad = (svg, color, a = .28) => { const id = 'gr' + (++HATCH), lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', 0).attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', 1).attr('stop-color', color).attr('stop-opacity', 0); return `url(#${id})`; };
+function placeLabels(el, items, opt = {}) {
+  const boxes = [], step = opt.step || 13, cls = opt.cls || 'lbl strong';
+  items.forEach(it => {
+    const tw = textW(el, [it.text], it.cls || cls), x0 = it.anchor === 'end' ? it.x - tw : it.anchor === 'middle' ? it.x - tw / 2 : it.x;
+    let y = it.y, k = 0;
+    const hit = yy => boxes.some(b => !(x0 + tw + 3 < b[0] || x0 - 3 > b[2] || yy + 3 < b[1] - 11 || yy - 11 - 3 > b[3]));
+    while (hit(y) && k < 12) { k++; y = it.y + (k % 2 ? -1 : 1) * Math.ceil(k / 2) * step * (it.dir || 1); }
+    boxes.push([x0, y - 11, x0 + tw, y + 3]);
+    it.py = y;
+  });
+  return items;
+}
+const WPS = () => DATA.c01.rows.map(r => r.wp);
+const partialWP = w => w === WPMAX;
+const wpTick = w => String(w);
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, de, en, dde, den) => CH.push({ part: true, id, de, en, dde, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Wie Bundesgesetze entstehen', 'I. How federal laws are made',
+  'Das Repository hält jedes Gesetzgebungsverfahren seit der 7. Wahlperiode (Dezember 1972), wie DIP, das Dokumentationssystem von Bundestag und Bundesrat, es verzeichnet: wer den Entwurf eingebracht hat, jede Beratung in Bundestag und Bundesrat mit ihrem Beschluss, und ob und wann das Gesetz verkündet wurde. Die 21. Wahlperiode läuft noch; sie ist heller gezeichnet.',
+  'The repository holds every legislative procedure since the 7th Wahlperiode, the Bundestag\'s term that began in December 1972, as DIP, the documentation system of the Bundestag and the Bundesrat, records it: who brought in the bill, every reading in the Bundestag and the Bundesrat with its decision, and whether and when the law was promulgated. The 21st term is still running; it is drawn lighter.');
+
+// 1. who brings bills in, whose become law
+const GRPN = { breg: ['Bundesregierung', 'Federal Government'], koal: ['Koalitionsfraktionen', 'Coalition groups'], opp: ['Oppositionsfraktionen', 'Opposition groups'], br: ['Bundesrat (Länder)', 'Bundesrat (Länder)'], mixed: ['Fraktionsübergreifend', 'Cross-party'], other: ['Ausschüsse, ohne Angabe', 'Committees, not given'] };
+chart('c01', el => {
+  const c = DATA.c01, rows = c.rows, T = c.tot, w20 = rows.find(r => r.wp === 20) || {}, w19 = rows.find(r => r.wp === 19) || {};
+  return {
+    title: L(`Wer Gesetze durchbringt: ${pct(T.breg[1], T.breg[0])} der Regierungsentwürfe wurden Gesetz, ${pct(T.opp[1], T.opp[0], 1)} der Oppositionsentwürfe`,
+      `Whose bills become law: ${pct(T.breg[1], T.breg[0])} of the Government's bills, ${pct(T.opp[1], T.opp[0], 1)} of the opposition's`),
+    toc: L('Wer Gesetze durchbringt', 'Whose bills become law'),
+    dek: L(`Je Wahlperiode die eingebrachten Gesetzentwürfe (hell) und die davon verkündeten Gesetze (dunkel), getrennt nach Einbringer. Von ${fmt(T.opp[0])} Entwürfen der Oppositionsfraktionen seit 1972 wurden ${fmt(T.opp[1])} Gesetz, seit 1998 ${fmt(c.opp_since14[1])} von ${fmt(c.opp_since14[0])}, alle drei 2025. Die Länder brachten über den Bundesrat ${fmt(T.br[0])} Entwürfe ein; ${fmt(T.br[1])} wurden Gesetz. In der 20. Wahlperiode wurden ${pct(w20.breg[1], w20.breg[0])} der Regierungsentwürfe verkündet; ${fmt(w20.lapsed_breg)} verfielen mit ihrem Ende, in der 19. waren es ${fmt(w19.lapsed_breg)}.`,
+      `For each Wahlperiode (term), the bills brought in (light) and those promulgated as law (dark), by who brought them in. Of ${fmt(T.opp[0])} bills of the opposition groups since 1972, ${fmt(T.opp[1])} became law; since 1998 ${fmt(c.opp_since14[1])} of ${fmt(c.opp_since14[0])}, all three in 2025. The Länder brought ${fmt(T.br[0])} bills through the Bundesrat; ${fmt(T.br[1])} became law. In the 20th term ${pct(w20.breg[1], w20.breg[0])} of the Government's bills were promulgated; ${fmt(w20.lapsed_breg)} lapsed when it ended, against ${fmt(w19.lapsed_breg)} in the 19th.`),
+    draw(el) {
+      const cols = S8(), keys = ['breg', 'koal', 'opp', 'br'], colr = { breg: cols[0], koal: cols[2], opp: cols[1], br: cols[6] };
+      legend(el, [{ c: css('--muted-mark'), l: L('eingebracht', 'brought in') }, { c: cols[0], l: L('verkündet (Farbe je Einbringer)', 'promulgated (colour by who brought it in)') }]);
+      const box = el.append('div').attr('class', 'multi');
+      const mx = d3.max(rows, r => d3.max(keys, k => r[k][0]));
+      const cells = keys.map(k => { const cell = box.append('div'); cell.append('h4').text(L(...GRPN[k]));
+        cell.append('p').text(L(`${fmt(T[k][0])} Entwürfe, ${fmt(T[k][1])} Gesetze (${pct(T[k][1], T[k][0])})`, `${fmt(T[k][0])} bills, ${fmt(T[k][1])} laws (${pct(T[k][1], T[k][0])})`)); return cell; });
+      keys.forEach((k, ki) => {
+        const cell = cells[ki];
+        const w = W(cell), h = 170, m = { t: 16, r: 2, b: 20, l: 30 }, svg = svgIn(cell, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(rows.map(r => r.wp)).range([0, iw]).padding(0.18), y = d3.scaleLinear().domain([0, mx]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 3);
+        rows.forEach(r => {
+          const [n, l] = r[k], xx = x(r.wp), bw = x.bandwidth(), op = partialWP(r.wp) ? .5 : 1;
+          if (n) g.append('path').attr('d', colPath(xx, ih, bw, y(n), 2)).attr('fill', css('--muted-mark')).attr('opacity', op * .7);
+          if (l) g.append('path').attr('d', colPath(xx, ih, bw, y(l), 2)).attr('fill', colr[k]).attr('opacity', op);
+          if (n && bw >= 19) g.append('text').attr('class', 'lbl').style('font-size', '9px').attr('x', xx + bw / 2).attr('y', y(n) - 4).attr('text-anchor', 'middle').text(dec(100 * l / n, 0));
+        });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        rows.forEach((r, i) => { if (i % 2 === 0 || r.wp === WPMAX) g.append('text').attr('class', 'lbl').attr('x', x(r.wp) + x.bandwidth() / 2).attr('y', ih + 14).attr('text-anchor', 'middle').text(r.wp); });
+        bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.wp)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+          r => `<b>${esc(L(...GRPN[k]))} · ${esc(WPL(r.wp))}</b>` + trow(css('--muted-mark'), L('eingebracht', 'brought in'), fmt(r[k][0])) + trow(colr[k], L('verkündet', 'promulgated'), `${fmt(r[k][1])} · ${pct(r[k][1], r[k][0])}`)
+            + (k === 'breg' && r.lapsed_breg ? trow(null, L('mit der Wahlperiode verfallen', 'lapsed at the end of the term'), fmt(r.lapsed_breg)) : '') + (partialWP(r.wp) ? tq(L('Wahlperiode läuft noch', 'term still running')) : ''));
+      });
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Initiative, Verkündung)'], fmt(sum(Object.values(T), v => v[0])) + L(' Verfahren', ' procedures'),
+        L(`Koalitionsfraktionen sind in jeder Wahlperiode die Fraktionen, die die meisten Entwürfe gemeinsam einbrachten (in der 9. ab dem ersten gemeinsamen Entwurf von CDU/CSU und FDP am ${dateTxt(DATA.coalitions[9][1] ? DATA.coalitions[9][1][1] : '1982-11-04')}); Entwürfe aus Koalition und Opposition zusammen (${fmt(T.mixed[0])}, davon ${fmt(T.mixed[1])} Gesetz) und von Ausschüssen oder ohne Angabe (${fmt(T.other[0])}) sind nur in der Tabelle. Paralleleinbringungen werden nicht zusammengeführt.`,
+          `The coalition groups are, in each term, the parliamentary groups that brought in the most bills together (in the 9th from the first joint bill of the CDU/CSU and the FDP on ${dateTxt(DATA.coalitions[9][1] ? DATA.coalitions[9][1][1] : '1982-11-04')}); bills of coalition and opposition together (${fmt(T.mixed[0])}, ${fmt(T.mixed[1])} of them law) and of committees or without an initiator (${fmt(T.other[0])}) are in the table only. Bills brought in twice in parallel are not merged.`));
+      table(el, [t('wp'), ...['breg', 'koal', 'opp', 'br', 'mixed', 'other'].map(k => L(...GRPN[k]))], rows.map(r => [WPL(r.wp), ...['breg', 'koal', 'opp', 'br', 'mixed', 'other'].map(k => `${fmt(r[k][1])} / ${fmt(r[k][0])}`)]));
+    }
+  };
+});
+
+// 2. how long it takes
+chart('c02', el => {
+  const rows = DATA.c02.rows, a = rows[0], z = rows.filter(r => !partialWP(r.wp)).slice(-1)[0];
+  return {
+    title: L(`Schneller zum Gesetz: Regierungsentwürfe brauchten ${fmt(a.med)} Tage bis zur Verkündung (1972–1976), ${fmt(z.med)} in der ${z.wp}. Wahlperiode`,
+      `Faster to the statute book: Government bills took ${fmt(a.med)} days to promulgation in 1972–1976, ${fmt(z.med)} in the ${ord(z.wp)} term`),
+    toc: L('Schneller zum Gesetz', 'Faster to the statute book'),
+    dek: L(`Die durchgezogene Linie ist der Median der Tage vom ersten Schritt eines Regierungsentwurfs (meist seine Zuleitung an den Bundesrat) bis zur Verkündung im Bundesgesetzblatt; das Band reicht vom schnelleren zum langsameren Viertel. Die gestrichelte Linie misst für alle Gesetze die Zeit von der Schlussabstimmung im Bundestag bis zur Verkündung: ${fmt(a.medb)} Tage in der 7. Wahlperiode, ${fmt(z.medb)} in der ${z.wp}.`,
+      `The solid line is the median number of days from the first step of a Government bill (usually its referral to the Bundesrat) to its promulgation in the Federal Law Gazette; the band runs from the faster to the slower quarter. The dashed line measures, for all laws, the time from the Bundestag's final vote to promulgation: ${fmt(a.medb)} days in the 7th term, ${fmt(z.medb)} in the ${ord(z.wp)}.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), h = nw ? 250 : 300, m = { t: 18, r: nw ? 34 : 70, b: 26, l: 40 }, cols = S8();
+      legend(el, [{ c: cols[0], l: L('Regierungsentwürfe: erster Schritt bis Verkündung (Median)', 'Government bills: first step to promulgation (median)'), shape: 'line' }, { c: cols[0], l: L('mittlere Hälfte', 'middle half') },
+        { c: cols[1], l: L('alle Gesetze: Schlussabstimmung bis Verkündung (Median)', 'all laws: final vote to promulgation (median)'), shape: 'dash' }]);
+      d3.select(el.node().lastChild).select('span:nth-child(2) i').style('opacity', .25);
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scalePoint().domain(rows.map(r => r.wp)).range([0, iw]).padding(0.3), y = d3.scaleLinear().domain([0, d3.max(rows, r => r.q3)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      g.append('path').datum(rows).attr('d', d3.area().x(r => x(r.wp)).y0(r => y(r.q1)).y1(r => y(r.q3))).attr('fill', cols[0]).attr('opacity', .16);
+      g.append('path').datum(rows).attr('d', d3.line().x(r => x(r.wp)).y(r => y(r.med))).attr('fill', 'none').attr('stroke', cols[0]).attr('stroke-width', 2.2);
+      g.append('path').datum(rows).attr('d', d3.line().x(r => x(r.wp)).y(r => y(r.medb))).attr('fill', 'none').attr('stroke', cols[1]).attr('stroke-width', 2).attr('stroke-dasharray', '5 4');
+      rows.forEach(r => {
+        g.append('circle').attr('cx', x(r.wp)).attr('cy', y(r.med)).attr('r', 3.5).attr('fill', cols[0]).attr('opacity', partialWP(r.wp) ? .5 : 1);
+        g.append('circle').attr('cx', x(r.wp)).attr('cy', y(r.medb)).attr('r', 3).attr('fill', css('--surface')).attr('stroke', cols[1]).attr('stroke-width', 1.6);
+      });
+      const lab = [{ x: x(a.wp) + 8, y: y(a.med) - 8, text: L(`${fmt(a.med)} Tage`, `${fmt(a.med)} days`), anchor: 'start' }, { x: x(z.wp), y: y(z.med) - 10, text: L(`${fmt(z.med)} Tage`, `${fmt(z.med)} days`), anchor: 'middle' },
+        { x: x(a.wp) + 8, y: y(a.medb) - 8, text: L(`${fmt(a.medb)} Tage`, `${fmt(a.medb)} days`), anchor: 'start' }, { x: x(z.wp), y: y(z.medb) + 18, text: L(`${fmt(z.medb)} Tage`, `${fmt(z.medb)} days`), anchor: 'middle' }];
+      placeLabels(el, lab).forEach(l => halo(g, l.x, l.py, l.text, l.anchor));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach((r, i) => { if (!nw || i % 2 === 0 || r.wp === WPMAX) g.append('text').attr('class', 'lbl').attr('x', x(r.wp)).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.wp); });
+      g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', -6).attr('text-anchor', 'end').text(L('Tage', 'days'));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw + 4).attr('y', ih + 16).text(nw ? '' : L('Wahlperiode', 'term'));
+      bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.wp) - x.step() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${esc(WPL(r.wp))}</b>` + trow(cols[0], L('Regierungsentwürfe, Median', 'Government bills, median'), L(`${fmt(r.med)} Tage`, `${fmt(r.med)} days`)) + trow(null, L('mittlere Hälfte', 'middle half'), `${fmt(r.q1)}–${fmt(r.q3)}`) + trow(null, L('Gesetze', 'laws'), fmt(r.n))
+          + trow(cols[1], L('Schlussabstimmung bis Verkündung', 'Final vote to promulgation'), L(`${fmt(r.medb)} Tage`, `${fmt(r.medb)} days`)));
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Verlauf, Verkündung)'], fmt(sum(rows, r => r.nb)) + L(' Gesetze', ' laws'),
+        L('Erster Schritt: das früheste Datum im Verlauf des Verfahrens; Schlussabstimmung: die 3. Beratung (oder die 2. Beratung mit Schlussabstimmung). Verkündungsangaben von DIP, die mehr als ein Jahr nach der letzten Plenarberatung liegen (bei manchen Vertragsgesetzen und älteren Einträgen ein späteres Gesetzblatt), sind nicht gezählt.',
+          'First step: the earliest date in the procedure\'s record; final vote: the third reading (or the second reading with final vote). DIP promulgation entries more than a year after the last plenary step (for some treaty laws and older records, a later Gazette entry) are not counted.'));
+      table(el, [t('wp'), L('Regierungsentwürfe', 'Government bills'), L('Median (Tage)', 'Median (days)'), L('Viertel', 'Quarters'), L('Gesetze', 'Laws'), L('Schlussabstimmung bis Verkündung', 'Final vote to promulgation')],
+        rows.map(r => [WPL(r.wp), r.n, fmt(r.med), `${fmt(r.q1)}–${fmt(r.q3)}`, r.nb, fmt(r.medb)]));
+    }
+  };
+});
+
+// 3. the parliamentary year
+chart('c03', el => {
+  const c = DATA.c03, ym = c.ym, y0 = +c.first.slice(0, 4), y1 = +c.last.slice(0, 4), months = d3.range(1, 13), years = d3.range(y0, y1 + 1);
+  const byM = months.map(mo => sum(Object.entries(ym).filter(([k]) => +k.slice(5) === mo), e => e[1]));
+  const jun = byM[5], aug = byM[7], dec_ = byM[11], nov = byM[10];
+  return {
+    title: L(`Das Parlamentsjahr: ${pct(jun, c.n)} aller Gesetzesbeschlüsse fallen in den Juni, ${fmt(aug)} in einen August`,
+      `The parliamentary year: ${pct(jun, c.n)} of all final votes on laws fall in June, ${fmt(aug)} in an August`),
+    toc: L('Das Parlamentsjahr', 'The parliamentary year'),
+    dek: L(`Jede Zelle ist ein Monat: wie viele später verkündete Gesetze der Bundestag in ihm endgültig beschloss. Vor der Sommerpause im Juni (${fmt(jun)}) und im November (${fmt(nov)}) wird am meisten beschlossen, im August so gut wie nichts. In Wahljahren fehlen die Monate um die Bundestagswahl.`,
+      `Each cell is a month: how many laws, later promulgated, the Bundestag finally passed in it. Most are passed in June (${fmt(jun)}), before the summer break, and in November (${fmt(nov)}); in August almost nothing. In election years the months around the federal election are empty.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), mx = d3.max(Object.values(ym));
+      const cl = v => v ? ramp(0.12 + 0.88 * Math.sqrt(v / mx)) : css('--surface-2');
+      const lw = 34, rw = nw ? 30 : 64, cw = (w - lw - rw) / 12, ch = nw ? 9 : 11;
+      const svg = svgIn(el, w, 20 + years.length * ch + 22), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      months.forEach(mo => g.append('text').attr('class', 'lbl').attr('x', (mo - 1) * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(nw ? MSH[LANG][mo - 1].slice(0, 1) : MSH[LANG][mo - 1]));
+      const yt = years.map(y => sum(months, mo => ym[`${y}-${String(mo).padStart(2, '0')}`] || 0)), mt = d3.max(yt);
+      years.forEach((y, i) => {
+        if (y % 5 === 0 || i === 0) g.append('text').attr('class', 'lbl').attr('x', -6).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'end').text(y);
+        months.forEach(mo => {
+          const k = `${y}-${String(mo).padStart(2, '0')}`, v = ym[k] || 0;
+          bindTip(g.append('rect').attr('x', (mo - 1) * cw + .7).attr('y', i * ch + .7).attr('width', cw - 1.4).attr('height', ch - 1.4).attr('rx', 2).attr('fill', cl(v)).attr('opacity', (y === y0 && mo < 12) ? .35 : 1).datum([y, mo, v]),
+            q => `<b>${MON[LANG][q[1] - 1]} ${q[0]}</b>` + trow(null, L('Gesetzesbeschlüsse', 'final votes on laws'), fmt(q[2])));
+        });
+        const bx = 12 * cw + 6, bl = (rw - (nw ? 4 : 30)) * yt[i] / mt;
+        g.append('rect').attr('x', bx).attr('y', i * ch + 1.5).attr('width', Math.max(0, bl)).attr('height', ch - 3).attr('rx', 1.5).attr('fill', css('--muted-mark')).attr('opacity', y === y1 ? .5 : 1);
+      });
+      if (!nw) g.append('text').attr('class', 'lbl mut').attr('x', 12 * cw + 6).attr('y', -6).text(L('Jahr', 'year'));
+      g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', years.length * ch + 16).text(L(`dunkler = mehr Beschlüsse; rechts: je Jahr (höchstens ${fmt(mt)})`, `darker = more votes; right: per year (at most ${fmt(mt)})`));
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Verlauf: 3. Beratung)'], fmt(c.n) + L(' verkündete Gesetze', ' promulgated laws'),
+        L(`der Tag der 3. Beratung (oder der 2. Beratung mit Schlussabstimmung) im Bundestag. ${y0} beginnt mit der 7. Wahlperiode im Dezember; ${y1} ist unvollständig (heller).`, `the day of the third reading (or the second reading with final vote) in the Bundestag. ${y0} starts with the 7th term in December; ${y1} is incomplete (lighter).`));
+      table(el, [t('year'), ...MSH[LANG], t('total')], years.map((y, i) => [String(y), ...months.map(mo => ym[`${y}-${String(mo).padStart(2, '0')}`] || 0), yt[i]]));
+    }
+  };
+});
+
+// 4. how bills end
+const OUTK = ['law', 'rej', 'done', 'lapsed', 'other'];
+const OUTN = { law: ['verkündet', 'promulgated'], rej: ['abgelehnt', 'rejected'], done: ['erledigt, zurückgezogen, zusammengeführt', 'settled, withdrawn, merged'], lapsed: ['mit der Wahlperiode verfallen', 'lapsed with the term'], other: ['offen, sonstiges', 'open, other'] };
+chart('c04', el => {
+  const rows = DATA.c04.rows, g = (k, s) => rows.find(r => r.g === k && r.span === s) || {}, tot = r => sum(OUTK, k => r[k] || 0);
+  const b20 = g('breg', '20'), b16 = g('breg', '16-19'), o16 = g('opp', '16-19');
+  return {
+    title: L(`Wie Entwürfe enden: ${pct(b20.lapsed || 0, tot(b20))} der Regierungsentwürfe der 20. Wahlperiode verfielen, ${pct(b16.lapsed || 0, tot(b16), 1)} in der 16. bis 19.`,
+      `How bills end: ${pct(b20.lapsed || 0, tot(b20))} of the Government's bills of the 20th term lapsed, ${pct(b16.lapsed || 0, tot(b16), 1)} in the 16th to 19th`),
+    toc: L('Wie Entwürfe enden', 'How bills end'),
+    dek: L(`Was aus den Gesetzentwürfen wurde, für die vier abgeschlossenen Wahlperioden 2005–2021 zusammen und für die 20. (2021–2025) allein. Was am Ende einer Wahlperiode nicht beschlossen ist, verfällt. Oppositionsentwürfe wurden 2005–2021 zu ${pct(o16.rej || 0, tot(o16))} abgelehnt; keiner wurde Gesetz.`,
+      `What became of the bills, for the four completed terms of 2005–2021 together and for the 20th (2021–2025) alone. Whatever has not been passed when a term ends lapses. Of the opposition's bills of 2005–2021, ${pct(o16.rej || 0, tot(o16))} were rejected; none became law.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], cols[1], css('--muted-mark'), cols[3], css('--grid')];
+      legend(el, OUTK.map((k, i) => ({ c: colors[i], l: L(...OUTN[k]) })));
+      const SH = { breg: ['Regierung', 'Government'], koal: ['Koalition', 'Coalition'], opp: ['Opposition', 'Opposition'], br: ['Bundesrat', 'Bundesrat'] };
+      const lab = (r, nw) => nw ? `${L(...SH[r.g])} ${r.span === '20' ? '20' : '16–19'}` : `${L(...GRPN[r.g])}, ${r.span === '20' ? L('20. WP', '20th term') : L('16.–19. WP', '16th–19th terms')}`;
+      bands(el, rows, OUTK, colors, OUTK.map(k => L(...OUTN[k])), { label: lab, right: r => fmt(tot(r)), rowH: 32 });
+      note(el, ['bundestag/vorgaenge/wp16/ … wp20/ (Beratungsstand)'], fmt(sum(rows, tot)) + L(' Verfahren', ' procedures'),
+        L(`der Beratungsstand von DIP. „Erledigt durch Ablauf der Wahlperiode“ verzeichnet DIP erst ab der 16. Wahlperiode durchgehend (dazu in der 7.: ${fmt(DATA.c04.status_wp[7])}), daher nur 16 bis 20. „Abgelehnt“ umfasst die abgelehnte Einbringung im Bundesrat und die versagte Zustimmung.`,
+          `DIP's status. DIP records "lapsed at the end of the term" consistently only from the 16th term (and in the 7th: ${fmt(DATA.c04.status_wp[7])}), hence 16 to 20 only. "Rejected" includes a Bundesrat vote not to bring a bill in and a refused consent.`));
+      table(el, [L('Einbringer, Zeitraum', 'Initiator, period'), ...OUTK.map(k => L(...OUTN[k])), t('total')], rows.map(r => [lab(r, false), ...OUTK.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+// 5. roll-call votes
+const FAC = { 'CDU/CSU': ['CDU/CSU', '#2d3c4b'], 'SPD': ['SPD', '#e3000f'], 'AfD': ['AfD', '#009ee0'], 'Grüne': ['Grüne', '#1aa037'], 'FDP': ['FDP', '#e5c100'], 'Die Linke': ['Die Linke', '#be3075'], 'BSW': ['BSW', '#7d254f'] };
+chart('c05', el => {
+  const c = DATA.c05, ws = Object.keys(c).map(Number).sort(), last = c[ws[ws.length - 1]], ag = (cc, a, b) => cc.m[`${a}|${b}`] || cc.m[`${b}|${a}`];
+  const cs = ag(last, 'CDU/CSU', 'SPD') || [0, 0], w20 = c[20], gf = ag(w20, 'Grüne', 'FDP') || [0, 0];
+  return {
+    title: L(`Namentliche Abstimmungen: CDU/CSU und SPD stimmten in ${fmt(cs[0])} von ${fmt(cs[1])} Abstimmungen der 21. Wahlperiode gleich`,
+      `Roll-call votes: the CDU/CSU and the SPD voted alike in ${fmt(cs[0])} of ${fmt(cs[1])} votes of the 21st term`),
+    toc: L('Namentliche Abstimmungen', 'Roll-call votes'),
+    dek: L(`Für jedes Paar von Fraktionen und Gruppen: in wie viel Prozent der namentlichen Abstimmungen beide mehrheitlich gleich stimmten (ja, nein oder Enthaltung). In der 20. Wahlperiode stimmten Grüne und FDP in ${pct(gf[0], gf[1])} der Fälle gleich. Die Koalitionen stimmen geschlossen; die Opposition stimmt untereinander selten gleich.`,
+      `For every pair of parliamentary groups: in what share of the roll-call votes the majorities of both voted the same way (yes, no or abstain). In the 20th term the Greens and the FDP voted alike in ${pct(gf[0], gf[1])} of them. Coalitions vote as one; opposition groups rarely vote with each other.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini'), ramp = seqRamp();
+      const cells = ws.map(w => { const cc = c[w], cell = box.append('div'); cell.append('h4').text(WPL(w));
+        cell.append('p').text(L(`${fmt(cc.n)} Abstimmungen, ${dateShort(cc.from)} bis ${dateShort(cc.to)}`, `${fmt(cc.n)} votes, ${dateShort(cc.from)} to ${dateShort(cc.to)}`)); return cell; });
+      ws.forEach((w, wi) => {
+        const cc = c[w], facs = cc.facs.slice().sort((a, b) => (cc.seats[b] || 0) - (cc.seats[a] || 0)), cell = cells[wi];
+        const w0 = W(cell), lw = textW(cell, facs.map(f => FAC[f] ? FAC[f][0] : f)) + 12, n = facs.length, cw = Math.min(46, (w0 - lw - 4) / (n - 1)), h = 18 + (n - 1) * cw + 4;
+        const svg = svgIn(cell, w0, h), g = svg.append('g').attr('transform', `translate(${lw},16)`);
+        facs.slice(0, -1).forEach((f, j) => g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -5).attr('text-anchor', 'middle').style('font-size', '10px').text(FAC[f] ? FAC[f][0].replace('Die Linke', 'Linke') : f));
+        facs.slice(1).forEach((a, i) => {
+          g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * cw + cw / 2 + 4).attr('text-anchor', 'end').text(FAC[a] ? FAC[a][0] : a);
+          facs.slice(0, i + 1).forEach((b, j) => {
+            const v = ag(cc, a, b); if (!v || !v[1]) return;
+            const s = v[0] / v[1], fill = ramp(0.08 + 0.92 * s);
+            bindTip(g.append('rect').attr('x', j * cw + 1).attr('y', i * cw + 1).attr('width', cw - 2).attr('height', cw - 2).attr('rx', 4).attr('fill', fill).datum([a, b, v]),
+              q => `<b>${esc(q[0])} · ${esc(q[1])}</b>` + trow(null, L('gleich gestimmt', 'voted alike'), `${fmt(q[2][0])} / ${fmt(q[2][1])} · ${pct(q[2][0], q[2][1])}`));
+            if (cw >= 26) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', i * cw + cw / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(fill)).style('pointer-events', 'none').text(dec(100 * s, 0));
+          });
+        });
+      });
+      note(el, ['bundestag/abstimmungen/<Jahr>/<Datum>-<Nr>.md'], fmt(sum(ws, w => c[w].n)) + L(' namentliche Abstimmungen', ' roll-call votes'),
+        L('die Position einer Fraktion ist die Antwort der meisten ihrer Abgeordneten; bei Gleichstand zählt die Abstimmung für sie nicht. Fraktionslose sind nicht gezählt. Die Linke war bis Dezember 2023 Fraktion, danach Gruppe (zusammengefasst); das BSW ist eine Gruppe ab 2024. Die Daten beginnen im September 2019; die 21. Wahlperiode läuft noch.',
+          'a group\'s position is the answer of most of its members; a tie leaves that vote out for the group. Members outside groups are not counted. Die Linke was a parliamentary group until December 2023 and then a smaller group (counted together); the BSW is a group from 2024. The data start in September 2019; the 21st term is still running.'));
+      const rows = [];
+      ws.forEach(w => { const cc = c[w]; Object.entries(cc.m).forEach(([k, v]) => { if (v[1]) rows.push([WPL(w), k.replace('|', ' · '), `${fmt(v[0])} / ${fmt(v[1])}`, pct(v[0], v[1])]); }); });
+      table(el, [t('wp'), L('Paar', 'Pair'), L('gleich gestimmt', 'voted alike'), t('share')], rows);
+    }
+  };
+});
+
+part('p2', 'II. Bund und Länder', 'II. The Federation and the Länder',
+  'Die Länder wirken über den Bundesrat an der Gesetzgebung des Bundes mit: Zustimmungsgesetze brauchen seine Zustimmung, gegen Einspruchsgesetze kann er Einspruch einlegen, und er kann den Vermittlungsausschuss anrufen. Die Gemeinden, die das Gemeindeverzeichnis des Repositorys aufführt, erlassen ihr eigenes Ortsrecht.',
+  'The Länder take part in federal legislation through the Bundesrat: consent laws need its consent, it can object to the others, and it can call the mediation committee. The municipalities listed in the repository\'s register make their own local law.');
+
+// 6. consent laws
+chart('c06', el => {
+  const c = DATA.c06, rows = c.rows, R = DATA.reform;
+  return {
+    title: L(`Zustimmungsgesetze: ${pct(c.pre[0], c.pre[1])} der Gesetze vor der Föderalismusreform von 2006, ${pct(c.post[0], c.post[1])} danach`,
+      `Consent laws: ${pct(c.pre[0], c.pre[1])} of laws before the federalism reform of 2006, ${pct(c.post[0], c.post[1])} after it`),
+    toc: L('Zustimmungsgesetze', 'Consent laws'),
+    dek: L(`Der Anteil der verkündeten Gesetze, die der Zustimmung des Bundesrates bedurften, je Wahlperiode; die 16. ist am ${dateTxt(R.in_kraft)} geteilt, dem Tag, an dem das ${R.n}. Gesetz zur Änderung des Grundgesetzes (Föderalismusreform) in Kraft trat. Davor lag der Anteil in jeder Wahlperiode bei der Hälfte oder darüber, seither bei gut einem Drittel.`,
+      `The share of promulgated laws that needed the Bundesrat's consent, by term; the 16th is split on ${dateTxt(R.in_kraft)}, the day the ${ord(+R.n)} law amending the Grundgesetz (the federalism reform) took effect. Before it the share was half or more in every term, since then just over a third.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), h = nw ? 240 : 280, m = { t: 30, r: 8, b: 34, l: 40 }, cols = S8();
+      legend(el, [{ c: cols[6], l: L('zustimmungsbedürftig', 'needed consent') }, { c: css('--muted-mark'), l: L('Einspruchsgesetz', 'objection law') }]);
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(rows.map(r => r.k)).range([0, iw]).padding(0.22), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      rows.forEach(r => {
+        const n = r.ja + r.nein, s = n ? r.ja / n : 0, xx = x(r.k), bw = x.bandwidth(), op = partialWP(r.wp) ? .5 : 1;
+        g.append('path').attr('d', colPath(xx, ih, bw, y(1), 3)).attr('fill', css('--muted-mark')).attr('opacity', .55 * op);
+        g.append('path').attr('d', colPath(xx, ih, bw, y(s), 3)).attr('fill', cols[6]).attr('opacity', op);
+        if (bw >= 22) g.append('text').attr('class', 'lbl').attr('x', xx + bw / 2).attr('y', y(s) + 13).attr('text-anchor', 'middle').style('fill', inkOn(cols[6])).style('font-size', '10px').text(dec(100 * s, 0));
+      });
+      const xa = x('16a') + x.bandwidth() + x.step() * x.paddingInner() / 2;
+      g.append('line').attr('x1', xa).attr('x2', xa).attr('y1', -22).attr('y2', ih).attr('stroke', css('--text-2')).attr('stroke-dasharray', '3 3');
+      halo(g, xa + 5, -12, L(`${R.n}. Änderung des GG, ${dateShort(R.in_kraft)}`, `${ord(+R.n)} GG amendment, ${dateShort(R.in_kraft)}`), xa > iw * .6 ? 'end' : 'start');
+      [[c.pre, 0, xa], [c.post, xa, iw]].forEach(([v, a, b]) => {
+        const yy = y(v[0] / v[1]);
+        g.append('line').attr('x1', a + 2).attr('x2', b - 2).attr('y1', yy).attr('y2', yy).attr('stroke', css('--text'));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach(r => g.append('text').attr('class', 'lbl').attr('x', x(r.k) + x.bandwidth() / 2).attr('y', ih + 15).attr('text-anchor', 'middle').style('font-size', nw ? '9px' : null).text(r.k === '16a' ? (nw ? '16' : '16 (I)') : r.k === '16b' ? (nw ? '' : '16 (II)') : r.k));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 30).attr('text-anchor', 'end').text(L('Wahlperiode; Linien: Durchschnitt vor und nach der Reform', 'term; lines: average before and after the reform'));
+      bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.k)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${esc(WPL(r.wp))}${r.k === '16a' ? L(' bis 31.8.2006', ' to 31 Aug 2006') : r.k === '16b' ? L(' ab 1.9.2006', ' from 1 Sep 2006') : ''}</b>` + trow(cols[6], L('zustimmungsbedürftig', 'needed consent'), `${fmt(r.ja)} · ${pct(r.ja, r.ja + r.nein)}`) + trow(css('--muted-mark'), L('Einspruchsgesetz', 'objection law'), fmt(r.nein)) + (r.na ? trow(null, L('ohne Angabe', 'not given'), fmt(r.na)) : ''));
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Zustimmungsbedürftigkeit)', 'grundgesetz/gesetze.csv'], fmt(sum(rows, r => r.ja + r.nein)) + L(' Gesetze', ' laws'),
+        L('maßgeblich ist die Angabe „laut Verkündung“, sonst die einzige Angabe von DIP. Geteilt wird die 16. Wahlperiode nach dem Tag der Verkündung (oder, wo DIP keinen plausiblen nennt, der letzten Plenarberatung).', 'the entry "according to promulgation" counts, otherwise DIP\'s only entry. The 16th term is split by the day of promulgation (or, where DIP gives no plausible one, of the last plenary step).'));
+      table(el, [t('wp'), L('zustimmungsbedürftig', 'consent'), L('Einspruchsgesetze', 'objection'), t('share'), L('ohne Angabe', 'not given')], rows.map(r => [WPL(r.wp) + (r.k === '16a' ? ' I' : r.k === '16b' ? ' II' : ''), r.ja, r.nein, pct(r.ja, r.ja + r.nein), r.na]));
+    }
+  };
+});
+
+// 7. mediation committee and vetoes
+chart('c07', el => {
+  const c = DATA.c07, rows = c.rows, mx = rows.reduce((a, b) => b.va / b.laws > a.va / a.laws ? b : a), tv = sum(rows, r => r.va_all);
+  const low = rows.filter(r => r.wp >= 18 && !partialWP(r.wp));
+  return {
+    title: L(`Vermittlungsausschuss: ${pct(mx.va, mx.laws)} der Gesetze der ${mx.wp}. Wahlperiode gingen durch ihn, seit 2013 nur noch ${fmt(sum(low, r => r.va))}`,
+      `The mediation committee: ${pct(mx.va, mx.laws)} of the laws of the ${ord(mx.wp)} term went through it, only ${fmt(sum(low, r => r.va))} since 2013`),
+    toc: L('Vermittlungsausschuss', 'Mediation committee'),
+    dek: L(`Die Säulen zeigen je Wahlperiode den Anteil der verkündeten Gesetze, zu denen der Vermittlungsausschuss angerufen wurde. Angerufen hat ihn meist der Bundesrat (bei ${fmt(c.va_by.br)} Verfahren), seltener die Bundesregierung (${fmt(c.va_by.breg)}) und der Bundestag (${fmt(c.va_by.bt)}). Darüber die übrigen Wege, auf denen ein beschlossenes Gesetz aufgehalten wurde.`,
+      `The columns show, for each term, the share of promulgated laws for which the mediation committee was called. Mostly the Bundesrat called it (in ${fmt(c.va_by.br)} procedures), less often the Government (${fmt(c.va_by.breg)}) and the Bundestag (${fmt(c.va_by.bt)}). Above, the other ways a law the Bundestag had passed was held up.`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'cards');
+      const card = (n, txt, list) => { const d = cards.append('div').attr('class', 'card'); d.append('div').attr('class', 'cn').text(n); d.append('div').attr('class', 'ct').text(txt); if (list) d.append('ul').attr('class', 'cl').selectAll('li').data(list).join('li').text(x => x); };
+      card(fmt(c.versagt[0]), L(`Gesetzesbeschlüssen versagte der Bundesrat (zunächst) die Zustimmung; ${fmt(c.versagt[1])} wurden später doch verkündet`, `laws passed by the Bundestag were (at first) refused consent by the Bundesrat; ${fmt(c.versagt[1])} were promulgated later all the same`));
+      card(fmt(c.einspruch[0]), L(`Einsprüche des Bundesrates; ${fmt(c.einspruch[1])} wies der Bundestag zurück`, `objections of the Bundesrat; the Bundestag overrode ${fmt(c.einspruch[1])}`));
+      card(fmt(c.bpraes.length), L('Gesetze fertigte der Bundespräsident nicht aus:', 'laws the Federal President did not sign:'), c.bpraes.map(b => `${b[1]} (${b[2].slice(0, 4)})`));
+      const w = W(el), nw = narrow(w), h = nw ? 220 : 250, m = { t: 22, r: 8, b: 30, l: 40 }, col = S8()[4];
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleBand().domain(rows.map(r => r.wp)).range([0, iw]).padding(0.25), y = d3.scaleLinear().domain([0, d3.max(rows, r => r.va / r.laws)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      rows.forEach(r => {
+        const s = r.va / r.laws, xx = x(r.wp), bw = x.bandwidth();
+        if (r.va) g.append('path').attr('d', colPath(xx, ih, bw, y(s), 3)).attr('fill', col).attr('opacity', partialWP(r.wp) ? .5 : 1);
+        g.append('text').attr('class', 'lbl').attr('x', xx + bw / 2).attr('y', y(s) - 5).attr('text-anchor', 'middle').style('font-size', nw ? '9px' : null).text(nw ? dec(100 * s, 0) : pv(100 * s, 0));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      rows.forEach(r => g.append('text').attr('class', 'lbl').attr('x', x(r.wp) + x.bandwidth() / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(r.wp));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 28).attr('text-anchor', 'end').text(L('Wahlperiode', 'term'));
+      bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.wp)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+        r => `<b>${esc(WPL(r.wp))}</b>` + trow(col, L('verkündete Gesetze mit Vermittlungsverfahren', 'promulgated laws via mediation'), `${fmt(r.va)} · ${pct(r.va, r.laws, 1)}`) + trow(null, L('Gesetze', 'laws'), fmt(r.laws))
+          + trow(null, L('Verfahren mit Anrufung insgesamt', 'procedures with a call, in all'), fmt(r.va_all)) + trow(null, L('Zustimmung versagt', 'consent refused'), fmt(r.versagt)));
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Verlauf, Beratungsstand)'], fmt(tv) + L(' Verfahren mit Vermittlungsausschuss', ' procedures with the mediation committee'),
+        L('gezählt ist jedes Verfahren mit einer „Anrufung des Vermittlungsausschusses“ im Verlauf, gleich wie oft; die Karten zählen Verfahren mit einer versagten Zustimmung, einem Einspruch und den Beratungsstand „Nicht ausgefertigt wegen Zustimmungsverweigerung des Bundespräsidenten“.',
+          'every procedure with a "call of the mediation committee" in its record counts once; the cards count procedures with a refused consent, an objection, and the status "not signed because the Federal President refused".'));
+      table(el, [t('wp'), L('Gesetze', 'Laws'), L('mit Vermittlungsverfahren', 'via mediation'), t('share'), L('Anrufungen (alle Verfahren)', 'calls (all procedures)'), L('Zustimmung versagt', 'consent refused')], rows.map(r => [WPL(r.wp), r.laws, r.va, pct(r.va, r.laws, 1), r.va_all, r.versagt]));
+    }
+  };
+});
+
+// 8. the Länder's bills (map)
+const LCODE = { 'Baden-Württemberg': 'BW', 'Bayern': 'BY', 'Berlin': 'BE', 'Brandenburg': 'BB', 'Bremen': 'HB', 'Hamburg': 'HH', 'Hessen': 'HE', 'Mecklenburg-Vorpommern': 'MV', 'Niedersachsen': 'NI',
+  'Nordrhein-Westfalen': 'NW', 'Rheinland-Pfalz': 'RP', 'Saarland': 'SL', 'Sachsen': 'SN', 'Sachsen-Anhalt': 'ST', 'Schleswig-Holstein': 'SH', 'Thüringen': 'TH' };
+const LEN = { 'Bayern': 'Bavaria', 'Niedersachsen': 'Lower Saxony', 'Nordrhein-Westfalen': 'North Rhine-Westphalia', 'Rheinland-Pfalz': 'Rhineland-Palatinate', 'Sachsen': 'Saxony', 'Sachsen-Anhalt': 'Saxony-Anhalt',
+  'Thüringen': 'Thuringia', 'Mecklenburg-Vorpommern': 'Mecklenburg-Western Pomerania', 'Hessen': 'Hesse' };
+const LN = l => DE() ? l : (LEN[l] || l);
+chart('c08', el => {
+  const c = DATA.c08, ls = Object.keys(c.l).sort((a, b) => c.l[b].n - c.l[a].n), top = ls[0], t1 = c.l[top];
+  return {
+    title: L(`Gesetzesanträge der Länder: ${LN(top)} brachte seit 1990 ${fmt(t1.n)} in den Bundesrat ein, ${fmt(t1.law)} wurden Gesetz`,
+      `The Länder's bills: ${LN(top)} brought ${fmt(t1.n)} into the Bundesrat since 1990; ${fmt(t1.law)} became law`),
+    toc: L('Gesetzesanträge der Länder', 'The Länder\'s bills'),
+    dek: L(`Seit der 12. Wahlperiode (ab Dezember 1990, mit allen sechzehn Ländern im Bundesrat) gingen ${fmt(c.n)} Gesetzentwürfe auf Anträge von Ländern zurück, ${fmt(c.joint)} davon auf gemeinsame Anträge mehrerer Länder; ${fmt(c.law)} wurden Gesetz. Die Karte zeigt, an wie vielen Anträgen jedes Land beteiligt war; die Balken daneben, wie viele davon Gesetz wurden.`,
+      `Since the 12th term (from December 1990, with all sixteen Länder in the Bundesrat), ${fmt(c.n)} bills came from proposals of Länder, ${fmt(c.joint)} of them joint proposals of several Länder; ${fmt(c.law)} became law. The map shows how many proposals each Land took part in; the bars, how many of them became law.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), mx = d3.max(ls, l => c.l[l].n), col = v => ramp(0.12 + 0.88 * v / mx), cols = S8();
+      const box = el.append('div').attr('class', nw ? '' : 'twocol');
+      const left = box.append('div'), right = box.append('div');
+      const mw = W(left), mh = Math.round(mw * 1.18), svg = left.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${mw} ${mh}`).attr('width', mw).attr('height', mh);
+      const fc = topojson.feature(DATA.geo, DATA.geo.objects.deu), proj = d3.geoMercator().fitExtent([[6, 6], [mw - 6, mh - 6]], fc), path = d3.geoPath(proj);
+      const nm = f => f.properties.name;
+      bindTip(svg.append('g').selectAll('path').data(fc.features).join('path').attr('d', path).attr('fill', f => col(c.l[nm(f)].n)).attr('stroke', css('--surface')).attr('stroke-width', 1),
+        f => `<b>${esc(LN(nm(f)))}</b>` + trow(null, L('Anträge seit 1990 (auch gemeinsame)', 'proposals since 1990 (incl. joint)'), fmt(c.l[nm(f)].n)) + trow(null, L('allein', 'alone'), fmt(c.l[nm(f)].solo)) + trow(null, L('wurden Gesetz', 'became law'), fmt(c.l[nm(f)].law)) + trow(null, L('seit 1972', 'since 1972'), fmt(c.l[nm(f)].n_all)));
+      const OFF = { HB: [-16, 0], HH: [0, -9], BE: [18, -8], BB: [-4, 26] };
+      fc.features.forEach(f => {
+        const k = LCODE[nm(f)], [cx, cy] = path.centroid(f), [dx, dy] = OFF[k] || [0, 0], v = c.l[nm(f)].n;
+        halo(svg, cx + dx, cy + dy + 4, k, 'middle', 'lbl strong', null).style('pointer-events', 'none');
+        if (!nw && (!OFF[k] || k === 'BB')) halo(svg, cx + dx, cy + dy + 17, fmt(v), 'middle', 'lbl', null).style('pointer-events', 'none');
+      });
+      const rws = ls.map(l => ({ l, ...c.l[l] })), lw = textW(right, rws.map(r => LN(r.l))) + 12, rh = 21, rw = 66;
+      const sv2 = svgIn(right, W(right), rws.length * rh + 24), g2 = sv2.append('g').attr('transform', `translate(${lw},4)`), iw = W(right) - lw - rw;
+      const x = d3.scaleLinear().domain([0, mx]).range([0, iw]);
+      rws.forEach((r, i) => {
+        g2.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * rh + 14).attr('text-anchor', 'end').text(LN(r.l));
+        g2.append('path').attr('d', barPath(0, i * rh + 4, x(r.n), 13, 3)).attr('fill', col(r.n));
+        g2.append('path').attr('d', barPath(0, i * rh + 4, x(r.law), 13, 3)).attr('fill', cols[1]);
+        g2.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', i * rh + 14).text(`${fmt(r.n)} · ${fmt(r.law)}`);
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', W(right)).attr('y', i * rh).attr('height', rh).datum(r),
+          d => `<b>${esc(LN(d.l))}</b>` + trow(null, L('Anträge seit 1990', 'proposals since 1990'), fmt(d.n)) + trow(null, L('allein', 'alone'), fmt(d.solo)) + trow(cols[1], L('wurden Gesetz', 'became law'), `${fmt(d.law)} · ${pct(d.law, d.n)}`));
+      });
+      legend(right, [{ c: col(mx * .7), l: L('Anträge (auch gemeinsame)', 'proposals (incl. joint)') }, { c: cols[1], l: L('davon Gesetz', 'became law') }]);
+      note(el, ['bundestag/vorgaenge/wp12/ … (Initiative: Länder)', L('Natural Earth (Grenzen)', 'Natural Earth (borders)')], fmt(c.n) + L(' Gesetzentwürfe aus den Ländern', ' bills from the Länder'),
+        L(`ein gemeinsamer Antrag zählt bei jedem beteiligten Land; ${fmt(c.all16)} Anträge kamen von allen sechzehn. Seit 1972 insgesamt in der Tabelle.`, `a joint proposal counts for every Land in it; ${fmt(c.all16)} came from all sixteen. Totals since 1972 are in the table.`));
+      table(el, [L('Land', 'Land'), L('seit 1990', 'since 1990'), L('allein', 'alone'), L('Gesetz', 'became law'), L('seit 1972', 'since 1972')], rws.map(r => [LN(r.l), r.n, r.solo, r.law, r.n_all]));
+    }
+  };
+});
+
+// 9. municipalities
+const CLN = { a: ['unter 500', 'under 500'], b: ['500–1.999', '500–1,999'], c: ['2.000–9.999', '2,000–9,999'], d: ['10.000–99.999', '10,000–99,999'], e: ['100.000 und mehr', '100,000 and more'] };
+chart('c09', el => {
+  const c = DATA.c09, ls = Object.keys(c.l).sort((a, b) => c.l[b].n - c.l[a].n), rp = c.l['Rheinland-Pfalz'], nrw = c.l['Nordrhein-Westfalen'], all = sum(ls, l => c.l[l].n), small = sum(ls, l => c.l[l].a);
+  return {
+    title: L(`Gemeinden: Rheinland-Pfalz hat ${fmt(rp.n)}, ${pct(rp.a, rp.n)} davon mit weniger als 500 Einwohnern; Nordrhein-Westfalen ${fmt(nrw.n)}, keine unter 2.000`,
+      `Municipalities: Rhineland-Palatinate has ${fmt(rp.n)}, ${pct(rp.a, rp.n)} of them under 500 inhabitants; North Rhine-Westphalia ${fmt(nrw.n)}, none under 2,000`),
+    toc: L('Gemeinden', 'Municipalities'),
+    dek: L(`Jede Gemeinde erlässt eigene Satzungen. Deutschland hat ${fmt(all)} Gemeinden; ${fmt(small)} haben weniger als 500 Einwohner. Wie viele es je Land sind und wie groß, hängt vom Land ab: ${fmt(nrw.n)} Gemeinden in Nordrhein-Westfalen haben im Median ${fmt(nrw.med)} Einwohner, die ${fmt(rp.n)} in Rheinland-Pfalz ${fmt(rp.med)}.`,
+      `Every municipality makes its own by-laws. Germany has ${fmt(all)} municipalities; ${fmt(small)} have fewer than 500 inhabitants. How many there are and how big depends on the Land: the ${fmt(nrw.n)} municipalities of North Rhine-Westphalia have a median of ${fmt(nrw.med)} inhabitants, the ${fmt(rp.n)} of Rhineland-Palatinate ${fmt(rp.med)}.`),
+    draw(el) {
+      const ramp = seqRamp(), keys = ['a', 'b', 'c', 'd', 'e'], colors = keys.map((k, i) => ramp(0.18 + 0.82 * i / 4));
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...CLN[k]) + L(' Einw.', ' inhab.') })));
+      const rows = ls.map(l => ({ l, ...c.l[l] })), w = W(el), nw = narrow(w), lw = textW(el, rows.map(r => LN(r.l))) + 12, rh = 22, rr = nw ? 44 : 120;
+      const svg = svgIn(el, w, rows.length * rh + 6), g = svg.append('g').attr('transform', `translate(${lw},2)`), iw = w - lw - rr, x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, iw]);
+      rows.forEach((r, i) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * rh + 15).attr('text-anchor', 'end').text(LN(r.l));
+        let acc = 0; const segs = keys.filter(k => r[k]);
+        segs.forEach((k, j) => { const x0 = x(acc), x1 = x(acc + r[k]); acc += r[k];
+          g.append('path').attr('d', j === segs.length - 1 ? barPath(x0, i * rh + 4, Math.max(x0 + 2, x1), 14, 3) : `M${x0},${i * rh + 4}h${Math.max(0, x1 - x0 - 1)}v14h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[keys.indexOf(k)]); });
+        g.append('text').attr('class', 'lbl').attr('x', Math.max(x(r.n), 3) + 6).attr('y', i * rh + 15).text(nw ? fmt(r.n) : L(`${fmt(r.n)} · Median ${fmt(r.med)}`, `${fmt(r.n)} · median ${fmt(r.med)}`));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', i * rh).attr('height', rh).datum(r),
+          d => `<b>${esc(LN(d.l))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], L(...CLN[k]), `${fmt(d[k])} · ${pct(d[k], d.n)}`) : '').join('') + trow(null, L('Gemeinden', 'municipalities'), fmt(d.n)) + trow(null, L('Einwohner (Median)', 'inhabitants (median)'), fmt(d.med)) + trow(null, L('Einwohner', 'inhabitants'), fmt(d.pop)));
+      });
+      note(el, ['kommunen/gemeindeverzeichnis.csv'], fmt(all) + L(' Gemeinden', ' municipalities'),
+        L(`Gebietsstand ${dateTxt(c.stand)}, Einwohner am 31. Dezember 2025 (Destatis, GV-ISys). ${fmt(c.free)} gemeindefreie Gebiete sind nicht gezählt. Berlin und Hamburg sind je eine Gemeinde, Bremen zwei.`, `boundaries as of ${dateTxt(c.stand)}, inhabitants on 31 December 2025 (Destatis, GV-ISys). ${fmt(c.free)} unincorporated areas are not counted. Berlin and Hamburg are one municipality each, Bremen two.`));
+      table(el, [L('Land', 'Land'), ...keys.map(k => L(...CLN[k])), L('Gemeinden', 'Municipalities'), L('Median', 'Median'), L('Einwohner', 'Inhabitants')], rows.map(r => [LN(r.l), ...keys.map(k => r[k]), r.n, r.med, r.pop]));
+    }
+  };
+});
+
+part('p3', 'III. Was Gesetze regeln und wann sie gelten', 'III. What laws are about and when they apply',
+  'Der Titel jedes verkündeten Gesetzes, das Sachgebiet, das DIP ihm gibt, und der Tag seines Inkrafttretens: Daraus lassen sich Vertragsgesetze, Haushaltsgesetze und die Umsetzung von EU-Richtlinien zählen, die Partner der Verträge bestimmen und der Kalender des Inkrafttretens zeichnen.',
+  'The title of every promulgated law, the subject area DIP gives it and the day it takes effect: from them one can count treaty laws, budget laws and the transposition of EU directives, find the other parties to the treaties and draw the calendar of entry into force.');
+
+// 10. kinds of laws
+const KN = { treaty: ['Vertragsgesetze', 'Treaty laws'], budget: ['Haushaltsgesetze', 'Budget laws'], eu: ['EU-Recht im Titel', 'EU law in the title'], mantel: ['„… und weiterer Gesetze“', '"… and other acts"'], amend: ['Änderungsgesetze', 'Amending laws'], other: ['Neue und sonstige Gesetze', 'New and other laws'] };
+chart('c10', el => {
+  const rows = DATA.c10.rows, K = ['treaty', 'budget', 'eu', 'mantel', 'amend', 'other'], tot = r => sum(K, k => r[k]);
+  const r13 = rows.find(r => r.wp === 13), r20 = rows.find(r => r.wp === 20), r7 = rows[0];
+  return {
+    title: L(`Vertragsgesetze: ${pct(r13.treaty, tot(r13))} aller Gesetze in der 13. Wahlperiode, ${pct(r20.treaty, tot(r20))} in der 20.`,
+      `Treaty laws: ${pct(r13.treaty, tot(r13))} of all laws in the 13th term, ${pct(r20.treaty, tot(r20))} in the 20th`),
+    toc: L('Was für Gesetze', 'What kind of laws'),
+    dek: L(`Die verkündeten Gesetze je Wahlperiode nach ihrem Titel. Gesetze „zu dem Abkommen“ oder „zu dem Übereinkommen“, mit denen der Bundestag einem Vertrag zustimmt, sind seltener geworden; Gesetze, die eine EU-Richtlinie oder -Verordnung im Titel nennen, häufiger (${fmt(r7.eu)} in der 7. Wahlperiode, ${fmt(d3.max(rows, r => r.eu))} in der ${rows.reduce((a, b) => b.eu > a.eu ? b : a).wp}.), ebenso Gesetze „zur Änderung weiterer Vorschriften“.`,
+      `The promulgated laws of each term by their title. Laws "on the agreement" or "on the convention", by which the Bundestag approves a treaty, have become rarer; laws naming an EU directive or regulation in their title more common (${fmt(r7.eu)} in the 7th term, ${fmt(d3.max(rows, r => r.eu))} in the ${ord(rows.reduce((a, b) => b.eu > a.eu ? b : a).wp)}), as have laws "amending other provisions".`),
+    draw(el) {
+      const cols = S8(), colors = [cols[6], cols[3], cols[0], cols[2], cols[4], css('--muted-mark')];
+      legend(el, K.map((k, i) => ({ c: colors[i], l: L(...KN[k]) })));
+      const R = rows.map(r => ({ ...r, y: r.wp }));
+      stackedColumns(el, R, K, colors, K.map(k => L(...KN[k])), { h: 300, partial: r => partialWP(r.wp), every: 1, xlab: L('Wahlperiode', 'term'), mb: 34,
+        tip: r => `<b>${esc(WPL(r.wp))}</b>` + K.map((k, i) => r[k] ? trow(colors[i], L(...KN[k]), `${fmt(r[k])} · ${pct(r[k], tot(r))}`) : '').reverse().join('') + trow(null, t('total'), fmt(tot(r))) });
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Titel)'], fmt(sum(rows, tot)) + L(' verkündete Gesetze', ' promulgated laws'),
+        L('Regeln in dieser Reihenfolge (src/prep.py): Titel beginnt mit „Gesetz zu dem/den/der“ (Vertragsgesetz); Haushalt; nennt eine Richtlinie, einen Rahmenbeschluss oder eine Verordnung (EU/EG/EWG); „weiterer/anderer Gesetze/Vorschriften“; „Änderung“ oder „Ergänzung“; der Rest.',
+          'rules in this order (src/prep.py): title starts with "Gesetz zu dem/den/der" (treaty law); budget; names a directive, a framework decision or an EU/EC/EEC regulation; "weiterer/anderer Gesetze/Vorschriften" (other acts); "Änderung" or "Ergänzung" (amendment); the rest.'));
+      table(el, [t('wp'), ...K.map(k => L(...KN[k])), t('total')], rows.map(r => [WPL(r.wp), ...K.map(k => r[k]), tot(r)]));
+    }
+  };
+});
+
+// 11. subject areas
+const SGEN = { 'Recht': 'Law', 'Wirtschaft': 'Economy', 'Öffentliche Finanzen, Steuern und Abgaben': 'Public finance and taxes', 'Europapolitik und Europäische Union': 'European policy and the EU',
+  'Verkehr': 'Transport', 'Soziale Sicherung': 'Social security', 'Außenpolitik und internationale Beziehungen': 'Foreign policy and international relations', 'Umwelt': 'Environment',
+  'Staat und Verwaltung': 'State and administration', 'Gesellschaftspolitik, soziale Gruppen': 'Social policy, social groups', 'Arbeit und Beschäftigung': 'Labour and employment', 'Landwirtschaft und Ernährung': 'Agriculture and food' };
+chart('c11', el => {
+  const c = DATA.c11, ws = Object.keys(c.n).map(Number).sort((a, b) => a - b), sh = (s, w) => (c.share[s][w] || 0) / c.n[w];
+  const eu = 'Europapolitik und Europäische Union', euMax = ws.reduce((a, b) => sh(eu, b) > sh(eu, a) ? b : a), aus = 'Außenpolitik und internationale Beziehungen', ausMax = ws.reduce((a, b) => sh(aus, b) > sh(aus, a) ? b : a);
+  const wLast = ws.filter(w => !partialWP(w)).slice(-1)[0];
+  return {
+    title: L(`Themen: „Europapolitik und EU“ betraf ${pct(c.share[eu][euMax] || 0, c.n[euMax])} der Gesetze der ${euMax}. Wahlperiode, ${pct(c.share[eu][wLast] || 0, c.n[wLast])} der ${wLast}.`,
+      `Subjects: "European policy and the EU" covered ${pct(c.share[eu][euMax] || 0, c.n[euMax])} of the laws of the ${ord(euMax)} term, ${pct(c.share[eu][wLast] || 0, c.n[wLast])} of the ${ord(wLast)}`),
+    toc: L('Themen', 'Subjects'),
+    dek: L(`Die zwölf häufigsten Sachgebiete, die DIP den verkündeten Gesetzen gibt, mit ihrem Anteil je Wahlperiode (ein Gesetz kann mehrere haben). Außenpolitik erreichte ${pct(c.share[aus][ausMax] || 0, c.n[ausMax])} in der ${ausMax}. Wahlperiode, der Zeit der Verträge nach der Einheit, und liegt seither meist unter 3 %.`,
+      `The twelve most common subject areas DIP gives the promulgated laws, with their share in each term (a law can have several). Foreign policy reached ${pct(c.share[aus][ausMax] || 0, c.n[ausMax])} in the ${ord(ausMax)} term, the time of the treaties after unification, and has mostly stayed under 3% since.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi'), col = S8()[0], mx = d3.max(c.top, s => d3.max(ws, w => sh(s, w)));
+      const cells = c.top.map(s => { const cell = box.append('div'); cell.append('h4').text(DE() ? s : (SGEN[s] || s)); cell.append('p').text(L(`${fmt(c.tot[s])} Gesetze`, `${fmt(c.tot[s])} laws`)); return cell; });
+      c.top.forEach((s, si) => {
+        const cell = cells[si];
+        const w = W(cell), h = 96, m = { t: 14, r: 2, b: 16, l: 26 }, svg = svgIn(cell, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(ws).range([0, iw]).padding(0.18), y = d3.scaleLinear().domain([0, mx]).range([ih, 0]);
+        [0, 0.2, 0.4].filter(v => v <= mx).forEach(v => { g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl mut').attr('x', -4).attr('y', y(v) + 3).attr('text-anchor', 'end').style('font-size', '9px').text(dec(100 * v, 0)); });
+        ws.forEach(w2 => { const v = sh(s, w2); if (v > 0) g.append('path').attr('d', colPath(x(w2), ih, x.bandwidth(), y(v), 2)).attr('fill', col).attr('opacity', partialWP(w2) ? .5 : 1); });
+        g.append('text').attr('class', 'lbl mut').style('font-size', '9px').attr('x', x(ws[0])).attr('y', ih + 12).text(ws[0]);
+        g.append('text').attr('class', 'lbl mut').style('font-size', '9px').attr('x', x(ws[ws.length - 1]) + x.bandwidth()).attr('y', ih + 12).attr('text-anchor', 'end').text(ws[ws.length - 1]);
+        bindTip(g.selectAll('.hit').data(ws).join('rect').attr('class', 'hit').attr('x', w2 => x(w2)).attr('width', x.step()).attr('y', 0).attr('height', ih),
+          w2 => `<b>${esc(DE() ? s : (SGEN[s] || s))} · ${esc(WPL(w2))}</b>` + trow(col, L('Gesetze', 'laws'), `${fmt(c.share[s][w2] || 0)} · ${pct(c.share[s][w2] || 0, c.n[w2])}`));
+      });
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Sachgebiet)'], fmt(sum(ws, w => c.n[w])) + L(' Gesetze mit Sachgebiet', ' laws with a subject area'),
+        L(`Prozent der Gesetze der Wahlperiode; Achsen gleich für alle Felder. DIP gibt Sachgebiete erst ab der 9. Wahlperiode an; die 7. und 8. fehlen.`, `per cent of the term's laws; the same scale in every panel. DIP gives subject areas only from the 9th term; the 7th and 8th are missing.`));
+      table(el, [L('Sachgebiet', 'Subject'), ...ws.map(String)], c.top.map(s => [DE() ? s : (SGEN[s] || s), ...ws.map(w => pct(c.share[s][w] || 0, c.n[w]))]));
+    }
+  };
+});
+
+// 12. treaty partners (world map)
+let WORLD = null, WORLDP = null;
+const worldP = () => WORLD ? Promise.resolve(WORLD) : (WORLDP = WORLDP || d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(tt => (WORLD = tt)));
+chart('c12', el => {
+  const c = DATA.c12, iso = Object.entries(c.iso).sort((a, b) => b[1] - a[1]), nm = k => L(...c.names[k]), bi = c.kind.bi || 0;
+  const top = iso.slice(0, 3);
+  return {
+    title: L(`Vertragspartner: ${nm(top[0][0])}, ${nm(top[1][0])} und ${DE() && top[2][0] === '756' ? 'die Schweiz' : nm(top[2][0])} stehen in den meisten Vertragsgesetzen seit 1972 (${fmt(top[0][1])}, ${fmt(top[1][1])}, ${fmt(top[2][1])})`,
+      `Treaty partners: ${nm(top[0][0])}, ${nm(top[1][0])} and ${nm(top[2][0])} appear in the most treaty laws since 1972 (${fmt(top[0][1])}, ${fmt(top[1][1])}, ${fmt(top[2][1])})`),
+    toc: L('Vertragspartner', 'Treaty partners'),
+    dek: L(`Von ${fmt(c.n)} Vertragsgesetzen seit 1972 betreffen ${fmt(bi)} einen Vertrag Deutschlands mit einem einzelnen Staat; die Karte zeigt, mit welchem. Die übrigen gelten mehrseitigen Übereinkommen (${fmt(c.kind.multi)}), Abkommen der EU und ihrer Mitgliedstaaten (${fmt(c.kind.eu)}) und internationalen Organisationen. Die Nachbarstaaten führen, vor den Vereinigten Staaten und China.`,
+      `Of ${fmt(c.n)} treaty laws since 1972, ${fmt(bi)} approve a treaty between Germany and a single state; the map shows which. The rest are for multilateral conventions (${fmt(c.kind.multi)}), agreements of the EU and its member states (${fmt(c.kind.eu)}) and international organisations. The neighbouring states lead, ahead of the United States and China.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), mx = iso[0][1], col = v => ramp(0.15 + 0.85 * Math.sqrt(v / mx));
+      const mh = nw ? 200 : 380, box = el.append('div').attr('class', 'plot');
+      const svg = box.append('svg').attr('viewBox', `0 0 ${w} ${mh}`).attr('width', w).attr('height', mh).style('overflow', 'hidden');
+      const msg = svg.append('text').attr('class', 'lbl mut').attr('x', w / 2).attr('y', mh / 2).attr('text-anchor', 'middle').text(L('Karte wird geladen …', 'loading the map…'));
+      worldP().then(world => {
+        msg.remove();
+        const land = topojson.feature(world, world.objects.countries);
+        const feats = land.features.filter(f => f.id !== '010');
+        const proj = d3.geoNaturalEarth1().fitExtent([[4, 4], [w - 4, mh - 4]], { type: 'FeatureCollection', features: feats }), path = d3.geoPath(proj);
+        bindTip(svg.append('g').selectAll('path').data(feats).join('path').attr('d', path).attr('fill', f => f.id === '276' ? css('--text-3') : c.iso[f.id] ? col(c.iso[f.id]) : css('--land')).attr('stroke', css('--land-line')).attr('stroke-width', .5),
+          f => f.id === '276' ? `<b>${L('Deutschland', 'Germany')}</b>` : `<b>${esc(c.names[f.id] ? nm(f.id) : (f.properties.name || ''))}</b>` + trow(null, L('Vertragsgesetze', 'treaty laws'), fmt(c.iso[f.id] || 0)));
+      }).catch(() => msg.text(L('Karte nicht verfügbar (keine Internetverbindung)', 'map unavailable (no internet connection)')));
+      h4(el, L('Die zwanzig häufigsten Vertragspartner', 'The twenty most frequent treaty partners'), 10);
+      const rows = iso.slice(0, 20), lw = textW(el, rows.map(r => nm(r[0]))) + 12, rh = 19, cols2 = nw ? 1 : 2, per = Math.ceil(rows.length / cols2), cw = w / cols2;
+      const sv2 = svgIn(el, w, per * rh + 4);
+      rows.forEach((r, i) => {
+        const cx = Math.floor(i / per) * cw, cy = (i % per) * rh, g = sv2.append('g').attr('transform', `translate(${cx + lw},${cy})`), iw = cw - lw - 40, x = d3.scaleLinear().domain([0, mx]).range([0, iw]);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', 13).attr('text-anchor', 'end').text(nm(r[0]));
+        g.append('path').attr('d', barPath(0, 3, x(r[1]), 12, 3)).attr('fill', col(r[1]));
+        g.append('text').attr('class', 'lbl').attr('x', x(r[1]) + 5).attr('y', 13).text(fmt(r[1]));
+      });
+      const hist = Object.entries(c.hist).map(([k, v]) => `${nm(k)} ${fmt(v)}`).join(', ');
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Titel)', 'world-atlas 2.0.2'], fmt(c.n) + L(' Vertragsgesetze', ' treaty laws'),
+        L(`der Partner wird aus dem Titel gelesen („zwischen der Bundesrepublik Deutschland und …“). Nicht auf der Karte: Verträge mit Staaten, die es nicht mehr gibt (${hist}), und kleine Gebiete (in der Tabelle).`, `the partner is read from the title ("between the Federal Republic of Germany and …"). Not on the map: treaties with states that no longer exist (${hist}) and small territories (in the table).`));
+      table(el, [L('Vertragspartner', 'Partner'), L('Vertragsgesetze', 'Treaty laws')], [...iso.map(r => [nm(r[0]), r[1]]), ...Object.entries(c.hist).map(([k, v]) => [nm(k), v])]);
+    }
+  };
+});
+
+// 13. the day laws take effect
+chart('c13', el => {
+  const c = DATA.c13, jan = c.md['01-01'] || 0, jul = c.md['07-01'] || 0;
+  return {
+    title: L(`Inkrafttreten: ${pct(jan, c.n)} der Gesetze traten am 1. Januar in Kraft, ${pct(c.first_of_month, c.n)} an einem Monatsersten`,
+      `Entry into force: ${pct(jan, c.n)} of laws took effect on 1 January, ${pct(c.first_of_month, c.n)} on the first of a month`),
+    toc: L('Inkrafttreten', 'Entry into force'),
+    dek: L(`Jedes Kästchen ist ein Kalendertag: an wie vielen Gesetzen seit 1972 er der erste Tag des Inkrafttretens war. Der 1. Januar (${fmt(jan)} Gesetze) überragt alles, danach folgt der 1. Juli (${fmt(jul)}); viele Gesetze gelten außerdem ab dem Tag nach ihrer Verkündung, der auf jeden Tag fallen kann.`,
+      `Each box is a day of the year: for how many laws since 1972 it was the first day in force. 1 January (${fmt(jan)} laws) towers over the rest, followed by 1 July (${fmt(jul)}); many laws also apply from the day after their promulgation, which can be any day.`),
+    draw(el) {
+      calendarHeat(el, c.md, { n: c.n, labelMin: 0.0095, what: L('Gesetze', 'laws') });
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Inkrafttreten)'], fmt(c.n) + L(' Gesetze', ' laws'),
+        L(`der erste Tag der Angabe „Inkrafttreten“; bei gestuftem Inkrafttreten zählt der früheste. Ohne Vertragsgesetze (deren Angabe oft den Tag des Vertrages nennt), ohne die ${fmt(DATA.nt_noik)} Gesetze ohne Angabe (vor allem der 8. bis 10. Wahlperiode) und ${fmt(DATA.nt_dropped)} mit nicht plausiblen Daten. Zahlen in den Kästchen: Prozent.`,
+          `the first day in the entry "Inkrafttreten"; where a law takes effect in stages, the earliest. Without treaty laws (whose entry often gives the treaty's day), without the ${fmt(DATA.nt_noik)} laws with no entry (mostly of the 8th to 10th terms) and ${fmt(DATA.nt_dropped)} with implausible dates. Numbers in the boxes: per cent.`));
+      table(el, [L('Tag', 'Day'), L('Gesetze', 'Laws'), t('share')], Object.entries(c.md).sort((a, b) => b[1] - a[1]).slice(0, 40).map(([k, v]) => [dayMonth(+k.slice(0, 2), +k.slice(3)), v, pct(v, c.n, 1)]));
+    }
+  };
+});
+
+// 14. before or after promulgation
+const LAGK = ['rb', 'ra', 'd0', 'd1', 'd2', 'd3'];
+const LAGN = { rb: ['mehr als einen Monat rückwirkend', 'over a month retroactive'], ra: ['bis einen Monat rückwirkend', 'up to a month retroactive'], d0: ['am Tag der Verkündung', 'on the day of promulgation'],
+  d1: ['am Tag danach', 'the day after'], d2: ['2 bis 31 Tage danach', '2–31 days after'], d3: ['später', 'later'] };
+chart('c14', el => {
+  const c = DATA.c14, rows = c.rows.filter(r => sum(LAGK, k => r[k]) > 0), all = k => sum(rows, r => r[k]), N = sum(LAGK, all);
+  return {
+    title: L(`Rückwirkend oder später: ${pct(all('d1'), N)} der Gesetze treten am Tag nach der Verkündung in Kraft, ${pct(all('rb') + all('ra'), N)} rückwirkend`,
+      `Retroactive or later: ${pct(all('d1'), N)} of laws take effect the day after promulgation, ${pct(all('rb') + all('ra'), N)} retroactively`),
+    toc: L('Rückwirkend oder später', 'Retroactive or later'),
+    dek: L(`Wie weit der erste Tag des Inkrafttretens vom Tag der Verkündung entfernt ist, je Wahlperiode: links, was rückwirkend gilt, rechts, was am Tag danach oder später beginnt. Am Tag danach ist die Regel und wird häufiger. Mehr als einen Monat zurück reichen ${fmt(c.ret_n)} Gesetze, darunter ${fmt(c.ret_budget)} Haushaltsgesetze, die ab dem 1. Januar gelten, auch wenn sie später verkündet werden.`,
+      `How far the first day in force lies from the day of promulgation, by term: on the left what applies retroactively, on the right what starts the day after or later. The day after is the rule, and it is becoming more common. ${fmt(c.ret_n)} laws reach back more than a month, among them ${fmt(c.ret_budget)} budget laws, which apply from 1 January even when promulgated later.`),
+    draw(el) {
+      const cols = S8(), ramp = seqRamp(), colors = [cols[1], d3.interpolateRgb(cols[1], css('--surface'))(.45), css('--muted-mark'), ramp(.85), ramp(.55), ramp(.3)];
+      legend(el, LAGK.map((k, i) => ({ c: colors[i], l: L(...LAGN[k]) })));
+      const w = W(el), nw = narrow(w), lw = 34, rh = 24, rr = 40, svg = svgIn(el, w, rows.length * rh + 26), g = svg.append('g').attr('transform', `translate(${lw},4)`), iw = w - lw - rr;
+      const share = r => { const n = sum(LAGK, k => r[k]); return LAGK.map(k => r[k] / n); };
+      const maxL = d3.max(rows, r => { const s = share(r); return s[0] + s[1]; }), maxR = d3.max(rows, r => { const s = share(r); return s[2] + s[3] + s[4] + s[5]; });
+      const x = d3.scaleLinear().domain([-maxL, maxR]).range([0, iw]);
+      rows.forEach((r, i) => {
+        const s = share(r), y0 = i * rh + 4, bh = rh - 8, op = partialWP(r.wp) ? .5 : 1;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(r.wp);
+        let acc = 0; [0, 1].forEach(j => { const a = x(-acc), b = x(-(acc + s[j])); acc += s[j]; if (s[j]) g.append('path').attr('d', j === 1 ? barPathL(b, y0, a - (j ? 0 : 1), bh, 3) : `M${b},${y0}H${a - 1}V${y0 + bh}H${b}Z`).attr('fill', colors[j]).attr('opacity', op); });
+        acc = 0; [2, 3, 4, 5].forEach(j => { const a = x(acc), b = x(acc + s[j]); acc += s[j]; if (s[j]) g.append('path').attr('d', j === 5 ? barPath(a, y0, b, bh, 3) : `M${a},${y0}H${b - 1}V${y0 + bh}H${a}Z`).attr('fill', colors[j]).attr('opacity', op); });
+        if (!nw && s[3] > .1) g.append('text').attr('class', 'lbl').attr('x', x(s[2] + s[3] / 2)).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(colors[3])).style('pointer-events', 'none').text(pv(100 * s[3]));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', i * rh).attr('height', rh).datum(r),
+          d => `<b>${esc(WPL(d.wp))}</b>` + LAGK.map((k, j) => trow(colors[j], L(...LAGN[k]), `${fmt(d[k])} · ${pct(d[k], sum(LAGK, q => d[q]))}`)).join('') + trow(null, L('am 1. Januar', 'on 1 January'), fmt(d.jan)));
+      });
+      g.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', 0).attr('y2', rows.length * rh + 4).attr('stroke', css('--text-2'));
+      g.append('text').attr('class', 'lbl mut').attr('x', x(0) - 6).attr('y', rows.length * rh + 18).attr('text-anchor', 'end').text(L('← rückwirkend', '← retroactive'));
+      g.append('text').attr('class', 'lbl mut').attr('x', x(0) + 6).attr('y', rows.length * rh + 18).text(L('ab Verkündung →', 'from promulgation →'));
+      note(el, ['bundestag/vorgaenge/wpNN/<Vorgang>.md (Verkündung, Inkrafttreten)'], fmt(N) + L(' Gesetze', ' laws'),
+        L('Zeilen: Wahlperioden; die 8. bis 10. fehlen, weil DIP dort kein Inkrafttreten angibt. Ohne Vertragsgesetze. Ein Monat: 31 Tage. Ein Gesetz kann in Stufen in Kraft treten; gezählt ist die früheste.', 'rows: terms; the 8th to 10th are missing because DIP gives no entry into force there. Treaty laws left out. A month: 31 days. A law can take effect in stages; the earliest counts.'));
+      table(el, [t('wp'), ...LAGK.map(k => L(...LAGN[k])), L('am 1. Januar', 'on 1 January')], rows.map(r => [WPL(r.wp), ...LAGK.map(k => r[k]), r.jan]));
+    }
+  };
+});
+
+part('p4', 'IV. Das geltende Bundesrecht', 'IV. Federal law in force',
+  'Das Verzeichnis der Rechtsvorschriften des Bundes auf Gesetze im Internet (Stand 28. Oktober 2026) und jede Änderung ihres Textes seit dem 10. Juni 2019: Das Repository hält für jeden Tag, an dem sich eine Vorschrift änderte, einen Commit, der die geänderten Vorschriften und ihren Standvermerk aufzählt.',
+  'The index of federal acts on Gesetze im Internet (as of 28 October 2026) and every change of their text since 10 June 2019: the repository holds, for each day an act changed, a commit listing the acts changed and their status notes.');
+
+// 15. the age of federal law in force
+const AGEK = ['Gc', 'G', 'Vc', 'V', 'Sx'];
+const AGEN = { Gc: ['Gesetze, seit 2019 geändert', 'Statutes, changed since 2019'], G: ['Gesetze, nicht geändert', 'Statutes, unchanged'], Vc: ['Verordnungen, seit 2019 geändert', 'Ordinances, changed since 2019'], V: ['Verordnungen, nicht geändert', 'Ordinances, unchanged'], Sx: ['Bekanntmachungen, Anordnungen und Sonstiges', 'Notices, orders and other'] };
+chart('c15', el => {
+  const c = DATA.c15, decs = Object.keys(c.dec).map(Number).sort((a, b) => a - b), old = c.old[0], bgb = c.codes.BGB || [0, 0];
+  const rows = decs.map(d => { const v = c.dec[d]; return { y: d, Gc: v.Gc || 0, G: v.G || 0, Vc: v.Vc || 0, V: v.V || 0, Sx: (v.S || 0) + (v.Sc || 0) + (v.O || 0) + (v.Oc || 0) }; });
+  return {
+    title: L(`Altes Recht, das gilt: ${fmt(c.pre1949)} Vorschriften des Bundes stammen aus der Zeit vor 1949, die älteste, die Gewerbeordnung, von ${old[0].slice(0, 4)}`,
+      `Old law still in force: ${fmt(c.pre1949)} federal acts date from before 1949, the oldest, the Gewerbeordnung (trade code), from ${old[0].slice(0, 4)}`),
+    toc: L('Altes Recht, das gilt', 'Old law still in force'),
+    dek: L(`Die ${fmt(c.n)} Rechtsvorschriften auf Gesetze im Internet nach dem Jahrzehnt ihrer Ausfertigung, dunkel, wenn sich ihr Text seit Juni 2019 mindestens einmal geändert hat. Alt heißt nicht unverändert: Von den ${fmt(c.pre1949)} Vorschriften aus der Zeit vor 1949 wurden ${fmt(c.pre1949_changed)} seither geändert, das Bürgerliche Gesetzbuch von 1896 ${fmt(bgb[1])}-mal, die Gewerbeordnung ${fmt(old[3])}-mal.`,
+      `The ${fmt(c.n)} acts on Gesetze im Internet by the decade they were signed, dark if their text has changed at least once since June 2019. Old does not mean unchanged: of the ${fmt(c.pre1949)} acts from before 1949, ${fmt(c.pre1949_changed)} have changed since, the Civil Code of 1896 ${fmt(bgb[1])} times, the Gewerbeordnung ${fmt(old[3])} times.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[0], d3.interpolateRgb(cols[0], css('--surface'))(.6), cols[2], d3.interpolateRgb(cols[2], css('--surface'))(.6), css('--muted-mark')];
+      legend(el, AGEK.map((k, i) => ({ c: colors[i], l: L(...AGEN[k]) })));
+      const nw = narrow(W(el));
+      const s = stackedColumns(el, rows, AGEK, colors, AGEK.map(k => L(...AGEN[k])), { h: 300, mt: 30, labelIf: (r) => r.y % (nw ? 40 : 20) === 0 || r.y === 1860, xf: y => DE() ? `${y}er` : `${y}s`, every: 1 });
+      const bx = y => s.x(y) + s.x.bandwidth() / 2;
+      const pre = rows.filter(r => r.y < 1950), xa = s.x(pre[0].y), xb = s.x(pre[pre.length - 1].y) + s.x.bandwidth();
+      s.g.insert('rect', ':first-child').attr('x', xa - 3).attr('width', xb - xa + 6).attr('y', -26).attr('height', s.ih + 26).attr('rx', 6).attr('fill', css('--surface-2'));
+      halo(s.g, xa + 2, -14, L(`vor 1949: ${fmt(c.pre1949)}`, `before 1949: ${fmt(c.pre1949)}`), 'start', 'lbl strong');
+      note(el, ['verzeichnis.json (ausfertigung, title)', 'git log global-law/pinned-20261028 (geänderte Vorschriften)'], fmt(c.n) + L(' Vorschriften', ' acts'),
+        L('Gesetz oder Verordnung nach dem Titel (src/prep.py); Bekanntmachungen, Anordnungen, Erlasse und Verträge sind „Sonstiges“, Titel auf „-ordnung“ ohne Gesetz oder Verordnung im Namen ebenfalls. „Geändert“: Die Vorschrift steht seit 10. Juni 2019 in mindestens einem Änderungs-Commit.',
+          'statute or ordinance by its title (src/prep.py); notices, orders, decrees and treaties are "other", as are titles ending in "-ordnung" without Gesetz or Verordnung in the name. "Changed": the act appears in at least one change commit since 10 June 2019.'));
+      table(el, [L('Jahrzehnt', 'Decade'), ...AGEK.map(k => L(...AGEN[k])), t('total')], rows.map(r => [DE() ? `${r.y}er` : `${r.y}s`, ...AGEK.map(k => r[k]), sum(AGEK, k => r[k])]));
+      h4(el, L('Die ältesten geltenden Vorschriften', 'The oldest acts in force'));
+      const ul = el.append('div').attr('class', 'amlist');
+      c.old.forEach(o => { const r = ul.append('div').attr('class', 'ar'); r.append('b').text(o[0].slice(0, 4)); r.append('span').text(o[1]); r.append('span').text(o[2] + (o[3] ? L(` · ${fmt(o[3])} Fassungen seit 2019`, ` · ${fmt(o[3])} versions since 2019`) : '')); });
+    }
+  };
+});
+
+// 16. the acts changed most often
+chart('c16', el => {
+  const c = DATA.c16, rows = c.rows, a = rows[0];
+  return {
+    title: L(`Am häufigsten geändert: das Fünfte Buch Sozialgesetzbuch, ${fmt(a.n)}-mal seit Juni 2019`, `Changed most often: Book V of the Social Code (statutory health insurance), ${fmt(a.n)} times since June 2019`),
+    toc: L('Am häufigsten geändert', 'Changed most often'),
+    dek: L(`Für die zwanzig am häufigsten geänderten Vorschriften die Zahl der neuen Fassungen, die Gesetze im Internet seit dem 10. Juni 2019 veröffentlichte, rechts je Jahr. ${fmt(c.n_acts)} der ${fmt(c.acts_on_gii)} Vorschriften änderten sich in dieser Zeit; die hundert am häufigsten geänderten vereinen ${pct(c.top100, c.n_versions)} aller ${fmt(c.n_versions)} Fassungen. ${fmt(c.jan1)} Fassungen erschienen an einem 1. Januar.`,
+      `For the twenty acts changed most often, the number of new versions Gesetze im Internet published since 10 June 2019, and on the right by year. ${fmt(c.n_acts)} of the ${fmt(c.acts_on_gii)} acts changed in that time; the hundred changed most often account for ${pct(c.top100, c.n_versions)} of all ${fmt(c.n_versions)} versions. ${fmt(c.jan1)} versions appeared on a 1 January.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), col = S8()[0], ys = c.years, mxY = d3.max(rows, r => d3.max(ys, y => r.y[y]));
+      const lw = textW(el, rows.map(r => r.abk)) + 12, cw = nw ? 0 : 26, hw = cw * ys.length, rh = 22, bw0 = w - lw - hw - (nw ? 4 : 24);
+      const svg = svgIn(el, w, rows.length * rh + 24), g = svg.append('g').attr('transform', `translate(${lw},20)`), x = d3.scaleLinear().domain([0, a.n]).range([0, bw0 - 34]);
+      if (!nw) ys.forEach((y, j) => g.append('text').attr('class', 'lbl mut').attr('x', bw0 + 16 + j * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(`’${y.slice(2)}`));
+      rows.forEach((r, i) => {
+        const cy = i * rh;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 14).attr('text-anchor', 'end').text(r.abk);
+                g.append('line').attr('x1', 0).attr('x2', x(r.n)).attr('y1', cy + 10).attr('y2', cy + 10).attr('stroke', col).attr('stroke-width', 2);
+        g.append('circle').attr('cx', x(r.n)).attr('cy', cy + 10).attr('r', 5).attr('fill', col);
+        g.append('text').attr('class', 'lbl strong').attr('x', x(r.n) + 9).attr('y', cy + 14).text(fmt(r.n));
+        if (!nw) ys.forEach((y, j) => { const v = r.y[y] || 0;
+          g.append('rect').attr('x', bw0 + 16 + j * cw + 1).attr('y', cy + 2).attr('width', cw - 2).attr('height', rh - 5).attr('rx', 3).attr('fill', v ? ramp(0.12 + 0.88 * v / mxY) : css('--surface-2')).attr('opacity', (y === ys[0] || y === ys[ys.length - 1]) ? .6 : 1); });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rh).datum(r),
+          d => `<b>${esc(d.abk)}</b>` + tq(d.title) + trow(col, L('neue Fassungen', 'new versions'), fmt(d.n)) + ys.map(y => trow(null, y, fmt(d.y[y] || 0))).join(''));
+      });
+      note(el, ['git log global-law/pinned-20261028 (Commits mit „(geändert)“)', 'verzeichnis.json'], fmt(c.n_versions) + L(' Fassungen', ' versions'),
+        L(`eine Fassung je Tag, an dem Gesetze im Internet einen geänderten Text zeigte, gleich welches Gesetz die Änderung machte (auch „Textänderung ohne neue Standangabe“). 2019 beginnt am 10. Juni, 2026 endet am 28. Oktober (heller). Das Archiv las Gesetze im Internet bis Mai 2020 wöchentlich.`,
+          `one version per day on which Gesetze im Internet showed a changed text, whatever law made the change (including "text changed without a new status note"). 2019 starts on 10 June, 2026 ends on 28 October (lighter). The archive read Gesetze im Internet weekly until May 2020.`));
+      table(el, [L('Vorschrift', 'Act'), L('Titel', 'Title'), L('Fassungen', 'Versions'), ...ys], rows.map(r => [r.abk, r.title, r.n, ...ys.map(y => r.y[y] || 0)]));
+    }
+  };
+});
+
+// 17. omnibus laws
+chart('c17', el => {
+  const c = DATA.c17, rows = c.rows, a = rows[0], g = rows.find(r => r.k === 'G');
+  const nm = r => { if (!r.title) return r.cite; const m = r.title.match(/\(((?:[^()]|\([^()]*\))*)\)\s*$/); return m && !/^(EU|EG)/.test(m[1]) ? m[1].split(' - ')[0] : r.title; };
+  return {
+    title: L(`Artikelgesetze: Die Elfte Zuständigkeitsanpassungsverordnung änderte mindestens ${fmt(a.acts)} Vorschriften auf einmal`, `Omnibus acts: one ordinance adjusting ministries' names changed at least ${fmt(a.acts)} acts at once`),
+    toc: L('Artikelgesetze', 'Omnibus acts'),
+    dek: L(`Ein Gesetz oder eine Verordnung ändert oft viele andere zugleich, Artikel für Artikel. Gezählt ist, in wie vielen Vorschriften der Standvermerk auf Gesetze im Internet das Änderungsgesetz seit Juni 2019 als letzte Änderung nannte. Unter den ${fmt(c.n_laws)} so genannten Gesetzen und Verordnungen dieser Zeit änderten ${fmt(c.bins[0])} nur eine Vorschrift, ${fmt(c.bins[3] + c.bins[4])} zehn oder mehr. Das größte Gesetz war das ${nm(g).replace(/^Zweites /, 'Zweite ')} (${fmt(g.acts)} Vorschriften).`,
+      `A law or ordinance often amends many others at once, article by article. Counted is in how many acts the status note on Gesetze im Internet named the amending act as the last change since June 2019. Of the ${fmt(c.n_laws)} laws and ordinances named in this way, ${fmt(c.bins[0])} changed a single act and ${fmt(c.bins[3] + c.bins[4])} ten or more. The largest law was the ${nm(g)} (${fmt(g.acts)} acts), adapting federal law to the GDPR.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), cols = S8(), rh = nw ? 40 : 34, rr = nw ? 36 : 150, lw = nw ? 0 : Math.min(430, w * .46);
+      const LN2 = rows.map(r => nw ? wrapN(el, nm(r), w - 8) : wrapN(el, nm(r), lw - 14)), RH = LN2.map(ls => nw ? 24 + ls.length * 13 : Math.max(rh, ls.length * 13 + 8)), Y0 = RH.map((v, i) => sum(RH.slice(0, i)));
+      const svg = svgIn(el, w, sum(RH) + 6), gg = svg.append('g').attr('transform', `translate(${lw},2)`), iw = w - lw - rr, x = d3.scaleLinear().domain([0, a.acts]).range([0, iw]);
+      rows.forEach((r, i) => {
+        const cy = Y0[i], lines = LN2[i], by = nw ? cy + lines.length * 13 + 4 : cy + (RH[i] - 14) / 2;
+        lines.forEach((s, j) => gg.append('text').attr('class', 'lbl strong').attr('x', nw ? 0 : -10).attr('y', nw ? cy + 12 + j * 13 : cy + RH[i] / 2 - (lines.length - 1) * 6.5 + 4 + j * 13).attr('text-anchor', nw ? 'start' : 'end').text(s));
+        gg.append('path').attr('d', barPath(0, by, Math.max(2, x(r.acts)), 14, 3)).attr('fill', r.k === 'V' ? cols[2] : cols[0]);
+        gg.append('text').attr('class', 'lbl').attr('x', x(r.acts) + 6).attr('y', by + 11).text(nw ? fmt(r.acts) : L(`${fmt(r.acts)} · bis Art. ${fmt(r.art)}`, `${fmt(r.acts)} · up to Art. ${fmt(r.art)}`));
+        bindTip(gg.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', RH[i]).datum(r),
+          d => `<b>${esc(d.cite)}</b>` + (d.title ? tq(d.title) : '') + trow(d.k === 'V' ? cols[2] : cols[0], L('Vorschriften', 'acts'), fmt(d.acts)) + trow(null, L('höchster genannter Artikel', 'highest article named'), fmt(d.art)));
+      });
+      legend(el, [{ c: cols[0], l: L('Gesetz', 'Statute') }, { c: cols[2], l: L('Verordnung', 'Ordinance') }]);
+      note(el, ['git log global-law/pinned-20261028 (Standvermerke der geänderten Vorschriften)', 'bundestag/vorgaenge/', 'bund/bgbl/teil-1/2019–2023'], fmt(c.n_laws) + L(' Gesetze und Verordnungen', ' laws and ordinances'),
+        L(`eine Untergrenze: Wurde eine Vorschrift vor der Beobachtung erneut geändert, nennt ihr Standvermerk das spätere Gesetz. Titel aus DIP (Gesetze) und dem Bundesgesetzblatt (Verordnungen bis 2023); ohne Titel steht die Fundstelle. „Bis Art.“: der höchste Artikel, den ein Standvermerk nennt. Verteilung: 1 Vorschrift ${fmt(c.bins[0])}, 2–4 ${fmt(c.bins[1])}, 5–9 ${fmt(c.bins[2])}, 10–19 ${fmt(c.bins[3])}, 20 und mehr ${fmt(c.bins[4])}.`,
+          `a lower bound: where an act was amended again before it was observed, its note names the later law. Titles from DIP (statutes) and the Federal Law Gazette (ordinances to 2023); without a title, the citation. "Up to Art.": the highest article a note names. Distribution: 1 act ${fmt(c.bins[0])}, 2–4 ${fmt(c.bins[1])}, 5–9 ${fmt(c.bins[2])}, 10–19 ${fmt(c.bins[3])}, 20 or more ${fmt(c.bins[4])}.`));
+      table(el, [L('Fundstelle', 'Citation'), L('Titel', 'Title'), L('Vorschriften', 'Acts'), L('höchster Artikel', 'Highest article')], rows.map(r => [r.cite, r.title || '–', r.acts, r.art]));
+    }
+  };
+});
+
+part('p5', 'V. Verfassung und Verfassungsgericht', 'V. The constitution and the Constitutional Court',
+  'Die Entscheidungen der beiden Senate des Bundesverfassungsgerichts, wie sie die Sammlung des Gerichts seit 1998 enthält, mit ihrem Tenor; dazu das Grundgesetz von 1949 und von heute und die vier deutschen Verfassungen davor, die das Repository unter historisch/ hält.',
+  'The decisions of the two Senates of the Federal Constitutional Court, as the Court\'s collection holds them since 1998, with their operative part; and the Grundgesetz of 1949 and of today, with the four German constitutions before it that the repository keeps under historisch/.');
+
+// 18. laws struck down or declared incompatible
+chart('c18', el => {
+  const c = DATA.c18, ys = Object.keys(c.y).map(Number).sort((a, b) => a - b), rows = ys.map(y => ({ y, nichtig: c.y[y].nichtig || 0, unvereinbar: c.y[y].unvereinbar || 0 }));
+  const N = sum(rows, r => r.nichtig), U = sum(rows, r => r.unvereinbar), lv = k => sum(['nichtig', 'unvereinbar'], a => c.lvl[`${a}|${k}`] || 0);
+  return {
+    title: L(`Das Bundesverfassungsgericht: ${fmt(U + N)} Senatsentscheidungen seit 1998 erklärten Vorschriften für unvereinbar (${fmt(U)}) oder nichtig (${fmt(N)})`,
+      `The Federal Constitutional Court: ${fmt(U + N)} Senate decisions since 1998 declared provisions incompatible (${fmt(U)}) or void (${fmt(N)})`),
+    toc: L('Unvereinbar oder nichtig', 'Incompatible or void'),
+    dek: L(`Je Jahr die Entscheidungen der Senate, deren Tenor eine Vorschrift für nichtig erklärt, und die, die sie nur für mit dem Grundgesetz unvereinbar erklären: Dann gilt sie oft bis zu einer Neuregelung weiter (Grafik 19). Betroffen war Bundesrecht in ${fmt(lv('bund'))} Entscheidungen, Landesrecht in ${fmt(lv('land'))} und beides in ${fmt(lv('beide'))}.`,
+      `For each year, the Senates' decisions whose operative part declares a provision void, and those that only declare it incompatible with the Grundgesetz: it then often continues to apply until a new rule is made (chart 19). Federal law was affected in ${fmt(lv('bund'))} decisions, Land law in ${fmt(lv('land'))} and both in ${fmt(lv('beide'))}.`),
+    draw(el) {
+      const cols = S8(), colors = [cols[7], cols[3]];
+      legend(el, [{ c: colors[0], l: L('nichtig (auch teilweise)', 'void (also in part)') }, { c: colors[1], l: L('unvereinbar, nicht nichtig', 'incompatible, not void') }]);
+      stackedColumns(el, rows, ['nichtig', 'unvereinbar'], colors, [L('nichtig', 'void'), L('unvereinbar', 'incompatible')], { h: 250, partial: r => r.y === YEAR_LAST, labelIf: r => r.y % 4 === 2 || r.y === ys[0], xf: y => String(y), ticks: 4 });
+      note(el, ['rechtsprechung/bverfg/decisions/bverfg/<Jahr>/ECLI_DE_BVerfG_*_?s*.md (Tenor)'], fmt(c.senate) + L(' Senatsentscheidungen', ' Senate decisions') + L(` von ${fmt(c.all)} Entscheidungen`, ` of ${fmt(c.all)} decisions`),
+        L(`Senatsentscheidungen nach dem ECLI-Typ (Kammern können Gesetze nicht verwerfen); „nichtig“ und „unvereinbar“ im Tenor einer Entscheidung, die eine Norm nennt. Bundes- oder Landesrecht nach dem Gesetzblatt, das der Tenor nennt (${fmt(lv('na'))} ohne Angabe). Die Sammlung beginnt 1998 (${fmt(c.pre)} ältere Entscheidungen nicht gezählt); ${YEAR_LAST} ist unvollständig. ${fmt(c.empty)} Entscheidungen ohne lesbaren Tenor.`,
+          `Senate decisions by ECLI type (chambers cannot strike down laws); "nichtig" (void) and "unvereinbar" (incompatible) in the operative part of a decision that names a norm. Federal or Land law by the gazette the operative part cites (${fmt(lv('na'))} without). The collection starts in 1998 (${fmt(c.pre)} older decisions left out); ${YEAR_LAST} is incomplete. ${fmt(c.empty)} decisions without a readable operative part.`));
+      table(el, [t('year'), L('nichtig', 'void'), L('unvereinbar', 'incompatible'), t('total')], rows.map(r => [String(r.y), r.nichtig, r.unvereinbar, r.nichtig + r.unvereinbar]));
+    }
+  };
+});
+
+// 19. deadlines for the legislature
+const LVLN = { bund: ['Bundesrecht', 'federal law'], land: ['Landesrecht', 'Land law'], beide: ['beides', 'both'], na: ['ohne Angabe', 'not given'] };
+chart('c19', el => {
+  const c = DATA.c19, rows = c.rows, long = rows.reduce((a, b) => b.m > a.m ? b : a), short = rows.reduce((a, b) => b.m < a.m ? b : a);
+  return {
+    title: L(`Fristen für den Gesetzgeber: ${fmt(rows.length)} Entscheidungen setzten einen Tag für die Neuregelung, im Median ${dec(c.med, 0)} Monate`,
+      `Deadlines for the legislature: ${fmt(rows.length)} decisions set a day for new rules, ${dec(c.med, 0)} months at the median`),
+    toc: L('Fristen für den Gesetzgeber', 'Deadlines for the legislature'),
+    dek: L(`Jeder Balken reicht vom Tag einer Senatsentscheidung bis zu dem Tag, den ihr Tenor dem Gesetzgeber für eine Neuregelung setzt oder bis zu dem die beanstandete Vorschrift weiter angewandt werden darf. Die längste Frist: ${dec(long.m, 0)} Monate (${long.name}, ${long.d.slice(0, 4)}); die kürzeste: ${dec(short.m, 0)} (${short.name}, ${short.d.slice(0, 4)}).`,
+      `Each bar runs from the day of a Senate decision to the day its operative part sets the legislature for new rules, or until which the provision may still be applied. The longest: ${dec(long.m, 0)} months (${long.name}, ${long.d.slice(0, 4)}); the shortest: ${dec(short.m, 0)} (${short.name}, ${short.d.slice(0, 4)}).`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), cols = S8(), lc = { bund: cols[0], land: cols[1], beide: cols[6], na: css('--muted-mark') };
+      legend(el, ['bund', 'land', 'beide', 'na'].map(k => ({ c: lc[k], l: L(...LVLN[k]) })));
+      const rh = nw ? 13 : 15, m = { t: 22, r: 6, b: 4, l: 6 }, svg = svgIn(el, w, m.t + rows.length * rh + m.b), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r;
+      const y0 = +rows[0].d.slice(0, 4), y1 = d3.max(rows, r => +r.dl.slice(0, 4)) + 1, x = d3.scaleTime().domain([new Date(y0, 0, 1), new Date(y1, 0, 1)]).range([0, iw]);
+      d3.range(y0, y1 + 1).forEach(y => { if (y % (nw ? 10 : 5) === 0) { g.append('line').attr('x1', x(new Date(y, 0, 1))).attr('x2', x(new Date(y, 0, 1))).attr('y1', -4).attr('y2', rows.length * rh).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl mut').attr('x', x(new Date(y, 0, 1))).attr('y', -8).attr('text-anchor', 'middle').text(y); } });
+      const D0 = s => new Date(+s.slice(0, 4), +s.slice(5, 7) - 1, +s.slice(8, 10));
+      rows.forEach((r, i) => {
+        const a = x(D0(r.d)), b = x(D0(r.dl)), cy = i * rh;
+        g.append('path').attr('d', barPath(a, cy + 2, Math.max(a + 3, b), rh - 5, 2.5)).attr('fill', lc[r.lvl]);
+        const lab = nw ? r.name : `${r.name} · ${dec(r.m, 0)} ${L('Mon.', 'mo.')}`, tw = textW(el, [lab], 'lbl');
+        const right = b + 5 + tw < iw, left = a - 5 - tw > 0;
+        if (right || left) g.append('text').attr('class', 'lbl').style('font-size', nw ? '9px' : '10px').attr('x', right ? b + 5 : a - 5).attr('y', cy + rh / 2 + 3).attr('text-anchor', right ? 'start' : 'end').text(lab);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', 0).attr('width', iw).attr('y', cy).attr('height', rh).datum(r),
+          d => `<b>${esc(d.name)}</b>` + trow(null, d.az, '') + trow(null, L('Entscheidung', 'decision'), dateTxt(d.d)) + trow(lc[d.lvl], L('Frist', 'deadline'), dateTxt(d.dl)) + trow(null, L('Monate', 'months'), dec(d.m, 0)) + trow(null, L('Tenor', 'operative part'), d.cls === 'nichtig' ? L('auch nichtig', 'also void') : L('unvereinbar', 'incompatible')));
+      });
+      note(el, ['rechtsprechung/bverfg/decisions/ (Tenor)'], fmt(rows.length) + L(' Entscheidungen mit Frist', ' decisions with a deadline'),
+        L('die Frist ist das früheste spätere Datum, das der Tenor mit „bis zum“, „spätestens“ oder „längstens“ nennt, in der Nähe von „Gesetzgeber“, „Neuregelung“, „anwendbar“ oder „fortgelten“; Monate zu 30,44 Tagen.', 'the deadline is the earliest later date the operative part gives with "bis zum", "spätestens" or "längstens" near "Gesetzgeber", "Neuregelung", "anwendbar" or "fortgelten"; months of 30.44 days.'));
+      table(el, [L('Entscheidung', 'Decision'), L('Aktenzeichen', 'Docket'), L('Datum', 'Date'), L('Frist', 'Deadline'), L('Monate', 'Months'), L('Recht', 'Law')], rows.map(r => [r.name, r.az, r.d, r.dl, dec(r.m, 0), L(...LVLN[r.lvl])]));
+    }
+  };
+});
+
+// 20. five constitutions
+const CONN = { pk1849: ['Paulskirchenverfassung', 'Frankfurt Constitution'], ndb1867: ['Norddeutscher Bund', 'North German Confederation'], rv1871: ['Reichsverfassung', 'Imperial Constitution'], wrv1919: ['Weimarer Verfassung', 'Weimar Constitution'], gg1949: ['Grundgesetz', 'Grundgesetz'], gg: ['Grundgesetz heute', 'Grundgesetz today'] };
+chart('c20', el => {
+  const rows = DATA.c20.rows, by = k => rows.find(r => r.k === k), w19 = by('wrv1919'), g49 = by('gg1949'), g = by('gg'), pk = by('pk1849');
+  return {
+    title: L(`Fünf Verfassungen: Die Weimarer Verfassung widmete ${pct(w19.rights, w19.words)} ihres Textes den Grundrechten, das Grundgesetz von 1949 ${pct(g49.rights, g49.words)}, die Reichsverfassung von 1871 nichts`,
+      `Five constitutions: the Weimar Constitution gave ${pct(w19.rights, w19.words)} of its text to basic rights, the Grundgesetz of 1949 ${pct(g49.rights, g49.words)}, the Imperial Constitution of 1871 none`),
+    toc: L('Fünf Verfassungen', 'Five constitutions'),
+    dek: L(`Die Länge der deutschen Verfassungen in Wörtern, und wie viel davon ein Grundrechtsteil ist: Weimar Art. 109–165, das Grundgesetz Art. 1–19. Die Verfassungen von 1867 und 1871 haben keinen. Das Grundgesetz ist von ${fmt(g49.words)} auf ${fmt(g.words)} Wörter gewachsen; seine Grundrechte von ${fmt(g49.rights)} auf ${fmt(g.rights)}.`,
+      `The length of the German constitutions in words, and how much of it is a section on basic rights: Weimar Art. 109–165, the Grundgesetz Art. 1–19. The constitutions of 1867 and 1871 have none. The Grundgesetz has grown from ${fmt(g49.words)} to ${fmt(g.words)} words, its basic rights from ${fmt(g49.rights)} to ${fmt(g.rights)}.`),
+    draw(el) {
+      const cols = S8(), cards = el.append('div').attr('class', 'cards');
+      rows.forEach(r => {
+        const d = cards.append('div').attr('class', 'card');
+        d.append('div').attr('class', 'ct').style('margin', '0 0 2px').style('font-weight', 600).style('color', 'var(--text)').text(`${L(...CONN[r.k])} · ${r.year}`);
+        d.append('div').attr('class', 'cn').text(fmt(r.words));
+        d.append('div').attr('class', 'ct').text(L(`Wörter · ${fmt(r.units)} ${r.k === 'pk1849' ? 'Paragraphen' : 'Artikel'}`, `words · ${fmt(r.units)} ${r.k === 'pk1849' ? 'sections' : 'articles'}`) + (r.rights ? L(` · Grundrechte ${pct(r.rights, r.words)}`, ` · basic rights ${pct(r.rights, r.words)}`) : r.rights === 0 ? L(' · keine Grundrechte', ' · no basic rights') : ''));
+      });
+      const w = W(el), nw = narrow(w), lw = textW(el, rows.map(r => `${L(...CONN[r.k])} ${r.year}`)) + 12, rh = 26, mx = d3.max(rows, r => r.words);
+      const svg = svgIn(el, w, rows.length * rh + 8), gg = svg.append('g').attr('transform', `translate(${lw},4)`), iw = w - lw - (nw ? 44 : 70), x = d3.scaleLinear().domain([0, mx]).range([0, iw]);
+      legend(el, [{ c: cols[0], l: L('Grundrechtsteil', 'basic rights') }, { c: d3.interpolateRgb(cols[0], css('--surface'))(.6), l: L('übriger Text', 'rest of the text') }, { c: css('--muted-mark'), l: L('1849: nicht getrennt (OCR)', '1849: not separated (OCR)') }]);
+      rows.forEach((r, i) => {
+        const cy = i * rh;
+        gg.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(`${L(...CONN[r.k])} ${r.year}`);
+        if (r.rights == null) gg.append('path').attr('d', barPath(0, cy + 5, x(r.words), 14, 3)).attr('fill', css('--muted-mark'));
+        else {
+          gg.append('path').attr('d', barPath(0, cy + 5, x(r.words), 14, 3)).attr('fill', d3.interpolateRgb(cols[0], css('--surface'))(.6));
+          if (r.rights) gg.append('path').attr('d', `M0,${cy + 5}h${x(r.rights) - 1}v14h${-(x(r.rights) - 1)}Z`).attr('fill', cols[0]);
+        }
+        gg.append('text').attr('class', 'lbl').attr('x', x(r.words) + 6).attr('y', cy + 16).text(fmt(r.words));
+        bindTip(gg.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rh).datum(r),
+          d => `<b>${esc(L(...CONN[d.k]))} · ${d.year}</b>` + trow(null, L('Wörter', 'words'), fmt(d.words)) + trow(null, d.k === 'pk1849' ? L('Paragraphen', 'sections') : L('Artikel', 'articles'), fmt(d.units)) + (d.rights != null ? trow(cols[0], L('Grundrechtsteil', 'basic rights'), `${fmt(d.rights)} · ${pct(d.rights, d.words)}`) : ''));
+      });
+      note(el, ['historisch/verfassungen/', 'grundgesetz/artikel/', 'grundgesetz/artikel/ bei Tag gg/00'], L('6 Texte', '6 texts'),
+        L('Wörter: Buchstabenfolgen im Text der Artikel, ohne Überschriften und Quellenangaben. 1849: unkorrigierte Fraktur-OCR, Seite für Seite, daher nur ungefähr; der Grundrechtsteil (§§ 130–189) lässt sich darin nicht sicher abgrenzen. Grundgesetz heute: Artikel ohne die weggefallenen.',
+          'words: runs of letters in the articles\' text, without headings and source notes. 1849: uncorrected Fraktur OCR, page by page, so only approximate; its basic rights section (§§ 130–189) cannot be cut out of it reliably. Grundgesetz today: articles without the repealed ones.'));
+      table(el, [L('Verfassung', 'Constitution'), t('year'), L('Artikel', 'Articles'), L('Wörter', 'Words'), L('Grundrechte (Wörter)', 'Basic rights (words)')], rows.map(r => [L(...CONN[r.k]), String(r.year), r.units, r.words, r.rights == null ? '–' : r.rights]));
+    }
+  };
+});
+
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c05', 'p2', 'c06', 'c07', 'c08', 'c09', 'p3', 'c10', 'c11', 'c12', 'c13', 'c14', 'p4', 'c15', 'c16', 'c17', 'p5', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+const TILES = () => [[fmt(PF.vorgaenge), L('Gesetzgebungsverfahren seit 1972', 'legislative procedures since 1972')], [fmt(PF.laws), L('davon verkündete Gesetze', 'of them promulgated laws')],
+  [fmt(PF.acts), L('Rechtsvorschriften des Bundes', 'federal acts in force')], [fmt(PF.votes), L('namentliche Abstimmungen seit 2019', 'roll-call votes since 2019')],
+  [fmt(PF.bverfg_senate), L('Senatsentscheidungen des Bundesverfassungsgerichts', 'Senate decisions of the Constitutional Court')], [fmt(PF.gemeinden), L('Gemeinden', 'municipalities')]];
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Gesetzgebungsverfahren', 'Legislative procedures'), 'bundestag/vorgaenge/', fmt(P.vorgaenge), L(`7. bis 21. Wahlperiode (1972–${YEAR_LAST})`, `7th to 21st term (1972–${YEAR_LAST})`), L('DIP; Sachgebiete erst ab der 9., Inkrafttreten nicht in der 8. bis 10. Wahlperiode; manche Verkündungsangaben nennen ein späteres Gesetzblatt (für Zeitangaben ausgelassen)', 'DIP; subject areas only from the 9th, no entry into force in the 8th to 10th term; some promulgation entries cite a later Gazette (left out of timings)')],
+    [L('Namentliche Abstimmungen', 'Roll-call votes'), 'bundestag/abstimmungen/', fmt(P.votes), '2019–' + YEAR_LAST, L('nur die Ergebnisse je Fraktion werden verwendet', 'only the results per group are used')],
+    [L('Bundesrecht', 'Federal law'), 'verzeichnis.json', fmt(P.acts), L('Stand 28. Oktober 2026', 'as of 28 October 2026'), L('Gesetze im Internet; ohne die Texte', 'Gesetze im Internet; without the texts')],
+    [L('Änderungen des Bundesrechts', 'Changes to federal law'), 'git log global-law/pinned-20261028-6f3913a35a', fmt(P.fed_commits) + ' Commits', `${dateShort(P.fed_from)} – ${dateShort(P.fed_to)}`, L('ein Commit je Änderungsgesetz und Tag; bis Mai 2020 wöchentlich beobachtet', 'one commit per amending law and day; observed weekly until May 2020')],
+    [L('Bundesverfassungsgericht', 'Constitutional Court'), 'rechtsprechung/bverfg/', fmt(P.bverfg_senate) + ' / ' + fmt(P.bverfg_all), '1998–' + YEAR_LAST, L('nur Senatsentscheidungen, nur der Tenor', 'Senate decisions only, operative part only')],
+    [L('Gemeindeverzeichnis', 'Register of municipalities'), 'kommunen/gemeindeverzeichnis.csv', fmt(P.gemeinden), L('Gebietsstand 30. September 2026', 'boundaries as of 30 September 2026'), 'Destatis GV-ISys'],
+    [L('Verfassungen', 'Constitutions'), 'historisch/verfassungen/ · grundgesetz/', '6', '1849–' + YEAR_LAST, L('1849 unkorrigierte OCR', '1849 uncorrected OCR')],
+    [L('Nicht verwendet', 'Not used'), 'laender/ · kommunen/<ARS>/ · bundestag/reden/ · bundestag/drucksachen/ · bund/bgbl/ (bis auf Titel 2019–2023)', '–', L('Landesrecht, Ortsrecht, Reden, Drucksachen, Bundesgesetzblatt', 'Land law, local law, speeches, printed papers, the Federal Law Gazette'),
+      L('unterschiedlich weit erfasst (je Land und Quelle) oder zu groß für diese Seite', 'covered unevenly (by Land and source) or too large for this page')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  d3.select('#tiles').html('').selectAll('div').data(TILES()).join('div').attr('class', 'tile').html(d => `<b>${d[0]}</b><span>${esc(d[1])}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.de, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dde, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.de, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built)).replace('{head}', PF.head.slice(0, 10)));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('de-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('de-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>
