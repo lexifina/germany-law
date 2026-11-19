@@ -1,7 +1,0 @@
-# TOP 9.: Referat für Stadtplanung und Bauordnung
-
-- Sitzung: BA 06 - Vollgremium (2018-03-05)
-- Körperschaft: Bezirksausschuss 6: Sendling
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/577700
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/577700

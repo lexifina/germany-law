@@ -1,7 +1,0 @@
-# TOP F.1.: Schreiben des Oberbürgermeisters an die Vorsitzenden der Bezirksausschüsse 1 bis 25 vom 02.03.2017: Weitergabe von Sitzungsunterlagen und Informationen an die Presse
-
-- Sitzung: BA 03 - Vollgremium (2017-04-04)
-- Körperschaft: Bezirksausschuss 3: Maxvorstadt
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/898918
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/898918

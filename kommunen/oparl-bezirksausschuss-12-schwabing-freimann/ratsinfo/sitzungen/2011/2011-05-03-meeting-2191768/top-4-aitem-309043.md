@@ -1,7 +1,0 @@
-# TOP .4.: Wiederherstellung der Längsparkplätze und des Radweges in der Hörwarthstraße nach Abschluss der Straßenarbeiten für die Tram 23 Empfehlung Nr. 08-14 / E 00093 der Bürgerversammlung des Stadtbezirkes 12 am 22.07.2008; Beschluss des Bauausschusses vom 29.03.2011, Sitzungsvorlage Nr. 08-14 / V 02232
-
-- Sitzung: BA 12 - Vollgremium (2011-05-03)
-- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/309043
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/309043

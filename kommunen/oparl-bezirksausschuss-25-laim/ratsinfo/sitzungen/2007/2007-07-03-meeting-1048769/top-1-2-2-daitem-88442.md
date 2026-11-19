@@ -1,7 +1,0 @@
-# TOP 1.2.2.: Baugesuch Agnes-Bernauer-Str. 103
-
-- Sitzung: BA 25 - Vollgremium (2007-07-03)
-- Körperschaft: Bezirksausschuss 25: Laim
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/88442
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/88442

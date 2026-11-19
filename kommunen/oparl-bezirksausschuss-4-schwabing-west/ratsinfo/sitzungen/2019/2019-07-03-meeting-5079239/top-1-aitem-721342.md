@@ -1,7 +1,0 @@
-# TOP 1.: Begrüßung und Beschlussfähigkeit
-
-- Sitzung: BA 04 - Vollgremium (2019-07-03)
-- Körperschaft: Bezirksausschuss 4: Schwabing-West
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/721342
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/721342

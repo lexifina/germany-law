@@ -1,7 +1,0 @@
-# TOP 4.: Referat für Stadplanung und Bauordnung
-
-- Sitzung: BA 21 - Vollgremium (2018-12-04)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/664121
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/664121

@@ -1,7 +1,0 @@
-# TOP .4.: Spielaktion Spiellandschaft Stadt e.V. (Information des Kreisverwaltungsreferats)
-
-- Sitzung: BA 12 - Vollgremium (2011-05-03)
-- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/309085
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/309085

@@ -1,7 +1,0 @@
-# TOP A: Allgemeines
-
-- Sitzung: BA 03 - Vollgremium (2017-08-16)
-- Körperschaft: Bezirksausschuss 3: Maxvorstadt
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/907720
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/907720

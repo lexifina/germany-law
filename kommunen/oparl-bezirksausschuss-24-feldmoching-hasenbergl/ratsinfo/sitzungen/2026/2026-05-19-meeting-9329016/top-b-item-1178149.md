@@ -1,7 +1,0 @@
-# TOP B: Arbeitssitzung des Bezirksausschusses
-
-- Sitzung: BA 24 - Vollgremium (2026-05-19)
-- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1178149
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1178149

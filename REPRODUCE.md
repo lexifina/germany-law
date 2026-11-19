@@ -272,3 +272,10 @@ limits stated by hosts, as read on 19 November 2026:
 | www.recht.bund.de | 30 s | robots.txt Crawl-delay 30 |
 | www.siegen.de | 3 s | robots.txt Crawl-delay 3 |
 | www.stadt-ratingen.de | 10 s | robots.txt Crawl-delay 10 |
+
+
+**Withdrawal of 19 November 2026 (München Transparent).** 634,656 council records in the 25 folders
+`kommunen/oparl-bezirksausschuss-*/` (the Munich district committees) came from www.muenchen-transparent.de, a civic
+project that re-publishes the City of Munich's council information through its own OParl interface. It is not an
+official source (the council's own system is the city's RIS) and should not have been used. The files are withdrawn
+(deleted) in one labelled commit; their paths are listed in `data/withdrawn-oparl-muenchen-transparent-2026-11-19.txt`. The host is excluded from the OParl runner.

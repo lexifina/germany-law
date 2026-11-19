@@ -1,7 +1,0 @@
-# TOP 4: Anhörungen
-
-- Sitzung: BA 16 - Vollgremium (2022-06-02)
-- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/994121
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/994121

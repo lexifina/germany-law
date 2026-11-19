@@ -1,7 +1,0 @@
-# TOP B 4.5.: (U) Stärkere Unterstützung der Landeshauptstadt München von Bürgerinitiativen durch eine „Bürgerbeteiligungssatzung Bauleitplanung“ Empfehlung Nr. 14-20 / E 02728 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 11.07.2019 sowie Empfehlung Nr. 20-26 / E 00143 der Bürgerversammlung des Stadtbezirkes 14 – Berg am Laim am 14.07.2021
-
-- Sitzung: BA 01 - Vollgremium (2022-02-22)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/976879
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/976879

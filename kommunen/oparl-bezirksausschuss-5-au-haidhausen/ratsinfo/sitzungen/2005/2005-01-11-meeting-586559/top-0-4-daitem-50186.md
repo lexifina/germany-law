@@ -1,7 +1,0 @@
-# TOP 0.4.: Mobilfunk: Suchkreismeldung Haidenauplatz
-
-- Sitzung: UA 05 - Wohnen und Wirtschaft (2005-01-11)
-- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/50186
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/50186

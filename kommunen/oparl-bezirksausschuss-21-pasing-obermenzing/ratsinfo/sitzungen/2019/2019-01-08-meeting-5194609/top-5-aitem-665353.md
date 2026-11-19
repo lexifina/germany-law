@@ -1,7 +1,0 @@
-# TOP 5.: Sozialreferat
-
-- Sitzung: BA 21 - Vollgremium (2019-01-08)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/665353
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/665353

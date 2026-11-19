@@ -1,7 +1,0 @@
-# TOP A 6.3.: (U) Standortkonzept Bürgerbüros Ergebnisse der Evaluierung der Machbarkeitsstudie Fortschreibung des Standortkonzepts
-
-- Sitzung: BA 01 - Vollgremium (2018-02-20)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/921115
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/921115

@@ -1,7 +1,0 @@
-# TOP 1: Begrüßung
-
-- Sitzung: BA 08 - Vollgremium (2021-04-20)
-- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/814271
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/814271

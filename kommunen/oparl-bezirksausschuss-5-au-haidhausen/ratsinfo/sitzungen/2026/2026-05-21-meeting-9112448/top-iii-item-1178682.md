@@ -1,7 +1,0 @@
-# TOP III.: UA Soziales, Gesundheit und Inklusion
-
-- Sitzung: BA 05 - Vollgremium (2026-05-21)
-- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1178682
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1178682

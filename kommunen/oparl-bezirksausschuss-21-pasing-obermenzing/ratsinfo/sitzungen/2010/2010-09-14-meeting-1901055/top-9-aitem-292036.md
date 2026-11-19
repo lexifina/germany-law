@@ -1,7 +1,0 @@
-# TOP 9: Entscheidungen
-
-- Sitzung: BA 21 - Vollgremium (2010-09-14)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/292036
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/292036

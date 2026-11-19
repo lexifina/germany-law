@@ -1,8 +1,0 @@
-# TOP 0.1.: Baufälle im 17. Stadtbezirk
-
-- Sitzung: BA 17 - Vollgremium (2007-10-09)
-- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/92627
-- Ergebnis: <div>einzelne Baufälle zur Anhörung angefordert</div>
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/92627

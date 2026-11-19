@@ -1,7 +1,0 @@
-# TOP D 4.8.: Antwort KVR zu Bürgeranliegen; Verkehrsführung auf der Kustermannfahrbahn
-
-- Sitzung: BA 01 - Vollgremium (2018-03-13)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/923705
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/923705

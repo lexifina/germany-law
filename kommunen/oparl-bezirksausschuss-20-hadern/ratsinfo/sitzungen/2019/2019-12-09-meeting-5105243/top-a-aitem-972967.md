@@ -1,7 +1,0 @@
-# TOP A.: Vorstellung Neubau Seniorenresidenz (Wohnstift) für das Augustinum am Stiftsbogen
-
-- Sitzung: BA 20 - Vollgremium (2019-12-09)
-- Körperschaft: Bezirksausschuss 20: Hadern
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/972967
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/972967

@@ -1,7 +1,0 @@
-# TOP 0.5.: Begrünung der zum "wilden Parken" genutzten Grünfläche an der Ecke Chiemgau- / Soyerhofstraße am St.-Quirin-Platz; Antrag Nr. 02-08 / B 01815 des BA 17 vom 09.01.2007; Antwortschreiben des Baureferats vom 26.06.2007
-
-- Sitzung: BA 17 - Vollgremium (2007-09-11)
-- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/91052
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/91052

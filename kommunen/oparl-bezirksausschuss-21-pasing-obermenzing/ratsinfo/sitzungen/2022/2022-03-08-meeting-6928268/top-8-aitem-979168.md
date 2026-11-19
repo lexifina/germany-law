@@ -1,7 +1,0 @@
-# TOP 8.: Referat für Arbeit und Wirtschaft, SWM, MVG
-
-- Sitzung: BA 21 - Vollgremium (2022-03-08)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/979168
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/979168

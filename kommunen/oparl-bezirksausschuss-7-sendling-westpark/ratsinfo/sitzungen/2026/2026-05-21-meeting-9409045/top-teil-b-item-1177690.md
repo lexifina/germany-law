@@ -1,7 +1,0 @@
-# TOP Teil B: Teil B -Arbeitssitzung des neuen Bezirksausschusses
-
-- Sitzung: BA 07 - Vollgremium (2026-05-21)
-- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1177690
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1177690

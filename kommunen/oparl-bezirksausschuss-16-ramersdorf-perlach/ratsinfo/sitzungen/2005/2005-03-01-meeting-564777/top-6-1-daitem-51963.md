@@ -1,8 +1,0 @@
-# TOP 6.1.: Private-Public-Partnership bei Baumaßnahmen der Landeshauptstadt München; Antrag des BA 16 vom 07.12.2004; Beschluss des Finanzausschusses vom 22.02.2004
-
-- Sitzung: BA 16 - Vollgremium (2005-03-01)
-- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/51963
-- Ergebnis: <div>zur Kenntnis bzw. in UA verwiesen</div>
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/51963

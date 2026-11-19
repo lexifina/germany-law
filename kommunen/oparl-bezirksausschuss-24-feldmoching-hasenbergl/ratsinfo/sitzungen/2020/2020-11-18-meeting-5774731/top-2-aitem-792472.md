@@ -1,7 +1,0 @@
-# TOP 2.: Entscheidungsfälle
-
-- Sitzung: BA 24 - Vollgremium (2020-11-18)
-- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/792472
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/792472

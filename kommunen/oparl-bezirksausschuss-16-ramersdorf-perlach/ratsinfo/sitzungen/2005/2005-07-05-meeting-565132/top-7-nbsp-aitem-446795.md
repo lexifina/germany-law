@@ -1,7 +1,0 @@
-# TOP 7.&nbsp;: Unterrichtung durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum
-
-- Sitzung: BA 16 - Vollgremium (2005-07-05)
-- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/446795
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/446795

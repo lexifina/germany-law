@@ -1,7 +1,0 @@
-# TOP 1.2.1.: Telefonsäule Gotthardstraße / Laimer Platz
-
-- Sitzung: BA 25 - Vollgremium (2008-01-08)
-- Körperschaft: Bezirksausschuss 25: Laim
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/96252
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/96252

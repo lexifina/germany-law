@@ -1,7 +1,0 @@
-# TOP .8.4: Saint-Privat-Straße: Protokoll der Informationsveranstaltung für Anlieger
-
-- Sitzung: BA 05 - Vollgremium (2006-01-18)
-- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/64645
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/64645

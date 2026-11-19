@@ -1,7 +1,0 @@
-# TOP 1: Begrüßung
-
-- Sitzung: BA 21 - Vollgremium (2012-07-31)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/338541
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/338541

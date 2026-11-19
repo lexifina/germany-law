@@ -1,7 +1,0 @@
-# TOP .7.: Fallmerayerstr. 16, Zusammenlegung der Gaststätten 171 + 172 und Errichtung eines gemeinsamen Wirtsgartens
-
-- Sitzung: BA 04 - Vollgremium (2010-07-28)
-- Körperschaft: Bezirksausschuss 4: Schwabing-West
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/290593
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/290593

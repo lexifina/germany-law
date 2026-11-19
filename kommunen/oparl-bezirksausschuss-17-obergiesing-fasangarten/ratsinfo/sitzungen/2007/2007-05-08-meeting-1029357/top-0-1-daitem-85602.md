@@ -1,8 +1,0 @@
-# TOP 0.1.: Lichtzeichenanlagenbauprogramm 2007; Sitzungsvorlage Nr. 02-08 / V 09818; Beschluss des Kreisverwaltungsausschusses vom 17.04.2007
-
-- Sitzung: BA 17 - Vollgremium (2007-05-08)
-- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/85602
-- Ergebnis: <div>zur Kenntnis genommen</div>
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/85602

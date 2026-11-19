@@ -1,7 +1,0 @@
-# TOP 7.: Unaufschiebbare Sachthemen
-
-- Sitzung: BA 01 - Vollgremium (2020-05-14)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/769854
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/769854

@@ -1,7 +1,0 @@
-# TOP 11.9.: Direktorium - Verwendungsnachweis über Budgetbewillungsbescheid vom 09.06.04, Projektwoche Bauern, Bettler - Mönch/Magd der GS Bergmannstraße
-
-- Sitzung: BA 08 - Vollgremium (2005-03-08)
-- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/52235
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/52235

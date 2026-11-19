@@ -1,7 +1,0 @@
-# TOP 9.20.: Schreiben Kulturreferat vom 15.02.08: Stadtteilwoche Laim (Schreiben BA vom 07.02.08)
-
-- Sitzung: BA 25 - Vollgremium (2008-03-04)
-- Körperschaft: Bezirksausschuss 25: Laim
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/98900
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/98900

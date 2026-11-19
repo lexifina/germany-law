@@ -1,7 +1,0 @@
-# TOP 4.: Wahl / Benennung von Beauftragten
-
-- Sitzung: BA 14 - Vollgremium (2020-05-07)
-- Körperschaft: Bezirksausschuss 14: Berg am Laim
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/769122
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/769122

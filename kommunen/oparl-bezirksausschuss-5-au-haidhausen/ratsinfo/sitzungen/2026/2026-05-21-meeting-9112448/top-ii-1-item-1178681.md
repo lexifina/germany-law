@@ -1,7 +1,0 @@
-# TOP II.1.: Aktueller Stand und Dauer der Renovierung des Gasteigs
-
-- Sitzung: BA 05 - Vollgremium (2026-05-21)
-- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1178681
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1178681

@@ -1,7 +1,0 @@
-# TOP 4.: Soziales und Sozialreferat
-
-- Sitzung: BA 06 - Vollgremium (2018-03-05)
-- Körperschaft: Bezirksausschuss 6: Sendling
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/577677
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/577677

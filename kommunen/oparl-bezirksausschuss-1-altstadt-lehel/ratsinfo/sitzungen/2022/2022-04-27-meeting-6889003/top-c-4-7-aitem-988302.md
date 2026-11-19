@@ -1,7 +1,0 @@
-# TOP C 4.7.: (U) Radschnellweg Münchner Norden, Abschnitt 1 (Altstadt-Radlring) im 1. Stadtbezirk Altstadt - Lehel und im 3. Stadtbezirk Maxvorstadt Teil A Lenbachplatz, Maximiliansplatz, Platz der Opfer des Nationalsozialismus Projektkosten (Kostenobergrenze): 13.370.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2021 - 2025 Teil B Odeonsplatz, Ludwigstraße Projektkosten (Kostenobergrenze): 8.630.000 Euro 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2021 - 2025
-
-- Sitzung: BA 01 - Vollgremium (2022-04-27)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/988302
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/988302

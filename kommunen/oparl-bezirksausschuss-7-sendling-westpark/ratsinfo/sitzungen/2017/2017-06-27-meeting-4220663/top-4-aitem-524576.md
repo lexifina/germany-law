@@ -1,7 +1,0 @@
-# TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
-
-- Sitzung: BA 07 - Vollgremium (2017-06-27)
-- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/524576
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/524576

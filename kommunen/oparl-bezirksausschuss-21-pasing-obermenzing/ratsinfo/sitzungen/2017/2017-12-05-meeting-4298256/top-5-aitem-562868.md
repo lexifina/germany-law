@@ -1,7 +1,0 @@
-# TOP 5.: Stadtkämmerei
-
-- Sitzung: BA 21 - Vollgremium (2017-12-05)
-- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/562868
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/562868

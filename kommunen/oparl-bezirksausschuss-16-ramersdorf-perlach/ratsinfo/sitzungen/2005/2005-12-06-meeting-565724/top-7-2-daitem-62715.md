@@ -1,8 +1,0 @@
-# TOP 7.2.: AntragstellerIn: BA 16, UA Kultur, Vereine, Veranstaltungen, für die Maßnahme: Veranstaltungsheft des BA 16; Verwendungsnachweis
-
-- Sitzung: BA 16 - Vollgremium (2005-12-06)
-- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/62715
-- Ergebnis: <div>in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/62715

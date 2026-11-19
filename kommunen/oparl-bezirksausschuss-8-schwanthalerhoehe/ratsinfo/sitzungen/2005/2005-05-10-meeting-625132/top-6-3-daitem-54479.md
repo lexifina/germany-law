@@ -1,7 +1,0 @@
-# TOP 6.3: Bericht UA Ausländer und Kultur
-
-- Sitzung: BA 08 - Vollgremium (2005-05-10)
-- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/54479
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/54479

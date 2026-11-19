@@ -1,7 +1,0 @@
-# TOP C 4.3.: Widenmayerstraße: Fußweg ist kein Fahrradweg, Antwort des Mobilitäatsreferats auf weitergeleitetes Bürgeranliegen (20.11 C 1.6)
-
-- Sitzung: BA 01 - Vollgremium (2021-06-29)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/847873
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/847873

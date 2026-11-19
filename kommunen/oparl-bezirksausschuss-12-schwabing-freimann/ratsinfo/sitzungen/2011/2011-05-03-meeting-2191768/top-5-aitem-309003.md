@@ -1,7 +1,0 @@
-# TOP .5.: Carl-Orff-Bogen 73, 1 Robinie, Sofortige Fällung als Gefahrenbaum
-
-- Sitzung: BA 12 - Vollgremium (2011-05-03)
-- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/309003
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/309003

@@ -1,7 +1,0 @@
-# TOP C 4.3.: (U) Quartiersgaragen für Neubaugebiete – Parken und Wohnen entkoppeln Antrag Nr. 14-20 / A 05241 von der Fraktion DIE GRÜNEN/RL vom 16.04.2019, eingegangen am 16.04.2019
-
-- Sitzung: BA 01 - Vollgremium (2020-08-11)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/880527
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/880527

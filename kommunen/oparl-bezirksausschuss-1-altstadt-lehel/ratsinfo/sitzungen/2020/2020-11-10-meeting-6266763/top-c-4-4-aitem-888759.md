@@ -1,7 +1,0 @@
-# TOP C 4.4.: (U) "Grüne Stadt der Zukunft - Klimaresiliente Quartiere in einer wachsenden Stadt", gefördert durch das Bundesministerium für Bildung und Forschung (BMBF) Sachstand 2020 und Ausblick
-
-- Sitzung: BA 01 - Vollgremium (2020-11-10)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/888759
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/888759

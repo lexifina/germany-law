@@ -1,7 +1,0 @@
-# TOP 7.: Unterrichtungsfälle
-
-- Sitzung: BA 20 - Vollgremium (2021-09-13)
-- Körperschaft: Bezirksausschuss 20: Hadern
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/835610
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/835610

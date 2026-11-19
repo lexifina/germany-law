@@ -1,7 +1,0 @@
-# TOP II.5.: Erhalt der historischen Wahlplakate in der Bahnunterführung Balanstraße, Bürgeranliegen
-
-- Sitzung: BA 05 - Vollgremium (2025-07-30)
-- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/1143312
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/1143312

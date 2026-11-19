@@ -1,7 +1,0 @@
-# TOP 1.3.: Temporäres Haltverbot zum Schulbeginn in der Seeaustraße (Luitpold-Gymnasium)
-
-- Sitzung: BA 01 - Vollgremium (2007-03-20)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/82992
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/82992

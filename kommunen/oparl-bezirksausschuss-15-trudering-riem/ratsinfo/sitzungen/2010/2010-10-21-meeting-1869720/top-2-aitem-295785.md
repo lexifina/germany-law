@@ -1,7 +1,0 @@
-# TOP 2: Bürgerschreiben
-
-- Sitzung: BA 15 - Vollgremium (2010-10-21)
-- Körperschaft: Bezirksausschuss 15: Trudering-Riem
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/295785
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/295785

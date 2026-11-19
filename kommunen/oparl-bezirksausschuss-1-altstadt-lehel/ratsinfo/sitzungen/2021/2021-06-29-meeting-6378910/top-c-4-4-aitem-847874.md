@@ -1,7 +1,0 @@
-# TOP C 4.4.: Tempo 30 in der Müllerstraße
-
-- Sitzung: BA 01 - Vollgremium (2021-06-29)
-- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/847874
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/847874

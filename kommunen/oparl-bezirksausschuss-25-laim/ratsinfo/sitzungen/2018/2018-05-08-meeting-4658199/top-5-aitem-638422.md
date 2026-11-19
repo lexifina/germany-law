@@ -1,7 +1,0 @@
-# TOP 5: Bauvorhaben
-
-- Sitzung: BA 25 - Vollgremium (2018-05-08)
-- Körperschaft: Bezirksausschuss 25: Laim
-- Öffentlich: ja
-- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/638422
-- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/638422
