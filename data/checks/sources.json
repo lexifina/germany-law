@@ -1,0 +1,30 @@
+{
+ "sources": [
+  {
+   "id": "gii",
+   "kind": "legislation",
+   "name": {
+    "en": "Gesetze im Internet (Federal Ministry of Justice)",
+    "de": "Gesetze im Internet (Bundesministerium der Justiz)"
+   },
+   "url": "https://www.gesetze-im-internet.de",
+   "reads": {
+    "en": "the list of every federal act (gii-toc.xml) and the last change of each act's XML (a HEAD of its xml.zip); the XML of every new or changed act; a seventh of the held acts each day",
+    "de": "das Verzeichnis aller Bundesgesetze und -verordnungen (gii-toc.xml) und die letzte Änderung der XML-Datei jeder Vorschrift (HEAD ihrer xml.zip); die XML-Datei jeder neuen oder geänderten Vorschrift; jeden Tag ein Siebtel der Vorschriften hier"
+   },
+   "folders": [
+    "bund/gesetze/",
+    "grundgesetz/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "germany/bund/acts"
+   ],
+   "interval": 1.0,
+   "allow": [
+    "bund/gesetze/"
+   ]
+  }
+ ]
+}
