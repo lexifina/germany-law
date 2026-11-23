@@ -1,6 +1,7 @@
 # Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
+- [Inhaltsübersicht](inhaltsuebersicht-2.md)
 
 ## Erster Teil Allgemeine Vorschriften
 
