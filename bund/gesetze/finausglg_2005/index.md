@@ -24,6 +24,7 @@
 ## Vierter Abschnitt Vollzug und Abrechnung der Umsatzsteuerverteilung, des Finanzkraftausgleichs und der Bundesergänzungszuweisungen
 
 - [§ 12 Feststellung der Umsatzsteueranteile](0012.md)
+- [§ 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023](0012a.md)
 - [§ 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres](0013.md)
 - [§ 14 Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs](0014.md)
 - [§ 15 Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs](0015.md)

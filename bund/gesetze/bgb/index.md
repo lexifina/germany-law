@@ -573,7 +573,6 @@ erbrachter Leistung](0281.md)
 - [§ 356c Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen](0356c.md)
 - [§ 356d Widerrufsrecht bei Ratenlieferungsverträgen](0356d.md)
 - [§ 356e Widerrufsrecht bei Verbraucherbauverträgen](0356e.md)
-- [§ 356f Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen](0356f.md)
 - [§ 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen](0357.md)
 - [§ 357a Wertersatz als Rechtsfolge des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen](0357a.md)
 - [§ 357b Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen](0357b.md)
@@ -803,7 +802,7 @@ erbrachter Leistung](0281.md)
 
 - [§ 491 Verbraucherdarlehensvertrag](0491.md)
 - [§ 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen](0491a.md)
-- [§ 492 Schriftform, Vertragsinhalt](0492.md)
+- [§ 492 Form, Vertragsinhalt und Vertragsschluss](0492.md)
 - [§ 492a Kopplungsgeschäfte](0492a.md)
 - [§ 492b Zulässige Kopplungsgeschäfte](0492b.md)
 - [§ 493 Informationen während des Vertragsverhältnisses](0493.md)
@@ -811,6 +810,7 @@ erbrachter Leistung](0281.md)
 - [§ 495 Widerrufsrecht; Bedenkzeit](0495.md)
 - [§ 496 Einwendungsverzicht, Wechsel- und Scheckverbot](0496.md)
 - [§ 497 Verzug des Darlehensnehmers](0497.md)
+- [§ 497a Zahlungsrückstände und Nachsichtsmaßnahmen bei Allgemein-Verbraucherdarlehen](0497a.md)
 - [§ 498 Gesamtfälligstellung bei Teilzahlungsdarlehen](0498.md)
 - [§ 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung](0499.md)
 - [§ 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung](0500.md)
@@ -837,19 +837,15 @@ erbrachter Leistung](0281.md)
 
 - [§ 510 Ratenlieferungsverträge](0510.md)
 
-##### Untertitel 4 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+##### Untertitel 4 Beratungsleistungen bei Verbraucherdarlehensverträgen
 
-- [§ 511 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen](0511.md)
+- [§ 511 Beratungsleistungen bei Verbraucherdarlehensverträgen](0511.md)
 
 ##### Untertitel 5 Unabdingbarkeit, Anwendung auf Existenzgründer
 
 - [§ 512 Abweichende Vereinbarungen](0512.md)
 - [§ 513 Anwendung auf Existenzgründer](0513.md)
-
-##### Untertitel 6 Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
-
-- [§ 514 Unentgeltliche Darlehensverträge](0514.md)
-- [§ 515 Unentgeltliche Finanzierungshilfen](0515.md)
+- [(XXXX) §§ 514 u. 515 (weggefallen)](xxxx-514-u-515.md)
 
 #### Titel 4 Schenkung
 
@@ -1255,10 +1251,10 @@ bisherigen Nutzung](0590.md)
 - [§ 654 Verwirkung des Lohnanspruchs](0654.md)
 - [§ 655 Herabsetzung des Maklerlohns](0655.md)
 
-##### Untertitel 2 Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
+##### Untertitel 2 Vermittlung von Verbraucherdarlehensverträgen und Finanzierungshilfen
 
 - [§ 655a Darlehensvermittlungsvertrag](0655a.md)
-- [§ 655b Schriftform bei einem Vertrag mit einem Verbraucher](0655b.md)
+- [§ 655b Textform bei einem Vertrag mit einem Verbraucher](0655b.md)
 - [§ 655c Vergütung](0655c.md)
 - [§ 655d Nebenentgelte](0655d.md)
 - [§ 655e Abweichende Vereinbarungen, Anwendung auf Existenzgründer](0655e.md)

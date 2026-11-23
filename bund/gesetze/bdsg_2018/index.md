@@ -64,7 +64,7 @@
 - [§ 28 Datenverarbeitung zu im öffentlichen Interesse liegenden Archivzwecken](0028.md)
 - [§ 29 Rechte der betroffenen Person und aufsichtsbehördliche Befugnisse im Fall von Geheimhaltungspflichten](0029.md)
 - [§ 30 Verbraucherkredite](0030.md)
-- [§ 31 Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften](0031.md)
+- [§ 31 (weggefallen)](0031.md)
 
 ### Kapitel 2 Rechte der betroffenen Person
 
@@ -74,6 +74,7 @@
 - [§ 35 Recht auf Löschung](0035.md)
 - [§ 36 Widerspruchsrecht](0036.md)
 - [§ 37 Automatisierte Entscheidungen im Einzelfall einschließlich Profiling](0037.md)
+- [§ 37a Scoring](0037a.md)
 
 ### Kapitel 3 Pflichten der Verantwortlichen und Auftragsverarbeiter
 

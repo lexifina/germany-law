@@ -78,7 +78,7 @@
 - [§ 16](0016.md)
 - [§ 17 Haftungsbestimmung](0017.md)
 - [§ 18 Kreditunterlagen](0018.md)
-- [§ 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung](0018a.md)
+- [§ 18a Verbraucherdarlehen und Finanzierungshilfen; Verordnungsermächtigung](0018a.md)
 - [§ 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18](0019.md)
 - [§ 20 Ausnahmen von den Verpflichtungen nach § 14](0020.md)
 - [(XXXX) §§ 20a bis 20c (weggefallen)](xxxx-20a-bis-20c.md)

@@ -76,7 +76,7 @@
 | § 16 | (aufgehoben) |
 | § 17 | Haftungsbestimmung |
 | § 18 | Kreditunterlagen |
-| § 18a | Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung |
+| § 18a | Verbraucherdarlehen und Finanzierungshilfen; Verordnungsermächtigung |
 | § 19 | Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18 |
 | § 20 | Ausnahmen von den Verpflichtungen nach § 14 |
 | §§ 20a bis 20c | (weggefallen) |

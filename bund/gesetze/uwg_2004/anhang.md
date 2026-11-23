@@ -80,6 +80,12 @@ Irreführende geschäftliche Handlungen
   e) die Präsentation einer Ware als reparierbar, wenn sie es nicht ist;
   f) das Veranlassen des Verbrauchers, Betriebsstoffe einer Ware früher zu ersetzen oder aufzufüllen, als dies aus technischen Gründen notwendig ist;
   g) die Zurückhaltung von Informationen darüber, dass die Funktionalität von Waren beeinträchtigt wird, wenn Betriebsstoffe, Ersatzteile oder Zubehör verwendet werden, die nicht vom ursprünglichen Hersteller der Ware bereitgestellt werden, oder die falsche Behauptung, dass eine solche Beeinträchtigung eintreten wird;
+23e. Irreführung bei Werbung für Kreditprodukte
+  die Werbung für Kreditprodukte gemäß § 491 Absatz 2 oder § 506 Absatz 1 des Bürgerlichen Gesetzbuchs, wenn
+  a) diese ohne einen klaren und auffallenden Warnhinweis auf die mit der Kreditaufnahme verbundenen Kosten erfolgt, wobei die Formulierung „Achtung! Kreditaufnahme kostet Geld“ oder eine gleichwertige Formulierung zu verwenden ist,
+  b) Verbraucher zur Kreditaufnahme ermutigt werden, indem suggeriert wird, ein Kredit würde ihre finanzielle Situation verbessern,
+  c) angegeben wird, dass laufende Kreditverträge oder in Datenbanken eingetragene Kredite geringen oder keinen Einfluss auf die Bewertung eines Kreditantrages hätten, oder
+  d) fälschlicherweise suggeriert wird, dass ein Kredit die Finanzmittel erhöhen, einen Ersatz für Ersparnisse darstellen oder den Lebensstandard des Verbrauchers anheben würde;
 Aggressive geschäftliche Handlungen
 24. räumliches Festhalten des Verbrauchers
   das Erwecken des Eindrucks, der Verbraucher könne bestimmte Räumlichkeiten nicht ohne vorherigen Vertragsabschluss verlassen;

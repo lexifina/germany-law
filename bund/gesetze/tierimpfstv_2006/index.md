@@ -1,6 +1,5 @@
 # Verordnung über In-vitro-Diagnostika nach dem Tiergesundheitsgesetz
 
-- [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeines
@@ -73,7 +72,6 @@
 
 - [§ 47 Ordnungswidrigkeiten](0047.md)
 - [§ 48 (weggefallen)](0048.md)
-- [§ 49 Inkrafttreten, Außerkrafttreten](0049.md)
-- [Schlussformel](schlussformel.md)
+- [§ 49 (Inkrafttreten, Außerkrafttreten)](0049.md)
 - [Anlage 1 (zu § 20 Absatz 3 und § 29a Absatz 4)](anlage-1.md)
 - [Anlage 2 (zu § 21)](anlage-2.md)

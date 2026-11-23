@@ -25,8 +25,8 @@ Abschnitt 4
 Bestimmungen zu Finanzdienstleistungen
 | § 16 | Verbraucherdarlehen |
 | § 17 | Werbung für Verbraucherdarlehen |
-| § 18 | Überziehungsmöglichkeiten |
-| § 19 | Entgeltliche Finanzierungshilfen |
+| § 18 | (weggefallen) |
+| § 19 | Finanzierungshilfen |
 Abschnitt 5
 Ordnungswidrigkeiten
 | § 20 | Ordnungswidrigkeiten |

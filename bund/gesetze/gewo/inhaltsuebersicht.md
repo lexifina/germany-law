@@ -54,7 +54,7 @@
 | § 34 | Pfandleihgewerbe |
 | § 34a | Bewachungsgewerbe; Verordnungsermächtigung |
 | § 34b | Versteigerergewerbe |
-| § 34c | Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung |
+| § 34c | Immobilienmakler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung |
 | § 34d | Versicherungsvermittler, Versicherungsberater |
 | § 34e | Verordnungsermächtigung |
 | § 34f | Finanzanlagenvermittler |
@@ -62,6 +62,7 @@
 | § 34h | Honorar-Finanzanlagenberater |
 | § 34i | Immobiliardarlehensvermittler |
 | § 34j | Verordnungsermächtigung |
+| § 34k | Darlehensvermittler |
 | § 34l | Verordnungsermächtigung |
 | § 35 | Gewerbeuntersagung wegen Unzuverlässigkeit |
 | §§ 35a und 35b | (weggefallen) |
@@ -208,4 +209,5 @@
 | § 159 | Übergangsregelung zu § 34a |
 | § 160 | Übergangsregelungen zu den §§ 34c und 34i |
 | § 161 | Übergangsregelung zu § 14 Absatz 4 |
+| § 162 | Übergangsregelungen zu § 34k |
 | Anlage (zu § 36 Absatz 4a Satz 1) | Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen |
