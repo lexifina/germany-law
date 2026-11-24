@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Gesetze im Internet (Federal Ministry of Justice)](https://www.gesetze-im-internet.de) | the list of every federal act (gii-toc.xml) and the last change of each act's XML (a HEAD of its xml.zip); the XML of every new or changed act; a seventh of the held acts each day | `bund/gesetze/`, `grundgesetz/` | daily | 2026-11-23 21:34 UTC | watched |
+| [Gesetze im Internet (Federal Ministry of Justice)](https://www.gesetze-im-internet.de) | the list of every federal act (gii-toc.xml) and the last change of each act's XML (a HEAD of its xml.zip); the XML of every new or changed act; a seventh of the held acts each day | `bund/gesetze/`, `grundgesetz/` | daily | 2026-11-24 05:08 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
