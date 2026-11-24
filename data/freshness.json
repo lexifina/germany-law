@@ -1,13 +1,13 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-23",
+ "as_of": "2026-11-24",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-23",
  "totals": {
   "acts": 6149,
   "by_status": {
-   "current": 873,
-   "pending-change": 7,
+   "current": 877,
+   "pending-change": 3,
    "stale": 0,
    "unverified": 5269,
    "source-unavailable": 0

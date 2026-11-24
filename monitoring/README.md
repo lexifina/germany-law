@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Deutschland: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-23 20:33 UTC, Gesetze im Internet (Bundesministerium der Justiz): 7077 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 8 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `audit-disagrees`.
+**Letzte Prüfung:** 2026-11-23 23:34 UTC, Gesetze im Internet (Bundesministerium der Justiz): 7038 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 4 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`, `audit-disagrees`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-23 20:33 UTC | Änderungen gefunden | beobachtet |
+| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-23 23:34 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 21:34](checks/2026-11.md#de-gii-20261123t213453z) | gii | 7038 | 0 | 0 | 0 | 4 (0) | keine Änderung `verify-differ` `audit-disagrees` | — |
 | [2026-11-23 17:42](checks/2026-11.md#de-gii-20261123t174212z) | gii | 7077 | 0 | 0 | 0 | 8 (0) | Änderungen gefunden `audit-disagrees` | [4](https://github.com/lexifina/germany-law/compare/a629f1a377f6...860263ebb5fe) |
 
 ## Selbst prüfen

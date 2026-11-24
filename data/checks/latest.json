@@ -1,44 +1,44 @@
 {
- "generated": "2026-11-23T20:33:35Z",
+ "generated": "2026-11-24T00:20:28Z",
  "latest": {
   "gii|germany/bund/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": {
     "match_neither": 1,
     "match_new": 4,
     "match_old": 0,
-    "method": "read again as the act's HTML page on Gesetze im Internet (BJNR….html, the whole act; the check and verify read its xml.zip): the words of the folder against the page's norms (footnotes, the frame norm's citation and Stand box, and an Inhaltsübersicht's body, which the XML holds as a TOC the converter does not write, left out) with the runner's word check (>= 99.5% of written words on the page, >= 97% of the page's words written)",
+    "method": "read again as the act's HTML page on Gesetze im Internet (BJNR….html, the whole act; the check and verify read its xml.zip): the words of the folder against the page's norms (footnotes, the frame norm's citation and Stand box, and an Inhaltsübersicht's body where the XML holds it as a TOC the converter does not write, left out) with the runner's word check (>= 99.5% of written words on the page, >= 97% of the page's words written)",
     "rows": [
      {
-      "id": "absfinag",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/absfinag/BJNR08B0B0026.html",
+      "id": "blgabv",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html",
       "verdict": "match_new"
      },
      {
-      "id": "bdsg_2018",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html",
+      "id": "bmeldd_v_1_2015",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html",
       "verdict": "match_new"
      },
      {
-      "id": "bgb",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "id": "gbberg_1993",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html",
       "verdict": "match_new"
      },
      {
-      "id": "bimschg",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html",
+      "id": "bevvg",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html",
+      "verdict": "match_new"
+     },
+     {
+      "id": "m_nz10dmbek_1998-04",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/m_nz10dmbek_1998-04/BJNR066300998.html",
       "verdict": "match_neither",
-      "why": "words: 40333/41921 written found, 40333/40376 source written"
-     },
-     {
-      "id": "finausglg_2005",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html",
-      "verdict": "match_new"
+      "why": "words: 302/303 written found, 302/344 source written"
      }
     ],
     "sampled": 5,
@@ -46,59 +46,40 @@
    },
    "census": {
     "checked": 880,
-    "current": 6142,
+    "current": 6146,
     "gone": 0,
     "held": 6149,
     "newest_at_source": "bartschv_2005",
-    "newest_in_repo": "zwvwv",
-    "pending": 7,
-    "repo": 6148,
+    "newest_in_repo": "bartschv_2005",
+    "pending": 3,
+    "repo": 6149,
     "source_in_scope": 6150
    },
-   "check_id": "de-gii-20261123T174212Z",
-   "commits": {
-    "count": 4,
-    "from": "a629f1a377f6e7ff0cc88943be589634aec49b87",
-    "to": "860263ebb5fee488116696d3111bbd93b2723a8d"
-   },
+   "check_id": "de-gii-20261123T213453Z",
+   "commits": null,
    "corpus": "germany/bund/acts",
    "error": null,
-   "finished": "2026-11-23T20:33:34Z",
+   "finished": "2026-11-23T23:34:19Z",
    "flags": [
+    {
+     "detail": "2 of 880 texts differ from the source",
+     "flag": "verify-differ"
+    },
     {
      "detail": "1 of 5 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
-   "gap": 8,
-   "note": "every act on Gesetze im Internet is held here (bund/gesetze/<act>/, the Grundgesetz in grundgesetz/): an act listed and not held is pending-publish; held acts are compared by their xml.zip's Last-Modified with the read this repository last made of them; first check: every act's xml.zip Last-Modified was recorded as the baseline for the next check",
-   "outcome": "changed",
+   "gap": 4,
+   "note": "every act on Gesetze im Internet is held here (bund/gesetze/<act>/, the Grundgesetz in grundgesetz/): an act listed and not held is pending-publish; held acts are compared by their xml.zip's Last-Modified with the read this repository last made of them",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "absfinag"
-    ],
-    "changed": [
-     "bdsg_2018",
-     "bgb",
-     "bimschg",
-     "finausglg_2005",
-     "findag",
-     "findagebv",
-     "gewo",
-     "institutsvergv_2014",
-     "kredwg",
-     "lkw_berlstvausnv",
-     "pangv_2022",
-     "tierimpfstv_2006",
-     "uklag",
-     "uwg_2004",
-     "vschdg",
-     "vvg_2008"
-    ],
+    "added": [],
+    "changed": [],
     "removed": []
    },
-   "requests": 7077,
-   "runner": "lawwatch germany (725dd60068)",
+   "requests": 7038,
+   "runner": "lawwatch germany (bc839f5a5c)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -107,24 +88,24 @@
    },
    "snapshot": "2026-11-22T21:00:04Z",
    "source": "gii",
-   "started": "2026-11-23T17:42:12Z",
+   "started": "2026-11-23T21:34:53Z",
    "unexplained": 0,
    "update": {
-    "added": 1,
-    "changed": 16,
-    "confirmed": 12,
-    "held": 8
+    "held": 4
    },
    "verify": {
     "acts_held": 6149,
     "cycle_days": 7,
-    "examples": [],
-    "explained": 3,
+    "examples": [
+     "bwo_1985: 3 files differ (e.g. ['0006.md', '0061.md', '0075.md']), 0 files the source no longer has",
+     "ebo: 4 files differ (e.g. ['0032.md', '0046.md', '0064b.md']), 0 files the source no longer has"
+    ],
+    "explained": 0,
     "method": "a seventh of the held acts each check (and the Grundgesetz): the act's xml.zip re-rendered with the repository's converter (tools/bundesrecht.py act_from_xml) and compared with its folder file for file, byte for byte; the Grundgesetz's articles as tools/grundgesetz.py writes them (article_md of gii_units); acts with a gap this check explains (pending, held back by the builder's checks) counted as explained",
-    "ok": true,
+    "ok": false,
     "unread": 0,
     "versions_checked": 880,
-    "versions_differ": 0
+    "versions_differ": 2
    }
   }
  },
