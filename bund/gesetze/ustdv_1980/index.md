@@ -43,8 +43,7 @@ Ausfuhr](0012.md)
 
 ## - Zu § 4 Nr. 2 und § 8 des Gesetzes
 
-- [§ 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschiffahrt
-und für die Luftfahrt](0018.md)
+- [§ 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschifffahrt und für die Luftfahrt](0018.md)
 
 ## - Zu § 4 Nr. 3 des Gesetzes
 
