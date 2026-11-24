@@ -10,4 +10,3 @@
 | § 8 | Zuständige Stelle |
 | § 9 | Tierische Fette und Öle |
 | § 10 | Zugänglichkeit der DIN-Normen |
-| § 11 | (weggefallen) |
