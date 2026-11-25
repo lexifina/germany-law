@@ -5,7 +5,7 @@
 2. Probenahme
   Die Probenahme für die Durchführung der Untersuchungen hat nach der LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Mai 2019, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html, zu erfolgen. Ergänzend kann die DIN 19698 Untersuchung von Feststoffen – Probenahme von festen und stichfesten Materialien – Teile 1 (2014-05), 2 (2016-12), 5 (2018-06), 6 (2019-01) herangezogen werden. Die Probenahme ist zu protokollieren. Die Probenahmeprotokolle sind fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 3. Bestimmung der Gesamtgehalte im Feststoff sowie des eluierbaren Anteils
-  Die Bestimmung der in Anhang 3 aufgeführten Zuordnungswerte ist nach folgenden Verfahren durchzuführen. Gleichwertige Verfahren nach dem Stand der Technik sind mit Zustimmung der zuständigen Behörde am Sitz der Untersuchungsstelle zulässig. Dabei kann als Entscheidungshilfe die Methodensammlung Feststoffuntersuchung der LAGA herangezogen werden, abrufbar unter https://www.laga-online.de/Publikationen-50-Informationen.html, wobei insbesondere die grün gekennzeichneten Verfahren heranzuziehen sind. Soweit weitere, nachfolgend nicht genannte Parameter zu untersuchen sind, legt die zuständige Behörde das Untersuchungsverfahren fest. Dabei muss die Bestimmungsgrenze eines gewählten Analysenverfahrens um mindestens einen Faktor von drei kleiner sein als der Wert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 32645, Ausgabe November 2008, Chemische Analytik – Nachweis-, Erfassungs- und Bestimmungsgrenze unter Wiederholbedingungen –, Begriffe, Verfahren, Auswertung.
+  Die Bestimmung der in Anhang 3 aufgeführten Zuordnungswerte ist nach folgendem Verfahren durchzuführen. Gleichwertige Verfahren nach dem Stand der Technik sind mit Zustimmung der zuständigen Behörde am Sitz der Untersuchungsstelle zulässig. Dabei kann als Entscheidungshilfe die Methodensammlung Feststoffuntersuchung der LAGA herangezogen werden, abrufbar unter https://www.laga-online.de/Publikationen-50-Informationen.html. In der Methodensammlung Feststoffuntersuchung grün gekennzeichnete Verfahren können ohne gesonderte behördliche Zustimmung als gleichwertig angewendet werden. Soweit weitere, nachfolgend nicht genannte Parameter zu untersuchen sind, legt die zuständige Behörde das Untersuchungsverfahren fest. Dabei muss die Bestimmungsgrenze eines gewählten Analysenverfahrens um mindestens einen Faktor von drei kleiner sein als der Wert des entsprechenden Parameters. Die Ermittlung der Nachweis- und Bestimmungsgrenze erfolgt nach DIN 32645, Ausgabe November 2008, Chemische Analytik – Nachweis-, Erfassungs- und Bestimmungsgrenze unter Wiederholbedingungen –, Begriffe, Verfahren, Auswertung.
 3.1 Bestimmung der Gesamtgehalte im Feststoff
 3.1.1 Probenvorbereitung
   Die Probe von festen Abfällen ist gemäß DIN 19747, Ausgabe Juli 2009 (Untersuchung von Feststoffen – Probenvorbehandlung, -vorbereitung und -aufarbeitung für chemische, biologische und physikalische Untersuchungen) durch Vierteln, Brechen und Mahlen so aufzubereiten, dass aus einer Ausgangsprobe von 5 bis 50 kg eine homogene Probe von 1 000 g gewonnen wird. Die Probe von pastösen und schlammigen Abfällen ist durch Kollern so aufzubereiten, dass aus einer Ausgangsprobe von 5 bis 50 kg eine homogene Probe von 1 000 g gewonnen wird. Die Trockenmasse der Probe ist gemäß Nummer 3.2.24 zu bestimmen. Die Probenvorbereitung ist zu protokollieren.
@@ -62,7 +62,9 @@
   DIN EN 12457-4, Ausgabe Januar 2003
   Charakterisierung von Abfällen – Auslaugung; Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)
 3.2.1.2 Eluatherstellung mit jeweils konstantem pH-Wert 4 und 11/Säureneutralisationskapazität
-  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der von der Länderarbeitsgemeinschaft Abfall herausgegebenen Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich (LAGA-Richtlinie EW 98), Stand September 2017, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
+  DIN EN 14997, Ausgabe Mai 2015
+  Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens – Einfluss des pH-Wertes auf die Elution bei kontinuierlicher pH-Wert-Kontrolle
+  Abweichend von den Vorgaben der genannten Norm wird die Elution lediglich bei pH-Wert 4 und 11, mit einer maximalen Korngröße von 10 mm und bei einer Elutionsdauer von 24 h durchgeführt.
 3.2.2 Perkolationsprüfung im Aufwärtsstrom
   DIN 19528, Ausgabe Januar 2009
   Elution von Feststoffen – Perkolationsverfahren zur gemeinsamen Untersuchung des Elutionsverhaltens von organischen und anorganischen Stoffen
@@ -76,8 +78,10 @@
 3.2.4.1 DOC
   DIN EN 1484, Ausgabe April 2019
   Wasseranalytik – Anleitungen zur Bestimmung des gesamten organischen Kohlenstoffs (TOC) und des gelösten organischen Kohlenstoffs (DOC)
-3.2.4.2 DOC bei einem pH-Wert zwischen 7,5 und 8
-  Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert – Kapitel 5 der Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten (LAGA-Richtlinie EW 98), Stand September 2017, abrufbar unter https://www.laga-online.de/Publikationen-50-Mitteilungen.html
+3.2.4.2 Eluatherstellung für die DOC-Bestimmung bei einem pH-Wert zwischen 7,5 und 8
+  DIN EN 14997, Ausgabe Mai 2015
+  Charakterisierung von Abfällen – Untersuchung des Elutionsverhaltens – Einfluss des pH-Wertes auf die Elution bei kontinuierlicher pH-Wert-Kontrolle
+  Abweichend von den Vorgaben der genannten Norm wird die Elution lediglich bei pH-Wert 7,5 – 8, mit einer maximalen Korngröße von 10 mm und bei einer Elutionsdauer von 24 h durchgeführt.
 3.2.5 Phenole
   DIN 38409-16, Ausgabe Juni 1984
   Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Summarische Wirkungs- und Stoffkenngrößen (Gruppe H); Bestimmung des Phenol-Index (H 16)
@@ -364,8 +368,7 @@
   1. ISO-Normen, EN-Normen und DIN-Normen im Beuth Verlag GmbH, Berlin.
   2. LAGA-Mitteilung 32, LAGA PN 98 – Richtlinie für das Vorgehen bei physikalischen, chemischen und biologischen Untersuchungen im Zusammenhang mit der Verwertung/Beseitigung von Abfällen, Stand Mai 2019, abrufbar unter
     https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
-  3. LAGA-Mitteilung 33, LAGA EW 98 – Richtlinie für das Vorgehen bei physikalischen und chemischen Untersuchungen von Abfällen, verunreinigten Böden und Materialien aus dem Altlastenbereich – Herstellung und Untersuchung von wässrigen Eluaten – Kapitel 5 Bestimmung der Eluierbarkeit mit wässrigen Medien bei konstantem pH-Wert (Kurzbezeichnung EW 98 p), Stand September 2017, abrufbar unter
-    https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
+  3. (weggefallen)
   4. LAGA-Mitteilung 35, Bestimmung des Gehaltes an Kohlenwasserstoffen in Abfällen – Untersuchungs- und Analysenstrategie (Kurzbezeichnung KW/04), Stand: Stand September 2019 abrufbar unter
     https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
   5. (weggefallen)

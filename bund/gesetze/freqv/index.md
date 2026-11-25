@@ -7,4 +7,4 @@
 - [§ 4 Begriffsbestimmungen](0004.md)
 - [§ 5 Inkrafttreten, Außerkrafttreten](0005.md)
 - [Schlussformel](schlussformel.md)
-- [Anlage Frequenzzuweisungstabelle für die Bundesrepublik Deutschland](anlage.md)
+- [Anlage (zu § 2 Absatz 1) Frequenzzuweisungstabelle für die Bundesrepublik Deutschland](anlage.md)
