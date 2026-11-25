@@ -1,43 +1,42 @@
 {
- "generated": "2026-11-24T07:24:36Z",
+ "generated": "2026-11-25T07:45:42Z",
  "latest": {
   "gii|germany/bund/acts": {
    "attempt": 1,
    "audit": {
-    "match_neither": 1,
-    "match_new": 4,
+    "match_neither": 0,
+    "match_new": 5,
     "match_old": 0,
     "method": "read again as the act's HTML page on Gesetze im Internet (BJNR….html, the whole act; the check and verify read its xml.zip): the words of the folder against the page's norms (footnotes, the frame norm's citation and Stand box, and an Inhaltsübersicht's body where the XML holds it as a TOC the converter does not write, left out) with the runner's word check (>= 99.5% of written words on the page, >= 97% of the page's words written)",
     "rows": [
      {
-      "id": "s_fv_2026",
+      "id": "rohrfltgv_2026",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/s_fv_2026/BJNR15A0B0026.html",
+      "read": "https://www.gesetze-im-internet.de/rohrfltgv_2026/BJNR1610B0026.html",
       "verdict": "match_new"
      },
      {
-      "id": "bimschv_36",
+      "id": "abfaev",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html",
+      "read": "https://www.gesetze-im-internet.de/abfaev/BJNR404310013.html",
       "verdict": "match_new"
      },
      {
-      "id": "immodarlsachkv",
+      "id": "abfbeauftrv_2017",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html",
-      "verdict": "match_neither",
-      "why": "words: 747/747 written found, 747/780 source written"
-     },
-     {
-      "id": "ustdv_1980",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html",
+      "read": "https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html",
       "verdict": "match_new"
      },
      {
-      "id": "ustg_1980",
+      "id": "bimschv_5_1993",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html",
+      "read": "https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html",
+      "verdict": "match_new"
+     },
+     {
+      "id": "bimschv_9",
+      "published": true,
+      "read": "https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html",
       "verdict": "match_new"
      }
     ],
@@ -46,90 +45,116 @@
    },
    "census": {
     "checked": 880,
-    "current": 6143,
-    "gone": 1,
-    "held": 6150,
-    "newest_at_source": "s_fv_2026",
-    "newest_in_repo": "bartschv_2005",
-    "pending": 6,
-    "repo": 6148,
+    "current": 6140,
+    "gone": 4,
+    "held": 6151,
+    "newest_at_source": "rohrfltgv_2026",
+    "newest_in_repo": "s_fv_2026",
+    "pending": 7,
+    "repo": 6146,
     "source_in_scope": 6150
    },
-   "check_id": "de-gii-20261124T050802Z",
+   "check_id": "de-gii-20261125T050103Z",
    "commits": {
-    "count": 4,
-    "from": "42644a9080d2718ec10018d2905511050af6e060",
-    "to": "b54399c9f0a8cc58af83bda8a3ef159a9f964846"
+    "count": 3,
+    "from": "5dabc17ee1208f86aa3d1e03e103f4a70094388c",
+    "to": "b6a37101815876162e6ba1692c9b0ca78bcb6421"
    },
    "corpus": "germany/bund/acts",
    "error": null,
-   "finished": "2026-11-24T07:08:48Z",
+   "finished": "2026-11-25T07:00:20Z",
    "flags": [
     {
-     "detail": "1 of 5 read again by a second route disagree",
-     "flag": "audit-disagrees"
+     "detail": "1 of 880 texts differ from the source",
+     "flag": "verify-differ"
     }
    ],
-   "gap": 8,
+   "gap": 14,
    "note": "every act on Gesetze im Internet is held here (bund/gesetze/<act>/, the Grundgesetz in grundgesetz/): an act listed and not held is pending-publish; held acts are compared by their xml.zip's Last-Modified with the read this repository last made of them",
    "outcome": "changed",
    "published": {
     "added": [
-     "s_fv_2026"
+     "rohrfltgv_2026"
     ],
     "changed": [
-     "bimschv_36",
-     "immodarlsachkv",
-     "ustdv_1980",
-     "ustg_1980"
+     "abfaev",
+     "abfbeauftrv_2017",
+     "bimschv_5_1993",
+     "bimschv_9",
+     "depv_2009",
+     "emasprivilegv",
+     "freqv",
+     "gefstoffv_2010"
     ],
     "removed": []
    },
-   "requests": 7054,
-   "runner": "lawwatch germany (22a9910bc1)",
+   "requests": 7072,
+   "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "s_fv_2026"
+     "bimschv_4_2026",
+     "rohrfltgv_2026",
+     "ums-vo"
     ],
     "changed": [
-     "ao_1977",
-     "aoeg_1977",
+     "abfaev",
+     "abfbeauftrv_2017",
+     "absfinag",
+     "abwv",
+     "agrargeoschdg",
      "bartschv_2005",
-     "bimschv_36",
+     "bimschv_44",
+     "bimschv_5_1993",
      "bimschv_9",
-     "estg",
+     "blv_2026",
+     "chemklimaschutzv_2026",
+     "depv_2009",
+     "ebewmg",
+     "emasprivilegv",
+     "ersatzbaustoffv",
+     "ervdpmav_2026",
      "freqv",
-     "immodarlsachkv",
+     "gefstoffv_2010",
+     "ivsg_2026",
+     "kritisdachg",
+     "ksttg",
      "luftvzo",
-     "ustdv_1980",
-     "ustg_1980",
-     "vag_2016"
+     "madg_2026",
+     "stromvkg",
+     "tierseuchmeldv",
+     "wasserstoffbg",
+     "wpig",
+     "zkg"
     ],
     "removed": [
-     "s_fv_2023"
+     "bimschv_11_2004",
+     "bimschv_4_2013",
+     "rohrfltgv"
     ]
    },
-   "snapshot": "2026-11-23T21:00:18Z",
+   "snapshot": "2026-11-24T20:55:22Z",
    "source": "gii",
-   "started": "2026-11-24T05:08:02Z",
+   "started": "2026-11-25T05:01:03Z",
    "unexplained": 0,
    "update": {
     "added": 1,
-    "changed": 4,
-    "confirmed": 7,
-    "held": 7
+    "changed": 8,
+    "confirmed": 17,
+    "held": 10
    },
    "verify": {
-    "acts_held": 6150,
+    "acts_held": 6151,
     "cycle_days": 7,
-    "examples": [],
-    "explained": 1,
+    "examples": [
+     "kfldiausbv: 1 files differ (e.g. ['index.md']), 1 files the source no longer has"
+    ],
+    "explained": 0,
     "method": "a seventh of the held acts each check (and the Grundgesetz): the act's xml.zip re-rendered with the repository's converter (tools/bundesrecht.py act_from_xml) and compared with its folder file for file, byte for byte; the Grundgesetz's articles as tools/grundgesetz.py writes them (article_md of gii_units); acts with a gap this check explains (pending, held back by the builder's checks) counted as explained",
-    "ok": true,
+    "ok": false,
     "unread": 0,
     "versions_checked": 880,
-    "versions_differ": 0
+    "versions_differ": 1
    }
   }
  },

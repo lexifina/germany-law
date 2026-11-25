@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Gesetze im Internet (Federal Ministry of Justice) · `germany/bund/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 07:08 UTC**.
-- Acts held here: 6 150; current at the source: 6 143; changed at the source since the version held here: 6; no longer at the source: 1.
-- Compared with the source in this read: 880 of the 6 150 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 8 (held by a check: 7, held here, no longer at the source: 1); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 07:00 UTC**.
+- Acts held here: 6 151; current at the source: 6 140; changed at the source since the version held here: 7; no longer at the source: 4.
+- Compared with the source in this read: 880 of the 6 151 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 14 (held by a check: 10, held here, no longer at the source: 4); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
