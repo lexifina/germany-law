@@ -1,15 +1,15 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-25",
+ "as_of": "2026-11-26",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-25",
+ "checked_against_official_source": "2026-11-26",
  "totals": {
-  "acts": 6151,
+  "acts": 6154,
   "by_status": {
-   "current": 873,
-   "pending-change": 7,
+   "current": 871,
+   "pending-change": 9,
    "stale": 0,
-   "unverified": 5271,
+   "unverified": 5274,
    "source-unavailable": 0
   }
  },
@@ -18,8 +18,8 @@
    "source": "gii",
    "name": "Gesetze im Internet (Federal Ministry of Justice)",
    "state": "available",
-   "last_successful_check": "2026-11-25",
-   "last_successful_contact": "2026-11-25"
+   "last_successful_check": "2026-11-26",
+   "last_successful_contact": "2026-11-26"
   }
  ]
 }

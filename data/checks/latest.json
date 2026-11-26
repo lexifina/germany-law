@@ -1,42 +1,44 @@
 {
- "generated": "2026-11-25T07:45:42Z",
+ "generated": "2026-11-26T07:49:48Z",
  "latest": {
   "gii|germany/bund/acts": {
    "attempt": 1,
    "audit": {
-    "match_neither": 0,
-    "match_new": 5,
+    "match_neither": 2,
+    "match_new": 3,
     "match_old": 0,
     "method": "read again as the act's HTML page on Gesetze im Internet (BJNR….html, the whole act; the check and verify read its xml.zip): the words of the folder against the page's norms (footnotes, the frame norm's citation and Stand box, and an Inhaltsübersicht's body where the XML holds it as a TOC the converter does not write, left out) with the runner's word check (>= 99.5% of written words on the page, >= 97% of the page's words written)",
     "rows": [
      {
-      "id": "rohrfltgv_2026",
+      "id": "baf_g_23abs1s1nr1fbbek",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/rohrfltgv_2026/BJNR1610B0026.html",
+      "read": "https://www.gesetze-im-internet.de/baf_g_23abs1s1nr1fbbek/BJNR1170A0025.html",
+      "verdict": "match_neither",
+      "why": "words: 170/171 written found, 170/200 source written"
+     },
+     {
+      "id": "bimschv_4_2026",
+      "published": true,
+      "read": "https://www.gesetze-im-internet.de/bimschv_4_2026/BJNR1600B0026.html",
       "verdict": "match_new"
      },
      {
-      "id": "abfaev",
+      "id": "ums-vo",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/abfaev/BJNR404310013.html",
+      "read": "https://www.gesetze-im-internet.de/ums-vo/BJNR1600C0026.html",
+      "verdict": "match_neither",
+      "why": "words: 2223/2223 written found, 2223/2425 source written"
+     },
+     {
+      "id": "bimschv_38_2017",
+      "published": true,
+      "read": "https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html",
       "verdict": "match_new"
      },
      {
-      "id": "abfbeauftrv_2017",
+      "id": "bsig_2025",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html",
-      "verdict": "match_new"
-     },
-     {
-      "id": "bimschv_5_1993",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html",
-      "verdict": "match_new"
-     },
-     {
-      "id": "bimschv_9",
-      "published": true,
-      "read": "https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html",
+      "read": "https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html",
       "verdict": "match_new"
      }
     ],
@@ -45,28 +47,28 @@
    },
    "census": {
     "checked": 880,
-    "current": 6140,
+    "current": 6141,
     "gone": 4,
-    "held": 6151,
-    "newest_at_source": "rohrfltgv_2026",
-    "newest_in_repo": "s_fv_2026",
-    "pending": 7,
-    "repo": 6146,
-    "source_in_scope": 6150
+    "held": 6154,
+    "newest_at_source": "bartschv_2005",
+    "newest_in_repo": "rohrfltgv_2026",
+    "pending": 9,
+    "repo": 6147,
+    "source_in_scope": 6151
    },
-   "check_id": "de-gii-20261125T050103Z",
+   "check_id": "de-gii-20261126T050106Z",
    "commits": {
-    "count": 3,
-    "from": "5dabc17ee1208f86aa3d1e03e103f4a70094388c",
-    "to": "b6a37101815876162e6ba1692c9b0ca78bcb6421"
+    "count": 5,
+    "from": "b90679ca67fccbf2b04393e990720c1c4c28a5ad",
+    "to": "c6362a0a9f63cb195d43fa0018d0deb74010ac99"
    },
    "corpus": "germany/bund/acts",
    "error": null,
-   "finished": "2026-11-25T07:00:20Z",
+   "finished": "2026-11-26T07:01:55Z",
    "flags": [
     {
-     "detail": "1 of 880 texts differ from the source",
-     "flag": "verify-differ"
+     "detail": "2 of 5 read again by a second route disagree",
+     "flag": "audit-disagrees"
     }
    ],
    "gap": 14,
@@ -74,87 +76,75 @@
    "outcome": "changed",
    "published": {
     "added": [
-     "rohrfltgv_2026"
+     "baf_g_23abs1s1nr1fbbek",
+     "bimschv_4_2026",
+     "ums-vo"
     ],
     "changed": [
-     "abfaev",
-     "abfbeauftrv_2017",
-     "bimschv_5_1993",
-     "bimschv_9",
-     "depv_2009",
-     "emasprivilegv",
+     "bimschv_38_2017",
+     "bsig_2025",
+     "enwg_2005",
+     "finausglg_2005",
      "freqv",
-     "gefstoffv_2010"
+     "stvg",
+     "tabstg_2009",
+     "tkg_2021",
+     "waffg_2002"
     ],
     "removed": []
    },
-   "requests": 7072,
+   "requests": 7066,
    "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "bimschv_4_2026",
-     "rohrfltgv_2026",
-     "ums-vo"
+     "baf_g_23abs1s1nr1fbbek"
     ],
     "changed": [
-     "abfaev",
-     "abfbeauftrv_2017",
-     "absfinag",
-     "abwv",
-     "agrargeoschdg",
      "bartschv_2005",
-     "bimschv_44",
-     "bimschv_5_1993",
-     "bimschv_9",
+     "bimschv_38_2017",
+     "bimschv_4_2026",
      "blv_2026",
-     "chemklimaschutzv_2026",
-     "depv_2009",
-     "ebewmg",
-     "emasprivilegv",
-     "ersatzbaustoffv",
-     "ervdpmav_2026",
+     "bsig_2025",
+     "enwg_2005",
+     "fahrlg_2018",
+     "finausglg_2005",
      "freqv",
-     "gefstoffv_2010",
-     "ivsg_2026",
-     "kritisdachg",
-     "ksttg",
+     "gewstg",
+     "kfsachvg",
      "luftvzo",
-     "madg_2026",
-     "stromvkg",
-     "tierseuchmeldv",
-     "wasserstoffbg",
-     "wpig",
-     "zkg"
+     "milov5",
+     "stvg",
+     "stvunfstatg_1990",
+     "tabstg_2009",
+     "tkg_2021",
+     "ums-vo",
+     "vag_2016",
+     "waffg_2002",
+     "wpig"
     ],
-    "removed": [
-     "bimschv_11_2004",
-     "bimschv_4_2013",
-     "rohrfltgv"
-    ]
+    "removed": []
    },
-   "snapshot": "2026-11-24T20:55:22Z",
+   "snapshot": "2026-11-25T20:55:21Z",
    "source": "gii",
-   "started": "2026-11-25T05:01:03Z",
+   "started": "2026-11-26T05:01:06Z",
    "unexplained": 0,
    "update": {
-    "added": 1,
-    "changed": 8,
-    "confirmed": 17,
+    "added": 3,
+    "changed": 9,
+    "confirmed": 9,
     "held": 10
    },
    "verify": {
-    "acts_held": 6151,
+    "acts_held": 6154,
     "cycle_days": 7,
-    "examples": [
-     "kfldiausbv: 1 files differ (e.g. ['index.md']), 1 files the source no longer has"
-    ],
+    "examples": [],
     "explained": 0,
     "method": "a seventh of the held acts each check (and the Grundgesetz): the act's xml.zip re-rendered with the repository's converter (tools/bundesrecht.py act_from_xml) and compared with its folder file for file, byte for byte; the Grundgesetz's articles as tools/grundgesetz.py writes them (article_md of gii_units); acts with a gap this check explains (pending, held back by the builder's checks) counted as explained",
-    "ok": false,
+    "ok": true,
     "unread": 0,
     "versions_checked": 880,
-    "versions_differ": 1
+    "versions_differ": 0
    }
   }
  },
