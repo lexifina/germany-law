@@ -1,0 +1,6 @@
+# Art II § 10 Zuständigkeit von Gerichten
+
+(1)
+Ist nach dem Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents die Zuständigkeit der Gerichte im Geltungsbereich dieses Gesetzes begründet, so richtet sich die örtliche Zuständigkeit nach den allgemeinen Vorschriften. Ist danach ein Gerichtsstand nicht gegeben, so ist das Gericht zuständig, in dessen Bezirk das Europäische Patentamt seinen Sitz hat.
+(2)
+§ 143 des Patentgesetzes gilt entsprechend.

@@ -1,0 +1,5 @@
+# Art VI § 7
+
+Bei Wohnraum, der nach dem 20. Juni 1948 bezugsfertig geworden ist, hat es sein Bewenden:
+a) bei § 1 in der Fassung vom 21. Juli 1961 (Bundesgesetzbl. I S. 1041), wenn das Mietverhältnis vor dem 1. August 1964 beendigt worden ist oder wenn das Mietverhältnis in der Zeit vom 1. August 1964 bis zum 31. Oktober 1965 endigt und im Zeitpunkt der Beendigung das Mieterschutzgesetz nach seinem § 54 Abs. 2, 3 noch nicht unanwendbar geworden ist;
+b) bei § 1 in der Fassung des Artikels III Nr. 8 des Zweiten Gesetzes zur Änderung mietrechtlicher Vorschriften vom 14. Juli 1964 (Bundesgesetzbl. I S. 457), wenn das Mietverhältnis in der Zeit vom 1. August 1964 bis zum 31. Oktober 1965 endigt und im Zeitpunkt der Beendigung das Mieterschutzgesetz nach seinem § 54 Abs. 2, 3 unanwendbar ist.

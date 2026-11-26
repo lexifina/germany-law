@@ -1,0 +1,3 @@
+# Art 2 § 6
+
+Die Bundesregierung hat den gesetzgebenden Körperschaften bis zum 31. Dezember 1981 einen Bericht über die Erfahrungen mit der konzertierten Aktion im Gesundheitswesen, den Bundesempfehlungen zur Veränderung der Gesamtvergütungen und der Arzneimittelhöchstbeträge sowie über die Auswirkung der Regelungen über die Gesamtvergütungen und die Arzneimittelhöchstbeträge vorzulegen. Sie hat außerdem darzulegen, inwieweit die Ausgabenentwicklung der gesetzlichen Krankenversicherung in Übereinstimmung mit der Einkommensentwicklung der Versicherten steht. Soweit sich aus dem Bericht die Notwendigkeit zu gesetzgeberischen Maßnahmen ergibt, soll die Bundesregierung einen Vorschlag machen.

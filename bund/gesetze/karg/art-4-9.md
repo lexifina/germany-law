@@ -1,0 +1,3 @@
+# Art 4 § 9
+
+Die Kassenzahnärztliche Vereinigung Deutschlands und die Kassendentistische Vereinigung Deutschlands werden aufgelöst. Das Eigentum geht auf die Kassenzahnärztliche Bundesvereinigung und die Kassenzahnärztlichen Vereinigungen über; die §§ 5 bis 8 gelten entsprechend.

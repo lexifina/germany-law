@@ -1,0 +1,6 @@
+# Art II § 20 Anwendung der Justizbeitreibungsordnung für die Beitreibung von Ansprüchen des Einheitlichen Patentgerichts
+
+(1)
+Die Vorschriften der Justizbeitreibungsordnung sind auf die Beitreibung von Ordnungs- und Zwangsgeldern sowie der sonstigen dem § 1 Absatz 1 der Justizbeitreibungsordnung entsprechenden Ansprüche des Einheitlichen Patentgerichts entsprechend anwendbar.
+(2)
+Vollstreckungsbehörde für Ansprüche nach Absatz 1 ist das Bundesamt für Justiz.

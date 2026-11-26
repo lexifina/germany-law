@@ -12,6 +12,7 @@
 
 ## Art 5 (weggefallen)
 
+- [Art 5 (weggefallen)](art-5.md)
 
 ## Art 6
 
@@ -19,12 +20,8 @@
 ## Art 7 Gesetz über Arbeitsvermittlung und
 Arbeitslosenversicherung
 
-
-## Art 7
-
-
-## Art 7
-
+- [Art 7 § 1](art-7-1.md)
+- [Art 7 § 2](art-7-2.md)
 
 ## Art 8
 
@@ -43,5 +40,8 @@ Arbeitslosenversicherung
 
 ## Art 17 (weggefallen)
 
+- [Art 17 (weggefallen)](art-17.md)
 
 ## Art 18 Inkrafttreten
+
+- [Art 18 Inkrafttreten](art-18.md)

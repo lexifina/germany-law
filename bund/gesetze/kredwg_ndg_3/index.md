@@ -20,8 +20,12 @@
 
 ## Art 7 Neufassung des Gesetzes über das Kreditwesen
 
+- [Art 7 Neufassung des Gesetzes über das Kreditwesen](art-7.md)
 
 ## Art 8 Berlin-Klausel
 
+- [Art 8 Berlin-Klausel](art-8.md)
 
 ## Art 9 Inkrafttreten
+
+- [Art 9 Inkrafttreten](art-9.md)

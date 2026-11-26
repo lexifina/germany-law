@@ -183,17 +183,34 @@ def act_from_xml(data: bytes) -> dict:
     index = [f"# {meta['title'] or meta['jurabk']}", '']
     files: dict[str, str] = {}
     unnamed = 0
+    last_k = None
     for n in norms[1:]:
         md = n.find('metadaten')
         g = md.find('gliederungseinheit') if md is not None else None
-        if g is not None:
-            level = max(2, min(5, len((g.findtext('gliederungskennzahl') or '000').strip()) // 3 + 1))
-            index += ['', '#' * level + ' ' + squash(f"{g.findtext('gliederungsbez') or ''} {g.findtext('gliederungstitel') or ''}"), '']
-            continue
         enbez = squash(md.findtext('enbez') or '') if md is not None else ''
         titel = squash(''.join(md.find('titel').itertext())) if md is not None and md.find('titel') is not None else ''
-        heading = squash(f'{enbez} {titel}')
         body = paragraph_lines(content_lines(n.find('textdaten/text/Content')))
+        if g is not None:
+            # germany-law#1: a norm with a <gliederungseinheit> is a heading only when it has neither an enbez nor text.
+            # A placeholder gliederungsbez "-" next to an enbez is no heading (HWG); a paragraph nested in an article
+            # is named with it ("Art 229 § 6", EGBGB); an article given only as a gliederungseinheit keeps its text.
+            gk = (g.findtext('gliederungskennzahl') or '000').strip()
+            gbez = squash(g.findtext('gliederungsbez') or '')
+            line = '#' * max(2, min(5, len(gk) // 3 + 1)) + ' ' + squash(f"{gbez} {g.findtext('gliederungstitel') or ''}")
+            if not enbez:
+                index += ['', line, '']
+                last_k = gk
+                if not body:
+                    continue
+                enbez = '' if gbez == '-' else gbez
+                titel = titel or squash(g.findtext('gliederungstitel') or '')
+            elif gbez not in ('', '-'):
+                if gk != last_k:
+                    index += ['', line, '']
+                    last_k = gk
+                if not enbez.startswith(gbez + ' '):
+                    enbez = f'{gbez} {enbez}'
+        heading = squash(f'{enbez} {titel}')
         if not heading and not body:
             continue
         name = norm_slug(enbez) or norm_slug(titel)
@@ -296,7 +313,7 @@ def path_of(slug: str) -> str:
 
 
 # Bump when the conversion to Markdown changes, so cached conversions are not reused.
-CONVERT_VERSION = 5
+CONVERT_VERSION = 6
 MISSING_DAYS = 14   # an act counts as removed once it has been missing this many days
 
 

@@ -1,0 +1,3 @@
+# Art 3 § 9 Inkrafttreten
+
+Dieses Gesetz tritt am 1. Juli 1976 in Kraft.

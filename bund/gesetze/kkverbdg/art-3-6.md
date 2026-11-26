@@ -1,0 +1,3 @@
+# Art 3 § 6
+
+Der Reichsverband der Ortskrankenkassen, Körperschaft des öffentlichen Rechts, wird mit Inkrafttreten dieses Gesetzes aufgelöst. Mit dem gleichen Zeitpunkt erlischt die Treuhandschaft über diejenigen Vermögensrechte, die nach §§ 4 und 5 auf die Landesverbände und den Bundesverband der Ortskrankenkassen übergehen.

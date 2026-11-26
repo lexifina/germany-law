@@ -1,0 +1,4 @@
+# Art 97a § 4 Verrechnung der für das zweite Halbjahr 1990 gezahlten
+Vermögensteuer
+
+Die nach der Verordnung vom 27. Juni 1990 (GBl. I Nr. 41 S. 618) in der zusammengefaßten Steuerrate für das zweite Halbjahr 1990 gezahlte Vermögensteuer ist in der Jahreserklärung 1990 innerhalb der Steuerrate mit der Körperschaftsteuer und Gewerbesteuer der in Kapitalgesellschaften umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen zu verrechnen.

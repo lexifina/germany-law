@@ -19,6 +19,7 @@
 
 ### Kapitel 3 Festigkeit
 
+- [Kapitel 3 Festigkeit](kapitel-3.md)
 
 ### Kapitel 4 Sicherheitsabstand und Freibord
 
@@ -52,9 +53,11 @@
 
 ### Kapitel 8 Sonderbestimmungen für Verbände und Containerverkehr
 
+- [Kapitel 8 Sonderbestimmungen für Verbände und Containerverkehr](kapitel-8.md)
 
 ### Kapitel 9 Sonderbestimmungen für schwimmende Geräte
 
+- [Kapitel 9 Sonderbestimmungen für schwimmende Geräte](kapitel-9.md)
 
 ## Teil III Wasserstraßen der Zone 1
 

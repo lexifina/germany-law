@@ -1,0 +1,3 @@
+# Art 12 Schutz des anderen Vertragsteils
+
+Wird ein Vertrag zwischen Personen geschlossen, die sich in demselben Staat befinden, so kann sich eine natürliche Person, die nach den Sachvorschriften des Rechts dieses Staates rechts-, geschäfts- und handlungsfähig wäre, nur dann auf ihre aus den Sachvorschriften des Rechts eines anderen Staates abgeleitete Rechts-, Geschäfts- und Handlungsunfähigkeit berufen, wenn der andere Vertragsteil bei Vertragsabschluß diese Rechts-, Geschäfts- und Handlungsunfähigkeit kannte oder kennen mußte. Dies gilt nicht für familienrechtliche und erbrechtliche Rechtsgeschäfte sowie für Verfügungen über ein in einem anderen Staat belegenes Grundstück.

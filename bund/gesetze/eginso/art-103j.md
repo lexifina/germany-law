@@ -1,0 +1,6 @@
+# Art 103j Überleitungsvorschrift zum Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen nach der Insolvenzordnung und nach dem Anfechtungsgesetz
+
+(1)
+Auf Insolvenzverfahren, die vor dem 5. April 2017 eröffnet worden sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden Vorschriften weiter anzuwenden.
+(2)
+Im Rahmen einer Insolvenzanfechtung entstandene Ansprüche auf Zinsen oder die Herausgabe von Nutzungen unterliegen vor dem 5. April 2017 den bis dahin geltenden Vorschriften. Für die Zeit ab dem 5. April 2017 ist auf diese Ansprüche § 143 Absatz 1 Satz 3 der Insolvenzordnung in der ab dem 5. April 2017 geltenden Fassung anzuwenden.

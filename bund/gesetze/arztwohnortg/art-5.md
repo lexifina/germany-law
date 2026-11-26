@@ -1,0 +1,3 @@
+# Art 5 Inkrafttreten
+
+Dieses Gesetz tritt am 1. Januar 2002 in Kraft.

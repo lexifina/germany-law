@@ -1,0 +1,6 @@
+# Art III § 5 Weiterbehandlung als nationale Anmeldung
+
+(1)
+Übersendet das Internationale Büro dem Deutschen Patent- und Markenamt als Bestimmungsamt eine internationale Anmeldung, der das zuständige Anmeldeamt die Zuerkennung eines internationalen Anmeldedatums abgelehnt hat oder die dieses Amt für zurückgenommen erklärt hat, so prüft das Deutsche Patent- und Markenamt, ob die Beanstandungen des Anmeldeamts zutreffend sind, sobald der Anmelder die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren nach § 34 des Patentgesetzes gezahlt und, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung der internationalen Anmeldung in deutscher Sprache eingereicht hat. Das Deutsche Patent- und Markenamt entscheidet durch Beschluß, ob die Beanstandungen des Anmeldeamts gerechtfertigt sind. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend.
+(2)
+Absatz 1 ist entsprechend auf die Fälle anzuwenden, in denen das Anmeldeamt die Bestimmung der Bundesrepublik Deutschland für zurückgenommen erklärt oder in denen das Internationale Büro die Anmeldung als zurückgenommen behandelt hat.

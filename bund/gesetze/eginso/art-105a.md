@@ -1,0 +1,6 @@
+# Art 105a Überleitungsvorschrift zum Gesetz zur Änderung der Insolvenzordnung und zur Änderung des Gesetzes, betreffend die Einführung der Zivilprozessordnung
+
+(1)
+Auf Insolvenzverfahren, die vor dem 10. Juni 2016 beantragt worden sind, ist § 104 der Insolvenzordnung in der bis dahin geltenden Fassung anzuwenden.
+(2)
+Auf Insolvenzverfahren, die vor dem 29. Dezember 2016 beantragt worden sind, ist § 104 der Insolvenzordnung in der bis dahin geltenden Fassung anzuwenden.

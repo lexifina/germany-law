@@ -1,0 +1,3 @@
+# Art 3 § 4
+
+§ 32 Abs. 3 Satz 4 des Schornsteinfegergesetzes in der Fassung dieses Gesetzes gilt vom 1. Januar 1978 an auch für Versorgungsfälle, die vor dem 1. Juli 1977 eingetreten sind.

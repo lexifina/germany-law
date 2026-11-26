@@ -1,0 +1,3 @@
+# Art 3 § 3
+
+Bei Studierenden der Medizin, die bis zum 10. März 1993 erstmals zum Zweiten Abschnitt der Ärztlichen Prüfung zugelassen werden, findet Anlage 3 zur Approbationsordnung für Ärzte in der bisherigen Fassung Anwendung.

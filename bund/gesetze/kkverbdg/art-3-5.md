@@ -1,0 +1,3 @@
+# Art 3 § 5
+
+Sonstige Vermögensrechte des Reichsverbands der Ortskrankenkassen, Körperschaft des öffentlichen Rechts, gehen auf den Bundesverband der Ortskrankenkassen über. Forderungen des Reichsverbands der Ortskrankenkassen, Körperschaft des öffentlichen Rechts, gegen die Mitglieder erlöschen.

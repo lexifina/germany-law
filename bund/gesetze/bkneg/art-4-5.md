@@ -1,0 +1,3 @@
+# Art 4 § 5
+
+Auf Verlangen ist der Bundesknappschaft Auskunft über die in den §§ 2 bis 4 dieses Artikels bezeichneten Vermögensverhältnisse zu erteilen.

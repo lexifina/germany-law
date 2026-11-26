@@ -1,0 +1,3 @@
+# Art 25
+
+Ergeht in einem gerichtlichen Verfahren, in dem die Klage oder der Antrag nach dem Zusatzabkommen in Verbindung mit dem NATO-Truppenstatut und der zur Ergänzung des Zusatzabkommens geschlossenen zweiseitigen Abkommen über die Beilegung von Streitigkeiten bei Direktbeschaffungen sowie des Artikels 12 dieses Gesetzes gegen die Bundesrepublik Deutschland an Stelle eines Entsendestaats zu richten oder die Bundesrepublik Deutschland an Stelle eines Entsendestaats sonstwie beteiligt ist, eine Entscheidung über eine Leistung, so ist auszusprechen, daß die Bundesrepublik für den Entsendestaat zu leisten hat, dem die Leistung obliegt.

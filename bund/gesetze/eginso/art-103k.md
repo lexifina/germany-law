@@ -1,0 +1,22 @@
+# Art 103k Überleitungsvorschrift zu Artikel 2 des Gesetzes zur weiteren Verkürzung des Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht sowie im Miet- und Pachtrecht
+
+(1)
+Auf Insolvenzverfahren, die vor dem 1. Oktober 2020 beantragt worden sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden Vorschriften weiter anzuwenden.
+(2)
+Auf Insolvenzverfahren, die im Zeitraum vom 17. Dezember 2019 bis einschließlich 30. September 2020 beantragt worden sind, verkürzt sich die Abtretungsfrist im Sinne des § 287 Absatz 2 der Insolvenzordnung für jeden vollen Monat, der seit dem 16. Juli 2019 bis zur Stellung des Insolvenzantrages vergangen ist, um denselben Zeitraum. Demgemäß beträgt die Abtretungsfrist:
+| Datum der Stellung des Insolvenzantrages: | Abtretungsfrist: |
+| zwischen dem 17. Dezember 2019und 16. Januar 2020 | fünf Jahreund sieben Monate |
+| zwischen dem 17. Januar 2020und 16. Februar 2020 | fünf Jahreund sechs Monate |
+| zwischen dem 17. Februar 2020und 16. März 2020 | fünf Jahreund fünf Monate |
+| zwischen dem 17. März 2020und 16. April 2020 | fünf Jahreund vier Monate |
+| zwischen dem 17. April 2020und 16. Mai 2020 | fünf Jahreund drei Monate |
+| zwischen dem 17. Mai 2020und 16. Juni 2020 | fünf Jahreund zwei Monate |
+| zwischen dem 17. Juni 2020und 16. Juli 2020 | fünf Jahreund ein Monat |
+| zwischen dem 17. Juli 2020und 16. August 2020 | fünf Jahre |
+| zwischen dem 17. August 2020und 16. September 2020 | vier Jahreund elf Monate |
+| zwischen dem 17. September 2020und 30. September 2020 | vier Jahreund zehn Monate |
+In Verfahren nach Satz 1 ist eine in der Abtretungserklärung erklärte, anderslautende Abtretungsfrist insoweit unbeachtlich.
+(3)
+Wurde dem Schuldner letztmalig nach den bis einschließlich 30. September 2020 geltenden Vorschriften eine Restschuldbefreiung erteilt, so ist § 287a Absatz 2 Satz 1 Nummer 1 der Insolvenzordnung in der bis einschließlich 30. September 2020 geltenden Fassung weiter anzuwenden.
+(4)
+Wird ein Antrag auf Eröffnung eines Verbraucherinsolvenzverfahrens zwischen dem 31. Dezember 2020 und dem 30. Juni 2021 gestellt, genügt die vom Schuldner vorzulegende Bescheinigung auch dann den in § 305 Absatz 1 Nummer 1 der Insolvenzordnung genannten Anforderungen, wenn sich aus ihr ergibt, dass eine außergerichtliche Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans innerhalb der letzten zwölf Monate vor dem Eröffnungsantrag erfolglos versucht worden ist.

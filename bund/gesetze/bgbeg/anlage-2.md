@@ -1,0 +1,6 @@
+# Anlage 2 (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
+
+| Muster-Widerrufsformular |
+| (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.) |
+| –An [hier ist der Name, die Anschrift und die E-Mail-Adresse des Unternehmers durch den Unternehmer einzufügen]:–Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)–Bestellt am (*)/erhalten am (*)–Name des/der Verbraucher(s)–Anschrift des/der Verbraucher(s)–Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)–Datum |
+| (*) Unzutreffendes streichen. |

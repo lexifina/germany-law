@@ -1,0 +1,4 @@
+# Art 3 Erhöhung der Gesamtvergütungen
+in den Jahren 2002 bis 2004
+
+Bei der Vereinbarung der Gesamtvergütung nach § 85 des Fünften Buches Sozialgesetzbuch für die Jahre 2002 bis 2004 soll die Veränderungsrate nach § 71 Abs. 3 des Fünften Buches Sozialgesetzbuch in dem in Artikel 1 Abs. 1 des Einigungsvertrages genannten Gebiet um jährlich bis zu drei Prozentpunkte, insgesamt jedoch höchstens sechs Prozentpunkte, überschritten werden, sofern in dem genannten Zeitraum die damit verbundenen Mehrausgaben durch Minderausgaben bei den Leistungen von Krankenkassen und Leistungserbringern in dem jeweiligen Land erwirtschaftet werden und insoweit die Beitragssatzstabilität durch die Erhöhung nicht gefährdet wird. Die Vertragsparteien der Gesamtverträge nach § 83 des Fünften Buches Sozialgesetzbuch vereinbaren die Kriterien sowie das Verfahren zur Feststellung der Ausgabenreduktionen nach Satz 1.

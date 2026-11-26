@@ -1,0 +1,3 @@
+# Art 102a Insolvenzverwalter aus anderen Mitgliedstaaten der Europäischen Union
+
+Angehörige eines anderen Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum und Personen, die in einem dieser Staaten ihre berufliche Niederlassung haben, können das Verfahren zur Aufnahme in eine von dem Insolvenzgericht geführte Vorauswahlliste für Insolvenzverwalter über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abwickeln. Über Anträge auf Aufnahme in eine Vorauswahlliste ist in diesen Fällen innerhalb einer Frist von drei Monaten zu entscheiden. § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend.

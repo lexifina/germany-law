@@ -1,8 +1,6 @@
 # Gesetz zur Neuordnung der Verantwortung in der kerntechnischen Entsorgung
 
-
-## -
-
+- [Eingangsformel](eingangsformel.md)
 
 ## Art 1 Gesetz zur Errichtung eines Fonds zur Finanzierung der kerntechnischen Entsorgung (Entsorgungsfondsgesetz - EntsorgFondsG)
 
@@ -21,11 +19,9 @@
 
 ## Art 9 Ermächtigung zum Abschluss eines öffentlich-rechtlichen Vertrags, Evaluierung
 
-
-## Art 9
-
-
-## Art 9
-
+- [Art 9 § 1 Ermächtigung zum Abschluss eines öffentlich-rechtlichen Vertrags](art-9-1.md)
+- [Art 9 § 2 Evaluierung](art-9-2.md)
 
 ## Art 10 Inkrafttreten
+
+- [Art 10 Inkrafttreten](art-10.md)

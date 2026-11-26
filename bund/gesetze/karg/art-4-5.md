@@ -1,0 +1,12 @@
+# Art 4 § 5
+
+(1)
+Die Kassenärztliche Vereinigung Deutschlands wird mit Inkrafttreten dieses Gesetzes aufgelöst. Ihr Vermögen (Eigentum und alle sonstigen Vermögensrechte) mit Einschluß der aus Mitteln dieses Vermögens nach dem 8. Mai 1945 für die Kassenärztliche Vereinigung Deutschlands erworbenen Vermögensrechte gehen auf die Kassenärztliche Bundesvereinigung über, soweit in diesem Gesetz Abweichendes nicht bestimmt ist.
+(2)
+Das Eigentum an Grundstücken, das anläßlich der Bildung der Kassenärztlichen Vereinigung Deutschlands nicht infolge rechtsgeschäftlichen Erwerbs auf diese übergegangen ist, geht auf diejenige Kassenärztliche Vereinigung über, in deren Bezirk das Grundstück gelegen ist. Für sonstige dingliche Rechte an Grundstücken gilt Satz 1 entsprechend.
+(3)
+Die Absätze 1 und 2 gelten auch für Rechte, die durch Gesetz für unübertragbar oder nur auf Grund besonderer Vereinbarungen für übertragbar erklärt sind.
+(4)
+Hat eine Kassenärztliche Vereinigung bewegliche Sachen der Kassenärztlichen Vereinigung Deutschlands in Besitz, so geht das Eigentum auf sie über.
+(5)
+Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über Vermögensrechte der in Absätzen 1 bis 3 bezeichneten Art vor dem Zeitpunkt des Inkrafttretens dieses Gesetzes getroffen worden sind, bleibt unberührt. Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten bleiben bestehen. Rückerstattungsansprüche bleiben unberührt.

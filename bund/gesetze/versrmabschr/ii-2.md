@@ -1,0 +1,5 @@
+# II. Aktiva
+
+Als Außenstände - A XIV 1 und 2 - sind die von Vertretern und Versicherungsnehmern geschuldeten und in der Reichsmarkschlußbilanz ausgewiesenen Beträge mit einem Zehntel des Reichsmarkbetrages in Deutscher Mark einzusetzen. Von Vertretern geschuldete Beträge, die nach § 1 der Zweiten Durchführungsverordnung zum Festkontogesetz mit der Wirkung auf Deutsche Mark umgestellt werden, daß für je einhundert Reichsmark sechseinhalb Deutsche Mark zu zahlen sind, sind in diesem Verhältnis einzusetzen.
+Als nachzuerhebende Prämienanteile - A XIV 3 - sind die von den Versicherungsnehmern in Deutscher Mark zu leistenden Prämiennachzahlungen in der Höhe einzusetzen, in der sie als einbringlich anzusehen sind.
+In der Hagelversicherung sind die Prämien des Jahres 1948 aus Versicherungen, für die die Urkunden erst nach dem 20. Juni 1948 ausgefertigt worden sind, sowie Nachschüsse und Umlagen für 1948, die erst nach dem 20. Juni 1948 ausgeschrieben worden sind, insoweit mit dem vollen Betrag in Deutscher Mark einzusetzen, als sie als einbringlich anzusehen sind.

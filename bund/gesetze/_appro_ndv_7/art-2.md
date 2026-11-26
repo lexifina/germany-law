@@ -1,0 +1,3 @@
+# Art 2
+
+Über das Bestehen einer schriftlichen Prüfung ist erneut zu entscheiden, wenn der Prüfling die Prüfung nicht bestanden hat, weil er die nach § 14 Abs. 5 der Approbationsordnung für Ärzte in der Fassung der Zweiten Verordnung zur Änderung der Approbationsordnung für Ärzte vom 24. Februar 1978 (BGBl. I S. 312) für das Bestehen der Prüfung erforderliche Zahl zutreffend beantworteter Prüfungsfragen nicht erreicht hat und der Bescheid des zuständigen Landesprüfungsamtes über das Nichtbestehen dieser Prüfung am 6. Juni 1989 noch nicht bestandskräftig war. Hierbei ist § 14 Abs. 5 der Approbationsordnung für Ärzte vom 28. Oktober 1970 (BGBl. I S. 1458) in der bis zum 31. Juli 1979 geltenden Fassung anzuwenden.

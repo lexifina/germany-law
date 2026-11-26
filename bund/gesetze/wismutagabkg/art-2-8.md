@@ -1,0 +1,3 @@
+# Art 2 § 8
+
+Die Bundesrepublik Deutschland ist Gründer im Sinne von § 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung. Auf die Gründung finden die §§ 1 bis 12 mit Ausnahme von § 7 Abs. 1, § 10 Abs. 1 und § 11 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung Anwendung.

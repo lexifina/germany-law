@@ -1,8 +1,6 @@
 # Sozialgesetzbuch - Allgemeiner Teil -
 
-
-## -
-
+- [Eingangsformel](eingangsformel.md)
 
 ## Art I Sozialgesetzbuch (SGB)
 
@@ -15,26 +13,17 @@
 
 ### Erster Abschnitt (weggefallen)
 
-
-### Art II
-
+- [Art II § 1](art-ii-1.md)
 
 ### Zweiter Abschnitt
 
-
-### Art II
-
+- [Art II (XXXX) §§ 2 - 16 (weggefallen)](art-ii-xxxx-2-16.md)
 
 ### Dritter Abschnitt Überleitungsvorschriften
 
-
-### Art II
-
+- [Art II (XXXX) §§ 17 - 20 (weggefallen)](art-ii-xxxx-17-20.md)
 
 ### Vierter Abschnitt Schlußvorschriften
 
-
-### Art II
-
-
-### Art II
+- [Art II (XXXX) §§ 21 u. 22 (weggefallen)](art-ii-xxxx-21-u-22.md)
+- [Art II § 23 Inkrafttreten](art-ii-23.md)

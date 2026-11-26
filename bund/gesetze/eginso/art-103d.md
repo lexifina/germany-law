@@ -1,0 +1,3 @@
+# Art 103d Überleitungsvorschrift zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+
+Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 eröffnet worden sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter anzuwenden. Im Rahmen von nach dem 1. November 2008 eröffneten Insolvenzverfahren sind auf vor dem 1. November 2008 vorgenommene Rechtshandlungen die bis dahin geltenden Vorschriften der Insolvenzordnung über die Anfechtung von Rechtshandlungen anzuwenden, soweit die Rechtshandlungen nach dem bisherigen Recht der Anfechtung entzogen oder in geringerem Umfang unterworfen sind.

@@ -1,0 +1,3 @@
+# Art 2 § 3
+
+Geschäfte, die der Anpassung der Rechtsverhältnisse einer Kapitalgesellschaft an die in § 1 Abs. 2 Satz 2 genannten Vorschriften dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind von den in der Kostenordnung bestimmten Gebühren befreit.

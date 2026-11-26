@@ -10,6 +10,7 @@ Steuergesetze
 
 ## Art 6 Grunderwerbsteuer
 
+- [Art 6 Grunderwerbsteuer](art-6.md)
 
 ## Art 7
 
@@ -22,11 +23,6 @@ Steuergesetze
 
 ## Art 10 Schlußvorschriften
 
-
-## Art 10
-
-
-## Art 10
-
-
-## Art 10
+- [Art 10 § 1 Berlin-Klausel](art-10-1.md)
+- [Art 10 § 2 Inkrafttreten](art-10-2.md)
+- [Art 10 § 3 Außerkrafttreten](art-10-3.md)

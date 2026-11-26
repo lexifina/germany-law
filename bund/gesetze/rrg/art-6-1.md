@@ -1,0 +1,3 @@
+# Art 6 § 1
+
+§ 615 Abs. 2 der Reichsversicherungsordnung in der Fassung dieses Gesetzes gilt auch für Arbeitsunfälle, die vor seinem Inkrafttreten eingetreten sind, wenn die neue Ehe nach dem 30. Juni 1963 aufgelöst oder für nichtig erklärt ist.

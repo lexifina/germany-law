@@ -1,0 +1,3 @@
+# Art 7 § 4
+
+Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.

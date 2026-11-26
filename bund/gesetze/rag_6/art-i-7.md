@@ -1,0 +1,3 @@
+# Art I § 7
+
+Leistungen nach § 27 des Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402) sind so anzupassen, daß sich ein Zahlbetrag ergibt, wie er sich bei Anwendung des saarländischen Gesetzes Nr. 345 in der Fassung der Bekanntmachung vom 29. Juli 1953 (Amtsblatt des Saarlandes S. 520) und der Vorschriften dieses Gesetzes unter Zugrundelegung der bisherigen Versicherungszeiten ergeben hätte.

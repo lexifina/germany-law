@@ -1,0 +1,4 @@
+# Art IX § 20 Fortgeltung der Regelungen über künftig wegfallende Ämter
+des Bundes
+
+Die bei Inkrafttreten dieses Gesetzes vorhandenen Regelungen über künftig wegfallende Ämter des Bundes bleiben bis zum Inkrafttreten der Rechtsverordnung der Bundesregierung nach § 4 Abs. 5 weiter in Kraft.

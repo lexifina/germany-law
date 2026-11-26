@@ -1,0 +1,3 @@
+# Art IX § 21 Zulage für Beamte an Theatern
+
+Landesrechtliche Vorschriften über die Gewährung einer Zulage an Beamte an Theatern können aufrechterhalten bleiben oder durch Rechtsverordnung der Landesregierung neu erlassen werden. Es darf höchstens eine Stellenzulage von 150 DM gewährt werden. Durch die Stellenzulage werden die Besonderheiten des Dienstes an Theatern, insbesondere die mit dem Dienst zu ungünstigen Zeiten und mit dem Nachtdienst verbundenen Erschwernisse sowie ein etwaiger Aufwand abgegolten.

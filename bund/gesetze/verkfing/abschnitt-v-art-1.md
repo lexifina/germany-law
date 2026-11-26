@@ -1,0 +1,8 @@
+# Abschnitt V Art 1 Gesellschaft für Bundesbahnfinanzierungen
+
+(1)
+Die Bundesregierung wird ermächtigt, durch die Bundesministerien für Verkehr und digitale Infrastruktur und der Finanzen eine Gesellschaft des Privatrechts vertraglich mit der Finanzierung der Verbesserung von Verkehrsanlagen und der Beschaffung von rollendem Material der Deutschen Bundesbahn zu beauftragen.
+(2)
+Der Vertrag kann nur widerrufen werden, wenn der Bund gleichzeitig die von der Gesellschaft zum Zwecke der Finanzierung von Verkehrsanlagen und rollendem Material der Deutschen Bundesbahn eingegangenen Verpflichtungen übernimmt.
+(3)
+Die Rechtsstellung und die Aufgaben der Deutschen Bundesbahn nach dem Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S. 955) werden hierdurch nicht berührt.

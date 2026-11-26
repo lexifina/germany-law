@@ -1,0 +1,3 @@
+# Art 4 § 8 Berlin-Klausel
+
+Dieses Gesetz gilt mit Ausnahme des Artikels 3 § 5 nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des dritten Überleitungsgesetzes.

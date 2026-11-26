@@ -1,0 +1,3 @@
+# Art V § 5
+
+Bei der Anwendung des § 6 Abs. 2 des Lastenausgleichsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung sind Beträge, die auf Grund der vorzeitigen Ablösung von Lastenausgleichsabgaben aufkommen, mit je 5 vom Hundert als Aufkommen des Ablösungsjahres und der 19 folgenden Rechnungsjahre anzusetzen.

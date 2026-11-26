@@ -1,0 +1,4 @@
+# Art 3 Einmaliges Übergangsgeld für Soldaten
+auf Zeit im Beitrittsgebiet
+
+Soldaten auf Zeit im Beitrittsgebiet mit einer Dienstzeit von zwei Jahren, die auf Grund der Regelung in Anlage I Kapitel XIX Sachgebiet B Abschnitt II Nummer 2 § 8 in Verbindung mit § 1 Nr. 2 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1144) Soldaten der Bundeswehr sind, erhalten nach Beendigung des Dienstverhältnisses wegen Ablaufs der Dienstzeit ein einmaliges Übergangsgeld in Höhe von zweitausendfünfhundert Deutsche Mark, wenn kein Dienstverhältnis als Berufssoldat oder als Soldat auf Zeit mit einer längeren Dienstzeit als zwei Jahre begründet wird. Satz 1 gilt auch, wenn das Dienstverhältnis dieser Soldaten vorzeitig wegen Dienstunfähigkeit, die nicht auf eigenes grobes Verschulden zurückzuführen ist, endet.

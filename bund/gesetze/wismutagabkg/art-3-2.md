@@ -1,0 +1,3 @@
+# Art 3 § 2
+
+Auf die Spaltung finden die §§ 2, 3, 7 bis 11, 13 und 15 des Gesetzes über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen vom 5. April 1991 (BGBl. I S. 854) entsprechende Anwendung. Soweit in den genannten Bestimmungen auf die Treuhandanstalt Bezug genommen wird, tritt an ihre Stelle die Bundesrepublik Deutschland.

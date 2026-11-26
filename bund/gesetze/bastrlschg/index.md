@@ -13,5 +13,8 @@
 
 ## Art 4 Berlin-Klausel
 
+- [Art 4 Berlin-Klausel](art-4.md)
 
 ## Art 5 Inkrafttreten
+
+- [Art 5 Inkrafttreten](art-5.md)

@@ -1,0 +1,3 @@
+# Art 3 § 1
+
+Die Erhöhungsbeträge auf Grund des Artikels 1 für die Zeit vom 1. Juli bis 31. Dezember 1973 bleiben bei der Ermittlung anderen Einkommens unberücksichtigt, wenn bei Sozialleistungen auf Grund eines Gesetzes oder anderer Vorschriften die Gewährung oder die Höhe der Leistungen von anderem Einkommen abhängig ist.

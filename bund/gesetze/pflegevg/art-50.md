@@ -1,0 +1,12 @@
+# Art 50 Übergangsregelung zum
+Bundessozialhilfegesetz, Bundesversorgungsgesetz und
+Lastenausgleichsgesetz
+
+(1)
+Die Regelung in § 69 Abs. 3 Satz 4 des Bundessozialhilfegesetzes, wonach die Geldleistung nach § 57 des Fünften Buches Sozialgesetzbuch bis zum 31. Dezember 1994 mit 200 Deutsche Mark anzurechnen ist, gilt bis zum 31. März 1995. Satz 1 gilt entsprechend für die Anrechnungsbestimmungen in § 26c Abs. 5 Satz 4 des Bundesversorgungsgesetzes und § 267 Abs. 1 Satz 6 zweiter Halbsatz des Lastenausgleichsgesetzes.
+(2)
+Pflegebedürftige, die für den Monat März 1995 Leistungen bei Pflegebedürftigkeit gemäß § 269 Abs. 2 in Verbindung mit § 267 Abs. 1, 2 Nr. 2 Buchstabe c des Lastenausgleichsgesetzes bezogen haben, erhalten diese Leistungen abweichend von der Regelung in Artikel 20 Nr. 1 Buchstabe a und b in der am 1. März 1995 zustehenden Höhe weiter, wenn ein nach dem Elften Buch Sozialgesetzbuch gewährtes Pflegegeld oder eine entsprechende Leistung einer privaten Pflegeversicherung auf die in § 13 Abs. 3 Nr. 1 und 3 des Elften Buches Sozialgesetzbuch genannten Fürsorgeleistungen zur Pflege anzurechnen ist. Der Anspruch nach Satz 1 besteht jedoch nur, soweit der Gesamtbetrag der wegen Pflegebedürftigkeit gewährten Leistungen öffentlich-rechtlicher Leistungsträger sowie einer privaten Pflegeversicherung im Sinne des Elften Buches Sozialgesetzbuch den Gesamtbetrag der für den Monat März 1995 gewährten entsprechenden Leistungen wegen Pflegebedürftigkeit und bei in § 13 Abs. 3 Nr. 3 des Elften Buches Sozialgesetzbuch genannten Fürsorgeleistungen zur hauswirtschaftlichen Versorgung nicht übersteigt. Die Vorschriften des Lastenausgleichsgesetzes über die Berücksichtigung nachträglich eingetretener Änderungen der persönlichen und sachlichen Verhältnisse bleiben unberührt. Die Leistung gemäß den Sätzen 1 und 2 bleibt bei sonstigen Fürsorgeleistungen unberücksichtigt.
+(3)
+Verwaltungsakte, die auf der Grundlage des § 267 Abs. 1 Satz 7 des Lastenausgleichsgesetzes in der am 1. April 1995 geltenden Fassung ergangen sind und nicht den Regelungen in Absatz 2 entsprechen, sind mit Wirkung für die Vergangenheit zurückzunehmen und durch einen neuen Verwaltungsakt mit Wirkung vom 1. April 1995 zu ersetzen.
+(4)
+Der Anspruch nach Absatz 2 steht, soweit die Leistung dem Empfänger von Unterhaltshilfe gewährt worden wäre, nach seinem Tode auf Antrag demjenigen zu, der die Pflege geleistet oder Kosten hierfür getragen hat.

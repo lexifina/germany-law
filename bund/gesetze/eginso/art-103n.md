@@ -1,0 +1,6 @@
+# Art 103n Überleitungsvorschrift zum Gesetz zur weiteren Digitalisierung der Justiz
+
+(1)
+Auf Insolvenzverfahren, die vor dem 17. Juli 2024 eröffnet worden sind, sind § 5 Absatz 5 und § 8 Absatz 3 der Insolvenzordnung in der bis dahin geltenden Fassung weiter anzuwenden. § 5 Absatz 6 und § 28 Absatz 4 der Insolvenzordnung sind auf diese Verfahren nicht anzuwenden.
+(2)
+§ 174 Absatz 4 Satz 1 und 2 der Insolvenzordnung in der ab dem 17. Juli 2024 geltenden Fassung ist auch auf solche Insolvenzverfahren anzuwenden, die vor dem 17. Juli 2024 eröffnet worden sind.

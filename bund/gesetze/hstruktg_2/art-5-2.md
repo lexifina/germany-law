@@ -1,0 +1,3 @@
+# Art 5 § 2
+
+Artikel 2 §§ 2 und 3 gelten entsprechend für Versorgungsempfänger nach dem Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes.

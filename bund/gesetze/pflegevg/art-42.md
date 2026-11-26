@@ -1,0 +1,14 @@
+# Art 42 Behandlung der bestehenden privaten Pflegeversicherungsverträge
+
+(1)
+Wer bei Inkrafttreten des Gesetzes bei einem privaten Versicherungsunternehmen gegen das Risiko der Pflegebedürftigkeit versichert ist, wird auf Antrag von der Versicherungspflicht in der sozialen Pflegeversicherung befreit, wenn der Vertrag mit dem privaten Versicherungsunternehmen vor dem 23. Juni 1993 abgeschlossen wurde. Dies gilt auch, wenn der Versicherte für sich und seine Angehörigen, für die nach § 25 des Elften Buches Sozialgesetzbuch Anspruch auf Familienversicherung bestünde, Vertragsleistungen erhält, die den Leistungen nach dem Vierten Kapitel des Elften Buches Sozialgesetzbuch noch nicht gleichwertig sind. Verträge, die unzureichende Vertragsleistungen vorsehen, sind bis zum 31. Dezember 1995 an den Leistungsumfang der sozialen Pflegeversicherung anzupassen. § 23 Abs. 3, 5 und 6 des Elften Buches Sozialgesetzbuch gilt.
+(2)
+Der Antrag ist bis zum 31. März 1995 bei der zuständigen Pflegekasse zu stellen. Die Befreiung wirkt vom Beginn der Versicherungspflicht an, sie kann nicht widerrufen werden.
+(3)
+Personen, die nach § 20 oder § 21 des Elften Buches Sozialgesetzbuch versicherungspflichtig werden, können den Pflegeversicherungsvertrag nach Absatz 1 mit Wirkung vom Eintritt der Versicherungspflicht an kündigen. Das Kündigungsrecht gilt auch für Familienangehörige, wenn für sie eine Familienversicherung nach § 25 des Elften Buches Sozialgesetzbuch eintritt.
+(4)
+Die privaten Versicherungsunternehmen haben alle Versicherungsnehmer, die trotz Aufforderung ihren Versicherungsvertrag bis zum 31. Dezember 1995 nicht entsprechend Absatz 1 Satz 3 angepaßt haben, zu ermitteln und dem Bundesamt für Soziale Sicherung bis zum 31. März 1996 zu melden. Die Meldepflichten nach Satz 1 bestehen auch, wenn der Versicherungsnehmer den Versicherungsvertrag, der nach Absatz 1 zur Versicherungsfreiheit geführt hat, nicht fortsetzt.
+(5)
+Der Anspruch des Versicherungsnehmers auf einen Beitragszuschuß richtet sich nach § 61 des Elften Buches Sozialgesetzbuch, § 53a des Bundesversorgungsgesetzes, § 13a des Bundesausbildungsförderungsgesetzes, § 23a des Arbeitssicherstellungsgesetzes, § 8a des Eignungsübungsgesetzes, den §§ 15 und 20 des Unterhaltssicherungsgesetzes, § 10a des Künstlersozialversicherungsgesetzes, § 276 des Lastenausgleichsgesetzes und § 15 des Flüchtlingshilfegesetzes. In der Zeit vom 1. Januar 1995 bis einschließlich 31. Dezember 1995 besteht der Anspruch auf den Zuschuß zu den Beiträgen für Verträge nach Absatz 1 auch in den Fällen, in denen die Vertragsleistungen noch nicht den Leistungen der sozialen Pflegeversicherung gleichwertig sind.
+(6)
+Wird der Vertrag entgegen Absatz 1 Satz 3 nicht angepaßt oder der Vertrag nach Absatz 1 vom Versicherungsnehmer nicht erfüllt, tritt ab 1. Januar 1996 für Versicherungspflichtige nach § 20 oder § 21 des Elften Buches Sozialgesetzbuch Versicherungspflicht in der sozialen Pflegeversicherung ein.

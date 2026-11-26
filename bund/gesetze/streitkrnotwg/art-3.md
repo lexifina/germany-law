@@ -1,0 +1,3 @@
+# Art 3
+
+Die Artikel 6 bis 14 und 25 des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S. 1183) gelten sinngemäß für die Abgeltung von Schäden, für die die Streitkräfte des Königreichs Belgien, der Französischen Republik, Kanadas, des Königreichs der Niederlande, der Vereinigten Staaten von Amerika und des Vereinigten Königreichs Großbritannien und Nordirland verantwortlich sind, wenn diese Schäden nach dem 2. Oktober 1990 im Gebiet der Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt oder Thüringen verursacht worden sind.

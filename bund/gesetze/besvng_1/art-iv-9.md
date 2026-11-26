@@ -1,0 +1,3 @@
+# Art IV § 9
+
+Ein nach Artikel 5 oder Artikel 6 des Siebenten Gesetzes zur Änderung des Bundesbesoldungsgesetzes gewährter Erhöhungszuschlag vermindert sich nicht um den Betrag der ruhegehaltfähigen Stellenzulagen, die nach den §§ 5 und 6 dieses Abschnitts den Versorgungsbezügen zugrunde gelegt werden.

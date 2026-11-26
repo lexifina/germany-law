@@ -1,0 +1,3 @@
+# Art 4a § 2
+
+Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des NATO-Truppenstatuts erforderliche Beschlagnahme und Durchsuchung werden von dem Amtsgericht angeordnet, in dessen Bezirk die Handlungen vorzunehmen sind. Sind Rechtshilfehandlungen in den Bezirken mehrerer Gerichte vorzunehmen, so richtet sich die Zuständigkeit danach, welches Gericht oder, solange noch kein Gericht befaßt ist, welche Staatsanwaltschaft zuerst mit der Sache befaßt wurde.

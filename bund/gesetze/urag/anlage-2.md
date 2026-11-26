@@ -1,0 +1,14 @@
+# Anlage 2
+
+Zu Artikel 1 Immissionsschutz
+1. bis 6.
+7. Vierte allgemeine Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Ermittlung von Immissionen in Belastungsgebieten - 4. BImSchVwV) vom 8. April 1975 (GMBl. S. 358).
+8. Fünfte allgemeine Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Emissionskataster in Belastungsgebieten) - 5. BImSchVwV vom 30. Januar 1979 (GMBl. S. 42).
+9.
+Zu Artikel 2 Kerntechnische Sicherheit und Strahlenschutz
+      Zu Artikel 3 Wasserwirtschaft
+      Zu Artikel 4 Abfallwirtschaft
+1. und 2.
+3. Zweite Allgemeine Verwaltungsvorschrift zum Abfallgesetz (TA Abfall), Teil 1: Technische Anleitung zur Lagerung, chemisch/physikalischen und biologischen Behandlung und Verbrennung von besonders überwachungsbedürftigen Abfällen vom 10.4.1990 (GMBl. S. 242)
+4. und 5.
+Zu Artikel 5 Chemikalienrecht

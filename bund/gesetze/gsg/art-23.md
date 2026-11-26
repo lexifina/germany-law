@@ -1,0 +1,12 @@
+# Art 23 Budgetierung der Verwaltungsausgaben
+
+(1)
+Die jährlichen Verwaltungsausgaben der Krankenkasse je Mitglied im Bundesgebiet außerhalb des Beitrittsgebiets dürfen sich in den Jahren 1993, 1994 und 1995 höchstens um die Verwaltungskostenpauschale der Pflegekasse (§ 46 Abs. 3 des Elften Buches Sozialgesetzbuch) je Mitglied und um den Betrag verändern, der sich durch Multiplikation der durchschnittlichen Verwaltungsausgaben aller Krankenkassen im Bundesgebiet außerhalb des Beitrittsgebiets je Mitglied mit der Veränderungsrate der nach den §§ 270 und 270a des Fünften Buches Sozialgesetzbuch zu ermittelnden beitragspflichtigen Einnahmen der Mitglieder aller Krankenkassen im Bundesgebiet außerhalb des Beitrittsgebiets je Mitglied ergibt. Ausgangsbasis sind die jährlichen Verwaltungsausgaben der Krankenkasse je Mitglied im Jahr 1991, die um den Betrag erhöht werden, der sich gemäß dem Berechnungsverfahren nach Satz 1 für das Kalenderjahr 1992 ergibt. Die Berechnungen nach den Sätzen 1 und 2 sind, soweit sie die durchschnittlichen Verwaltungsausgaben der Krankenkassen je Mitglied betreffen, getrennt nach Betriebskrankenkassen und nach anderen Krankenkassen vorzunehmen. Eine aus rechtlichen Gründen unvermeidbare Überschreitung des Budgets ist im Budget des Folgejahres auszugleichen.
+(2)
+Absatz 1 gilt für Krankenkassen im Beitrittsgebiet mit der Maßgabe, daß als beitragspflichtige Einnahmen diejenigen der Mitglieder aller Krankenkassen im Beitrittsgebiet zugrunde zu legen sind. Bei den Betriebskrankenkassen im Beitrittsgebiet sind als Ausgangsbasis des Jahres 1991 nur die um die Personalkosten nach § 147 Abs. 2 des Fünften Buches Sozialgesetzbuch verringerten Verwaltungsausgaben zugrunde zu legen.
+(3)
+Die Absätze 1 und 2 gelten für die Medizinischen Dienste der Krankenkassen entsprechend.
+(4)
+Verwaltungsausgaben im Sinne der Absätze 1 und 2 sind alle Ausgaben, die nach Anlage 1 zu § 25 der Allgemeinen Verwaltungsvorschrift über das Rechnungswesen in der Sozialversicherung vom 3. August 1981 in der Kontenklasse 7 - Verwaltungs- und Verfahrenskosten - zu buchen sind. Unberücksichtigt bleiben Verwaltungsausgaben für Leistungen, die nur einzelnen Kassenarten durch die Ausführung von Rechtsvorschriften entstehen und nicht von einem Dritten ersetzt werden.
+(5)
+Die Aufsichtsbehörde kann bei Vorliegen außergewöhnlicher Umstände eine im einzelnen bestimmte Ausnahme von der Begrenzung der Verwaltungsausgaben nach den Absätzen 1 bis 3 gestatten.

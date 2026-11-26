@@ -1,0 +1,3 @@
+# Art 4 § 2 Abweichende Vereinbarungen
+
+Im Zeitpunkt des Inkrafttretens dieses Gesetzes bestehende, von seinen Vorschriften abweichende Vereinbarungen bleiben unberührt, soweit sie nach § 2 Abs. 3 und § 9 des Lohnfortzahlungsgesetzes zulässig sind.

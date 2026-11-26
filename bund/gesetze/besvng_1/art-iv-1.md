@@ -1,0 +1,8 @@
+# Art IV § 1
+
+(1)
+Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsordnungen des Bundesbesoldungsgesetzes zugrunde liegt, treten an die Stelle der Sätze der Grundgehälter in der Anlage I des Bundesbesoldungsgesetzes die Sätze in der Anlage 1 dieses Gesetzes.
+(2)
+Bei Versorgungsempfängern, deren Versorgungsbezügen eine Grundvergütung sowie ein Ortszuschlag nach dem Bundesbesoldungsgesetz zugrunde liegt, wird die Grundvergütung um sieben vom Hundert erhöht.
+(3)
+Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz nicht zugrunde liegt, und Versorgungsbezüge, die in festen Beträgen festgesetzt sind, werden um zehn vom Hundert erhöht.

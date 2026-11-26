@@ -1,0 +1,3 @@
+# Art 6 § 5
+
+Der Ausgeber hat den Heimstätter vom Wegfall der Heimstätteneigenschaft in Kenntnis zu setzen und ihn darauf hinzuweisen, daß auch die besonderen erbrechtlichen Vorschriften für Reichsheimstätten aufgehoben wurden und daß es sich deshalb empfiehlt, ein etwa bestehendes Testament oder einen Erbvertrag darauf zu überprüfen, ob eine Anpassung erforderlich oder zweckmäßig ist.

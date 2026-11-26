@@ -1,0 +1,6 @@
+# Art 2 § 5 Waffen
+
+(1)
+Mitglieder ausländischer Streitkräfte sind während ihres Aufenthaltes in der Bundesrepublik Deutschland zum Besitz und zum Führen von Waffen nur insoweit berechtigt, als dies für den dienstlichen Zweck ihres Aufenthaltes unerläßlich ist. Diese Mitglieder müssen zum Besitz und Führen von Waffen ermächtigt sein. Einzelheiten sind in einer Vereinbarung zu regeln. Der ausländische Staat beachtet die deutschen Waffenrechtsvorschriften.
+(2)
+Mitglieder der ausländischen Streitkräfte sind zum Waffengebrauch im Rahmen des deutschen Notwehrrechts befugt.

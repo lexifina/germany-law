@@ -6,8 +6,5 @@
 
 ## Art 8 Übergangs- und Schlußvorschriften
 
-
-## Art 8
-
-
-## Art 8
+- [Art 8 I. Übergangsvorschriften](art-8-i.md)
+- [Art 8 II. Schlußvorschriften](art-8-ii.md)

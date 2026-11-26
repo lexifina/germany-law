@@ -1,0 +1,8 @@
+# Art 2 § 6
+
+(1)
+Die Wismut GmbH im Aufbau ist von Amts wegen unter Bezugnahme auf dieses Gesetz in das Handelsregister einzutragen.
+(2)
+Für die Eintragung in das Handelsregister sind dem Registergericht durch die Wismut GmbH im Aufbau innerhalb eines Monats nach Inkrafttreten dieses Gesetzes mitzuteilen:
+1. der Gegenstand des Unternehmens
+2. der Name jedes vorläufigen Geschäftsführers.

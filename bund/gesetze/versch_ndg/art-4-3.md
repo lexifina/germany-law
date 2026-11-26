@@ -1,0 +1,3 @@
+# Art 4 § 3
+
+Wird ein Anspruch aus einem Lebensversicherungsvertrag erhoben, nachdem die Person, auf welche die Lebensversicherung genommen worden war, außerhalb des Geltungsbereichs dieses Gesetzes für tot erklärt worden ist, so kann der Versicherer die Leistung insoweit verweigern, als der Anspruch den Betrag übersteigt, der sich ergeben würde, wenn der Zeitpunkt des Todes des Verschollenen nach den Vorschriften dieses Gesetzes festgestellt worden wäre.

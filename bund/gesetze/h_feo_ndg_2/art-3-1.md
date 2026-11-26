@@ -1,0 +1,6 @@
+# Art 3 § 1 Überleitung altrechtlicher Höfe
+
+(1)
+War eine Besitzung nach den bisher geltenden Vorschriften ein Hof und ist sie im Zeitpunkt des Inkrafttretens dieses Gesetzes im Grundbuch als Hof eingetragen, so behält sie bis zur Löschung des Hofvermerks die Eigenschaft als Hof, sofern sie nach den Vorschriften dieses Gesetzes Hof ist oder auf Grund einer Erklärung des Eigentümers werden kann.
+(2)
+War eine Besitzung, die nach den Vorschriften dieses Gesetzes weder Hof ist noch auf Grund einer Erklärung des Eigentümers werden kann, nach den bisher geltenden Vorschriften ein Hof und ist sie im Zeitpunkt des Inkrafttretens dieses Gesetzes im Grundbuch als Hof eingetragen, so gilt sie bis zur Löschung des Hofvermerks, längstens jedoch bis zum Ablauf des zweiten auf den Zeitpunkt des Inkrafttretens dieses Gesetzes folgenden Jahres, als Hof.

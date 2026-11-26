@@ -1,0 +1,6 @@
+# Art VII § 5 Feststellungsverfahren
+
+(1)
+Die obersten Bundesbehörden oder die von ihnen ermächtigten Stellen und die für das Besoldungsrecht zuständigen Minister der Länder teilen dem Bundesminister des Innern, für Bau und Heimat bis zum 1. Oktober jeden Jahres die Zahl der Besoldungsberechtigten (§ 3 Abs. 1) am 1. Juli des Feststellungsjahres und den für diesen Personenkreis im Monat Juli des Feststellungsjahres entstandenen Besoldungsaufwand (§ 3 Abs. 1) mit. Die sachliche und rechnerische Richtigkeit der Angaben ist festzustellen.
+(2)
+Der Bundesminister des Innern, für Bau und Heimat stellt den Anpassungszuschlag fest und gibt diesen bis zum 1. November jeden Jahres im Bundesanzeiger bekannt.

@@ -1,0 +1,6 @@
+# Art 2 § 5
+
+(1)
+Vereinbarungen nach § 368f Abs. 3 der Reichsversicherungsordnung sind erstmalig mit Wirkung vom 1. Juli 1978 zu treffen; hierbei ist von der Höhe der Gesamtvergütungen der beteiligten Krankenkassen im Jahre 1977 auszugehen. Bis zu diesem Zeitpunkt gelten die bestehenden Vergütungsregelungen fort.
+(2)
+Vereinbarungen nach § 368f Abs. 6 der Reichsversicherungsordnung sind erstmalig mit Wirkung vom 1. Juli 1978 unter Zugrundelegung des Durchschnitts der Aufwendungen der beteiligten Krankenkassen für Arzneimittel im Jahre 1977 zu treffen.

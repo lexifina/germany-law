@@ -1,0 +1,6 @@
+# Art 4 § 7
+
+(1)
+Geschäfte und Verhandlungen, die der Durchführung der §§ 2 bis 6 dieses Artikels dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind frei von Gebühren, Steuern und Auslagen; dies gilt auch für Beurkundungs- und Beglaubigungsgebühren, nicht aber für die Kosten eines Rechtsstreits.
+(2)
+Die Gebühren-, Steuer- und Auslagenfreiheit ist von der zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die Bundesknappschaft bestätigt, daß die Maßnahme der Durchführung der §§ 2 bis 6 dieses Artikels dient.

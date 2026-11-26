@@ -1,0 +1,3 @@
+# Art 3 § 2
+
+Für die in § 165 Abs. 1 Nr. 3 der Reichsversicherungsordnung bezeichneten Personen, die bei Inkrafttreten dieses Gesetzes eine Rente aus der Rentenversicherung der Arbeiter oder der Rentenversicherung der Angestellten beziehen und durch dieses Gesetz versicherungspflichtig werden, beginnt die Mitgliedschaft mit dem Tage, an dem die zuständige Kasse von der Versicherungspflicht Kenntnis erhält und die Mitgliedschaft feststellt. Dies gilt auch für die in § 165 Abs. 1 Nr. 3 der Reichsversicherungsordnung bezeichneten Personen, über deren Rentenantrag im Zeitpunkt des Inkrafttretens dieses Gesetzes noch nicht endgültig entschieden ist.

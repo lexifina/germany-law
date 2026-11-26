@@ -1,0 +1,6 @@
+# Art 2 § 3
+
+(1)
+Innerhalb eines Monats nach Inkrafttreten des Abkommens sind vorläufige Geschäftsführer zu bestellen. Bis zur Bestellung der vorläufigen Geschäftsführer sind deren Aufgaben von dem bisherigen Generaldirektor der Sowjetisch-Deutschen Aktiengesellschaft Wismut wahrzunehmen.
+(2)
+Die Vorschriften des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung über die Stellung und die Verantwortlichkeit der Geschäftsführer sind auf die in Absatz 1 genannten Personen anzuwenden.

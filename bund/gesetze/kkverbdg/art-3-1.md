@@ -1,0 +1,5 @@
+# Art 3 § 1
+
+(1)
+Die Vereinigung der Verbände der Ortskrankenkassen e.V., der Bundesverband der Landkrankenkassen, der Hauptverband der Betriebskrankenkassen und der Bundesverband der Innungskrankenkassen werden mit Inkrafttreten dieses Gesetzes Bundesverbände im Sinne des § 414 Abs. 3 der Reichsversicherungsordnung.
+(2)

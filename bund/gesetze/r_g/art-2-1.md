@@ -1,0 +1,12 @@
+# Art 2 § 1 Allgemeines
+
+(1)
+Anspruch auf Rente nach den Vorschriften dieses Artikels haben Personen,
+1. die die in diesem Artikel geregelten Anspruchsvoraussetzungen erfüllen,
+2. die am 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt im Beitrittsgebiet (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) hatten und
+3. deren Rente in der Zeit vom 1. Januar 1992 bis zum 31. Dezember 1996 beginnt,
+solange sie ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland haben.
+(2)
+Versicherte im Sinne dieses Artikels sind Personen, die vor Rentenbeginn rentenrechtliche Zeiten haben.
+(3)
+Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.

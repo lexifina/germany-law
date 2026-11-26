@@ -1,0 +1,4 @@
+# Art IX § 23 Fortgeltung von Regelungen außerhalb der
+Landesbesoldungsgesetze
+
+Soweit dieses Gesetz nicht etwas anderes bestimmt, bleiben nicht in Landesbesoldungsgesetzen enthaltene Regelungen über die Einstufung und Amtsbezeichnung der in § 5 aufgeführten Beamten der Gemeinden, Gemeindeverbände und der sonstigen der Aufsicht eines Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts bis zur Neuregelung der Ämter in den Landesbesoldungsordnungen weiterhin in Kraft. Sie treten spätestens nach Ablauf von zwei Jahren seit Inkrafttreten dieser Vorschrift außer Kraft und dürfen nicht zugunsten der Beamten geändert werden.

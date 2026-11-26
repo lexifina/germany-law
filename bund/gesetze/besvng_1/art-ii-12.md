@@ -1,0 +1,6 @@
+# Art II § 12
+
+(1)
+Dieser Abschnitt gilt für die Beamten der Länder, Gemeinden, Gemeindeverbände und der übrigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die der Aufsicht eines Landes unterstehen, sowie für die Richter im Landesdienst. Er gilt nicht für die Beamten der öffentlich-rechtlichen Religionsgesellschaften und ihrer Verbände.
+(2)
+Die Länder erlassen zu § 13 Abs. 5 und 6 sowie zu den §§ 15, 17, soweit es danach notwendig ist, Vorschriften zur Ausführung.

@@ -1,0 +1,3 @@
+# Art 2 § 6
+
+Auf Ärzte (Zahnärzte), die beim Inkrafttreten dieses Gesetzes Vertragsärzte der Ersatzkassen sind oder sich bis zu diesem Zeitpunkt um Teilnahme an der vertragsärztlichen Versorgung der Ersatzkassen beworben haben, ist § 525c Abs. 1 der Reichsversicherungsordnung nicht anzuwenden.

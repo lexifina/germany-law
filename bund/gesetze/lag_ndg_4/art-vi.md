@@ -1,0 +1,3 @@
+# Art VI Anwendung in Berlin
+
+Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1) auch im Land Berlin.

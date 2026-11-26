@@ -1,0 +1,3 @@
+# Art 4 § 3
+
+Das Selbstverwaltungsgesetz sowie die zu seiner Änderung und Durchführung erlassenen Vorschriften gelten im Saarland in der im übrigen Bundesgebiet geltenden Fassung; entgegenstehende und inhaltsgleiche Vorschriften treten außer Kraft.

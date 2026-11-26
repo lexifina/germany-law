@@ -1,0 +1,6 @@
+# Art 4 § 6
+
+(1)
+Gehört das Eigentum an einem Grundstück nach § 2 dieses Artikels zum Vermögen der Bundesknappschaft, so ist der Antrag auf Berichtigung des Grundbuchs von der Bundesknappschaft zu stellen. Der Antrag muß vom Vorsitzenden des Vorstands und von einem Mitglied der Geschäftsführung der Bundesknappschaft unterschrieben und mit dem Dienstsiegel versehen sein. Zum Nachweis des Eigentums gegenüber dem Grundbuchamt genügt die in den Antrag aufzunehmende Erklärung, daß das Grundstück zum Vermögen der Bundesknappschaft gehört. Das Eigentum ist einzutragen für die "Bundesknappschaft, Körperschaft des öffentlichen Rechts".
+(2)
+Absatz 1 gilt für andere im Grundbuch eingetragene Rechte entsprechend.

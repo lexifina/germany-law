@@ -1,0 +1,3 @@
+# Art 6 Inkrafttreten
+
+Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

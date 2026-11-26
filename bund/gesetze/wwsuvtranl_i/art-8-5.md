@@ -1,0 +1,3 @@
+# Art 8 § 5
+
+Die zuständige Stelle der Bundesrepublik Deutschland kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung das Nähere über die Aufstellung, Prüfung und Bestätigung der Umstellungsrechnung sowie über das Verfahren der Zuteilung und des Erwerbs der Ausgleichsforderungen regeln.

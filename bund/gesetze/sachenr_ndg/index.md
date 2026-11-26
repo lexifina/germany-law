@@ -24,14 +24,7 @@
 
 ## Art 8 Übergangs- und Schlußbestimmungen
 
-
-## Art 8
-
-
-## Art 8
-
-
-## Art 8
-
-
-## Art 8
+- [Art 8 § 1](art-8-1.md)
+- [Art 8 § 2](art-8-2.md)
+- [Art 8 § 3](art-8-3.md)
+- [Art 8 § 4](art-8-4.md)

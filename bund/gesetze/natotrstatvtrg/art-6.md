@@ -1,0 +1,10 @@
+# Art 6
+
+(1)
+Ansprüche der in Artikel VIII Abs. 5 des NATO-Truppenstatuts genannten Art gegen die Entsendestaaten sind zur Vermeidung des Ausschlusses bei der zuständigen deutschen Behörde innerhalb einer Frist von drei Monaten von dem Zeitpunkt an geltend zu machen, in dem der Geschädigte von dem Schaden und von Umständen Kenntnis erlangt hat, aus denen sich ergibt, daß eine Truppe oder ein ziviles Gefolge für den Schaden rechtlich verantwortlich ist oder daß ein Mitglied oder ein Bediensteter einer Truppe oder eines zivilen Gefolges den Schaden verursacht hat.
+(2)
+Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb der Frist bei einer Dienststelle der Truppe oder des zivilen Gefolges geltend gemacht worden ist, die allgemein für die Behandlung von Entschädigungsansprüchen zuständig ist oder der an dem Schadensfall beteiligte Mitglieder oder Bedienstete der Truppe oder des zivilen Gefolges unterstehen.
+(3)
+Auf die Frist sind die Vorschriften der Zivilprozeßordnung über Notfristen entsprechend anzuwenden.
+(4)
+Nach Ablauf von zwei Jahren seit dem Zeitpunkt des schädigenden Ereignisses kann der Anspruch nicht mehr geltend gemacht werden. War der Schaden vor Ablauf dieser Frist nicht erkennbar, so beginnt der Lauf der Frist mit dem Zeitpunkt, in dem der Geschädigte bei Anwendung der im Verkehr erforderlichen Sorgfalt von dem Schaden hätte Kenntnis erhalten können; § 852 Abs. 1 Halbsatz 2 des Bürgerlichen Gesetzbuchs bleibt unberührt.

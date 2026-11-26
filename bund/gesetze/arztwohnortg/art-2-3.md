@@ -1,0 +1,3 @@
+# Art 2 § 3
+
+Die in Artikel 1 Nr. 9 vorgesehene Änderung des Inhalts der Krankenversichertenkarte ist jeweils bei der Neuausstellung der Krankenversichertenkarte vorzunehmen; § 291 Abs. 3 des Fünften Buches Sozialgesetzbuch gilt entsprechend.

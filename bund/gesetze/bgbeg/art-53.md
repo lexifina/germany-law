@@ -1,0 +1,6 @@
+# Art 53
+
+(1)
+Ist in einem Falle des Artikel 52 die Entschädigung dem Eigentümer eines Grundstücks zu gewähren, so finden auf den Entschädigungsanspruch die Vorschriften des § 1128 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Erhebt ein Berechtigter innerhalb der im § 1128 bestimmten Frist Widerspruch gegen die Zahlung der Entschädigung an den Eigentümer, so kann der Eigentümer und jeder Berechtigte die Eröffnung eines Verteilungsverfahrens nach den für die Verteilung des Erlöses im Falle der Zwangsversteigerung geltenden Vorschriften beantragen. Die Zahlung hat in diesem Fall an das für das Verteilungsverfahren zuständige Gericht zu erfolgen.
+(2)
+Ist das Recht des Dritten eine Reallast, eine Hypothek, eine Grundschuld oder eine Rentenschuld, so erlischt die Haftung des Entschädigungsanspruchs, wenn der beschädigte Gegenstand wiederhergestellt oder für die entzogene bewegliche Sache Ersatz beschafft ist. Ist die Entschädigung wegen Benutzung des Grundstücks oder wegen Entziehung oder Beschädigung von Früchten oder von Zubehörstücken zu gewähren, so finden die Vorschriften des § 1123 Abs. 2 Satz 1 und des § 1124 Abs. 1 und 3 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.

@@ -1,0 +1,3 @@
+# Art 4 § 2
+
+In den Fällen des § 1 kann das Gericht im Urteil von Strafe absehen oder die Strafe nach seinem Ermessen mildern; dabei kann es bis zum gesetzlichen Mindestmaß der angedrohten Strafe herabgehen oder statt auf Freiheitsstrafe auf Geldstrafe erkennen. Beabsichtigt das Gericht, das Verfahren nach § 153b Abs. 2 der Strafprozeßordnung einzustellen, so ist die nach dieser Vorschrift erforderliche Zustimmung der Staatsanwaltschaft vom Generalbundesanwalt zu erteilen.

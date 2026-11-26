@@ -1,0 +1,6 @@
+# Art III § 2 Geheimhaltungsbedürftige internationale Anmeldungen
+
+(1)
+Das Deutsche Patent- und Markenamt prüft alle bei ihm als Anmeldeamt eingereichten internationalen Anmeldungen darauf, ob mit ihnen Patentschutz für eine Erfindung nachgesucht wird, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend; § 53 des Patentgesetzes ist anzuwenden.
+(2)
+Ergibt die Prüfung nach Absatz 1, daß die Erfindung ein Staatsgeheimnis ist, so ordnet das Deutsche Patent- und Markenamt von Amts wegen an, daß die Anmeldung nicht weitergeleitet wird und jede Bekanntmachung unterbleibt. Mit der Rechtskraft der Anordnung gilt die internationale Anmeldung als eine von Anfang an beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung, für die eine Anordnung nach § 50 Abs. 1 des Patentgesetzes ergangen ist. Die für die internationale Anmeldung gezahlte Übermittlungsgebühr wird auf die für das Anmeldeverfahren nach § 34 des Patentgesetzes zu zahlende Gebühr nach dem Patenkostengesetz verrechnet; ein Überschuß wird zurückgezahlt.

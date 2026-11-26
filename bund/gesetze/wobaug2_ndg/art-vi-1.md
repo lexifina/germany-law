@@ -1,0 +1,3 @@
+# Art VI § 1
+
+Hat ein Mieter oder für ihn ein Dritter dem Vermieter mit Rücksicht auf die Vermietung einer Wohnung auf Grund vertraglicher Verpflichtung einen verlorenen Zuschuß, insbesondere einen verlorenen Baukostenzuschuß, geleistet, und wird das Mietverhältnis nach dem 31. Oktober 1965 beendigt, so hat der Vermieter die Leistung, soweit sie nicht durch die Dauer des Mietverhältnisses als getilgt anzusehen ist, nach Maßgabe des § 347 des Bürgerlichen Gesetzbuchs zurückzuerstatten. Erfolgt die Beendigung des Mietverhältnisses wegen eines Umstandes, den der Vermieter nicht zu vertreten hat, so hat er die Leistung nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung zurückzuerstatten.

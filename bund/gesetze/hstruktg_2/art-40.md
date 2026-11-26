@@ -1,0 +1,3 @@
+# Art 40 Berlin-Klausel
+
+Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund des Einkommensteuergesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.

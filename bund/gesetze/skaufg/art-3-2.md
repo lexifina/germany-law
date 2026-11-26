@@ -1,0 +1,3 @@
+# Art 3 § 2
+
+Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit gemäß Artikel 2 § 7 Abs. 2 wird von der Staatsanwaltschaft erklärt.

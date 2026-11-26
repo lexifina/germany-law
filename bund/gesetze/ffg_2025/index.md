@@ -50,6 +50,7 @@
 
 #### Abschnitt 2
 
+- [Abschnitt 2](abschnitt-2.md)
 - [§ 26](0026.md)
 - [§ 27](0027.md)
 - [§ 28](0028.md)

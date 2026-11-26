@@ -1,0 +1,7 @@
+# Art IX § 17 Aufhebung von bundesrechtlichen Vorschriften über
+Abgelegenheitszulagen und anderen Zulagen
+
+(1)
+Die bundesrechtlichen Vorschriften über Zulagen, die wegen der Abgelegenheit einer Dienststelle gewährt werden, treten außer Kraft; dies gilt auch für die Zulagen oder Zuwendungen zur Abgeltung besonderer bei der Bewertung des Amtes nicht berücksichtigter Erschwernisse, die für diesen Bereich gewährt werden. Zuwendungen zur Abgeltung von Aufwand auf Grund von in Satz 1 bezeichneten Tatbeständen dürfen nicht gewährt werden.
+(2)
+§ 2 Abs. 4 des Ersten Besoldungsneuregelungsgesetzes vom 6. Juli 1967 (Bundesgesetzbl. I S. 629) wird gestrichen. Sieht ein völkerrechtlicher Vertrag für einen Dienstort im Ausland die Gewährung einer Zulage vor, so bleibt die Zulage für Beamte mit dienstlichem Wohnsitz an diesem Ort aufrechterhalten.

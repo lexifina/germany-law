@@ -1,0 +1,3 @@
+# Art II § 12 Entzug des Geschäftssitzes eines zugelassenen Vertreters
+
+Zuständige Behörde für den Entzug der Berechtigung, einen Geschäftssitz nach Artikel 134 Abs. 6 Satz 1 und Abs. 8 des Europäischen Patentübereinkommens zu begründen, ist die Landesjustizverwaltung des Landes, in dem der Geschäftssitz begründet worden ist. Die Landesregierungen werden ermächtigt, die Zuständigkeit der Landesjustizverwaltung durch Rechtsverordnung auf den Präsidenten des Oberlandesgerichts, den Präsidenten des Landgerichts oder den Präsidenten des Amtsgerichts des Bezirks zu übertragen, in dem der Geschäftssitz begründet worden ist. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.

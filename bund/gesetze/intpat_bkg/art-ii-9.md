@@ -1,0 +1,8 @@
+# Art II § 9 Umwandlung
+
+(1)
+Hat der Anmelder einer europäischen Patentanmeldung, mit der für die Bundesrepublik Deutschland Schutz begehrt wird, einen Umwandlungsantrag nach Artikel 135 Abs. 1 Buchstabe a des Europäischen Patentübereinkommens gestellt und hierbei angegeben, daß er für die Bundesrepublik Deutschland die Einleitung des Verfahrens zur Erteilung eines nationalen Patents wünscht, so gilt die europäische Patentanmeldung als eine mit der Stellung des Umwandlungsantrags beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung; Artikel 66 des Europäischen Patentübereinkommens bleibt unberührt.
+(2)
+Der Anmelder hat innerhalb einer Frist von drei Monaten nach Zustellung der Aufforderung des Deutschen Patent- und Markenamt eine deutsche Übersetzung der europäischen Patentanmeldung in der ursprünglichen Fassung dieser Anmeldung einzureichen. Wird die Übersetzung nicht rechtzeitig eingereicht, so wird die Patentanmeldung zurückgewiesen.
+(3)
+(weggefallen)

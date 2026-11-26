@@ -1,0 +1,9 @@
+# Art 3 § 1
+
+(1)
+Die Wismut GmbH im Aufbau oder die Wismut GmbH kann ihr Vermögen nach Maßgabe der folgenden Bestimmungen spalten. Die Spaltung ist möglich
+1. als Aufspaltung zur Neugründung unter Auflösung ohne Abwicklung der übertragenden Gesellschaft durch gleichzeitige Übertragung ihrer Vermögensteile jeweils als Gesamtheit auf andere dadurch gegründete neue Kapitalgesellschaften oder
+2. als Abspaltung zur Neugründung unter Fortbestand der übertragenden Gesellschaft durch Übertragung eines Teils oder mehrerer Teile des Vermögens dieser Gesellschaft jeweils als Gesamtheit auf eine oder mehrere dadurch gegründete neue Kapitalgesellschaft oder Kapitalgesellschaften
+gegen Gewährung von Geschäftsanteilen an den neuen Gesellschaften an die Bundesrepublik Deutschland.
+(2)
+Die Abspaltung eines Vermögensteils der Wismut GmbH im Aufbau, der die Stillegung der Bergbaubetriebe, die Sanierung und Rekultivierung der Bergbaualtlasten des Unternehmens durchführen soll, soll zum 1. Januar 1992 erfolgen.

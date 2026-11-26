@@ -42,6 +42,7 @@ Aufgabe
 
 ## Abschnitt 5a
 
+- [Abschnitt 5a](abschnitt-5a.md)
 - [(XXXX) §§ 25a bis 25d (weggefallen)](xxxx-25a-bis-25d.md)
 
 ## Sechster Abschnitt Jahresabschluss, Kostenrechnung,

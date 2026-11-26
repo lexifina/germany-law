@@ -1,0 +1,3 @@
+# Art 6 § 3
+
+§ 27 Abs. 7 des Wohnraumförderungsgesetzes und § 7 Abs. 3 des Wohnungsbindungsgesetzes in Verbindung mit § 27 Abs. 7 des Wohnraumförderungsgesetzes sowie die landesrechtlichen Vorschriften über Belegungsbindungen bleiben unberührt.

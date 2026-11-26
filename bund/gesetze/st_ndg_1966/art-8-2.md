@@ -1,0 +1,3 @@
+# Art 8 § 2
+
+Bedingte Steuerschulden für Mineralöle erhöhen sich mit dem Inkrafttreten dieses Gesetzes auf den Betrag, der sich bei Anwendung der Steuersätze nach § 1 ergibt.

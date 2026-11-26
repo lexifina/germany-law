@@ -12,15 +12,12 @@ Einrichtung
 
 ### Art X Übergangsvorschriften
 
+- [Art X Übergangsvorschriften](art-x.md)
 
 ### Art XI
 
-
-### Art XI
-
-
-### Art XI
-
+- [Art XI § 1](art-xi-1.md)
+- [Art XI § 2](art-xi-2.md)
 
 ## Zweiter Abschnitt Witwerversorgung
 
@@ -30,6 +27,7 @@ Einrichtung
 
 ### Art XVI
 
+- [Art XVI](art-xvi.md)
 
 ## Dritter Abschnitt Sonstige Änderungen des
 Beamtenrechts
@@ -43,5 +41,8 @@ Beamtenrechts
 
 ### Art XIX
 
+- [Art XIX](art-xix.md)
 
 ### Art XX
+
+- [Art XX](art-xx.md)

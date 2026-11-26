@@ -1,0 +1,3 @@
+# Art 2 § 2
+
+Bei Krediten, die vor dem Inkrafttreten dieses Gesetzes gewährt worden sind, ist § 18 des Gesetzes über das Kreditwesen in der Fassung dieses Gesetzes von dem Zeitpunkt an anzuwenden, zu dem der Kredit frühestens von dem Kreditinstitut gekündigt werden kann oder fällig wird.

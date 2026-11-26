@@ -1,0 +1,3 @@
+# Art 2 § 3 Auslandstaten
+
+Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für die Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem geschäftlichen Verkehr (§ 2), wenn die Tat von einem Deutschen im Ausland begangen wird.

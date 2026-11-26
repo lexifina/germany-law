@@ -1,0 +1,3 @@
+# Art 4 § 2 Anpassung laufender Krankengeldzahlungen
+
+§ 47 des Fünften Buches Sozialgesetzbuch in der ab 1. Januar 1997 geltenden Fassung ist vom Inkrafttreten dieses Gesetzes an auch auf Krankengeldzahlungen anzuwenden, die vor dem 1. Januar 1997 begonnen haben.

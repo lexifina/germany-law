@@ -1,0 +1,7 @@
+# Art V § 1
+
+Wird der Antrag auf Gewährung von Kriegsschadenrente bis zum 31. Dezember 1955 gestellt, wird Kriegsschadenrente abweichend von § 287 des Lastenausgleichsgesetzes bei Vorliegen der sonstigen Voraussetzungen in folgenden Fällen rückwirkend gewährt:
+1. bei Personen, die auf Grund dieses Gesetzes zur Geltendmachung von Schäden erstmalig berechtigt sind, mit Wirkung vom 1. April 1952 ab,
+2. bei Personen, die wegen Überschreitens des Einkommenshöchstbetrages nach § 267 des Lastenausgleichsgesetzes Unterhaltshilfe bisher nicht erhalten haben, mit Wirkung vom 1. Juli 1954 ab,
+3. bei Personen, die wegen Überschreitens des Einkommenshöchstbetrages nach § 279 des Lastenausgleichsgesetzes Entschädigungsrente bisher nicht erhalten konnten, mit Wirkung vom 1. April 1952 ab,
+frühestens jedoch von dem Ersten des Monats ab, in dem die Voraussetzungen für die Gewährung von Kriegsschadenrente eingetreten sind.

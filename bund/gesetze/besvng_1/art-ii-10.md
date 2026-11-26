@@ -1,0 +1,3 @@
+# Art II § 10 Übergangsvorschrift für Erschwerniszulagen
+
+Regelungen über die Gewährung von Zulage zur Abgeltung besonderer bei der Bewertung des Amtes nicht berücksichtigter Erschwernisse, die bis zur Verkündung dieses Gesetzes erlassen sind, sind bis zum Inkrafttreten einer Rechtsverordnung nach § 21 Abs. 3 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes oder bis zur Aufhebung durch die Bundesregierung weiter anzuwenden. Sie treten spätestens mit Ablauf des 31. Dezember 1972 außer Kraft; Zahlungen dürfen von diesem Zeitpunkt an auf Grund der bezeichneten Regelungen nicht mehr geleistet werden.

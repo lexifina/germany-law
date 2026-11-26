@@ -1,0 +1,6 @@
+# Art 97 § 1b Steuerpflichtige wirtschaftliche Geschäftsbetriebe
+
+(1)
+§ 64 Absatz 6 der Abgabenordnung in der Fassung des Artikels 5 des Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar 2000 anzuwenden.
+(2)
+§ 64 Absatz 3 der Abgabenordnung in der Fassung des Artikels 5 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 363) ist erstmals für den Veranlagungszeitraum 2026 anzuwenden.

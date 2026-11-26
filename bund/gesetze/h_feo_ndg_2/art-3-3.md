@@ -1,0 +1,3 @@
+# Art 3 § 3 Erbrechtliche Verhältnisse
+
+Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor dem Inkrafttreten dieses Gesetzes gestorben ist, die bisher geltenden Vorschriften maßgebend, soweit nachfolgend nichts anderes bestimmt ist.

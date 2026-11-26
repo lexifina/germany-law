@@ -1,0 +1,3 @@
+# Art 4 § 1
+
+Das D-Markbilanzgesetz in der Fassung der Bekanntmachung vom 18. April 1991 (BGBl. I S. 971, 1951) findet auf die gemäß Artikel 2 § 1 umgewandelte Gesellschaft mit beschränkter Haftung im Aufbau mit der Maßgabe Anwendung, daß die Umwandlung der Sowjetisch-Deutschen Aktiengesellschaft Wismut auch dann eine Umwandlung im Sinne des § 1 Abs. 5 D-Markbilanzgesetz darstellt, wenn die Umwandlung nach dem 30. Juni 1991 vollzogen wird; die nach dem D-Markbilanzgesetz erstellte DM-Eröffnungsbilanz der Sowjetisch-Deutschen Aktiengesellschaft Wismut kann als DM-Eröffnungsbilanz der gemäß Artikel 2 § 1 umgewandelten Gesellschaft mit beschränkter Haftung verwendet werden.

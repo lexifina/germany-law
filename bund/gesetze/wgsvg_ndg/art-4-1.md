@@ -1,0 +1,3 @@
+# Art 4 § 1
+
+§ 14 Abs. 2 und § 15 Satz 4 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung gelten nur für Versicherungsfälle, die nach dem Inkrafttreten dieses Gesetzes eintreten. Im übrigen gilt dieses Gesetz auch für Versicherungsfälle vor seinem Inkrafttreten.

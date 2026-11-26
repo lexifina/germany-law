@@ -1,0 +1,16 @@
+# Art 1 § 1
+
+Von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises nach § 12 Absatz 1 des Auslandsfahrzeug-Pflichtversicherungsgesetzes sind die Fahrer folgender Fahrzeuge ausgenommen:
+1. Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes Kennzeichen aus einem Mitgliedstaat der Europäischen Union führen, unabhängig davon, ob es sich um ein endgültiges oder vorläufiges Kennzeichen handelt;
+2. zweirädrige Kraftfahrzeuge (einschließlich Fahrräder mit Hilfsmotor), für die ein Kennzeichen nicht vorgeschrieben ist und deren Führer seinen gesetzlichen Wohnsitz in
+  Dänemark (ohne Grönland),
+    Finnland,
+    Irland oder
+    Schweden
+  hat;
+3. zweirädrige Kraftfahrzeuge (einschließlich Fahrräder mit Hilfsmotor) mit einem Hubraum von nicht mehr als 50 ccm, für die ein Kennzeichen nicht vorgeschrieben ist und deren Führer seinen gesetzlichen Wohnsitz in
+  Spanien
+  hat;
+4. Fahrräder mit Hilfsmotor, für die ein Kennzeichen nicht vorgeschrieben ist, die einen Hubraum von nicht mehr als 50 ccm haben und deren Führer seinen gesetzlichen Wohnsitz in
+  Frankreich (ohne Überseegebiete)
+  hat.

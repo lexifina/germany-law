@@ -1,0 +1,3 @@
+# Art I § 2
+
+§ 1 Nr. 1 und 2 gilt auch für die vor dem Inkrafttreten aus dem Bundestag ausgeschiedenen Mitglieder sowie für ihre Hinterbliebenen.

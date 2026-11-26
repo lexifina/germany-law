@@ -1,0 +1,4 @@
+# Art 3a Festsetzung des Vertragsinhalts
+durch das Schiedsamt
+
+Kommen die Vereinbarungen nach § 84 Abs. 1 und 6 des Fünften Buches Sozialgesetzbuch sowie nach Artikel 3 § 1 Abs. 1 Satz 1 und Abs. 2 innerhalb der dort genannten Fristen ganz oder teilweise nicht zustande, setzt das von den Vertragsparteien gebildete Schiedsamt (§ 89 Abs. 1 und 2 des Fünften Buches Sozialgesetzbuch) den Vertragsinhalt innerhalb eines Zeitraums von zwei Monaten nach Fristablauf fest. Kommen die Vereinbarungen nach § 84 Abs. 7 und nach Artikel 3 § 1 Abs. 1 Satz 3 und Abs. 2 innerhalb der dort genannten Fristen ganz oder teilweise nicht zustande, setzt das von den Vertragsparteien gebildete Schiedsamt (§ 89 Abs. 1 und 4 des Fünften Buches Sozialgesetzbuch) den Vertragsinhalt innerhalb eines Zeitraums von einem Monat nach Fristablauf fest.

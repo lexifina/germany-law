@@ -1,0 +1,3 @@
+# Art IV § 17
+
+Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsordnungen A oder B und ein Ortszuschlag nach den Landesbesoldungsgesetzen zugrunde liegen, treten an die Stelle der bisherigen Sätze der Grundgehälter die Sätze der Grundgehälter nach Anlage 1 dieses Gesetzes, an die Stelle der bisherigen Sätze des Ortszuschlags die Sätze des Ortszuschlags nach Anlage 3 dieses Gesetzes; Artikel I § 4 und Artikel II § 13 dieses Gesetzes gelten entsprechend.

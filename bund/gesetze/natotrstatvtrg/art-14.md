@@ -1,0 +1,7 @@
+# Art 14
+
+Für Anträge, die einen Anspruch auf Ersatzleistung wegen Manöverschäden (§ 76 des Bundesleistungsgesetzes) zum Gegenstand haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
+1. Das Bundesministerium der Finanzen wird ermächtigt, durch Verwaltungsvorschrift mit Zustimmung des Bundesrates zu bestimmen, daß die Anträge allgemein oder für bestimmte Gruppen von Manöverschäden auch bei der örtlich zuständigen Gemeindeverwaltung gestellt werden können.
+2. Die Ersatzleistung soll tunlichst im Wege der Vereinbarung geregelt werden. Die nach Artikel 8 zuständige Behörde hat auf den Abschluß einer Vereinbarung mit den Berechtigten hinzuwirken.
+3. Kommt innerhalb einer Frist von einem Monat nach Eingang des Antrags eine Vereinbarung zustande, so bedarf es einer Bestätigung nach Artikel 10 Abs. 1 nicht.
+4. Kommt eine Vereinbarung nicht zustande, so bestimmt sich das weitere Verfahren nach § 79 Abs. 2 und 3 Satz 3 des Bundesleistungsgesetzes in der durch Artikel 15 geänderten Fassung. Die nach Artikel 8 zuständige Behörde hat den Antrag der Behörde vorzulegen, die nach § 79 Abs. 2 des Bundesleistungsgesetzes die Ersatzleistung festzusetzen hat. Der Antragsteller kann verlangen, daß der Antrag dieser Behörde vorgelegt wird, wenn seit Eingang des Antrags drei Monate vergangen sind, ohne daß eine Vereinbarung zustande gekommen ist. Die Artikel 11 bis 13 sind nicht anwendbar.

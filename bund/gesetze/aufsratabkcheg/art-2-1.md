@@ -1,0 +1,8 @@
+# Art 2 § 1
+
+(1)
+An allen Sitzungen des Aufsichtsrats können in Unternehmen mit in der Regel nicht mehr als 150 Arbeitnehmern zwei Arbeitnehmervertreter, in Unternehmen mit in der Regel mehr als 150 Arbeitnehmern drei Arbeitnehmervertreter beratend und ohne Stimmrecht teilnehmen. An den Sitzungen der Ausschüsse des Aufsichtsrats können die Arbeitnehmervertreter teilnehmen, wenn der Vorsitzer des Aufsichtsrats nicht etwas anderes bestimmt.
+(2)
+Die Arbeitnehmervertreter sind zu allen Sitzungen, an denen sie nach Absatz 1 teilnehmen können, einzuladen.
+(3)
+Die Arbeitnehmervertreter sind nicht Mitglieder des Aufsichtsrats.

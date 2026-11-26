@@ -1,0 +1,3 @@
+# Art 2 § 8
+
+Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in § 11 Nr. 1 Buchstabe b des Gesetzes über die Krankenversicherung der Landwirte genannten Leistungen werden bis zum 1. Januar 1978 nach den Voraussetzungen erbracht, die nach den vor Inkrafttreten dieses Gesetzes geltenden Rechtsvorschriften zu erfüllen waren.

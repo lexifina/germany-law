@@ -1,0 +1,3 @@
+# Art IX § 28 Übergangsregelung für Sicherheitsdienste
+
+Regelungen über die Gewährung von Zulagen zur pauschalierten Abgeltung der Erschwernisse und Aufwendungen bei den Sicherheitsdiensten des Bundes oder der Länder sind bis zum Inkrafttreten der Vorbemerkung Nr. 8 zu den Bundesbesoldungsordnungen A und B in der Fassung dieses Gesetzes unverändert weiter anzuwenden; das Land Hessen darf eine gestaffelte Aufwandsentschädigung bis zu 150 Deutsche Mark gewähren.

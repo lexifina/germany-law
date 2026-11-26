@@ -1,0 +1,6 @@
+# Art II § 5 Anspruch gegen den nichtberechtigten Patentanmelder
+
+(1)
+Der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens Berechtigte, dessen Erfindung von einem Nichtberechtigten angemeldet ist, kann vom Patentsucher verlangen, daß ihm der Anspruch auf Erteilung des europäischen Patents abgetreten wird. Hat die Patentanmeldung bereits zum europäischen Patent geführt, so kann er vom Patentinhaber die Übertragung des Patents verlangen.
+(2)
+Der Anspruch nach Absatz 1 Satz 2 kann innerhalb einer Ausschlußfrist von zwei Jahren nach dem Tag gerichtlich geltend gemacht werden, an dem im Europäischen Patentblatt auf die Erteilung des europäischen Patents hingewiesen worden ist, später nur dann, wenn der Patentinhaber bei der Erteilung oder dem Erwerb des Patents Kenntnis davon hatte, daß er kein Recht auf das europäische Patent hatte.
