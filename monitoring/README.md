@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Deutschland: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 07:01 UTC, Gesetze im Internet (Bundesministerium der Justiz): 7066 Adressen gelesen; 1 hinzugefügt, 21 geändert, 0 entfernt; Änderungen gefunden; 14 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `audit-disagrees`.
+**Letzte Prüfung:** 2026-11-27 07:01 UTC, Gesetze im Internet (Bundesministerium der Justiz): 7050 Adressen gelesen; 0 hinzugefügt, 9 geändert, 0 entfernt; Änderungen gefunden; 13 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`, `audit-disagrees`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-26 07:01 UTC | Änderungen gefunden | beobachtet |
+| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-27 07:01 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:01](checks/2026-11.md#de-gii-20261127t050105z) | gii | 7050 | 0 | 9 | 0 | 13 (0) | Änderungen gefunden `verify-differ` `audit-disagrees` | [1](https://github.com/lexifina/germany-law/compare/d14796a08f2b...3572f358087b) |
 | [2026-11-26 05:01](checks/2026-11.md#de-gii-20261126t050106z) | gii | 7066 | 1 | 21 | 0 | 14 (0) | Änderungen gefunden `audit-disagrees` | [5](https://github.com/lexifina/germany-law/compare/b90679ca67fc...c6362a0a9f63) |
 | [2026-11-25 05:01](checks/2026-11.md#de-gii-20261125t050103z) | gii | 7072 | 3 | 28 | 3 | 14 (0) | Änderungen gefunden `verify-differ` | [3](https://github.com/lexifina/germany-law/compare/5dabc17ee120...b6a371018158) |
 | [2026-11-24 05:08](checks/2026-11.md#de-gii-20261124t050802z) | gii | 7054 | 1 | 12 | 1 | 8 (0) | Änderungen gefunden `audit-disagrees` | [4](https://github.com/lexifina/germany-law/compare/42644a9080d2...b54399c9f0a8) |

@@ -8,6 +8,6 @@ Wie global-law die Quellen jedes Landes beobachtet: [global-law WATCHING.md](htt
 
 | Quelle | Was gelesen wird | Ordner | Wie oft | Zuletzt gelesen | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | das Verzeichnis aller Bundesgesetze und -verordnungen (gii-toc.xml) und die letzte Änderung der XML-Datei jeder Vorschrift (HEAD ihrer xml.zip); die XML-Datei jeder neuen oder geänderten Vorschrift; jeden Tag ein Siebtel der Vorschriften hier | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-26 05:01 UTC | beobachtet |
+| [Gesetze im Internet (Bundesministerium der Justiz)](https://www.gesetze-im-internet.de) | das Verzeichnis aller Bundesgesetze und -verordnungen (gii-toc.xml) und die letzte Änderung der XML-Datei jeder Vorschrift (HEAD ihrer xml.zip); die XML-Datei jeder neuen oder geänderten Vorschrift; jeden Tag ein Siebtel der Vorschriften hier | `bund/gesetze/`, `grundgesetz/` | täglich | 2026-11-27 05:01 UTC | beobachtet |
 
 Die Quellen werden im Rahmen ihrer robots.txt und Nutzungsbedingungen gelesen, mit Pausen zwischen den Anfragen.
