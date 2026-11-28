@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Gesetze im Internet (Bundesministerium der Justiz) · `germany/bund/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 07:01 UTC**.
-- Vorschriften hier: 6 154; aktuell gegenüber der Quelle: 6 142; an der Quelle geändert seit der Fassung hier: 8; nicht mehr an der Quelle: 4.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-28 13:18 UTC**.
+- Vorschriften hier: 6 154; aktuell gegenüber der Quelle: 6 120; an der Quelle geändert seit der Fassung hier: 30; nicht mehr an der Quelle: 4.
 - In diesem Lesen mit der Quelle verglichen: 880 der 6 154 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 13 (von einer Prüfung zurückgehalten: 9, hier vorhanden, an der Quelle nicht mehr: 4); ohne Grund: 0.
+- Nicht veröffentlicht: 35 (von einer Prüfung zurückgehalten: 31, hier vorhanden, an der Quelle nicht mehr: 4); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

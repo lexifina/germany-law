@@ -1,44 +1,45 @@
 {
- "generated": "2026-11-27T07:47:17Z",
+ "generated": "2026-11-28T13:19:00Z",
  "latest": {
   "gii|germany/bund/acts": {
-   "attempt": 1,
+   "attempt": 5,
    "audit": {
-    "match_neither": 1,
-    "match_new": 4,
+    "match_neither": 2,
+    "match_new": 3,
     "match_old": 0,
     "method": "read again as the act's HTML page on Gesetze im Internet (BJNR….html, the whole act; the check and verify read its xml.zip): the words of the folder against the page's norms (footnotes, the frame norm's citation and Stand box, and an Inhaltsübersicht's body where the XML holds it as a TOC the converter does not write, left out) with the runner's word check (>= 99.5% of written words on the page, >= 97% of the page's words written)",
     "rows": [
      {
-      "id": "altzertg",
+      "id": "rvo",
       "published": true,
-      "read": "https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html",
-      "verdict": "match_new"
-     },
-     {
-      "id": "amstprv",
-      "published": false,
-      "read": "https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html",
-      "verdict": "match_new"
-     },
-     {
-      "id": "albeitrbek_2019",
-      "published": false,
-      "read": "https://www.gesetze-im-internet.de/albeitrbek_2019/BJNR203100018.html",
+      "read": "https://www.gesetze-im-internet.de/rvo/BJNR005090911.html",
       "verdict": "match_neither",
-      "why": "words: 406/407 written found, 406/436 source written"
+      "why": "words: 1315/1369 written found, 1315/3768 source written"
      },
      {
-      "id": "svrv_1999",
-      "published": false,
-      "read": "https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html",
+      "id": "seeschstro_1971",
+      "published": true,
+      "read": "https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html",
       "verdict": "match_new"
      },
      {
-      "id": "schwsalmov",
-      "published": false,
-      "read": "https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html",
+      "id": "strsaareg",
+      "published": true,
+      "read": "https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html",
       "verdict": "match_new"
+     },
+     {
+      "id": "agrargeoschdg",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/agrargeoschdg/BJNR0090B0026.html",
+      "verdict": "match_new"
+     },
+     {
+      "id": "m_nz10dmbek_1999-11-23",
+      "published": false,
+      "read": "https://www.gesetze-im-internet.de/m_nz10dmbek_1999-11-23/BJNR248300999.html",
+      "verdict": "match_neither",
+      "why": "words: 256/257 written found, 256/295 source written"
      }
     ],
     "sampled": 5,
@@ -46,102 +47,90 @@
    },
    "census": {
     "checked": 880,
-    "current": 6142,
+    "current": 6120,
     "gone": 4,
     "held": 6154,
     "newest_at_source": "bartschv_2005",
     "newest_in_repo": "bartschv_2005",
-    "pending": 8,
+    "pending": 30,
     "repo": 6150,
     "source_in_scope": 6151
    },
-   "check_id": "de-gii-20261127T050105Z",
+   "check_id": "de-gii-20261128T100103Z",
    "commits": {
     "count": 1,
-    "from": "d14796a08f2bd9a7588123df2bef2c92d5b22b3e",
-    "to": "3572f358087bf9e07d0e5174788d654debecc3a3"
+    "from": "417b9de7f5e82b97bb1ca837d348edcb325fa27d",
+    "to": "14676b312991e5f538f7fe9030eb3171a214114d"
    },
    "corpus": "germany/bund/acts",
    "error": null,
-   "finished": "2026-11-27T07:01:17Z",
+   "finished": "2026-11-28T13:18:59Z",
    "flags": [
     {
-     "detail": "25 of 880 texts differ from the source",
+     "detail": "16 of 880 texts differ from the source",
      "flag": "verify-differ"
     },
     {
-     "detail": "1 of 5 read again by a second route disagree",
+     "detail": "2 of 5 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
-   "gap": 13,
+   "gap": 35,
    "note": "every act on Gesetze im Internet is held here (bund/gesetze/<act>/, the Grundgesetz in grundgesetz/): an act listed and not held is pending-publish; held acts are compared by their xml.zip's Last-Modified with the read this repository last made of them",
    "outcome": "changed",
    "published": {
     "added": [],
     "changed": [
-     "altzertg"
+     "rvo",
+     "seeschstro_1971",
+     "strsaareg"
     ],
     "removed": []
    },
-   "requests": 7050,
+   "requests": 7073,
    "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "altzertg",
-     "b_o",
-     "bartschv_2005",
-     "bimschv_4_2026",
-     "egovg",
-     "luftvzo",
-     "usg_2020",
-     "vag_2016",
-     "waffghzaowiv"
-    ],
+    "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T20:55:10Z",
+   "snapshot": "2026-11-27T20:55:10Z",
    "source": "gii",
-   "started": "2026-11-27T05:01:05Z",
+   "started": "2026-11-28T10:01:03Z",
    "unexplained": 0,
    "update": {
-    "changed": 1,
-    "confirmed": 8,
-    "held": 9
+    "changed": 3,
+    "confirmed": 5,
+    "held": 31
    },
    "verify": {
     "acts_held": 6154,
     "cycle_days": 7,
     "examples": [
-     "rag_20: 1 files differ (e.g. ['index.md']), 24 files the source no longer has",
-     "rag_21: 1 files differ (e.g. ['index.md']), 20 files the source no longer has",
-     "rag_6: 1 files differ (e.g. ['index.md']), 18 files the source no longer has",
-     "rdfunkauslg: 1 files differ (e.g. ['index.md']), 5 files the source no longer has",
-     "ref_dg: 1 files differ (e.g. ['index.md']), 14 files the source no longer has",
-     "rheimstgaufhg: 1 files differ (e.g. ['index.md']), 7 files the source no longer has",
-     "rrg: 1 files differ (e.g. ['index.md']), 9 files the source no longer has",
-     "rv_uvrag_1987: 1 files differ (e.g. ['index.md']), 5 files the source no longer has",
-     "rvo: 1 files differ (e.g. ['index.md']), 1 files the source no longer has",
-     "sachenr_ndg: 1 files differ (e.g. ['index.md']), 4 files the source no longer has",
-     "seeschstro_1971: 1 files differ (e.g. ['index.md']), 1 files the source no longer has",
-     "sg_ndg_12: 1 files differ (e.g. ['index.md']), 2 files the source no longer has",
-     "sgb_10_kap1_2: 1 files differ (e.g. ['index.md']), 4 files the source no longer has",
-     "sgb_10_kap3: 1 files differ (e.g. ['index.md']), 6 files the source no longer has",
-     "sgbat: 1 files differ (e.g. ['index.md']), 6 files the source no longer has",
-     "sgbsvvs: 1 files differ (e.g. ['index.md']), 6 files the source no longer has",
-     "skaufg: 1 files differ (e.g. ['index.md']), 31 files the source no longer has",
-     "st_ndg_1966: 1 files differ (e.g. ['index.md']), 8 files the source no longer has",
-     "st_ndg_1969: 1 files differ (e.g. ['index.md']), 10 files the source no longer has",
-     "stberg_ndg_3: 1 files differ (e.g. ['index.md']), 7 files the source no longer has"
+     "urag: 1 files differ (e.g. ['index.md']), 18 files the source no longer has",
+     "vagewgdg_3: 1 files differ (e.g. ['index.md']), 14 files the source no longer has",
+     "verkfing: 1 files differ (e.g. ['index.md']), 29 files the source no longer has",
+     "verkfing_1971: 1 files differ (e.g. ['index.md']), 15 files the source no longer has",
+     "versch_ndg: 1 files differ (e.g. ['index.md']), 16 files the source no longer has",
+     "versrmabschr: 1 files differ (e.g. ['index.md']), 16 files the source no longer has",
+     "verwf_g: 1 files differ (e.g. ['index.md']), 7 files the source no longer has",
+     "vkenog: 1 files differ (e.g. ['index.md']), 4 files the source no longer has",
+     "vstrg: 1 files differ (e.g. ['index.md']), 4 files the source no longer has",
+     "wdneuog: 1 files differ (e.g. ['index.md']), 4 files the source no longer has",
+     "wgsvg_ndg: 1 files differ (e.g. ['index.md']), 6 files the source no longer has",
+     "wismutagabkg: 1 files differ (e.g. ['index.md']), 25 files the source no longer has",
+     "wobaug2_ndg: 1 files differ (e.g. ['index.md']), 17 files the source no longer has",
+     "wwsug: 1 files differ (e.g. ['index.md']), 27 files the source no longer has",
+     "wwsuvtranl_i: 1 files differ (e.g. ['index.md']), 22 files the source no longer has",
+     "zg_ndg_4_1964: 1 files differ (e.g. ['index.md']), 2 files the source no longer has"
     ],
-    "explained": 1,
+    "explained": 0,
     "method": "a seventh of the held acts each check (and the Grundgesetz): the act's xml.zip re-rendered with the repository's converter (tools/bundesrecht.py act_from_xml) and compared with its folder file for file, byte for byte; the Grundgesetz's articles as tools/grundgesetz.py writes them (article_md of gii_units); acts with a gap this check explains (pending, held back by the builder's checks) counted as explained",
     "ok": false,
     "unread": 0,
     "versions_checked": 880,
-    "versions_differ": 25
+    "versions_differ": 16
    }
   }
  },
