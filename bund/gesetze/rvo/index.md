@@ -158,7 +158,6 @@ Zwangs- und Ordnungsgelder
 
 ### Zweiter Abschnitt Gegenstand der Versicherung
 
-- [Zweiter Abschnitt Gegenstand der Versicherung](zweiter-abschnitt.md)
 
 #### I. Leistungen im allgemeinen
 

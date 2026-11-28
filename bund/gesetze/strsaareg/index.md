@@ -10,12 +10,10 @@
 
 ## Zweiter Teil (weggefallen)
 
-- [Zweiter Teil (weggefallen)](zweiter-teil.md)
 - [(XXXX) §§ 5 bis 8 (weggefallen)](xxxx-5-bis-8.md)
 
 ## Dritter Teil (weggefallen)
 
-- [Dritter Teil (weggefallen)](dritter-teil.md)
 - [(XXXX) §§ 9 bis 41 (weggefallen)](xxxx-9-bis-41.md)
 
 ## Vierter Teil Besitz- und Verkehrsteuern

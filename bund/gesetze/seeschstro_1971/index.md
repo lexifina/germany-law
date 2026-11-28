@@ -23,7 +23,6 @@ der Fahrzeuge
 
 ## Dritter Abschnitt Schallsignale der Fahrzeuge
 
-- [Dritter Abschnitt Schallsignale der Fahrzeuge](dritter-abschnitt.md)
 - [(XXXX) §§ 19 und 20 (weggefallen)](xxxx-19-und-20.md)
 
 ## Vierter Abschnitt Fahrregeln
